@@ -1,0 +1,77 @@
+[
+    {
+        "page_url" : "https://aclanthology.org/events/acl-2024/",
+        "conf_name" : "./data/ACL/acl_2024_main",
+        "conf_id_list" : ["2024acl-long", "2024acl-short"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/acl-2023/",
+        "conf_name" : "./data/ACL/acl_2023_main",
+        "conf_id_list" : ["2023acl-long", "2023acl-short"]
+    },
+    {
+        "page_ur" : "https://aclanthology.org/events/acl-2022/",
+        "conf_name" : "./data/ACL/acl_2022_main",
+        "conf_id_list" : ["2022acl-long", "2022acl-short"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/acl-2021/",
+        "conf_name" : "./data/ACL/acl_2021_main",
+        "conf_id_list" : ["2021acl-long", "2021acl-short"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/acl-2020/",
+        "conf_name" : "./data/ACL/acl_2020_main",
+        "conf_id_list" : ["2020acl-main"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/acl-2019/",
+        "conf_name" : "./data/ACL/acl_2019_main",
+        "conf_id_list" : ["p19-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/acl-2018/",
+        "conf_name" : "./data/ACL/acl_2018_main",
+        "conf_id_list" : ["p18-1", "p18-2"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/acl-2017/",
+        "conf_name" : "./data/ACL/acl_2017_main",
+        "conf_id_list" : ["p17-1", "p17-2"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/acl-2016/",
+        "conf_name" : "./data/ACL/acl_2016_main",
+        "conf_id_list" : ["p16-1", "p16-2"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/acl-2015/",
+        "conf_name" : "./data/ACL/acl_2015_main",
+        "conf_id_list" : ["p15-1", "p15-2"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/acl-2014/",
+        "conf_name" : "./data/ACL/acl_2014_main",
+        "conf_id_list" : ["p14-1", "p14-2"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/acl-2013/",
+        "conf_name" : "./data/ACL/acl_2013_main",
+        "conf_id_list" : ["p13-1", "p13-2"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/acl-2012/",
+        "conf_name" : "./data/ACL/acl_2012_main",
+        "conf_id_list" : ["p12-1", "p12-2"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/acl-2011/",
+        "conf_name" : "./data/ACL/acl_2011_main",
+        "conf_id_list" : ["p11-1", "p11-2"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/acl-2010/",
+        "conf_name" : "./data/ACL/acl_2010_main",
+        "conf_id_list" : ["p10-1", "p10-2"]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-2024",
+        "conf_name" : "./data/emnlp_2024_main",
+        "conf_id_list" : ["2024emnlp-main"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-2023",
+        "conf_name" : "./data/emnlp_2023_main",
+        "conf_id_list" : ["2023emnlp-main"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-2022",
+        "conf_name" : "./data/emnlp_2022_main",
+        "conf_id_list" : ["2022emnlp-main"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-2021",
+        "conf_name" : "./data/emnlp_2021_main",
+        "conf_id_list" : ["2021emnlp-main"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-2020",
+        "conf_name" : "./data/emnlp_2020_main",
+        "conf_id_list" : ["2020emnlp-main"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-2019",
+        "conf_name" : "./data/emnlp_2019_main",
+        "conf_id_list" : ["d19-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-2018",
+        "conf_name" : "./data/emnlp_2018_main",
+        "conf_id_list" : ["d18-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-2017",
+        "conf_name" : "./data/emnlp_2017_main",
+        "conf_id_list" : ["d17-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-2016",
+        "conf_name" : "./data/emnlp_2016_main",
+        "conf_id_list" : ["d16-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-2015",
+        "conf_name" : "./data/emnlp_2015_main",
+        "conf_id_list" : ["d15-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-2014",
+        "conf_name" : "./data/emnlp_2014_main",
+        "conf_id_list" : ["d14-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-2013",
+        "conf_name" : "./data/emnlp_2013_main",
+        "conf_id_list" : ["d13-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-2012/",
+        "conf_name" : "./data/EMNLP/emnlp_2012_main",
+        "conf_id_list" : ["d12-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-2011/",
+        "conf_name" : "./data/EMNLP/emnlp_2011_main",
+        "conf_id_list" : ["d11-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-2010/",
+        "conf_name" : "./data/EMNLP/emnlp_2010_main",
+        "conf_id_list" : ["d10-1"]
+    }
+]
