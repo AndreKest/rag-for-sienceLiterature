@@ -10,7 +10,7 @@
         "conf_id_list" : ["2023acl-long", "2023acl-short"]
     },
     {
-        "page_ur" : "https://aclanthology.org/events/acl-2022/",
+        "page_url" : "https://aclanthology.org/events/acl-2022/",
         "conf_name" : "./data/ACL/acl_2022_main",
         "conf_id_list" : ["2022acl-long", "2022acl-short"]
     },
