@@ -6,15 +6,19 @@ import requests
 import os
 from tqdm import tqdm
 
-page_url = "https://aclanthology.org/events/emnlp-2015/"
-conf_name = './data/EMNLP/emnlp_2015_main'
-conf_id = 'd15-1'
+page_url = "https://aclanthology.org/events/acl-2024/"
+conf_name = './data/ACL/acl_2024_main'
+conf_id = '2024acl-long'
+conf_id = '2024acl-short'
+conf_list = ['2024acl-long', '2024acl-short']
 
 #%%
 html_doc = requests.get(page_url).text
 soup = BeautifulSoup(html_doc, 'html.parser')
 # %%
-main_papers = soup.find('div', id = conf_id).find_all('p', class_ = "d-sm-flex")
+main_papers = []
+for conf_id in conf_list:
+    main_papers += soup.find('div', id = conf_id).find_all('p', class_ = "d-sm-flex")
 
 # %%
 paper_list = []

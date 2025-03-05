@@ -1,0 +1,4717 @@
+[
+  [
+    "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "https://aclanthology.org/2024.acl-long.0/",
+    "https://aclanthology.org/2024.acl-long.0.pdf"
+  ],
+  [
+    "Quantized Side Tuning: Fast and Memory-Efficient Tuning of Quantized Large Language Models",
+    "https://aclanthology.org/2024.acl-long.1/",
+    "https://aclanthology.org/2024.acl-long.1.pdf"
+  ],
+  [
+    "Unsupervised Multimodal Clustering for Semantics Discovery in Multimodal Utterances",
+    "https://aclanthology.org/2024.acl-long.2/",
+    "https://aclanthology.org/2024.acl-long.2.pdf"
+  ],
+  [
+    "MAGE: Machine-generated Text Detection in the Wild",
+    "https://aclanthology.org/2024.acl-long.3/",
+    "https://aclanthology.org/2024.acl-long.3.pdf"
+  ],
+  [
+    "PrivLM-Bench: A Multi-level Privacy Evaluation Benchmark for Language Models",
+    "https://aclanthology.org/2024.acl-long.4/",
+    "https://aclanthology.org/2024.acl-long.4.pdf"
+  ],
+  [
+    "GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators",
+    "https://aclanthology.org/2024.acl-long.5/",
+    "https://aclanthology.org/2024.acl-long.5.pdf"
+  ],
+  [
+    "Exploring Chain-of-Thought for Multi-modal Metaphor Detection",
+    "https://aclanthology.org/2024.acl-long.6/",
+    "https://aclanthology.org/2024.acl-long.6.pdf"
+  ],
+  [
+    "BitDistiller: Unleashing the Potential of Sub-4-Bit LLMs via Self-Distillation",
+    "https://aclanthology.org/2024.acl-long.7/",
+    "https://aclanthology.org/2024.acl-long.7.pdf"
+  ],
+  [
+    "A Unified Temporal Knowledge Graph Reasoning Model Towards Interpolation and Extrapolation",
+    "https://aclanthology.org/2024.acl-long.8/",
+    "https://aclanthology.org/2024.acl-long.8.pdf"
+  ],
+  [
+    "Unsupervised Information Refinement Training of Large Language Models for Retrieval-Augmented Generation",
+    "https://aclanthology.org/2024.acl-long.9/",
+    "https://aclanthology.org/2024.acl-long.9.pdf"
+  ],
+  [
+    "CSCD-NS: a Chinese Spelling Check Dataset for Native Speakers",
+    "https://aclanthology.org/2024.acl-long.10/",
+    "https://aclanthology.org/2024.acl-long.10.pdf"
+  ],
+  [
+    "Evaluating Dynamic Topic Models",
+    "https://aclanthology.org/2024.acl-long.11/",
+    "https://aclanthology.org/2024.acl-long.11.pdf"
+  ],
+  [
+    "How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition",
+    "https://aclanthology.org/2024.acl-long.12/",
+    "https://aclanthology.org/2024.acl-long.12.pdf"
+  ],
+  [
+    "Through the Lens of Split Vote: Exploring Disagreement, Difficulty and Calibration in Legal Case Outcome Classification",
+    "https://aclanthology.org/2024.acl-long.13/",
+    "https://aclanthology.org/2024.acl-long.13.pdf"
+  ],
+  [
+    "Inference to the Best Explanation in Large Language Models",
+    "https://aclanthology.org/2024.acl-long.14/",
+    "https://aclanthology.org/2024.acl-long.14.pdf"
+  ],
+  [
+    "A Novel Cartography-Based Curriculum Learning Method Applied on RoNLI: The First Romanian Natural Language Inference Corpus",
+    "https://aclanthology.org/2024.acl-long.15/",
+    "https://aclanthology.org/2024.acl-long.15.pdf"
+  ],
+  [
+    "MinPrompt: Graph-based Minimal Prompt Data Augmentation for Few-shot Question Answering",
+    "https://aclanthology.org/2024.acl-long.16/",
+    "https://aclanthology.org/2024.acl-long.16.pdf"
+  ],
+  [
+    "SportsMetrics: Blending Text and Numerical Data to Understand Information Fusion in LLMs",
+    "https://aclanthology.org/2024.acl-long.17/",
+    "https://aclanthology.org/2024.acl-long.17.pdf"
+  ],
+  [
+    "SciMON: Scientific Inspiration Machines Optimized for Novelty",
+    "https://aclanthology.org/2024.acl-long.18/",
+    "https://aclanthology.org/2024.acl-long.18.pdf"
+  ],
+  [
+    "Expedited Training of Visual Conditioned Language Generation via Redundancy Reduction",
+    "https://aclanthology.org/2024.acl-long.19/",
+    "https://aclanthology.org/2024.acl-long.19.pdf"
+  ],
+  [
+    "Confidence Under the Hood: An Investigation into the Confidence-Probability Alignment in Large Language Models",
+    "https://aclanthology.org/2024.acl-long.20/",
+    "https://aclanthology.org/2024.acl-long.20.pdf"
+  ],
+  [
+    "Retrieval-Augmented Multilingual Knowledge Editing",
+    "https://aclanthology.org/2024.acl-long.21/",
+    "https://aclanthology.org/2024.acl-long.21.pdf"
+  ],
+  [
+    "Picturing Ambiguity: A Visual Twist on the Winograd Schema Challenge",
+    "https://aclanthology.org/2024.acl-long.22/",
+    "https://aclanthology.org/2024.acl-long.22.pdf"
+  ],
+  [
+    "Subtle Biases Need Subtler Measures: Dual Metrics for Evaluating Representative and Affinity Bias in Large Language Models",
+    "https://aclanthology.org/2024.acl-long.23/",
+    "https://aclanthology.org/2024.acl-long.23.pdf"
+  ],
+  [
+    "Framing in the Presence of Supporting Data: A Case Study in U.S. Economic News",
+    "https://aclanthology.org/2024.acl-long.24/",
+    "https://aclanthology.org/2024.acl-long.24.pdf"
+  ],
+  [
+    "Mementos: A Comprehensive Benchmark for Multimodal Large Language Model Reasoning over Image Sequences",
+    "https://aclanthology.org/2024.acl-long.25/",
+    "https://aclanthology.org/2024.acl-long.25.pdf"
+  ],
+  [
+    "TTM-RE: Memory-Augmented Document-Level Relation Extraction",
+    "https://aclanthology.org/2024.acl-long.26/",
+    "https://aclanthology.org/2024.acl-long.26.pdf"
+  ],
+  [
+    "Answer is All You Need: Instruction-following Text Embedding via Answering the Question",
+    "https://aclanthology.org/2024.acl-long.27/",
+    "https://aclanthology.org/2024.acl-long.27.pdf"
+  ],
+  [
+    "Explore Spurious Correlations at the Concept Level in Language Models for Text Classification",
+    "https://aclanthology.org/2024.acl-long.28/",
+    "https://aclanthology.org/2024.acl-long.28.pdf"
+  ],
+  [
+    "Every Answer Matters: Evaluating Commonsense with Probabilistic Measures",
+    "https://aclanthology.org/2024.acl-long.29/",
+    "https://aclanthology.org/2024.acl-long.29.pdf"
+  ],
+  [
+    "GradSafe: Detecting Jailbreak Prompts for LLMs via Safety-Critical Gradient Analysis",
+    "https://aclanthology.org/2024.acl-long.30/",
+    "https://aclanthology.org/2024.acl-long.30.pdf"
+  ],
+  [
+    "Pouring Your Heart Out: Investigating the Role of Figurative Language in Online Expressions of Empathy",
+    "https://aclanthology.org/2024.acl-long.31/",
+    "https://aclanthology.org/2024.acl-long.31.pdf"
+  ],
+  [
+    "An Information-Theoretic Approach to Analyze NLP Classification Tasks",
+    "https://aclanthology.org/2024.acl-long.32/",
+    "https://aclanthology.org/2024.acl-long.32.pdf"
+  ],
+  [
+    "Can Your Model Tell a Negation from an Implicature? Unravelling Challenges With Intent Encoders",
+    "https://aclanthology.org/2024.acl-long.33/",
+    "https://aclanthology.org/2024.acl-long.33.pdf"
+  ],
+  [
+    "Wav2Gloss: Generating Interlinear Glossed Text from Speech",
+    "https://aclanthology.org/2024.acl-long.34/",
+    "https://aclanthology.org/2024.acl-long.34.pdf"
+  ],
+  [
+    "Leveraging Codebook Knowledge with NLI and ChatGPT for Zero-Shot Political Relation Classification",
+    "https://aclanthology.org/2024.acl-long.35/",
+    "https://aclanthology.org/2024.acl-long.35.pdf"
+  ],
+  [
+    "SPOR: A Comprehensive and Practical Evaluation Method for Compositional Generalization in Data-to-Text Generation",
+    "https://aclanthology.org/2024.acl-long.36/",
+    "https://aclanthology.org/2024.acl-long.36.pdf"
+  ],
+  [
+    "OPEx: A Component-Wise Analysis of LLM-Centric Agents in Embodied Instruction Following",
+    "https://aclanthology.org/2024.acl-long.37/",
+    "https://aclanthology.org/2024.acl-long.37.pdf"
+  ],
+  [
+    "Multimodal Instruction Tuning with Conditional Mixture of LoRA",
+    "https://aclanthology.org/2024.acl-long.38/",
+    "https://aclanthology.org/2024.acl-long.38.pdf"
+  ],
+  [
+    "DocLens: Multi-aspect Fine-grained Medical Text Evaluation",
+    "https://aclanthology.org/2024.acl-long.39/",
+    "https://aclanthology.org/2024.acl-long.39.pdf"
+  ],
+  [
+    "FOFO: A Benchmark to Evaluate LLMs’ Format-Following Capability",
+    "https://aclanthology.org/2024.acl-long.40/",
+    "https://aclanthology.org/2024.acl-long.40.pdf"
+  ],
+  [
+    "Hyper-CL: Conditioning Sentence Representations with Hypernetworks",
+    "https://aclanthology.org/2024.acl-long.41/",
+    "https://aclanthology.org/2024.acl-long.41.pdf"
+  ],
+  [
+    "Analysis of Multi-Source Language Training in Cross-Lingual Transfer",
+    "https://aclanthology.org/2024.acl-long.42/",
+    "https://aclanthology.org/2024.acl-long.42.pdf"
+  ],
+  [
+    "ABEX: Data Augmentation for Low-Resource NLU via Expanding Abstract Descriptions",
+    "https://aclanthology.org/2024.acl-long.43/",
+    "https://aclanthology.org/2024.acl-long.43.pdf"
+  ],
+  [
+    "The Belebele Benchmark: a Parallel Reading Comprehension Dataset in 122 Language Variants",
+    "https://aclanthology.org/2024.acl-long.44/",
+    "https://aclanthology.org/2024.acl-long.44.pdf"
+  ],
+  [
+    "Learn from Failure: Fine-tuning LLMs with Trial-and-Error Data for Intuitionistic Propositional Logic Proving",
+    "https://aclanthology.org/2024.acl-long.45/",
+    "https://aclanthology.org/2024.acl-long.45.pdf"
+  ],
+  [
+    "Interactive Text-to-Image Retrieval with Large Language Models: A Plug-and-Play Approach",
+    "https://aclanthology.org/2024.acl-long.46/",
+    "https://aclanthology.org/2024.acl-long.46.pdf"
+  ],
+  [
+    "IMBUE: Improving Interpersonal Effectiveness through Simulation and Just-in-time Feedback with Human-Language Model Interaction",
+    "https://aclanthology.org/2024.acl-long.47/",
+    "https://aclanthology.org/2024.acl-long.47.pdf"
+  ],
+  [
+    "Token-wise Influential Training Data Retrieval for Large Language Models",
+    "https://aclanthology.org/2024.acl-long.48/",
+    "https://aclanthology.org/2024.acl-long.48.pdf"
+  ],
+  [
+    "Tree-of-Counterfactual Prompting for Zero-Shot Stance Detection",
+    "https://aclanthology.org/2024.acl-long.49/",
+    "https://aclanthology.org/2024.acl-long.49.pdf"
+  ],
+  [
+    "VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks",
+    "https://aclanthology.org/2024.acl-long.50/",
+    "https://aclanthology.org/2024.acl-long.50.pdf"
+  ],
+  [
+    "FineSurE: Fine-grained Summarization Evaluation using LLMs",
+    "https://aclanthology.org/2024.acl-long.51/",
+    "https://aclanthology.org/2024.acl-long.51.pdf"
+  ],
+  [
+    "Tuning Large Multimodal Models for Videos using Reinforcement Learning from AI Feedback",
+    "https://aclanthology.org/2024.acl-long.52/",
+    "https://aclanthology.org/2024.acl-long.52.pdf"
+  ],
+  [
+    "Prompt Refinement with Image Pivot for Text-to-Image Generation",
+    "https://aclanthology.org/2024.acl-long.53/",
+    "https://aclanthology.org/2024.acl-long.53.pdf"
+  ],
+  [
+    "Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation",
+    "https://aclanthology.org/2024.acl-long.54/",
+    "https://aclanthology.org/2024.acl-long.54.pdf"
+  ],
+  [
+    "AbsInstruct: Eliciting Abstraction Ability from LLMs through Explanation Tuning with Plausibility Estimation",
+    "https://aclanthology.org/2024.acl-long.55/",
+    "https://aclanthology.org/2024.acl-long.55.pdf"
+  ],
+  [
+    "Reflect-RL: Two-Player Online RL Fine-Tuning for LMs",
+    "https://aclanthology.org/2024.acl-long.56/",
+    "https://aclanthology.org/2024.acl-long.56.pdf"
+  ],
+  [
+    "Can ChatGPT’s Performance be Improved on Verb Metaphor Detection Tasks? Bootstrapping and Combining Tacit Knowledge",
+    "https://aclanthology.org/2024.acl-long.57/",
+    "https://aclanthology.org/2024.acl-long.57.pdf"
+  ],
+  [
+    "Self-Distillation Bridges Distribution Gap in Language Model Fine-Tuning",
+    "https://aclanthology.org/2024.acl-long.58/",
+    "https://aclanthology.org/2024.acl-long.58.pdf"
+  ],
+  [
+    "An Information Bottleneck Perspective for Effective Noise Filtering on Retrieval-Augmented Generation",
+    "https://aclanthology.org/2024.acl-long.59/",
+    "https://aclanthology.org/2024.acl-long.59.pdf"
+  ],
+  [
+    "RORA: Robust Free-Text Rationale Evaluation",
+    "https://aclanthology.org/2024.acl-long.60/",
+    "https://aclanthology.org/2024.acl-long.60.pdf"
+  ],
+  [
+    "Tell Me More! Towards Implicit User Intention Understanding of Language Model Driven Agents",
+    "https://aclanthology.org/2024.acl-long.61/",
+    "https://aclanthology.org/2024.acl-long.61.pdf"
+  ],
+  [
+    "InstructProtein: Aligning Human and Protein Language via Knowledge Instruction",
+    "https://aclanthology.org/2024.acl-long.62/",
+    "https://aclanthology.org/2024.acl-long.62.pdf"
+  ],
+  [
+    "ConSiDERS-The-Human Evaluation Framework: Rethinking Human Evaluation for Generative Large Language Models",
+    "https://aclanthology.org/2024.acl-long.63/",
+    "https://aclanthology.org/2024.acl-long.63.pdf"
+  ],
+  [
+    "Linguistically Conditioned Semantic Textual Similarity",
+    "https://aclanthology.org/2024.acl-long.64/",
+    "https://aclanthology.org/2024.acl-long.64.pdf"
+  ],
+  [
+    "Navigate through Enigmatic Labyrinth A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future",
+    "https://aclanthology.org/2024.acl-long.65/",
+    "https://aclanthology.org/2024.acl-long.65.pdf"
+  ],
+  [
+    "TimeBench: A Comprehensive Evaluation of Temporal Reasoning Abilities in Large Language Models",
+    "https://aclanthology.org/2024.acl-long.66/",
+    "https://aclanthology.org/2024.acl-long.66.pdf"
+  ],
+  [
+    "BeamAggR: Beam Aggregation Reasoning over Multi-source Knowledge for Multi-hop Question Answering",
+    "https://aclanthology.org/2024.acl-long.67/",
+    "https://aclanthology.org/2024.acl-long.67.pdf"
+  ],
+  [
+    "ANALOGYKB: Unlocking Analogical Reasoning of Language Models with A Million-scale Knowledge Base",
+    "https://aclanthology.org/2024.acl-long.68/",
+    "https://aclanthology.org/2024.acl-long.68.pdf"
+  ],
+  [
+    "TaSL: Continual Dialog State Tracking via Task Skill Localization and Consolidation",
+    "https://aclanthology.org/2024.acl-long.69/",
+    "https://aclanthology.org/2024.acl-long.69.pdf"
+  ],
+  [
+    "DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models",
+    "https://aclanthology.org/2024.acl-long.70/",
+    "https://aclanthology.org/2024.acl-long.70.pdf"
+  ],
+  [
+    "Grounding Language Model with Chunking-Free In-Context Retrieval",
+    "https://aclanthology.org/2024.acl-long.71/",
+    "https://aclanthology.org/2024.acl-long.71.pdf"
+  ],
+  [
+    "Advancing Abductive Reasoning in Knowledge Graphs through Complex Logical Hypothesis Generation",
+    "https://aclanthology.org/2024.acl-long.72/",
+    "https://aclanthology.org/2024.acl-long.72.pdf"
+  ],
+  [
+    "Active Prompting with Chain-of-Thought for Large Language Models",
+    "https://aclanthology.org/2024.acl-long.73/",
+    "https://aclanthology.org/2024.acl-long.73.pdf"
+  ],
+  [
+    "EasyGen: Easing Multimodal Generation with BiDiffuser and LLMs",
+    "https://aclanthology.org/2024.acl-long.74/",
+    "https://aclanthology.org/2024.acl-long.74.pdf"
+  ],
+  [
+    "Rewriting the Code: A Simple Method for Large Language Model Augmented Code Search",
+    "https://aclanthology.org/2024.acl-long.75/",
+    "https://aclanthology.org/2024.acl-long.75.pdf"
+  ],
+  [
+    "A Multidimensional Framework for Evaluating Lexical Semantic Change with Social Science Applications",
+    "https://aclanthology.org/2024.acl-long.76/",
+    "https://aclanthology.org/2024.acl-long.76.pdf"
+  ],
+  [
+    "Mitigating Catastrophic Forgetting in Large Language Models with Self-Synthesized Rehearsal",
+    "https://aclanthology.org/2024.acl-long.77/",
+    "https://aclanthology.org/2024.acl-long.77.pdf"
+  ],
+  [
+    "Enhancing Large Language Models in Coding Through Multi-Perspective Self-Consistency",
+    "https://aclanthology.org/2024.acl-long.78/",
+    "https://aclanthology.org/2024.acl-long.78.pdf"
+  ],
+  [
+    "Citation-Enhanced Generation for LLM-based Chatbots",
+    "https://aclanthology.org/2024.acl-long.79/",
+    "https://aclanthology.org/2024.acl-long.79.pdf"
+  ],
+  [
+    "Transitive Consistency Constrained Learning for Entity-to-Entity Stance Detection",
+    "https://aclanthology.org/2024.acl-long.80/",
+    "https://aclanthology.org/2024.acl-long.80.pdf"
+  ],
+  [
+    "Feature-Adaptive and Data-Scalable In-Context Learning",
+    "https://aclanthology.org/2024.acl-long.81/",
+    "https://aclanthology.org/2024.acl-long.81.pdf"
+  ],
+  [
+    "Probing the Multi-turn Planning Capabilities of LLMs via 20 Question Games",
+    "https://aclanthology.org/2024.acl-long.82/",
+    "https://aclanthology.org/2024.acl-long.82.pdf"
+  ],
+  [
+    "WaterBench: Towards Holistic Evaluation of Watermarks for Large Language Models",
+    "https://aclanthology.org/2024.acl-long.83/",
+    "https://aclanthology.org/2024.acl-long.83.pdf"
+  ],
+  [
+    "Dependency Transformer Grammars: Integrating Dependency Structures into Transformer Language Models",
+    "https://aclanthology.org/2024.acl-long.84/",
+    "https://aclanthology.org/2024.acl-long.84.pdf"
+  ],
+  [
+    "A Non-autoregressive Generation Framework for End-to-End Simultaneous Speech-to-Any Translation",
+    "https://aclanthology.org/2024.acl-long.85/",
+    "https://aclanthology.org/2024.acl-long.85.pdf"
+  ],
+  [
+    "Probing Language Models for Pre-training Data Detection",
+    "https://aclanthology.org/2024.acl-long.86/",
+    "https://aclanthology.org/2024.acl-long.86.pdf"
+  ],
+  [
+    "Analyzing Temporal Complex Events with Large Language Models? A Benchmark towards Temporal, Long Context Understanding",
+    "https://aclanthology.org/2024.acl-long.87/",
+    "https://aclanthology.org/2024.acl-long.87.pdf"
+  ],
+  [
+    "IBSEN: Director-Actor Agent Collaboration for Controllable and Interactive Drama Script Generation",
+    "https://aclanthology.org/2024.acl-long.88/",
+    "https://aclanthology.org/2024.acl-long.88.pdf"
+  ],
+  [
+    "Language Model Adaption for Reinforcement Learning with Natural Language Action Space",
+    "https://aclanthology.org/2024.acl-long.89/",
+    "https://aclanthology.org/2024.acl-long.89.pdf"
+  ],
+  [
+    "Evaluating Intention Detection Capability of Large Language Models in Persuasive Dialogues",
+    "https://aclanthology.org/2024.acl-long.90/",
+    "https://aclanthology.org/2024.acl-long.90.pdf"
+  ],
+  [
+    "LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression",
+    "https://aclanthology.org/2024.acl-long.91/",
+    "https://aclanthology.org/2024.acl-long.91.pdf"
+  ],
+  [
+    "Persuading across Diverse Domains: a Dataset and Persuasion Large Language Model",
+    "https://aclanthology.org/2024.acl-long.92/",
+    "https://aclanthology.org/2024.acl-long.92.pdf"
+  ],
+  [
+    "HealMe: Harnessing Cognitive Reframing in Large Language Models for Psychotherapy",
+    "https://aclanthology.org/2024.acl-long.93/",
+    "https://aclanthology.org/2024.acl-long.93.pdf"
+  ],
+  [
+    "Multimodal Prompt Learning with Missing Modalities for Sentiment Analysis and Emotion Recognition",
+    "https://aclanthology.org/2024.acl-long.94/",
+    "https://aclanthology.org/2024.acl-long.94.pdf"
+  ],
+  [
+    "An Effective Pronunciation Assessment Approach Leveraging Hierarchical Transformers and Pre-training Strategies",
+    "https://aclanthology.org/2024.acl-long.95/",
+    "https://aclanthology.org/2024.acl-long.95.pdf"
+  ],
+  [
+    "Detection-Correction Structure via General Language Model for Grammatical Error Correction",
+    "https://aclanthology.org/2024.acl-long.96/",
+    "https://aclanthology.org/2024.acl-long.96.pdf"
+  ],
+  [
+    "Generative Pre-trained Speech Language Model with Efficient Hierarchical Transformer",
+    "https://aclanthology.org/2024.acl-long.97/",
+    "https://aclanthology.org/2024.acl-long.97.pdf"
+  ],
+  [
+    "Selene: Pioneering Automated Proof in Software Verification",
+    "https://aclanthology.org/2024.acl-long.98/",
+    "https://aclanthology.org/2024.acl-long.98.pdf"
+  ],
+  [
+    "Dissecting Human and LLM Preferences",
+    "https://aclanthology.org/2024.acl-long.99/",
+    "https://aclanthology.org/2024.acl-long.99.pdf"
+  ],
+  [
+    "UniCoder: Scaling Code Large Language Model via Universal Code",
+    "https://aclanthology.org/2024.acl-long.100/",
+    "https://aclanthology.org/2024.acl-long.100.pdf"
+  ],
+  [
+    "AoE: Angle-optimized Embeddings for Semantic Textual Similarity",
+    "https://aclanthology.org/2024.acl-long.101/",
+    "https://aclanthology.org/2024.acl-long.101.pdf"
+  ],
+  [
+    "InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews",
+    "https://aclanthology.org/2024.acl-long.102/",
+    "https://aclanthology.org/2024.acl-long.102.pdf"
+  ],
+  [
+    "Does DetectGPT Fully Utilize Perturbation? Bridging Selective Perturbation to Fine-tuned Contrastive Learning Detector would be Better",
+    "https://aclanthology.org/2024.acl-long.103/",
+    "https://aclanthology.org/2024.acl-long.103.pdf"
+  ],
+  [
+    "AFaCTA: Assisting the Annotation of Factual Claim Detection with Reliable LLM Annotators",
+    "https://aclanthology.org/2024.acl-long.104/",
+    "https://aclanthology.org/2024.acl-long.104.pdf"
+  ],
+  [
+    "Towards Faithful and Robust LLM Specialists for Evidence-Based Question-Answering",
+    "https://aclanthology.org/2024.acl-long.105/",
+    "https://aclanthology.org/2024.acl-long.105.pdf"
+  ],
+  [
+    "LoRAMoE: Alleviating World Knowledge Forgetting in Large Language Models via MoE-Style Plugin",
+    "https://aclanthology.org/2024.acl-long.106/",
+    "https://aclanthology.org/2024.acl-long.106.pdf"
+  ],
+  [
+    "Self-Alignment for Factuality: Mitigating Hallucinations in LLMs via Self-Evaluation",
+    "https://aclanthology.org/2024.acl-long.107/",
+    "https://aclanthology.org/2024.acl-long.107.pdf"
+  ],
+  [
+    "M-RAG: Reinforcing Large Language Model Performance through Retrieval-Augmented Generation with Multiple Partitions",
+    "https://aclanthology.org/2024.acl-long.108/",
+    "https://aclanthology.org/2024.acl-long.108.pdf"
+  ],
+  [
+    "AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension",
+    "https://aclanthology.org/2024.acl-long.109/",
+    "https://aclanthology.org/2024.acl-long.109.pdf"
+  ],
+  [
+    "Navigating the Metrics Maze: Reconciling Score Magnitudes and Accuracies",
+    "https://aclanthology.org/2024.acl-long.110/",
+    "https://aclanthology.org/2024.acl-long.110.pdf"
+  ],
+  [
+    "ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models",
+    "https://aclanthology.org/2024.acl-long.111/",
+    "https://aclanthology.org/2024.acl-long.111.pdf"
+  ],
+  [
+    "DM-BLI: Dynamic Multiple Subspaces Alignment for Unsupervised Bilingual Lexicon Induction",
+    "https://aclanthology.org/2024.acl-long.112/",
+    "https://aclanthology.org/2024.acl-long.112.pdf"
+  ],
+  [
+    "SparseFit: Few-shot Prompting with Sparse Fine-tuning for Jointly Generating Predictions and Natural Language Explanations",
+    "https://aclanthology.org/2024.acl-long.113/",
+    "https://aclanthology.org/2024.acl-long.113.pdf"
+  ],
+  [
+    "Handling Ambiguity in Emotion: From Out-of-Domain Detection to Distribution Estimation",
+    "https://aclanthology.org/2024.acl-long.114/",
+    "https://aclanthology.org/2024.acl-long.114.pdf"
+  ],
+  [
+    "REANO: Optimising Retrieval-Augmented Reader Models through Knowledge Graph Generation",
+    "https://aclanthology.org/2024.acl-long.115/",
+    "https://aclanthology.org/2024.acl-long.115.pdf"
+  ],
+  [
+    "Learning Disentangled Semantic Spaces of Explanations via Invertible Neural Networks",
+    "https://aclanthology.org/2024.acl-long.116/",
+    "https://aclanthology.org/2024.acl-long.116.pdf"
+  ],
+  [
+    "MoPS: Modular Story Premise Synthesis for Open-Ended Automatic Story Generation",
+    "https://aclanthology.org/2024.acl-long.117/",
+    "https://aclanthology.org/2024.acl-long.117.pdf"
+  ],
+  [
+    "Open-Set Semi-Supervised Text Classification via Adversarial Disagreement Maximization",
+    "https://aclanthology.org/2024.acl-long.118/",
+    "https://aclanthology.org/2024.acl-long.118.pdf"
+  ],
+  [
+    "ToolSword: Unveiling Safety Issues of Large Language Models in Tool Learning Across Three Stages",
+    "https://aclanthology.org/2024.acl-long.119/",
+    "https://aclanthology.org/2024.acl-long.119.pdf"
+  ],
+  [
+    "A synthetic data approach for domain generalization of NLI models",
+    "https://aclanthology.org/2024.acl-long.120/",
+    "https://aclanthology.org/2024.acl-long.120.pdf"
+  ],
+  [
+    "Enhancing Contrastive Learning with Noise-Guided Attack: Towards Continual Relation Extraction in the Wild",
+    "https://aclanthology.org/2024.acl-long.121/",
+    "https://aclanthology.org/2024.acl-long.121.pdf"
+  ],
+  [
+    "LRQuant: Learnable and Robust Post-Training Quantization for Large Language Models",
+    "https://aclanthology.org/2024.acl-long.122/",
+    "https://aclanthology.org/2024.acl-long.122.pdf"
+  ],
+  [
+    "VariErr NLI: Separating Annotation Error from Human Label Variation",
+    "https://aclanthology.org/2024.acl-long.123/",
+    "https://aclanthology.org/2024.acl-long.123.pdf"
+  ],
+  [
+    "Benchmarking Knowledge Boundary for Large Language Models: A Different Perspective on Model Evaluation",
+    "https://aclanthology.org/2024.acl-long.124/",
+    "https://aclanthology.org/2024.acl-long.124.pdf"
+  ],
+  [
+    "ListT5: Listwise Reranking with Fusion-in-Decoder Improves Zero-shot Retrieval",
+    "https://aclanthology.org/2024.acl-long.125/",
+    "https://aclanthology.org/2024.acl-long.125.pdf"
+  ],
+  [
+    "Exploring the Potential of Large Language Models in Computational Argumentation",
+    "https://aclanthology.org/2024.acl-long.126/",
+    "https://aclanthology.org/2024.acl-long.126.pdf"
+  ],
+  [
+    "TaxoLLaMA: WordNet-based Model for Solving Multiple Lexical Semantic Tasks",
+    "https://aclanthology.org/2024.acl-long.127/",
+    "https://aclanthology.org/2024.acl-long.127.pdf"
+  ],
+  [
+    "CANDLE: Iterative Conceptualization and Instantiation Distillation from Large Language Models for Commonsense Reasoning",
+    "https://aclanthology.org/2024.acl-long.128/",
+    "https://aclanthology.org/2024.acl-long.128.pdf"
+  ],
+  [
+    "MEFT: Memory-Efficient Fine-Tuning through Sparse Adapter",
+    "https://aclanthology.org/2024.acl-long.129/",
+    "https://aclanthology.org/2024.acl-long.129.pdf"
+  ],
+  [
+    "Surgical Feature-Space Decomposition of LLMs: Why, When and How?",
+    "https://aclanthology.org/2024.acl-long.130/",
+    "https://aclanthology.org/2024.acl-long.130.pdf"
+  ],
+  [
+    "Reasoning in Flux: Enhancing Large Language Models Reasoning through Uncertainty-aware Adaptive Guidance",
+    "https://aclanthology.org/2024.acl-long.131/",
+    "https://aclanthology.org/2024.acl-long.131.pdf"
+  ],
+  [
+    "Modality-Aware Integration with Large Language Models for Knowledge-Based Visual Question Answering",
+    "https://aclanthology.org/2024.acl-long.132/",
+    "https://aclanthology.org/2024.acl-long.132.pdf"
+  ],
+  [
+    "Unlocking Data-free Low-bit Quantization with Matrix Decomposition for KV Cache Compression",
+    "https://aclanthology.org/2024.acl-long.133/",
+    "https://aclanthology.org/2024.acl-long.133.pdf"
+  ],
+  [
+    "VerifiNER: Verification-augmented NER via Knowledge-grounded Reasoning with Large Language Models",
+    "https://aclanthology.org/2024.acl-long.134/",
+    "https://aclanthology.org/2024.acl-long.134.pdf"
+  ],
+  [
+    "Making Long-Context Language Models Better Multi-Hop Reasoners",
+    "https://aclanthology.org/2024.acl-long.135/",
+    "https://aclanthology.org/2024.acl-long.135.pdf"
+  ],
+  [
+    "TransliCo: A Contrastive Learning Framework to Address the Script Barrier in Multilingual Pretrained Language Models",
+    "https://aclanthology.org/2024.acl-long.136/",
+    "https://aclanthology.org/2024.acl-long.136.pdf"
+  ],
+  [
+    "Extreme Miscalibration and the Illusion of Adversarial Robustness",
+    "https://aclanthology.org/2024.acl-long.137/",
+    "https://aclanthology.org/2024.acl-long.137.pdf"
+  ],
+  [
+    "HyCoRec: Hypergraph-Enhanced Multi-Preference Learning for Alleviating Matthew Effect in Conversational Recommendation",
+    "https://aclanthology.org/2024.acl-long.138/",
+    "https://aclanthology.org/2024.acl-long.138.pdf"
+  ],
+  [
+    "Co-training for Low Resource Scientific Natural Language Inference",
+    "https://aclanthology.org/2024.acl-long.139/",
+    "https://aclanthology.org/2024.acl-long.139.pdf"
+  ],
+  [
+    "RLHFPoison: Reward Poisoning Attack for Reinforcement Learning with Human Feedback in Large Language Models",
+    "https://aclanthology.org/2024.acl-long.140/",
+    "https://aclanthology.org/2024.acl-long.140.pdf"
+  ],
+  [
+    "Time is Encoded in the Weights of Finetuned Language Models",
+    "https://aclanthology.org/2024.acl-long.141/",
+    "https://aclanthology.org/2024.acl-long.141.pdf"
+  ],
+  [
+    "Long-Context Language Modeling with Parallel Context Encoding",
+    "https://aclanthology.org/2024.acl-long.142/",
+    "https://aclanthology.org/2024.acl-long.142.pdf"
+  ],
+  [
+    "SirLLM: Streaming Infinite Retentive LLM",
+    "https://aclanthology.org/2024.acl-long.143/",
+    "https://aclanthology.org/2024.acl-long.143.pdf"
+  ],
+  [
+    "IMO: Greedy Layer-Wise Sparse Representation Learning for Out-of-Distribution Text Classification with Pre-trained Models",
+    "https://aclanthology.org/2024.acl-long.144/",
+    "https://aclanthology.org/2024.acl-long.144.pdf"
+  ],
+  [
+    "Generative Pretrained Structured Transformers: Unsupervised Syntactic Language Models at Scale",
+    "https://aclanthology.org/2024.acl-long.145/",
+    "https://aclanthology.org/2024.acl-long.145.pdf"
+  ],
+  [
+    "MELA: Multilingual Evaluation of Linguistic Acceptability",
+    "https://aclanthology.org/2024.acl-long.146/",
+    "https://aclanthology.org/2024.acl-long.146.pdf"
+  ],
+  [
+    "CopyNE: Better Contextual ASR by Copying Named Entities",
+    "https://aclanthology.org/2024.acl-long.147/",
+    "https://aclanthology.org/2024.acl-long.147.pdf"
+  ],
+  [
+    "Is Table Retrieval a Solved Problem? Exploring Join-Aware Multi-Table Retrieval",
+    "https://aclanthology.org/2024.acl-long.148/",
+    "https://aclanthology.org/2024.acl-long.148.pdf"
+  ],
+  [
+    "Generalizing Conversational Dense Retrieval via LLM-Cognition Data Augmentation",
+    "https://aclanthology.org/2024.acl-long.149/",
+    "https://aclanthology.org/2024.acl-long.149.pdf"
+  ],
+  [
+    "ItD: Large Language Models Can Teach Themselves Induction through Deduction",
+    "https://aclanthology.org/2024.acl-long.150/",
+    "https://aclanthology.org/2024.acl-long.150.pdf"
+  ],
+  [
+    "MathGenie: Generating Synthetic Data with Question Back-translation for Enhancing Mathematical Reasoning of LLMs",
+    "https://aclanthology.org/2024.acl-long.151/",
+    "https://aclanthology.org/2024.acl-long.151.pdf"
+  ],
+  [
+    "Rethinking Task-Oriented Dialogue Systems: From Complex Modularity to Zero-Shot Autonomous Agent",
+    "https://aclanthology.org/2024.acl-long.152/",
+    "https://aclanthology.org/2024.acl-long.152.pdf"
+  ],
+  [
+    "On Context Utilization in Summarization with Large Language Models",
+    "https://aclanthology.org/2024.acl-long.153/",
+    "https://aclanthology.org/2024.acl-long.153.pdf"
+  ],
+  [
+    "INTERS: Unlocking the Power of Large Language Models in Search with Instruction Tuning",
+    "https://aclanthology.org/2024.acl-long.154/",
+    "https://aclanthology.org/2024.acl-long.154.pdf"
+  ],
+  [
+    "Enhancing In-Context Learning via Implicit Demonstration Augmentation",
+    "https://aclanthology.org/2024.acl-long.155/",
+    "https://aclanthology.org/2024.acl-long.155.pdf"
+  ],
+  [
+    "PRoLoRA: Partial Rotation Empowers More Parameter-Efficient LoRA",
+    "https://aclanthology.org/2024.acl-long.156/",
+    "https://aclanthology.org/2024.acl-long.156.pdf"
+  ],
+  [
+    "Improving Event Definition Following For Zero-Shot Event Detection",
+    "https://aclanthology.org/2024.acl-long.157/",
+    "https://aclanthology.org/2024.acl-long.157.pdf"
+  ],
+  [
+    "Through the MUD: A Multi-Defendant Charge Prediction Benchmark with Linked Crime Elements",
+    "https://aclanthology.org/2024.acl-long.158/",
+    "https://aclanthology.org/2024.acl-long.158.pdf"
+  ],
+  [
+    "Interpreting Conversational Dense Retrieval by Rewriting-Enhanced Inversion of Session Embedding",
+    "https://aclanthology.org/2024.acl-long.159/",
+    "https://aclanthology.org/2024.acl-long.159.pdf"
+  ],
+  [
+    "Stumbling Blocks: Stress Testing the Robustness of Machine-Generated Text Detectors Under Attacks",
+    "https://aclanthology.org/2024.acl-long.160/",
+    "https://aclanthology.org/2024.acl-long.160.pdf"
+  ],
+  [
+    "Training Language Models to Generate Text with Citations via Fine-grained Rewards",
+    "https://aclanthology.org/2024.acl-long.161/",
+    "https://aclanthology.org/2024.acl-long.161.pdf"
+  ],
+  [
+    "Hypergraph based Understanding for Document Semantic Entity Recognition",
+    "https://aclanthology.org/2024.acl-long.162/",
+    "https://aclanthology.org/2024.acl-long.162.pdf"
+  ],
+  [
+    "GSM-Plus: A Comprehensive Benchmark for Evaluating the Robustness of LLMs as Mathematical Problem Solvers",
+    "https://aclanthology.org/2024.acl-long.163/",
+    "https://aclanthology.org/2024.acl-long.163.pdf"
+  ],
+  [
+    "Synergetic Event Understanding: A Collaborative Approach to Cross-Document Event Coreference Resolution with Large Language Models",
+    "https://aclanthology.org/2024.acl-long.164/",
+    "https://aclanthology.org/2024.acl-long.164.pdf"
+  ],
+  [
+    "AutoAct: Automatic Agent Learning from Scratch for QA via Self-Planning",
+    "https://aclanthology.org/2024.acl-long.165/",
+    "https://aclanthology.org/2024.acl-long.165.pdf"
+  ],
+  [
+    "ChronosLex: Time-aware Incremental Training for Temporal Generalization of Legal Classification Tasks",
+    "https://aclanthology.org/2024.acl-long.166/",
+    "https://aclanthology.org/2024.acl-long.166.pdf"
+  ],
+  [
+    "Virtual Compiler Is All You Need For Assembly Code Search",
+    "https://aclanthology.org/2024.acl-long.167/",
+    "https://aclanthology.org/2024.acl-long.167.pdf"
+  ],
+  [
+    "MELoRA: Mini-Ensemble Low-Rank Adapters for Parameter-Efficient Fine-Tuning",
+    "https://aclanthology.org/2024.acl-long.168/",
+    "https://aclanthology.org/2024.acl-long.168.pdf"
+  ],
+  [
+    "Can LLMs Learn from Previous Mistakes? Investigating LLMs’ Errors to Boost for Reasoning",
+    "https://aclanthology.org/2024.acl-long.169/",
+    "https://aclanthology.org/2024.acl-long.169.pdf"
+  ],
+  [
+    "An Iterative Associative Memory Model for Empathetic Response Generation",
+    "https://aclanthology.org/2024.acl-long.170/",
+    "https://aclanthology.org/2024.acl-long.170.pdf"
+  ],
+  [
+    "Detoxifying Large Language Models via Knowledge Editing",
+    "https://aclanthology.org/2024.acl-long.171/",
+    "https://aclanthology.org/2024.acl-long.171.pdf"
+  ],
+  [
+    "LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding",
+    "https://aclanthology.org/2024.acl-long.172/",
+    "https://aclanthology.org/2024.acl-long.172.pdf"
+  ],
+  [
+    "Dr.Academy: A Benchmark for Evaluating Questioning Capability in Education for Large Language Models",
+    "https://aclanthology.org/2024.acl-long.173/",
+    "https://aclanthology.org/2024.acl-long.173.pdf"
+  ],
+  [
+    "UniBridge: A Unified Approach to Cross-Lingual Transfer Learning for Low-Resource Languages",
+    "https://aclanthology.org/2024.acl-long.174/",
+    "https://aclanthology.org/2024.acl-long.174.pdf"
+  ],
+  [
+    "VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval",
+    "https://aclanthology.org/2024.acl-long.175/",
+    "https://aclanthology.org/2024.acl-long.175.pdf"
+  ],
+  [
+    "Black-Box Prompt Optimization: Aligning Large Language Models without Model Training",
+    "https://aclanthology.org/2024.acl-long.176/",
+    "https://aclanthology.org/2024.acl-long.176.pdf"
+  ],
+  [
+    "Open Ko-LLM Leaderboard: Evaluating Large Language Models in Korean with Ko-H5 Benchmark",
+    "https://aclanthology.org/2024.acl-long.177/",
+    "https://aclanthology.org/2024.acl-long.177.pdf"
+  ],
+  [
+    "Unified Hallucination Detection for Multimodal Large Language Models",
+    "https://aclanthology.org/2024.acl-long.178/",
+    "https://aclanthology.org/2024.acl-long.178.pdf"
+  ],
+  [
+    "Empowering Character-level Text Infilling by Eliminating Sub-Tokens",
+    "https://aclanthology.org/2024.acl-long.179/",
+    "https://aclanthology.org/2024.acl-long.179.pdf"
+  ],
+  [
+    "Landmark Embedding: A Chunking-Free Embedding Method For Retrieval Augmented Long-Context Large Language Models",
+    "https://aclanthology.org/2024.acl-long.180/",
+    "https://aclanthology.org/2024.acl-long.180.pdf"
+  ],
+  [
+    "GrowOVER: How Can LLMs Adapt to Growing Real-World Knowledge?",
+    "https://aclanthology.org/2024.acl-long.181/",
+    "https://aclanthology.org/2024.acl-long.181.pdf"
+  ],
+  [
+    "Attribute First, then Generate: Locally-attributable Grounded Text Generation",
+    "https://aclanthology.org/2024.acl-long.182/",
+    "https://aclanthology.org/2024.acl-long.182.pdf"
+  ],
+  [
+    "T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text",
+    "https://aclanthology.org/2024.acl-long.183/",
+    "https://aclanthology.org/2024.acl-long.183.pdf"
+  ],
+  [
+    "OceanGPT: A Large Language Model for Ocean Science Tasks",
+    "https://aclanthology.org/2024.acl-long.184/",
+    "https://aclanthology.org/2024.acl-long.184.pdf"
+  ],
+  [
+    "Beyond Memorization: The Challenge of Random Memory Access in Language Models",
+    "https://aclanthology.org/2024.acl-long.185/",
+    "https://aclanthology.org/2024.acl-long.185.pdf"
+  ],
+  [
+    "BIPED: Pedagogically Informed Tutoring System for ESL Education",
+    "https://aclanthology.org/2024.acl-long.186/",
+    "https://aclanthology.org/2024.acl-long.186.pdf"
+  ],
+  [
+    "Timeline-based Sentence Decomposition with In Context Learning for Temporal Fact Extraction",
+    "https://aclanthology.org/2024.acl-long.187/",
+    "https://aclanthology.org/2024.acl-long.187.pdf"
+  ],
+  [
+    "Collaboration or Corporate Capture? Quantifying NLP’s Reliance on Industry Artifacts and Contributions",
+    "https://aclanthology.org/2024.acl-long.188/",
+    "https://aclanthology.org/2024.acl-long.188.pdf"
+  ],
+  [
+    "Prompt Expansion for Adaptive Text-to-Image Generation",
+    "https://aclanthology.org/2024.acl-long.189/",
+    "https://aclanthology.org/2024.acl-long.189.pdf"
+  ],
+  [
+    "Progressively Modality Freezing for Multi-Modal Entity Alignment",
+    "https://aclanthology.org/2024.acl-long.190/",
+    "https://aclanthology.org/2024.acl-long.190.pdf"
+  ],
+  [
+    "Llama2Vec: Unsupervised Adaptation of Large Language Models for Dense Retrieval",
+    "https://aclanthology.org/2024.acl-long.191/",
+    "https://aclanthology.org/2024.acl-long.191.pdf"
+  ],
+  [
+    "Democratizing LLMs for Low-Resource Languages by Leveraging their English Dominant Abilities with Linguistically-Diverse Prompts",
+    "https://aclanthology.org/2024.acl-long.192/",
+    "https://aclanthology.org/2024.acl-long.192.pdf"
+  ],
+  [
+    "Metaphor Understanding Challenge Dataset for LLMs",
+    "https://aclanthology.org/2024.acl-long.193/",
+    "https://aclanthology.org/2024.acl-long.193.pdf"
+  ],
+  [
+    "A Multi-Task Embedder For Retrieval Augmented LLMs",
+    "https://aclanthology.org/2024.acl-long.194/",
+    "https://aclanthology.org/2024.acl-long.194.pdf"
+  ],
+  [
+    "Language Models Don’t Learn the Physical Manifestation of Language",
+    "https://aclanthology.org/2024.acl-long.195/",
+    "https://aclanthology.org/2024.acl-long.195.pdf"
+  ],
+  [
+    "What Does the Bot Say? Opportunities and Risks of Large Language Models in Social Media Bot Detection",
+    "https://aclanthology.org/2024.acl-long.196/",
+    "https://aclanthology.org/2024.acl-long.196.pdf"
+  ],
+  [
+    "Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives",
+    "https://aclanthology.org/2024.acl-long.197/",
+    "https://aclanthology.org/2024.acl-long.197.pdf"
+  ],
+  [
+    "Relying on the Unreliable: The Impact of Language Models’ Reluctance to Express Uncertainty",
+    "https://aclanthology.org/2024.acl-long.198/",
+    "https://aclanthology.org/2024.acl-long.198.pdf"
+  ],
+  [
+    "Unity in Diversity: Collaborative Pre-training Across Multimodal Medical Sources",
+    "https://aclanthology.org/2024.acl-long.199/",
+    "https://aclanthology.org/2024.acl-long.199.pdf"
+  ],
+  [
+    "When Good and Reproducible Results are a Giant with Feet of Clay: The Importance of Software Quality in NLP",
+    "https://aclanthology.org/2024.acl-long.200/",
+    "https://aclanthology.org/2024.acl-long.200.pdf"
+  ],
+  [
+    "SBAAM! Eliminating Transcript Dependency in Automatic Subtitling",
+    "https://aclanthology.org/2024.acl-long.201/",
+    "https://aclanthology.org/2024.acl-long.201.pdf"
+  ],
+  [
+    "StreamAtt: Direct Streaming Speech-to-Text Translation with Attention-based Audio History Selection",
+    "https://aclanthology.org/2024.acl-long.202/",
+    "https://aclanthology.org/2024.acl-long.202.pdf"
+  ],
+  [
+    "ARL2: Aligning Retrievers with Black-box Large Language Models via Self-guided Adaptive Relevance Labeling",
+    "https://aclanthology.org/2024.acl-long.203/",
+    "https://aclanthology.org/2024.acl-long.203.pdf"
+  ],
+  [
+    "Crayon: Customized On-Device LLM via Instant Adapter Blending and Edge-Server Hybrid Inference",
+    "https://aclanthology.org/2024.acl-long.204/",
+    "https://aclanthology.org/2024.acl-long.204.pdf"
+  ],
+  [
+    "FLEUR: An Explainable Reference-Free Evaluation Metric for Image Captioning Using a Large Multimodal Model",
+    "https://aclanthology.org/2024.acl-long.205/",
+    "https://aclanthology.org/2024.acl-long.205.pdf"
+  ],
+  [
+    "MentalManip: A Dataset For Fine-grained Analysis of Mental Manipulation in Conversations",
+    "https://aclanthology.org/2024.acl-long.206/",
+    "https://aclanthology.org/2024.acl-long.206.pdf"
+  ],
+  [
+    "MPCoder: Multi-user Personalized Code Generator with Explicit and Implicit Style Representation Learning",
+    "https://aclanthology.org/2024.acl-long.207/",
+    "https://aclanthology.org/2024.acl-long.207.pdf"
+  ],
+  [
+    "DataDreamer: A Tool for Synthetic Data Generation and Reproducible LLM Workflows",
+    "https://aclanthology.org/2024.acl-long.208/",
+    "https://aclanthology.org/2024.acl-long.208.pdf"
+  ],
+  [
+    "Understanding and Addressing the Under-Translation Problem from the Perspective of Decoding Objective",
+    "https://aclanthology.org/2024.acl-long.209/",
+    "https://aclanthology.org/2024.acl-long.209.pdf"
+  ],
+  [
+    "Identifying while Learning for Document Event Causality Identification",
+    "https://aclanthology.org/2024.acl-long.210/",
+    "https://aclanthology.org/2024.acl-long.210.pdf"
+  ],
+  [
+    "OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems",
+    "https://aclanthology.org/2024.acl-long.211/",
+    "https://aclanthology.org/2024.acl-long.211.pdf"
+  ],
+  [
+    "Insert or Attach: Taxonomy Completion via Box Embedding",
+    "https://aclanthology.org/2024.acl-long.212/",
+    "https://aclanthology.org/2024.acl-long.212.pdf"
+  ],
+  [
+    "Semiparametric Token-Sequence Co-Supervision",
+    "https://aclanthology.org/2024.acl-long.213/",
+    "https://aclanthology.org/2024.acl-long.213.pdf"
+  ],
+  [
+    "Instruction Fusion: Advancing Prompt Evolution through Hybridization",
+    "https://aclanthology.org/2024.acl-long.214/",
+    "https://aclanthology.org/2024.acl-long.214.pdf"
+  ],
+  [
+    "TimeArena: Shaping Efficient Multitasking Language Agents in a Time-Aware Simulation",
+    "https://aclanthology.org/2024.acl-long.215/",
+    "https://aclanthology.org/2024.acl-long.215.pdf"
+  ],
+  [
+    "Exploring Memorization in Fine-tuned Language Models",
+    "https://aclanthology.org/2024.acl-long.216/",
+    "https://aclanthology.org/2024.acl-long.216.pdf"
+  ],
+  [
+    "Towards Real-world Scenario: Imbalanced New Intent Discovery",
+    "https://aclanthology.org/2024.acl-long.217/",
+    "https://aclanthology.org/2024.acl-long.217.pdf"
+  ],
+  [
+    "M4GT-Bench: Evaluation Benchmark for Black-Box Machine-Generated Text Detection",
+    "https://aclanthology.org/2024.acl-long.218/",
+    "https://aclanthology.org/2024.acl-long.218.pdf"
+  ],
+  [
+    "Instruct Once, Chat Consistently in Multiple Rounds: An Efficient Tuning Framework for Dialogue",
+    "https://aclanthology.org/2024.acl-long.219/",
+    "https://aclanthology.org/2024.acl-long.219.pdf"
+  ],
+  [
+    "SoftDedup: an Efficient Data Reweighting Method for Speeding Up Language Model Pre-training",
+    "https://aclanthology.org/2024.acl-long.220/",
+    "https://aclanthology.org/2024.acl-long.220.pdf"
+  ],
+  [
+    "Rule or Story, Which is a Better Commonsense Expression for Talking with Large Language Models?",
+    "https://aclanthology.org/2024.acl-long.221/",
+    "https://aclanthology.org/2024.acl-long.221.pdf"
+  ],
+  [
+    "Learning Global Controller in Latent Space for Parameter-Efficient Fine-Tuning",
+    "https://aclanthology.org/2024.acl-long.222/",
+    "https://aclanthology.org/2024.acl-long.222.pdf"
+  ],
+  [
+    "CaMML: Context-Aware Multimodal Learner for Large Models",
+    "https://aclanthology.org/2024.acl-long.223/",
+    "https://aclanthology.org/2024.acl-long.223.pdf"
+  ],
+  [
+    "MAVEN-ARG: Completing the Puzzle of All-in-One Event Understanding Dataset with Event Argument Annotation",
+    "https://aclanthology.org/2024.acl-long.224/",
+    "https://aclanthology.org/2024.acl-long.224.pdf"
+  ],
+  [
+    "NPHardEval: Dynamic Benchmark on Reasoning Ability of Large Language Models via Complexity Classes",
+    "https://aclanthology.org/2024.acl-long.225/",
+    "https://aclanthology.org/2024.acl-long.225.pdf"
+  ],
+  [
+    "Can Watermarks Survive Translation? On the Cross-lingual Consistency of Text Watermark for Large Language Models",
+    "https://aclanthology.org/2024.acl-long.226/",
+    "https://aclanthology.org/2024.acl-long.226.pdf"
+  ],
+  [
+    "Multi-Level Feedback Generation with Large Language Models for Empowering Novice Peer Counselors",
+    "https://aclanthology.org/2024.acl-long.227/",
+    "https://aclanthology.org/2024.acl-long.227.pdf"
+  ],
+  [
+    "In-context Mixing (ICM): Code-mixed Prompts for Multilingual LLMs",
+    "https://aclanthology.org/2024.acl-long.228/",
+    "https://aclanthology.org/2024.acl-long.228.pdf"
+  ],
+  [
+    "Respond in my Language: Mitigating Language Inconsistency in Response Generation based on Large Language Models",
+    "https://aclanthology.org/2024.acl-long.229/",
+    "https://aclanthology.org/2024.acl-long.229.pdf"
+  ],
+  [
+    "Transferable Embedding Inversion Attack: Uncovering Privacy Risks in Text Embeddings without Model Queries",
+    "https://aclanthology.org/2024.acl-long.230/",
+    "https://aclanthology.org/2024.acl-long.230.pdf"
+  ],
+  [
+    "Enhancing Reinforcement Learning with Label-Sensitive Reward for Natural Language Understanding",
+    "https://aclanthology.org/2024.acl-long.231/",
+    "https://aclanthology.org/2024.acl-long.231.pdf"
+  ],
+  [
+    "Intuitive or Dependent? Investigating LLMs’ Behavior Style to Conflicting Prompts",
+    "https://aclanthology.org/2024.acl-long.232/",
+    "https://aclanthology.org/2024.acl-long.232.pdf"
+  ],
+  [
+    "CoCA: Fusing Position Embedding with Collinear Constrained Attention in Transformers for Long Context Window Extending",
+    "https://aclanthology.org/2024.acl-long.233/",
+    "https://aclanthology.org/2024.acl-long.233.pdf"
+  ],
+  [
+    "InfoLossQA: Characterizing and Recovering Information Loss in Text Simplification",
+    "https://aclanthology.org/2024.acl-long.234/",
+    "https://aclanthology.org/2024.acl-long.234.pdf"
+  ],
+  [
+    "CoGenesis: A Framework Collaborating Large and Small Language Models for Secure Context-Aware Instruction Following",
+    "https://aclanthology.org/2024.acl-long.235/",
+    "https://aclanthology.org/2024.acl-long.235.pdf"
+  ],
+  [
+    "DAPR: A Benchmark on Document-Aware Passage Retrieval",
+    "https://aclanthology.org/2024.acl-long.236/",
+    "https://aclanthology.org/2024.acl-long.236.pdf"
+  ],
+  [
+    "Strengthened Symbol Binding Makes Large Language Models Reliable Multiple-Choice Selectors",
+    "https://aclanthology.org/2024.acl-long.237/",
+    "https://aclanthology.org/2024.acl-long.237.pdf"
+  ],
+  [
+    "SAC-KG: Exploiting Large Language Models as Skilled Automatic Constructors for Domain Knowledge Graph",
+    "https://aclanthology.org/2024.acl-long.238/",
+    "https://aclanthology.org/2024.acl-long.238.pdf"
+  ],
+  [
+    "Uncertainty-Guided Modal Rebalance for Hateful Memes Detection",
+    "https://aclanthology.org/2024.acl-long.239/",
+    "https://aclanthology.org/2024.acl-long.239.pdf"
+  ],
+  [
+    "Missci: Reconstructing Fallacies in Misrepresented Science",
+    "https://aclanthology.org/2024.acl-long.240/",
+    "https://aclanthology.org/2024.acl-long.240.pdf"
+  ],
+  [
+    "Uncovering the Full Potential of Visual Grounding Methods in VQA",
+    "https://aclanthology.org/2024.acl-long.241/",
+    "https://aclanthology.org/2024.acl-long.241.pdf"
+  ],
+  [
+    "Small Models, Big Insights: Leveraging Slim Proxy Models To Decide When and What to Retrieve for LLMs",
+    "https://aclanthology.org/2024.acl-long.242/",
+    "https://aclanthology.org/2024.acl-long.242.pdf"
+  ],
+  [
+    "Favi-Score: A Measure for Favoritism in Automated Preference Ratings for Generative AI Evaluation",
+    "https://aclanthology.org/2024.acl-long.243/",
+    "https://aclanthology.org/2024.acl-long.243.pdf"
+  ],
+  [
+    "LLM-based Rewriting of Inappropriate Argumentation using Reinforcement Learning from Machine Feedback",
+    "https://aclanthology.org/2024.acl-long.244/",
+    "https://aclanthology.org/2024.acl-long.244.pdf"
+  ],
+  [
+    "Graph Language Models",
+    "https://aclanthology.org/2024.acl-long.245/",
+    "https://aclanthology.org/2024.acl-long.245.pdf"
+  ],
+  [
+    "Analyzing Semantic Change through Lexical Replacements",
+    "https://aclanthology.org/2024.acl-long.246/",
+    "https://aclanthology.org/2024.acl-long.246.pdf"
+  ],
+  [
+    "Exploiting Intrinsic Multilateral Logical Rules for Weakly Supervised Natural Language Video Localization",
+    "https://aclanthology.org/2024.acl-long.247/",
+    "https://aclanthology.org/2024.acl-long.247.pdf"
+  ],
+  [
+    "Interpretability of Language Models via Task Spaces",
+    "https://aclanthology.org/2024.acl-long.248/",
+    "https://aclanthology.org/2024.acl-long.248.pdf"
+  ],
+  [
+    "Using Synchronic Definitions and Semantic Relations to Classify Semantic Change Types",
+    "https://aclanthology.org/2024.acl-long.249/",
+    "https://aclanthology.org/2024.acl-long.249.pdf"
+  ],
+  [
+    "Factual Confidence of LLMs: on Reliability and Robustness of Current Estimators",
+    "https://aclanthology.org/2024.acl-long.250/",
+    "https://aclanthology.org/2024.acl-long.250.pdf"
+  ],
+  [
+    "StepCoder: Improving Code Generation with Reinforcement Learning from Compiler Feedback",
+    "https://aclanthology.org/2024.acl-long.251/",
+    "https://aclanthology.org/2024.acl-long.251.pdf"
+  ],
+  [
+    "One-Shot Learning as Instruction Data Prospector for Large Language Models",
+    "https://aclanthology.org/2024.acl-long.252/",
+    "https://aclanthology.org/2024.acl-long.252.pdf"
+  ],
+  [
+    "Navigating the OverKill in Large Language Models",
+    "https://aclanthology.org/2024.acl-long.253/",
+    "https://aclanthology.org/2024.acl-long.253.pdf"
+  ],
+  [
+    "A Chain-of-Thought Is as Strong as Its Weakest Link: A Benchmark for Verifiers of Reasoning Chains",
+    "https://aclanthology.org/2024.acl-long.254/",
+    "https://aclanthology.org/2024.acl-long.254.pdf"
+  ],
+  [
+    "Re3: A Holistic Framework and Dataset for Modeling Collaborative Document Revision",
+    "https://aclanthology.org/2024.acl-long.255/",
+    "https://aclanthology.org/2024.acl-long.255.pdf"
+  ],
+  [
+    "NextLevelBERT: Masked Language Modeling with Higher-Level Representations for Long Documents",
+    "https://aclanthology.org/2024.acl-long.256/",
+    "https://aclanthology.org/2024.acl-long.256.pdf"
+  ],
+  [
+    "FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models",
+    "https://aclanthology.org/2024.acl-long.257/",
+    "https://aclanthology.org/2024.acl-long.257.pdf"
+  ],
+  [
+    "Learning to Edit: Aligning LLMs with Knowledge Editing",
+    "https://aclanthology.org/2024.acl-long.258/",
+    "https://aclanthology.org/2024.acl-long.258.pdf"
+  ],
+  [
+    "DolphCoder: Echo-Locating Code Large Language Models with Diverse and Multi-Objective Instruction Tuning",
+    "https://aclanthology.org/2024.acl-long.259/",
+    "https://aclanthology.org/2024.acl-long.259.pdf"
+  ],
+  [
+    "When Only Time Will Tell: Interpreting How Transformers Process Local Ambiguities Through the Lens of Restart-Incrementality",
+    "https://aclanthology.org/2024.acl-long.260/",
+    "https://aclanthology.org/2024.acl-long.260.pdf"
+  ],
+  [
+    "SpaRC and SpaRP: Spatial Reasoning Characterization and Path Generation for Understanding Spatial Reasoning Capability of Large Language Models",
+    "https://aclanthology.org/2024.acl-long.261/",
+    "https://aclanthology.org/2024.acl-long.261.pdf"
+  ],
+  [
+    "Planning Like Human: A Dual-process Framework for Dialogue Planning",
+    "https://aclanthology.org/2024.acl-long.262/",
+    "https://aclanthology.org/2024.acl-long.262.pdf"
+  ],
+  [
+    "Spectral Filters, Dark Signals, and Attention Sinks",
+    "https://aclanthology.org/2024.acl-long.263/",
+    "https://aclanthology.org/2024.acl-long.263.pdf"
+  ],
+  [
+    "DiffuCOMET: Contextual Commonsense Knowledge Diffusion",
+    "https://aclanthology.org/2024.acl-long.264/",
+    "https://aclanthology.org/2024.acl-long.264.pdf"
+  ],
+  [
+    "Systematic Task Exploration with LLMs: A Study in Citation Text Generation",
+    "https://aclanthology.org/2024.acl-long.265/",
+    "https://aclanthology.org/2024.acl-long.265.pdf"
+  ],
+  [
+    "Limits of Theory of Mind Modelling in Dialogue-Based Collaborative Plan Acquisition",
+    "https://aclanthology.org/2024.acl-long.266/",
+    "https://aclanthology.org/2024.acl-long.266.pdf"
+  ],
+  [
+    "Temporal Knowledge Question Answering via Abstract Reasoning Induction",
+    "https://aclanthology.org/2024.acl-long.267/",
+    "https://aclanthology.org/2024.acl-long.267.pdf"
+  ],
+  [
+    "Who Wrote this Code? Watermarking for Code Generation",
+    "https://aclanthology.org/2024.acl-long.268/",
+    "https://aclanthology.org/2024.acl-long.268.pdf"
+  ],
+  [
+    "MapCoder: Multi-Agent Code Generation for Competitive Problem Solving",
+    "https://aclanthology.org/2024.acl-long.269/",
+    "https://aclanthology.org/2024.acl-long.269.pdf"
+  ],
+  [
+    "RelayAttention for Efficient Large Language Model Serving with Long System Prompts",
+    "https://aclanthology.org/2024.acl-long.270/",
+    "https://aclanthology.org/2024.acl-long.270.pdf"
+  ],
+  [
+    "Boosting Language Models Reasoning with Chain-of-Knowledge Prompting",
+    "https://aclanthology.org/2024.acl-long.271/",
+    "https://aclanthology.org/2024.acl-long.271.pdf"
+  ],
+  [
+    "Open Grounded Planning: Challenges and Benchmark Construction",
+    "https://aclanthology.org/2024.acl-long.272/",
+    "https://aclanthology.org/2024.acl-long.272.pdf"
+  ],
+  [
+    "LLM Knows Body Language, Too: Translating Speech Voices into Human Gestures",
+    "https://aclanthology.org/2024.acl-long.273/",
+    "https://aclanthology.org/2024.acl-long.273.pdf"
+  ],
+  [
+    "QueryAgent: A Reliable and Efficient Reasoning Framework with Environmental Feedback based Self-Correction",
+    "https://aclanthology.org/2024.acl-long.274/",
+    "https://aclanthology.org/2024.acl-long.274.pdf"
+  ],
+  [
+    "PITA: Prompting Task Interaction for Argumentation Mining",
+    "https://aclanthology.org/2024.acl-long.275/",
+    "https://aclanthology.org/2024.acl-long.275.pdf"
+  ],
+  [
+    "Shifting Attention to Relevance: Towards the Predictive Uncertainty Quantification of Free-Form Large Language Models",
+    "https://aclanthology.org/2024.acl-long.276/",
+    "https://aclanthology.org/2024.acl-long.276.pdf"
+  ],
+  [
+    "Babel-ImageNet: Massively Multilingual Evaluation of Vision-and-Language Representations",
+    "https://aclanthology.org/2024.acl-long.277/",
+    "https://aclanthology.org/2024.acl-long.277.pdf"
+  ],
+  [
+    "Estimating Agreement by Chance for Sequence Annotation",
+    "https://aclanthology.org/2024.acl-long.278/",
+    "https://aclanthology.org/2024.acl-long.278.pdf"
+  ],
+  [
+    "Are Emergent Abilities in Large Language Models just In-Context Learning?",
+    "https://aclanthology.org/2024.acl-long.279/",
+    "https://aclanthology.org/2024.acl-long.279.pdf"
+  ],
+  [
+    "WaveCoder: Widespread And Versatile Enhancement For Code Large Language Models By Instruction Tuning",
+    "https://aclanthology.org/2024.acl-long.280/",
+    "https://aclanthology.org/2024.acl-long.280.pdf"
+  ],
+  [
+    "Eliciting Better Multilingual Structured Reasoning from LLMs through Code",
+    "https://aclanthology.org/2024.acl-long.281/",
+    "https://aclanthology.org/2024.acl-long.281.pdf"
+  ],
+  [
+    "OLIVE: Object Level In-Context Visual Embeddings",
+    "https://aclanthology.org/2024.acl-long.282/",
+    "https://aclanthology.org/2024.acl-long.282.pdf"
+  ],
+  [
+    "Quantifying Uncertainty in Answers from any Language Model and Enhancing their Trustworthiness",
+    "https://aclanthology.org/2024.acl-long.283/",
+    "https://aclanthology.org/2024.acl-long.283.pdf"
+  ],
+  [
+    "Marathon: A Race Through the Realm of Long Context with Large Language Models",
+    "https://aclanthology.org/2024.acl-long.284/",
+    "https://aclanthology.org/2024.acl-long.284.pdf"
+  ],
+  [
+    "Beyond Scaling: Predicting Patent Approval with Domain-specific Fine-grained Claim Dependency Graph",
+    "https://aclanthology.org/2024.acl-long.285/",
+    "https://aclanthology.org/2024.acl-long.285.pdf"
+  ],
+  [
+    "PCAD: Towards ASR-Robust Spoken Language Understanding via Prototype Calibration and Asymmetric Decoupling",
+    "https://aclanthology.org/2024.acl-long.286/",
+    "https://aclanthology.org/2024.acl-long.286.pdf"
+  ],
+  [
+    "Rethinking the Multimodal Correlation of Multimodal Sequential Learning via Generalizable Attentional Results Alignment",
+    "https://aclanthology.org/2024.acl-long.287/",
+    "https://aclanthology.org/2024.acl-long.287.pdf"
+  ],
+  [
+    "UHGEval: Benchmarking the Hallucination of Chinese Large Language Models via Unconstrained Generation",
+    "https://aclanthology.org/2024.acl-long.288/",
+    "https://aclanthology.org/2024.acl-long.288.pdf"
+  ],
+  [
+    "PreFLMR: Scaling Up Fine-Grained Late-Interaction Multi-modal Retrievers",
+    "https://aclanthology.org/2024.acl-long.289/",
+    "https://aclanthology.org/2024.acl-long.289.pdf"
+  ],
+  [
+    "Triple-Encoders: Representations That Fire Together, Wire Together",
+    "https://aclanthology.org/2024.acl-long.290/",
+    "https://aclanthology.org/2024.acl-long.290.pdf"
+  ],
+  [
+    "Improving Hateful Meme Detection through Retrieval-Guided Contrastive Learning",
+    "https://aclanthology.org/2024.acl-long.291/",
+    "https://aclanthology.org/2024.acl-long.291.pdf"
+  ],
+  [
+    "Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization",
+    "https://aclanthology.org/2024.acl-long.292/",
+    "https://aclanthology.org/2024.acl-long.292.pdf"
+  ],
+  [
+    "Your Transformer is Secretly Linear",
+    "https://aclanthology.org/2024.acl-long.293/",
+    "https://aclanthology.org/2024.acl-long.293.pdf"
+  ],
+  [
+    "Noise Correction on Subjective Datasets",
+    "https://aclanthology.org/2024.acl-long.294/",
+    "https://aclanthology.org/2024.acl-long.294.pdf"
+  ],
+  [
+    "Generative Explore-Exploit: Training-free Optimization of Generative Recommender Systems using LLM Optimizers",
+    "https://aclanthology.org/2024.acl-long.295/",
+    "https://aclanthology.org/2024.acl-long.295.pdf"
+  ],
+  [
+    "Instruction-tuned Language Models are Better Knowledge Learners",
+    "https://aclanthology.org/2024.acl-long.296/",
+    "https://aclanthology.org/2024.acl-long.296.pdf"
+  ],
+  [
+    "What Do Language Models Hear? Probing for Auditory Representations in Language Models",
+    "https://aclanthology.org/2024.acl-long.297/",
+    "https://aclanthology.org/2024.acl-long.297.pdf"
+  ],
+  [
+    "Threads of Subtlety: Detecting Machine-Generated Texts Through Discourse Motifs",
+    "https://aclanthology.org/2024.acl-long.298/",
+    "https://aclanthology.org/2024.acl-long.298.pdf"
+  ],
+  [
+    "Jailbreak Open-Sourced Large Language Models via Enforced Decoding",
+    "https://aclanthology.org/2024.acl-long.299/",
+    "https://aclanthology.org/2024.acl-long.299.pdf"
+  ],
+  [
+    "NICE: To Optimize In-Context Examples or Not?",
+    "https://aclanthology.org/2024.acl-long.300/",
+    "https://aclanthology.org/2024.acl-long.300.pdf"
+  ],
+  [
+    "CodeScope: An Execution-based Multilingual Multitask Multidimensional Benchmark for Evaluating LLMs on Code Understanding and Generation",
+    "https://aclanthology.org/2024.acl-long.301/",
+    "https://aclanthology.org/2024.acl-long.301.pdf"
+  ],
+  [
+    "Digital Socrates: Evaluating LLMs through Explanation Critiques",
+    "https://aclanthology.org/2024.acl-long.302/",
+    "https://aclanthology.org/2024.acl-long.302.pdf"
+  ],
+  [
+    "SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware Decoding",
+    "https://aclanthology.org/2024.acl-long.303/",
+    "https://aclanthology.org/2024.acl-long.303.pdf"
+  ],
+  [
+    "Multi-Task Inference: Can Large Language Models Follow Multiple Instructions at Once?",
+    "https://aclanthology.org/2024.acl-long.304/",
+    "https://aclanthology.org/2024.acl-long.304.pdf"
+  ],
+  [
+    "Experiential Co-Learning of Software-Developing Agents",
+    "https://aclanthology.org/2024.acl-long.305/",
+    "https://aclanthology.org/2024.acl-long.305.pdf"
+  ],
+  [
+    "Learning Geometry-Aware Representations for New Intent Discovery",
+    "https://aclanthology.org/2024.acl-long.306/",
+    "https://aclanthology.org/2024.acl-long.306.pdf"
+  ],
+  [
+    "Speaker Verification in Agent-generated Conversations",
+    "https://aclanthology.org/2024.acl-long.307/",
+    "https://aclanthology.org/2024.acl-long.307.pdf"
+  ],
+  [
+    "Benchmarking Data Science Agents",
+    "https://aclanthology.org/2024.acl-long.308/",
+    "https://aclanthology.org/2024.acl-long.308.pdf"
+  ],
+  [
+    "Language-Specific Neurons: The Key to Multilingual Capabilities in Large Language Models",
+    "https://aclanthology.org/2024.acl-long.309/",
+    "https://aclanthology.org/2024.acl-long.309.pdf"
+  ],
+  [
+    "Forgetting before Learning: Utilizing Parametric Arithmetic for Knowledge Updating in Large Language Models",
+    "https://aclanthology.org/2024.acl-long.310/",
+    "https://aclanthology.org/2024.acl-long.310.pdf"
+  ],
+  [
+    "A Deep Dive into the Trade-Offs of Parameter-Efficient Preference Alignment Techniques",
+    "https://aclanthology.org/2024.acl-long.311/",
+    "https://aclanthology.org/2024.acl-long.311.pdf"
+  ],
+  [
+    "Zero-Shot Cross-Domain Dialogue State Tracking via Dual Low-Rank Adaptation",
+    "https://aclanthology.org/2024.acl-long.312/",
+    "https://aclanthology.org/2024.acl-long.312.pdf"
+  ],
+  [
+    "PRP-Graph: Pairwise Ranking Prompting to LLMs with Graph Aggregation for Effective Text Re-ranking",
+    "https://aclanthology.org/2024.acl-long.313/",
+    "https://aclanthology.org/2024.acl-long.313.pdf"
+  ],
+  [
+    "RepCodec: A Speech Representation Codec for Speech Tokenization",
+    "https://aclanthology.org/2024.acl-long.314/",
+    "https://aclanthology.org/2024.acl-long.314.pdf"
+  ],
+  [
+    "GumbelSoft: Diversified Language Model Watermarking via the GumbelMax-trick",
+    "https://aclanthology.org/2024.acl-long.315/",
+    "https://aclanthology.org/2024.acl-long.315.pdf"
+  ],
+  [
+    "Event-Radar: Event-driven Multi-View Learning for Multimodal Fake News Detection",
+    "https://aclanthology.org/2024.acl-long.316/",
+    "https://aclanthology.org/2024.acl-long.316.pdf"
+  ],
+  [
+    "Fine-Grained Modeling of Narrative Context: A Coherence Perspective via Retrospective Questions",
+    "https://aclanthology.org/2024.acl-long.317/",
+    "https://aclanthology.org/2024.acl-long.317.pdf"
+  ],
+  [
+    "Stealthy Attack on Large Language Model based Recommendation",
+    "https://aclanthology.org/2024.acl-long.318/",
+    "https://aclanthology.org/2024.acl-long.318.pdf"
+  ],
+  [
+    "Multi-Dimensional Optimization for Text Summarization via Reinforcement Learning",
+    "https://aclanthology.org/2024.acl-long.319/",
+    "https://aclanthology.org/2024.acl-long.319.pdf"
+  ],
+  [
+    "Masked Thought: Simply Masking Partial Reasoning Steps Can Improve Mathematical Reasoning Learning of Language Models",
+    "https://aclanthology.org/2024.acl-long.320/",
+    "https://aclanthology.org/2024.acl-long.320.pdf"
+  ],
+  [
+    "SEER: Facilitating Structured Reasoning and Explanation via Reinforcement Learning",
+    "https://aclanthology.org/2024.acl-long.321/",
+    "https://aclanthology.org/2024.acl-long.321.pdf"
+  ],
+  [
+    "Towards Robust and Generalized Parameter-Efficient Fine-Tuning for Noisy Label Learning",
+    "https://aclanthology.org/2024.acl-long.322/",
+    "https://aclanthology.org/2024.acl-long.322.pdf"
+  ],
+  [
+    "SparseFlow: Accelerating Transformers by Sparsifying Information Flows",
+    "https://aclanthology.org/2024.acl-long.323/",
+    "https://aclanthology.org/2024.acl-long.323.pdf"
+  ],
+  [
+    "ProtT3: Protein-to-Text Generation for Text-based Protein Understanding",
+    "https://aclanthology.org/2024.acl-long.324/",
+    "https://aclanthology.org/2024.acl-long.324.pdf"
+  ],
+  [
+    "KIEval: A Knowledge-grounded Interactive Evaluation Framework for Large Language Models",
+    "https://aclanthology.org/2024.acl-long.325/",
+    "https://aclanthology.org/2024.acl-long.325.pdf"
+  ],
+  [
+    "EmoBench: Evaluating the Emotional Intelligence of Large Language Models",
+    "https://aclanthology.org/2024.acl-long.326/",
+    "https://aclanthology.org/2024.acl-long.326.pdf"
+  ],
+  [
+    "Are AI-Generated Text Detectors Robust to Adversarial Perturbations?",
+    "https://aclanthology.org/2024.acl-long.327/",
+    "https://aclanthology.org/2024.acl-long.327.pdf"
+  ],
+  [
+    "FinTextQA: A Dataset for Long-form Financial Question Answering",
+    "https://aclanthology.org/2024.acl-long.328/",
+    "https://aclanthology.org/2024.acl-long.328.pdf"
+  ],
+  [
+    "On Measuring Faithfulness or Self-consistency of Natural Language Explanations",
+    "https://aclanthology.org/2024.acl-long.329/",
+    "https://aclanthology.org/2024.acl-long.329.pdf"
+  ],
+  [
+    "Learning or Self-aligning? Rethinking Instruction Fine-tuning",
+    "https://aclanthology.org/2024.acl-long.330/",
+    "https://aclanthology.org/2024.acl-long.330.pdf"
+  ],
+  [
+    "Rethinking the Bounds of LLM Reasoning: Are Multi-Agent Discussions the Key?",
+    "https://aclanthology.org/2024.acl-long.331/",
+    "https://aclanthology.org/2024.acl-long.331.pdf"
+  ],
+  [
+    "Soft Knowledge Prompt: Help External Knowledge Become a Better Teacher to Instruct LLM in Knowledge-based VQA",
+    "https://aclanthology.org/2024.acl-long.332/",
+    "https://aclanthology.org/2024.acl-long.332.pdf"
+  ],
+  [
+    "TasTe: Teaching Large Language Models to Translate through Self-Reflection",
+    "https://aclanthology.org/2024.acl-long.333/",
+    "https://aclanthology.org/2024.acl-long.333.pdf"
+  ],
+  [
+    "Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models",
+    "https://aclanthology.org/2024.acl-long.334/",
+    "https://aclanthology.org/2024.acl-long.334.pdf"
+  ],
+  [
+    "UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion",
+    "https://aclanthology.org/2024.acl-long.335/",
+    "https://aclanthology.org/2024.acl-long.335.pdf"
+  ],
+  [
+    "The Fine-Tuning Paradox: Boosting Translation Quality Without Sacrificing LLM Abilities",
+    "https://aclanthology.org/2024.acl-long.336/",
+    "https://aclanthology.org/2024.acl-long.336.pdf"
+  ],
+  [
+    "Blinded by Generated Contexts: How Language Models Merge Generated and Retrieved Contexts When Knowledge Conflicts?",
+    "https://aclanthology.org/2024.acl-long.337/",
+    "https://aclanthology.org/2024.acl-long.337.pdf"
+  ],
+  [
+    "Unveiling Linguistic Regions in Large Language Models",
+    "https://aclanthology.org/2024.acl-long.338/",
+    "https://aclanthology.org/2024.acl-long.338.pdf"
+  ],
+  [
+    "Text-to-Song: Towards Controllable Music Generation Incorporating Vocal and Accompaniment",
+    "https://aclanthology.org/2024.acl-long.339/",
+    "https://aclanthology.org/2024.acl-long.339.pdf"
+  ],
+  [
+    "FastFiD: Improve Inference Efficiency of Open Domain Question Answering via Sentence Selection",
+    "https://aclanthology.org/2024.acl-long.340/",
+    "https://aclanthology.org/2024.acl-long.340.pdf"
+  ],
+  [
+    "Discursive Socratic Questioning: Evaluating the Faithfulness of Language Models’ Understanding of Discourse Relations",
+    "https://aclanthology.org/2024.acl-long.341/",
+    "https://aclanthology.org/2024.acl-long.341.pdf"
+  ],
+  [
+    "An Open Multilingual System for Scoring Readability of Wikipedia",
+    "https://aclanthology.org/2024.acl-long.342/",
+    "https://aclanthology.org/2024.acl-long.342.pdf"
+  ],
+  [
+    "Unlearning Traces the Influential Training Data of Language Models",
+    "https://aclanthology.org/2024.acl-long.343/",
+    "https://aclanthology.org/2024.acl-long.343.pdf"
+  ],
+  [
+    "Exploring Alignment in Shared Cross-lingual Spaces",
+    "https://aclanthology.org/2024.acl-long.344/",
+    "https://aclanthology.org/2024.acl-long.344.pdf"
+  ],
+  [
+    "Not All Countries Celebrate Thanksgiving: On the Cultural Dominance in Large Language Models",
+    "https://aclanthology.org/2024.acl-long.345/",
+    "https://aclanthology.org/2024.acl-long.345.pdf"
+  ],
+  [
+    "Self-Evolving GPT: A Lifelong Autonomous Experiential Learner",
+    "https://aclanthology.org/2024.acl-long.346/",
+    "https://aclanthology.org/2024.acl-long.346.pdf"
+  ],
+  [
+    "WRP: Weight Recover Prune for Structured Sparsity",
+    "https://aclanthology.org/2024.acl-long.347/",
+    "https://aclanthology.org/2024.acl-long.347.pdf"
+  ],
+  [
+    "Error-preserving Automatic Speech Recognition of Young English Learners’ Language",
+    "https://aclanthology.org/2024.acl-long.348/",
+    "https://aclanthology.org/2024.acl-long.348.pdf"
+  ],
+  [
+    "DiFiNet: Boundary-Aware Semantic Differentiation and Filtration Network for Nested Named Entity Recognition",
+    "https://aclanthology.org/2024.acl-long.349/",
+    "https://aclanthology.org/2024.acl-long.349.pdf"
+  ],
+  [
+    "Legal Case Retrieval: A Survey of the State of the Art",
+    "https://aclanthology.org/2024.acl-long.350/",
+    "https://aclanthology.org/2024.acl-long.350.pdf"
+  ],
+  [
+    "Benchmarking and Improving Compositional Generalization of Multi-aspect Controllable Text Generation",
+    "https://aclanthology.org/2024.acl-long.351/",
+    "https://aclanthology.org/2024.acl-long.351.pdf"
+  ],
+  [
+    "LLaMA Pro: Progressive LLaMA with Block Expansion",
+    "https://aclanthology.org/2024.acl-long.352/",
+    "https://aclanthology.org/2024.acl-long.352.pdf"
+  ],
+  [
+    "Generating Contrastive Narratives Using the Brownian Bridge Process for Narrative Coherence Learning",
+    "https://aclanthology.org/2024.acl-long.353/",
+    "https://aclanthology.org/2024.acl-long.353.pdf"
+  ],
+  [
+    "A Causal Approach for Counterfactual Reasoning in Narratives",
+    "https://aclanthology.org/2024.acl-long.354/",
+    "https://aclanthology.org/2024.acl-long.354.pdf"
+  ],
+  [
+    "SIP: Injecting a Structural Inductive Bias into a Seq2Seq Model by Simulation",
+    "https://aclanthology.org/2024.acl-long.355/",
+    "https://aclanthology.org/2024.acl-long.355.pdf"
+  ],
+  [
+    "The Hidden Space of Transformer Language Adapters",
+    "https://aclanthology.org/2024.acl-long.356/",
+    "https://aclanthology.org/2024.acl-long.356.pdf"
+  ],
+  [
+    "A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts",
+    "https://aclanthology.org/2024.acl-long.357/",
+    "https://aclanthology.org/2024.acl-long.357.pdf"
+  ],
+  [
+    "Advancing Large Language Models to Capture Varied Speaking Styles and Respond Properly in Spoken Conversations",
+    "https://aclanthology.org/2024.acl-long.358/",
+    "https://aclanthology.org/2024.acl-long.358.pdf"
+  ],
+  [
+    "RetinaQA: A Robust Knowledge Base Question Answering Model for both Answerable and Unanswerable Questions",
+    "https://aclanthology.org/2024.acl-long.359/",
+    "https://aclanthology.org/2024.acl-long.359.pdf"
+  ],
+  [
+    "GroundingGPT: Language Enhanced Multi-modal Grounding Model",
+    "https://aclanthology.org/2024.acl-long.360/",
+    "https://aclanthology.org/2024.acl-long.360.pdf"
+  ],
+  [
+    "Automated Justification Production for Claim Veracity in Fact Checking: A Survey on Architectures and Approaches",
+    "https://aclanthology.org/2024.acl-long.361/",
+    "https://aclanthology.org/2024.acl-long.361.pdf"
+  ],
+  [
+    "Decoupled Vocabulary Learning Enables Zero-Shot Translation from Unseen Languages",
+    "https://aclanthology.org/2024.acl-long.362/",
+    "https://aclanthology.org/2024.acl-long.362.pdf"
+  ],
+  [
+    "SwapMoE: Serving Off-the-shelf MoE-based Large Language Models with Tunable Memory Budget",
+    "https://aclanthology.org/2024.acl-long.363/",
+    "https://aclanthology.org/2024.acl-long.363.pdf"
+  ],
+  [
+    "PixT3: Pixel-based Table-To-Text Generation",
+    "https://aclanthology.org/2024.acl-long.364/",
+    "https://aclanthology.org/2024.acl-long.364.pdf"
+  ],
+  [
+    "Narrowing the Knowledge Evaluation Gap: Open-Domain Question Answering with Multi-Granularity Answers",
+    "https://aclanthology.org/2024.acl-long.365/",
+    "https://aclanthology.org/2024.acl-long.365.pdf"
+  ],
+  [
+    "TAMS: Translation-Assisted Morphological Segmentation",
+    "https://aclanthology.org/2024.acl-long.366/",
+    "https://aclanthology.org/2024.acl-long.366.pdf"
+  ],
+  [
+    "XCodeEval: An Execution-based Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval",
+    "https://aclanthology.org/2024.acl-long.367/",
+    "https://aclanthology.org/2024.acl-long.367.pdf"
+  ],
+  [
+    "ProxyQA: An Alternative Framework for Evaluating Long-Form Text Generation with Large Language Models",
+    "https://aclanthology.org/2024.acl-long.368/",
+    "https://aclanthology.org/2024.acl-long.368.pdf"
+  ],
+  [
+    "A Glitch in the Matrix? Locating and Detecting Language Model Grounding with Fakepedia",
+    "https://aclanthology.org/2024.acl-long.369/",
+    "https://aclanthology.org/2024.acl-long.369.pdf"
+  ],
+  [
+    "Muffin or Chihuahua? Challenging Multimodal Large Language Models with Multipanel VQA",
+    "https://aclanthology.org/2024.acl-long.370/",
+    "https://aclanthology.org/2024.acl-long.370.pdf"
+  ],
+  [
+    "WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models",
+    "https://aclanthology.org/2024.acl-long.371/",
+    "https://aclanthology.org/2024.acl-long.371.pdf"
+  ],
+  [
+    "Translation-based Lexicalization Generation and Lexical Gap Detection: Application to Kinship Terms",
+    "https://aclanthology.org/2024.acl-long.372/",
+    "https://aclanthology.org/2024.acl-long.372.pdf"
+  ],
+  [
+    "Leveraging Machine-Generated Rationales to Facilitate Social Meaning Detection in Conversations",
+    "https://aclanthology.org/2024.acl-long.373/",
+    "https://aclanthology.org/2024.acl-long.373.pdf"
+  ],
+  [
+    "Robust Frame-Semantic Models with Lexical Unit Trees and Negative Samples",
+    "https://aclanthology.org/2024.acl-long.374/",
+    "https://aclanthology.org/2024.acl-long.374.pdf"
+  ],
+  [
+    "Harnessing the Power of Large Language Models for Natural Language to First-Order Logic Translation",
+    "https://aclanthology.org/2024.acl-long.375/",
+    "https://aclanthology.org/2024.acl-long.375.pdf"
+  ],
+  [
+    "Lightweight reranking for language model generations",
+    "https://aclanthology.org/2024.acl-long.376/",
+    "https://aclanthology.org/2024.acl-long.376.pdf"
+  ],
+  [
+    "ARIES: A Corpus of Scientific Paper Edits Made in Response to Peer Reviews",
+    "https://aclanthology.org/2024.acl-long.377/",
+    "https://aclanthology.org/2024.acl-long.377.pdf"
+  ],
+  [
+    "The Unreasonable Effectiveness of Easy Training Data for Hard Tasks",
+    "https://aclanthology.org/2024.acl-long.378/",
+    "https://aclanthology.org/2024.acl-long.378.pdf"
+  ],
+  [
+    "PLUG: Leveraging Pivot Language in Cross-Lingual Instruction Tuning",
+    "https://aclanthology.org/2024.acl-long.379/",
+    "https://aclanthology.org/2024.acl-long.379.pdf"
+  ],
+  [
+    "MIDGARD: Self-Consistency Using Minimum Description Length for Structured Commonsense Reasoning",
+    "https://aclanthology.org/2024.acl-long.380/",
+    "https://aclanthology.org/2024.acl-long.380.pdf"
+  ],
+  [
+    "ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs",
+    "https://aclanthology.org/2024.acl-long.381/",
+    "https://aclanthology.org/2024.acl-long.381.pdf"
+  ],
+  [
+    "Mirror: Multiple-perspective Self-Reflection Method for Knowledge-rich Reasoning",
+    "https://aclanthology.org/2024.acl-long.382/",
+    "https://aclanthology.org/2024.acl-long.382.pdf"
+  ],
+  [
+    "Where Do People Tell Stories Online? Story Detection Across Online Communities",
+    "https://aclanthology.org/2024.acl-long.383/",
+    "https://aclanthology.org/2024.acl-long.383.pdf"
+  ],
+  [
+    "Large Language Models Are No Longer Shallow Parsers",
+    "https://aclanthology.org/2024.acl-long.384/",
+    "https://aclanthology.org/2024.acl-long.384.pdf"
+  ],
+  [
+    "Dialogue Summarization with Mixture of Experts based on Large Language Models",
+    "https://aclanthology.org/2024.acl-long.385/",
+    "https://aclanthology.org/2024.acl-long.385.pdf"
+  ],
+  [
+    "ChiMed-GPT: A Chinese Medical Large Language Model with Full Training Regime and Better Alignment to Human Preferences",
+    "https://aclanthology.org/2024.acl-long.386/",
+    "https://aclanthology.org/2024.acl-long.386.pdf"
+  ],
+  [
+    "An Investigation of Neuron Activation as a Unified Lens to Explain Chain-of-Thought Eliciting Arithmetic Reasoning of LLMs",
+    "https://aclanthology.org/2024.acl-long.387/",
+    "https://aclanthology.org/2024.acl-long.387.pdf"
+  ],
+  [
+    "Leveraging Large Language Models for Learning Complex Legal Concepts through Storytelling",
+    "https://aclanthology.org/2024.acl-long.388/",
+    "https://aclanthology.org/2024.acl-long.388.pdf"
+  ],
+  [
+    "Intrinsic Task-based Evaluation for Referring Expression Generation",
+    "https://aclanthology.org/2024.acl-long.389/",
+    "https://aclanthology.org/2024.acl-long.389.pdf"
+  ],
+  [
+    "From Moments to Milestones: Incremental Timeline Summarization Leveraging Large Language Models",
+    "https://aclanthology.org/2024.acl-long.390/",
+    "https://aclanthology.org/2024.acl-long.390.pdf"
+  ],
+  [
+    "End-to-end Learning of Logical Rules for Enhancing Document-level Relation Extraction",
+    "https://aclanthology.org/2024.acl-long.391/",
+    "https://aclanthology.org/2024.acl-long.391.pdf"
+  ],
+  [
+    "Can We Achieve High-quality Direct Speech-to-Speech Translation without Parallel Speech Data?",
+    "https://aclanthology.org/2024.acl-long.392/",
+    "https://aclanthology.org/2024.acl-long.392.pdf"
+  ],
+  [
+    "Enhancing EEG-to-Text Decoding through Transferable Representations from Pre-trained Contrastive EEG-Text Masked Autoencoder",
+    "https://aclanthology.org/2024.acl-long.393/",
+    "https://aclanthology.org/2024.acl-long.393.pdf"
+  ],
+  [
+    "CQIL: Inference Latency Optimization with Concurrent Computation of Quasi-Independent Layers",
+    "https://aclanthology.org/2024.acl-long.394/",
+    "https://aclanthology.org/2024.acl-long.394.pdf"
+  ],
+  [
+    "Prompt Optimization via Adversarial In-Context Learning",
+    "https://aclanthology.org/2024.acl-long.395/",
+    "https://aclanthology.org/2024.acl-long.395.pdf"
+  ],
+  [
+    "StreamVoice: Streamable Context-Aware Language Modeling for Real-time Zero-Shot Voice Conversion",
+    "https://aclanthology.org/2024.acl-long.396/",
+    "https://aclanthology.org/2024.acl-long.396.pdf"
+  ],
+  [
+    "Generate-then-Ground in Retrieval-Augmented Generation for Multi-hop Question Answering",
+    "https://aclanthology.org/2024.acl-long.397/",
+    "https://aclanthology.org/2024.acl-long.397.pdf"
+  ],
+  [
+    "Multimodal Contextualized Semantic Parsing from Speech",
+    "https://aclanthology.org/2024.acl-long.398/",
+    "https://aclanthology.org/2024.acl-long.398.pdf"
+  ],
+  [
+    "LaMP: When Large Language Models Meet Personalization",
+    "https://aclanthology.org/2024.acl-long.399/",
+    "https://aclanthology.org/2024.acl-long.399.pdf"
+  ],
+  [
+    "AboutMe: Using Self-Descriptions in Webpages to Document the Effects of English Pretraining Data Filters",
+    "https://aclanthology.org/2024.acl-long.400/",
+    "https://aclanthology.org/2024.acl-long.400.pdf"
+  ],
+  [
+    "MT-Bench-101: A Fine-Grained Benchmark for Evaluating Large Language Models in Multi-Turn Dialogues",
+    "https://aclanthology.org/2024.acl-long.401/",
+    "https://aclanthology.org/2024.acl-long.401.pdf"
+  ],
+  [
+    "EFSA: Towards Event-Level Financial Sentiment Analysis",
+    "https://aclanthology.org/2024.acl-long.402/",
+    "https://aclanthology.org/2024.acl-long.402.pdf"
+  ],
+  [
+    "What Evidence Do Language Models Find Convincing?",
+    "https://aclanthology.org/2024.acl-long.403/",
+    "https://aclanthology.org/2024.acl-long.403.pdf"
+  ],
+  [
+    "Advancement in Graph Understanding: A Multimodal Benchmark and Fine-Tuning of Vision-Language Models",
+    "https://aclanthology.org/2024.acl-long.404/",
+    "https://aclanthology.org/2024.acl-long.404.pdf"
+  ],
+  [
+    "LangBridge: Multilingual Reasoning Without Multilingual Supervision",
+    "https://aclanthology.org/2024.acl-long.405/",
+    "https://aclanthology.org/2024.acl-long.405.pdf"
+  ],
+  [
+    "Can LLMs Reason with Rules? Logic Scaffolding for Stress-Testing and Improving LLMs",
+    "https://aclanthology.org/2024.acl-long.406/",
+    "https://aclanthology.org/2024.acl-long.406.pdf"
+  ],
+  [
+    "SEGO: Sequential Subgoal Optimization for Mathematical Problem-Solving",
+    "https://aclanthology.org/2024.acl-long.407/",
+    "https://aclanthology.org/2024.acl-long.407.pdf"
+  ],
+  [
+    "Unlocking the Power of Large Language Models for Entity Alignment",
+    "https://aclanthology.org/2024.acl-long.408/",
+    "https://aclanthology.org/2024.acl-long.408.pdf"
+  ],
+  [
+    "Trial and Error: Exploration-Based Trajectory Optimization of LLM Agents",
+    "https://aclanthology.org/2024.acl-long.409/",
+    "https://aclanthology.org/2024.acl-long.409.pdf"
+  ],
+  [
+    "ReFT: Reasoning with Reinforced Fine-Tuning",
+    "https://aclanthology.org/2024.acl-long.410/",
+    "https://aclanthology.org/2024.acl-long.410.pdf"
+  ],
+  [
+    "Cognitive Visual-Language Mapper: Advancing Multimodal Comprehension with Enhanced Visual Knowledge Alignment",
+    "https://aclanthology.org/2024.acl-long.411/",
+    "https://aclanthology.org/2024.acl-long.411.pdf"
+  ],
+  [
+    "FreeCtrl: Constructing Control Centers with Feedforward Layers for Learning-Free Controllable Text Generation",
+    "https://aclanthology.org/2024.acl-long.412/",
+    "https://aclanthology.org/2024.acl-long.412.pdf"
+  ],
+  [
+    "HD-Eval: Aligning Large Language Model Evaluators Through Hierarchical Criteria Decomposition",
+    "https://aclanthology.org/2024.acl-long.413/",
+    "https://aclanthology.org/2024.acl-long.413.pdf"
+  ],
+  [
+    "Conundrums in Cross-Prompt Automated Essay Scoring: Making Sense of the State of the Art",
+    "https://aclanthology.org/2024.acl-long.414/",
+    "https://aclanthology.org/2024.acl-long.414.pdf"
+  ],
+  [
+    "Angry Men, Sad Women: Large Language Models Reflect Gendered Stereotypes in Emotion Attribution",
+    "https://aclanthology.org/2024.acl-long.415/",
+    "https://aclanthology.org/2024.acl-long.415.pdf"
+  ],
+  [
+    "Label Augmentation for Zero-Shot Hierarchical Text Classification",
+    "https://aclanthology.org/2024.acl-long.416/",
+    "https://aclanthology.org/2024.acl-long.416.pdf"
+  ],
+  [
+    "STICKERCONV: Generating Multimodal Empathetic Responses from Scratch",
+    "https://aclanthology.org/2024.acl-long.417/",
+    "https://aclanthology.org/2024.acl-long.417.pdf"
+  ],
+  [
+    "EIT: Enhanced Interactive Transformer",
+    "https://aclanthology.org/2024.acl-long.418/",
+    "https://aclanthology.org/2024.acl-long.418.pdf"
+  ],
+  [
+    "MARS: Meaning-Aware Response Scoring for Uncertainty Estimation in Generative LLMs",
+    "https://aclanthology.org/2024.acl-long.419/",
+    "https://aclanthology.org/2024.acl-long.419.pdf"
+  ],
+  [
+    "EXAMS-V: A Multi-Discipline Multilingual Multimodal Exam Benchmark for Evaluating Vision Language Models",
+    "https://aclanthology.org/2024.acl-long.420/",
+    "https://aclanthology.org/2024.acl-long.420.pdf"
+  ],
+  [
+    "Order-Agnostic Data Augmentation for Few-Shot Named Entity Recognition",
+    "https://aclanthology.org/2024.acl-long.421/",
+    "https://aclanthology.org/2024.acl-long.421.pdf"
+  ],
+  [
+    "Text Embedding Inversion Security for Multilingual Language Models",
+    "https://aclanthology.org/2024.acl-long.422/",
+    "https://aclanthology.org/2024.acl-long.422.pdf"
+  ],
+  [
+    "Large Language Models are Superpositions of All Characters: Attaining Arbitrary Role-play via Self-Alignment",
+    "https://aclanthology.org/2024.acl-long.423/",
+    "https://aclanthology.org/2024.acl-long.423.pdf"
+  ],
+  [
+    "PlatoLM: Teaching LLMs in Multi-Round Dialogue via a User Simulator",
+    "https://aclanthology.org/2024.acl-long.424/",
+    "https://aclanthology.org/2024.acl-long.424.pdf"
+  ],
+  [
+    "Synthesizing Text-to-SQL Data from Weak and Strong LLMs",
+    "https://aclanthology.org/2024.acl-long.425/",
+    "https://aclanthology.org/2024.acl-long.425.pdf"
+  ],
+  [
+    "STRUCTSUM Generation for Faster Text Comprehension",
+    "https://aclanthology.org/2024.acl-long.426/",
+    "https://aclanthology.org/2024.acl-long.426.pdf"
+  ],
+  [
+    "Analysing The Impact of Sequence Composition on Language Model Pre-Training",
+    "https://aclanthology.org/2024.acl-long.427/",
+    "https://aclanthology.org/2024.acl-long.427.pdf"
+  ],
+  [
+    "NACL: A General and Effective KV Cache Eviction Framework for LLM at Inference Time",
+    "https://aclanthology.org/2024.acl-long.428/",
+    "https://aclanthology.org/2024.acl-long.428.pdf"
+  ],
+  [
+    "SpikeVoice: High-Quality Text-to-Speech Via Efficient Spiking Neural Network",
+    "https://aclanthology.org/2024.acl-long.429/",
+    "https://aclanthology.org/2024.acl-long.429.pdf"
+  ],
+  [
+    "Context-aware Difference Distilling for Multi-change Captioning",
+    "https://aclanthology.org/2024.acl-long.430/",
+    "https://aclanthology.org/2024.acl-long.430.pdf"
+  ],
+  [
+    "Dataflow-Guided Retrieval Augmentation for Repository-Level Code Completion",
+    "https://aclanthology.org/2024.acl-long.431/",
+    "https://aclanthology.org/2024.acl-long.431.pdf"
+  ],
+  [
+    "Chain-of-Exemplar: Enhancing Distractor Generation for Multimodal Educational Question Generation",
+    "https://aclanthology.org/2024.acl-long.432/",
+    "https://aclanthology.org/2024.acl-long.432.pdf"
+  ],
+  [
+    "LLMEmbed: Rethinking Lightweight LLM’s Genuine Function in Text Classification",
+    "https://aclanthology.org/2024.acl-long.433/",
+    "https://aclanthology.org/2024.acl-long.433.pdf"
+  ],
+  [
+    "LEMON: Reviving Stronger and Smaller LMs from Larger LMs with Linear Parameter Fusion",
+    "https://aclanthology.org/2024.acl-long.434/",
+    "https://aclanthology.org/2024.acl-long.434.pdf"
+  ],
+  [
+    "Speech Sense Disambiguation: Tackling Homophone Ambiguity in End-to-End Speech Translation",
+    "https://aclanthology.org/2024.acl-long.435/",
+    "https://aclanthology.org/2024.acl-long.435.pdf"
+  ],
+  [
+    "To be Continuous, or to be Discrete, Those are Bits of Questions",
+    "https://aclanthology.org/2024.acl-long.436/",
+    "https://aclanthology.org/2024.acl-long.436.pdf"
+  ],
+  [
+    "Moûsai: Efficient Text-to-Music Diffusion Models",
+    "https://aclanthology.org/2024.acl-long.437/",
+    "https://aclanthology.org/2024.acl-long.437.pdf"
+  ],
+  [
+    "PokeMQA: Programmable knowledge editing for Multi-hop Question Answering",
+    "https://aclanthology.org/2024.acl-long.438/",
+    "https://aclanthology.org/2024.acl-long.438.pdf"
+  ],
+  [
+    "MemeGuard: An LLM and VLM-based Framework for Advancing Content Moderation via Meme Intervention",
+    "https://aclanthology.org/2024.acl-long.439/",
+    "https://aclanthology.org/2024.acl-long.439.pdf"
+  ],
+  [
+    "Efficient OCR for Building a Diverse Digital History",
+    "https://aclanthology.org/2024.acl-long.440/",
+    "https://aclanthology.org/2024.acl-long.440.pdf"
+  ],
+  [
+    "Acquiring Clean Language Models from Backdoor Poisoned Datasets by Downscaling Frequency Space",
+    "https://aclanthology.org/2024.acl-long.441/",
+    "https://aclanthology.org/2024.acl-long.441.pdf"
+  ],
+  [
+    "ANAH: Analytical Annotation of Hallucinations in Large Language Models",
+    "https://aclanthology.org/2024.acl-long.442/",
+    "https://aclanthology.org/2024.acl-long.442.pdf"
+  ],
+  [
+    "Aligning Large Language Models for Controllable Recommendations",
+    "https://aclanthology.org/2024.acl-long.443/",
+    "https://aclanthology.org/2024.acl-long.443.pdf"
+  ],
+  [
+    "Revealing the Parametric Knowledge of Language Models: A Unified Framework for Attribution Methods",
+    "https://aclanthology.org/2024.acl-long.444/",
+    "https://aclanthology.org/2024.acl-long.444.pdf"
+  ],
+  [
+    "Full Parameter Fine-tuning for Large Language Models with Limited Resources",
+    "https://aclanthology.org/2024.acl-long.445/",
+    "https://aclanthology.org/2024.acl-long.445.pdf"
+  ],
+  [
+    "M3CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal Chain-of-Thought",
+    "https://aclanthology.org/2024.acl-long.446/",
+    "https://aclanthology.org/2024.acl-long.446.pdf"
+  ],
+  [
+    "Long Context is Not Long at All: A Prospector of Long-Dependency Data for Large Language Models",
+    "https://aclanthology.org/2024.acl-long.447/",
+    "https://aclanthology.org/2024.acl-long.447.pdf"
+  ],
+  [
+    "Label-Synchronous Neural Transducer for E2E Simultaneous Speech Translation",
+    "https://aclanthology.org/2024.acl-long.448/",
+    "https://aclanthology.org/2024.acl-long.448.pdf"
+  ],
+  [
+    "Hard Prompts Made Interpretable: Sparse Entropy Regularization for Prompt Tuning with RL",
+    "https://aclanthology.org/2024.acl-long.449/",
+    "https://aclanthology.org/2024.acl-long.449.pdf"
+  ],
+  [
+    "A Modular Approach for Multimodal Summarization of TV Shows",
+    "https://aclanthology.org/2024.acl-long.450/",
+    "https://aclanthology.org/2024.acl-long.450.pdf"
+  ],
+  [
+    "Think Twice: Perspective-Taking Improves Large Language Models’ Theory-of-Mind Capabilities",
+    "https://aclanthology.org/2024.acl-long.451/",
+    "https://aclanthology.org/2024.acl-long.451.pdf"
+  ],
+  [
+    "BizBench: A Quantitative Reasoning Benchmark for Business and Finance",
+    "https://aclanthology.org/2024.acl-long.452/",
+    "https://aclanthology.org/2024.acl-long.452.pdf"
+  ],
+  [
+    "Direct Metric Optimization for Image Captioning through Reward-Weighted Augmented Data Utilization",
+    "https://aclanthology.org/2024.acl-long.453/",
+    "https://aclanthology.org/2024.acl-long.453.pdf"
+  ],
+  [
+    "Deciphering Hate: Identifying Hateful Memes and Their Targets",
+    "https://aclanthology.org/2024.acl-long.454/",
+    "https://aclanthology.org/2024.acl-long.454.pdf"
+  ],
+  [
+    "Inducing Systematicity in Transformers by Attending to Structurally Quantized Embeddings",
+    "https://aclanthology.org/2024.acl-long.455/",
+    "https://aclanthology.org/2024.acl-long.455.pdf"
+  ],
+  [
+    "Label-Efficient Model Selection for Text Generation",
+    "https://aclanthology.org/2024.acl-long.456/",
+    "https://aclanthology.org/2024.acl-long.456.pdf"
+  ],
+  [
+    "Machine Unlearning of Pre-trained Large Language Models",
+    "https://aclanthology.org/2024.acl-long.457/",
+    "https://aclanthology.org/2024.acl-long.457.pdf"
+  ],
+  [
+    "Competition of Mechanisms: Tracing How Language Models Handle Facts and Counterfactuals",
+    "https://aclanthology.org/2024.acl-long.458/",
+    "https://aclanthology.org/2024.acl-long.458.pdf"
+  ],
+  [
+    "FactPICO: Factuality Evaluation for Plain Language Summarization of Medical Evidence",
+    "https://aclanthology.org/2024.acl-long.459/",
+    "https://aclanthology.org/2024.acl-long.459.pdf"
+  ],
+  [
+    "BvSP: Broad-view Soft Prompting for Few-Shot Aspect Sentiment Quad Prediction",
+    "https://aclanthology.org/2024.acl-long.460/",
+    "https://aclanthology.org/2024.acl-long.460.pdf"
+  ],
+  [
+    "Safety Alignment in NLP Tasks: Weakly Aligned Summarization as an In-Context Attack",
+    "https://aclanthology.org/2024.acl-long.461/",
+    "https://aclanthology.org/2024.acl-long.461.pdf"
+  ],
+  [
+    "Speech language models lack important brain-relevant semantics",
+    "https://aclanthology.org/2024.acl-long.462/",
+    "https://aclanthology.org/2024.acl-long.462.pdf"
+  ],
+  [
+    "DocLLM: A Layout-Aware Generative Language Model for Multimodal Document Understanding",
+    "https://aclanthology.org/2024.acl-long.463/",
+    "https://aclanthology.org/2024.acl-long.463.pdf"
+  ],
+  [
+    "Bypassing LLM Watermarks with Color-Aware Substitutions",
+    "https://aclanthology.org/2024.acl-long.464/",
+    "https://aclanthology.org/2024.acl-long.464.pdf"
+  ],
+  [
+    "Parallel Structures in Pre-training Data Yield In-Context Learning",
+    "https://aclanthology.org/2024.acl-long.465/",
+    "https://aclanthology.org/2024.acl-long.465.pdf"
+  ],
+  [
+    "OpenToM: A Comprehensive Benchmark for Evaluating Theory-of-Mind Reasoning Capabilities of Large Language Models",
+    "https://aclanthology.org/2024.acl-long.466/",
+    "https://aclanthology.org/2024.acl-long.466.pdf"
+  ],
+  [
+    "Towards Privacy-Aware Sign Language Translation at Scale",
+    "https://aclanthology.org/2024.acl-long.467/",
+    "https://aclanthology.org/2024.acl-long.467.pdf"
+  ],
+  [
+    "Arithmetic Control of LLMs for Diverse User Preferences: Directional Preference Alignment with Multi-Objective Rewards",
+    "https://aclanthology.org/2024.acl-long.468/",
+    "https://aclanthology.org/2024.acl-long.468.pdf"
+  ],
+  [
+    "Towards Real-World Writing Assistance: A Chinese Character Checking Benchmark with Faked and Misspelled Characters",
+    "https://aclanthology.org/2024.acl-long.469/",
+    "https://aclanthology.org/2024.acl-long.469.pdf"
+  ],
+  [
+    "RAVEL: Evaluating Interpretability Methods on Disentangling Language Model Representations",
+    "https://aclanthology.org/2024.acl-long.470/",
+    "https://aclanthology.org/2024.acl-long.470.pdf"
+  ],
+  [
+    "Large Language Models as Zero-shot Dialogue State Tracker through Function Calling",
+    "https://aclanthology.org/2024.acl-long.471/",
+    "https://aclanthology.org/2024.acl-long.471.pdf"
+  ],
+  [
+    "Faithful Chart Summarization with ChaTS-Pi",
+    "https://aclanthology.org/2024.acl-long.472/",
+    "https://aclanthology.org/2024.acl-long.472.pdf"
+  ],
+  [
+    "Enhancing Dialogue State Tracking Models through LLM-backed User-Agents Simulation",
+    "https://aclanthology.org/2024.acl-long.473/",
+    "https://aclanthology.org/2024.acl-long.473.pdf"
+  ],
+  [
+    "MetaSumPerceiver: Multimodal Multi-Document Evidence Summarization for Fact-Checking",
+    "https://aclanthology.org/2024.acl-long.474/",
+    "https://aclanthology.org/2024.acl-long.474.pdf"
+  ],
+  [
+    "KnowCoder: Coding Structured Knowledge into LLMs for Universal Information Extraction",
+    "https://aclanthology.org/2024.acl-long.475/",
+    "https://aclanthology.org/2024.acl-long.475.pdf"
+  ],
+  [
+    "ERA-CoT: Improving Chain-of-Thought through Entity Relationship Analysis",
+    "https://aclanthology.org/2024.acl-long.476/",
+    "https://aclanthology.org/2024.acl-long.476.pdf"
+  ],
+  [
+    "On the Multi-turn Instruction Following for Conversational Web Agents",
+    "https://aclanthology.org/2024.acl-long.477/",
+    "https://aclanthology.org/2024.acl-long.477.pdf"
+  ],
+  [
+    "Mobile-Bench: An Evaluation Benchmark for LLM-based Mobile Agents",
+    "https://aclanthology.org/2024.acl-long.478/",
+    "https://aclanthology.org/2024.acl-long.478.pdf"
+  ],
+  [
+    "MC2: Towards Transparent and Culturally-Aware NLP for Minority Languages in China",
+    "https://aclanthology.org/2024.acl-long.479/",
+    "https://aclanthology.org/2024.acl-long.479.pdf"
+  ],
+  [
+    "Decoder-only Streaming Transformer for Simultaneous Translation",
+    "https://aclanthology.org/2024.acl-long.480/",
+    "https://aclanthology.org/2024.acl-long.480.pdf"
+  ],
+  [
+    "Defending Large Language Models Against Jailbreaking Attacks Through Goal Prioritization",
+    "https://aclanthology.org/2024.acl-long.481/",
+    "https://aclanthology.org/2024.acl-long.481.pdf"
+  ],
+  [
+    "I am a Strange Dataset: Metalinguistic Tests for Language Models",
+    "https://aclanthology.org/2024.acl-long.482/",
+    "https://aclanthology.org/2024.acl-long.482.pdf"
+  ],
+  [
+    "TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space",
+    "https://aclanthology.org/2024.acl-long.483/",
+    "https://aclanthology.org/2024.acl-long.483.pdf"
+  ],
+  [
+    "ProtLLM: An Interleaved Protein-Language LLM with Protein-as-Word Pre-Training",
+    "https://aclanthology.org/2024.acl-long.484/",
+    "https://aclanthology.org/2024.acl-long.484.pdf"
+  ],
+  [
+    "StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning",
+    "https://aclanthology.org/2024.acl-long.485/",
+    "https://aclanthology.org/2024.acl-long.485.pdf"
+  ],
+  [
+    "Investigating Multi-Hop Factual Shortcuts in Knowledge Editing of Large Language Models",
+    "https://aclanthology.org/2024.acl-long.486/",
+    "https://aclanthology.org/2024.acl-long.486.pdf"
+  ],
+  [
+    "Why Don’t Prompt-Based Fairness Metrics Correlate?",
+    "https://aclanthology.org/2024.acl-long.487/",
+    "https://aclanthology.org/2024.acl-long.487.pdf"
+  ],
+  [
+    "NaijaHate: Evaluating Hate Speech Detection on Nigerian Twitter Using Representative Data",
+    "https://aclanthology.org/2024.acl-long.488/",
+    "https://aclanthology.org/2024.acl-long.488.pdf"
+  ],
+  [
+    "M3AV: A Multimodal, Multigenre, and Multipurpose Audio-Visual Academic Lecture Dataset",
+    "https://aclanthology.org/2024.acl-long.489/",
+    "https://aclanthology.org/2024.acl-long.489.pdf"
+  ],
+  [
+    "Mitigating Biases for Instruction-following Language Models via Bias Neurons Elimination",
+    "https://aclanthology.org/2024.acl-long.490/",
+    "https://aclanthology.org/2024.acl-long.490.pdf"
+  ],
+  [
+    "Domain Adaptation for Subjective Induction Questions Answering on Products by Adversarial Disentangled Learning",
+    "https://aclanthology.org/2024.acl-long.491/",
+    "https://aclanthology.org/2024.acl-long.491.pdf"
+  ],
+  [
+    "Revisiting Demonstration Selection Strategies in In-Context Learning",
+    "https://aclanthology.org/2024.acl-long.492/",
+    "https://aclanthology.org/2024.acl-long.492.pdf"
+  ],
+  [
+    "Multimodal Table Understanding",
+    "https://aclanthology.org/2024.acl-long.493/",
+    "https://aclanthology.org/2024.acl-long.493.pdf"
+  ],
+  [
+    "Ex3: Automatic Novel Writing by Extracting, Excelsior and Expanding",
+    "https://aclanthology.org/2024.acl-long.494/",
+    "https://aclanthology.org/2024.acl-long.494.pdf"
+  ],
+  [
+    "Few-shot Transfer Learning for Knowledge Base Question Answering: Fusing Supervised Models with In-Context Learning",
+    "https://aclanthology.org/2024.acl-long.495/",
+    "https://aclanthology.org/2024.acl-long.495.pdf"
+  ],
+  [
+    "WatME: Towards Lossless Watermarking Through Lexical Redundancy",
+    "https://aclanthology.org/2024.acl-long.496/",
+    "https://aclanthology.org/2024.acl-long.496.pdf"
+  ],
+  [
+    "Text-like Encoding of Collaborative Information in Large Language Models for Recommendation",
+    "https://aclanthology.org/2024.acl-long.497/",
+    "https://aclanthology.org/2024.acl-long.497.pdf"
+  ],
+  [
+    "MM-SAP: A Comprehensive Benchmark for Assessing Self-Awareness of Multimodal Large Language Models in Perception",
+    "https://aclanthology.org/2024.acl-long.498/",
+    "https://aclanthology.org/2024.acl-long.498.pdf"
+  ],
+  [
+    "Focus on Your Question! Interpreting and Mitigating Toxic CoT Problems in Commonsense Reasoning",
+    "https://aclanthology.org/2024.acl-long.499/",
+    "https://aclanthology.org/2024.acl-long.499.pdf"
+  ],
+  [
+    "Multi-Aspect Controllable Text Generation with Disentangled Counterfactual Augmentation",
+    "https://aclanthology.org/2024.acl-long.500/",
+    "https://aclanthology.org/2024.acl-long.500.pdf"
+  ],
+  [
+    "Reward-based Input Construction for Cross-document Relation Extraction",
+    "https://aclanthology.org/2024.acl-long.501/",
+    "https://aclanthology.org/2024.acl-long.501.pdf"
+  ],
+  [
+    "Hyperspherical Multi-Prototype with Optimal Transport for Event Argument Extraction",
+    "https://aclanthology.org/2024.acl-long.502/",
+    "https://aclanthology.org/2024.acl-long.502.pdf"
+  ],
+  [
+    "Understanding Retrieval Robustness for Retrieval-augmented Image Captioning",
+    "https://aclanthology.org/2024.acl-long.503/",
+    "https://aclanthology.org/2024.acl-long.503.pdf"
+  ],
+  [
+    "Semi-Supervised Spoken Language Glossification",
+    "https://aclanthology.org/2024.acl-long.504/",
+    "https://aclanthology.org/2024.acl-long.504.pdf"
+  ],
+  [
+    "SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents",
+    "https://aclanthology.org/2024.acl-long.505/",
+    "https://aclanthology.org/2024.acl-long.505.pdf"
+  ],
+  [
+    "InterrogateLLM: Zero-Resource Hallucination Detection in LLM-Generated Answers",
+    "https://aclanthology.org/2024.acl-long.506/",
+    "https://aclanthology.org/2024.acl-long.506.pdf"
+  ],
+  [
+    "F-Eval: Asssessing Fundamental Abilities with Refined Evaluation Methods",
+    "https://aclanthology.org/2024.acl-long.507/",
+    "https://aclanthology.org/2024.acl-long.507.pdf"
+  ],
+  [
+    "Comparing Inferential Strategies of Humans and Large Language Models in Deductive Reasoning",
+    "https://aclanthology.org/2024.acl-long.508/",
+    "https://aclanthology.org/2024.acl-long.508.pdf"
+  ],
+  [
+    "Whose Preferences? Differences in Fairness Preferences and Their Impact on the Fairness of AI Utilizing Human Feedback",
+    "https://aclanthology.org/2024.acl-long.509/",
+    "https://aclanthology.org/2024.acl-long.509.pdf"
+  ],
+  [
+    "Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations",
+    "https://aclanthology.org/2024.acl-long.510/",
+    "https://aclanthology.org/2024.acl-long.510.pdf"
+  ],
+  [
+    "Large Language Models are not Fair Evaluators",
+    "https://aclanthology.org/2024.acl-long.511/",
+    "https://aclanthology.org/2024.acl-long.511.pdf"
+  ],
+  [
+    "Improving Large Language Models in Event Relation Logical Prediction",
+    "https://aclanthology.org/2024.acl-long.512/",
+    "https://aclanthology.org/2024.acl-long.512.pdf"
+  ],
+  [
+    "Synchronized Video Storytelling: Generating Video Narrations with Structured Storyline",
+    "https://aclanthology.org/2024.acl-long.513/",
+    "https://aclanthology.org/2024.acl-long.513.pdf"
+  ],
+  [
+    "Fine-Grained Image-Text Alignment in Medical Imaging Enables Explainable Cyclic Image-Report Generation",
+    "https://aclanthology.org/2024.acl-long.514/",
+    "https://aclanthology.org/2024.acl-long.514.pdf"
+  ],
+  [
+    "T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step",
+    "https://aclanthology.org/2024.acl-long.515/",
+    "https://aclanthology.org/2024.acl-long.515.pdf"
+  ],
+  [
+    "Are LLM-based Evaluators Confusing NLG Quality Criteria?",
+    "https://aclanthology.org/2024.acl-long.516/",
+    "https://aclanthology.org/2024.acl-long.516.pdf"
+  ],
+  [
+    "Synergistic Interplay between Search and Large Language Models for Information Retrieval",
+    "https://aclanthology.org/2024.acl-long.517/",
+    "https://aclanthology.org/2024.acl-long.517.pdf"
+  ],
+  [
+    "Linear Transformers with Learnable Kernel Functions are Better In-Context Models",
+    "https://aclanthology.org/2024.acl-long.518/",
+    "https://aclanthology.org/2024.acl-long.518.pdf"
+  ],
+  [
+    "Temperature-scaling surprisal estimates improve fit to human reading times – but does it do so for the “right reasons”?",
+    "https://aclanthology.org/2024.acl-long.519/",
+    "https://aclanthology.org/2024.acl-long.519.pdf"
+  ],
+  [
+    "Beyond Recognising Entailment: Formalising Natural Language Inference from an Argumentative Perspective",
+    "https://aclanthology.org/2024.acl-long.520/",
+    "https://aclanthology.org/2024.acl-long.520.pdf"
+  ],
+  [
+    "AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling",
+    "https://aclanthology.org/2024.acl-long.521/",
+    "https://aclanthology.org/2024.acl-long.521.pdf"
+  ],
+  [
+    "CofiPara: A Coarse-to-fine Paradigm for Multimodal Sarcasm Target Identification with Large Multimodal Models",
+    "https://aclanthology.org/2024.acl-long.522/",
+    "https://aclanthology.org/2024.acl-long.522.pdf"
+  ],
+  [
+    "Direct Large Language Model Alignment Through Self-Rewarding Contrastive Prompt Distillation",
+    "https://aclanthology.org/2024.acl-long.523/",
+    "https://aclanthology.org/2024.acl-long.523.pdf"
+  ],
+  [
+    "Diffusion Lens: Interpreting Text Encoders in Text-to-Image Pipelines",
+    "https://aclanthology.org/2024.acl-long.524/",
+    "https://aclanthology.org/2024.acl-long.524.pdf"
+  ],
+  [
+    "Parrot: Enhancing Multi-Turn Instruction Following for Large Language Models",
+    "https://aclanthology.org/2024.acl-long.525/",
+    "https://aclanthology.org/2024.acl-long.525.pdf"
+  ],
+  [
+    "Robust Singing Voice Transcription Serves Synthesis",
+    "https://aclanthology.org/2024.acl-long.526/",
+    "https://aclanthology.org/2024.acl-long.526.pdf"
+  ],
+  [
+    "VulLibGen: Generating Names of Vulnerability-Affected Packages via a Large Language Model",
+    "https://aclanthology.org/2024.acl-long.527/",
+    "https://aclanthology.org/2024.acl-long.527.pdf"
+  ],
+  [
+    "Self-Modifying State Modeling for Simultaneous Machine Translation",
+    "https://aclanthology.org/2024.acl-long.528/",
+    "https://aclanthology.org/2024.acl-long.528.pdf"
+  ],
+  [
+    "MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation",
+    "https://aclanthology.org/2024.acl-long.529/",
+    "https://aclanthology.org/2024.acl-long.529.pdf"
+  ],
+  [
+    "BadAgent: Inserting and Activating Backdoor Attacks in LLM Agents",
+    "https://aclanthology.org/2024.acl-long.530/",
+    "https://aclanthology.org/2024.acl-long.530.pdf"
+  ],
+  [
+    "DetermLR: Augmenting LLM-based Logical Reasoning from Indeterminacy to Determinacy",
+    "https://aclanthology.org/2024.acl-long.531/",
+    "https://aclanthology.org/2024.acl-long.531.pdf"
+  ],
+  [
+    "LePaRD: A Large-Scale Dataset of Judicial Citations to Precedent",
+    "https://aclanthology.org/2024.acl-long.532/",
+    "https://aclanthology.org/2024.acl-long.532.pdf"
+  ],
+  [
+    "To Generate or to Retrieve? On the Effectiveness of Artificial Contexts for Medical Open-Domain Question Answering",
+    "https://aclanthology.org/2024.acl-long.533/",
+    "https://aclanthology.org/2024.acl-long.533.pdf"
+  ],
+  [
+    "MERA: A Comprehensive LLM Evaluation in Russian",
+    "https://aclanthology.org/2024.acl-long.534/",
+    "https://aclanthology.org/2024.acl-long.534.pdf"
+  ],
+  [
+    "SC2: Towards Enhancing Content Preservation and Style Consistency in Long Text Style Transfer",
+    "https://aclanthology.org/2024.acl-long.535/",
+    "https://aclanthology.org/2024.acl-long.535.pdf"
+  ],
+  [
+    "Dodo: Dynamic Contextual Compression for Decoder-only LMs",
+    "https://aclanthology.org/2024.acl-long.536/",
+    "https://aclanthology.org/2024.acl-long.536.pdf"
+  ],
+  [
+    "POMP: Probability-driven Meta-graph Prompter for LLMs in Low-resource Unsupervised Neural Machine Translation",
+    "https://aclanthology.org/2024.acl-long.537/",
+    "https://aclanthology.org/2024.acl-long.537.pdf"
+  ],
+  [
+    "NewsBench: A Systematic Evaluation Framework for Assessing Editorial Capabilities of Large Language Models in Chinese Journalism",
+    "https://aclanthology.org/2024.acl-long.538/",
+    "https://aclanthology.org/2024.acl-long.538.pdf"
+  ],
+  [
+    "MAPO: Advancing Multilingual Reasoning through Multilingual-Alignment-as-Preference Optimization",
+    "https://aclanthology.org/2024.acl-long.539/",
+    "https://aclanthology.org/2024.acl-long.539.pdf"
+  ],
+  [
+    "Enhancing Noise Robustness of Retrieval-Augmented Language Models with Adaptive Adversarial Training",
+    "https://aclanthology.org/2024.acl-long.540/",
+    "https://aclanthology.org/2024.acl-long.540.pdf"
+  ],
+  [
+    "Predicting Text Preference Via Structured Comparative Reasoning",
+    "https://aclanthology.org/2024.acl-long.541/",
+    "https://aclanthology.org/2024.acl-long.541.pdf"
+  ],
+  [
+    "CoELM: Construction-Enhanced Language Modeling",
+    "https://aclanthology.org/2024.acl-long.542/",
+    "https://aclanthology.org/2024.acl-long.542.pdf"
+  ],
+  [
+    "Uni-Dubbing: Zero-Shot Speech Synthesis from Visual Articulation",
+    "https://aclanthology.org/2024.acl-long.543/",
+    "https://aclanthology.org/2024.acl-long.543.pdf"
+  ],
+  [
+    "On the Impact of Calibration Data in Post-training Quantization and Pruning",
+    "https://aclanthology.org/2024.acl-long.544/",
+    "https://aclanthology.org/2024.acl-long.544.pdf"
+  ],
+  [
+    "SymKGQA: Few-Shot Knowledge Graph Question Answering via Symbolic Program Generation and Execution",
+    "https://aclanthology.org/2024.acl-long.545/",
+    "https://aclanthology.org/2024.acl-long.545.pdf"
+  ],
+  [
+    "Meta-Task Prompting Elicits Embeddings from Large Language Models",
+    "https://aclanthology.org/2024.acl-long.546/",
+    "https://aclanthology.org/2024.acl-long.546.pdf"
+  ],
+  [
+    "A Sentiment Consolidation Framework for Meta-Review Generation",
+    "https://aclanthology.org/2024.acl-long.547/",
+    "https://aclanthology.org/2024.acl-long.547.pdf"
+  ],
+  [
+    "Revisiting Structured Sentiment Analysis as Latent Dependency Graph Parsing",
+    "https://aclanthology.org/2024.acl-long.548/",
+    "https://aclanthology.org/2024.acl-long.548.pdf"
+  ],
+  [
+    "OWSM-CTC: An Open Encoder-Only Speech Foundation Model for Speech Recognition, Translation, and Language Identification",
+    "https://aclanthology.org/2024.acl-long.549/",
+    "https://aclanthology.org/2024.acl-long.549.pdf"
+  ],
+  [
+    "Do Large Language Models Latently Perform Multi-Hop Reasoning?",
+    "https://aclanthology.org/2024.acl-long.550/",
+    "https://aclanthology.org/2024.acl-long.550.pdf"
+  ],
+  [
+    "MuggleMath: Assessing the Impact of Query and Response Augmentation on Math Reasoning",
+    "https://aclanthology.org/2024.acl-long.551/",
+    "https://aclanthology.org/2024.acl-long.551.pdf"
+  ],
+  [
+    "Harnessing Toulmin’s theory for zero-shot argument explication",
+    "https://aclanthology.org/2024.acl-long.552/",
+    "https://aclanthology.org/2024.acl-long.552.pdf"
+  ],
+  [
+    "BinaryAlign: Word Alignment as Binary Sequence Labeling",
+    "https://aclanthology.org/2024.acl-long.553/",
+    "https://aclanthology.org/2024.acl-long.553.pdf"
+  ],
+  [
+    "Quantifying the Persona Effect in LLM Simulations",
+    "https://aclanthology.org/2024.acl-long.554/",
+    "https://aclanthology.org/2024.acl-long.554.pdf"
+  ],
+  [
+    "Artifacts or Abduction: How Do LLMs Answer Multiple-Choice Questions Without the Question?",
+    "https://aclanthology.org/2024.acl-long.555/",
+    "https://aclanthology.org/2024.acl-long.555.pdf"
+  ],
+  [
+    "Retrieval Augmented Fact Verification by Synthesizing Contrastive Arguments",
+    "https://aclanthology.org/2024.acl-long.556/",
+    "https://aclanthology.org/2024.acl-long.556.pdf"
+  ],
+  [
+    "SyllabusQA: A Course Logistics Question Answering Dataset",
+    "https://aclanthology.org/2024.acl-long.557/",
+    "https://aclanthology.org/2024.acl-long.557.pdf"
+  ],
+  [
+    "MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models",
+    "https://aclanthology.org/2024.acl-long.558/",
+    "https://aclanthology.org/2024.acl-long.558.pdf"
+  ],
+  [
+    "AGB-DE: A Corpus for the Automated Legal Assessment of Clauses in German Consumer Contracts",
+    "https://aclanthology.org/2024.acl-long.559/",
+    "https://aclanthology.org/2024.acl-long.559.pdf"
+  ],
+  [
+    "Examining the robustness of LLM evaluation to the distributional assumptions of benchmarks",
+    "https://aclanthology.org/2024.acl-long.560/",
+    "https://aclanthology.org/2024.acl-long.560.pdf"
+  ],
+  [
+    "Re-Tuning: Overcoming the Compositionality Limits of Large Language Models with Recursive Tuning",
+    "https://aclanthology.org/2024.acl-long.561/",
+    "https://aclanthology.org/2024.acl-long.561.pdf"
+  ],
+  [
+    "Bridging the Preference Gap between Retrievers and LLMs",
+    "https://aclanthology.org/2024.acl-long.562/",
+    "https://aclanthology.org/2024.acl-long.562.pdf"
+  ],
+  [
+    "Large Language Models Can Learn Temporal Reasoning",
+    "https://aclanthology.org/2024.acl-long.563/",
+    "https://aclanthology.org/2024.acl-long.563.pdf"
+  ],
+  [
+    "Learning Relational Decomposition of Queries for Question Answering from Tables",
+    "https://aclanthology.org/2024.acl-long.564/",
+    "https://aclanthology.org/2024.acl-long.564.pdf"
+  ],
+  [
+    "Characterizing Similarities and Divergences in Conversational Tones in Humans and LLMs by Sampling with People",
+    "https://aclanthology.org/2024.acl-long.565/",
+    "https://aclanthology.org/2024.acl-long.565.pdf"
+  ],
+  [
+    "Pareto Optimal Learning for Estimating Large Language Model Errors",
+    "https://aclanthology.org/2024.acl-long.566/",
+    "https://aclanthology.org/2024.acl-long.566.pdf"
+  ],
+  [
+    "Simul-LLM: A Framework for Exploring High-Quality Simultaneous Translation with Large Language Models",
+    "https://aclanthology.org/2024.acl-long.567/",
+    "https://aclanthology.org/2024.acl-long.567.pdf"
+  ],
+  [
+    "Defending Against Alignment-Breaking Attacks via Robustly Aligned LLM",
+    "https://aclanthology.org/2024.acl-long.568/",
+    "https://aclanthology.org/2024.acl-long.568.pdf"
+  ],
+  [
+    "Interactive-KBQA: Multi-Turn Interactions for Knowledge Base Question Answering with Large Language Models",
+    "https://aclanthology.org/2024.acl-long.569/",
+    "https://aclanthology.org/2024.acl-long.569.pdf"
+  ],
+  [
+    "LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error",
+    "https://aclanthology.org/2024.acl-long.570/",
+    "https://aclanthology.org/2024.acl-long.570.pdf"
+  ],
+  [
+    "HyperMoE: Towards Better Mixture of Experts via Transferring Among Experts",
+    "https://aclanthology.org/2024.acl-long.571/",
+    "https://aclanthology.org/2024.acl-long.571.pdf"
+  ],
+  [
+    "Aligning Large Language Models with Human Preferences through Representation Engineering",
+    "https://aclanthology.org/2024.acl-long.572/",
+    "https://aclanthology.org/2024.acl-long.572.pdf"
+  ],
+  [
+    "CODIS: Benchmarking Context-dependent Visual Comprehension for Multimodal Large Language Models",
+    "https://aclanthology.org/2024.acl-long.573/",
+    "https://aclanthology.org/2024.acl-long.573.pdf"
+  ],
+  [
+    "ARAIDA: Analogical Reasoning-Augmented Interactive Data Annotation",
+    "https://aclanthology.org/2024.acl-long.574/",
+    "https://aclanthology.org/2024.acl-long.574.pdf"
+  ],
+  [
+    "PolCLIP: A Unified Image-Text Word Sense Disambiguation Model via Generating Multimodal Complementary Representations",
+    "https://aclanthology.org/2024.acl-long.575/",
+    "https://aclanthology.org/2024.acl-long.575.pdf"
+  ],
+  [
+    "Prompted Aspect Key Point Analysis for Quantitative Review Summarization",
+    "https://aclanthology.org/2024.acl-long.576/",
+    "https://aclanthology.org/2024.acl-long.576.pdf"
+  ],
+  [
+    "Ask Again, Then Fail: Large Language Models’ Vacillations in Judgment",
+    "https://aclanthology.org/2024.acl-long.577/",
+    "https://aclanthology.org/2024.acl-long.577.pdf"
+  ],
+  [
+    "CLAMBER: A Benchmark of Identifying and Clarifying Ambiguous Information Needs in Large Language Models",
+    "https://aclanthology.org/2024.acl-long.578/",
+    "https://aclanthology.org/2024.acl-long.578.pdf"
+  ],
+  [
+    "Multimodal Reasoning with Multimodal Knowledge Graph",
+    "https://aclanthology.org/2024.acl-long.579/",
+    "https://aclanthology.org/2024.acl-long.579.pdf"
+  ],
+  [
+    "Confidence is not Timeless: Modeling Temporal Validity for Rule-based Temporal Knowledge Graph Forecasting",
+    "https://aclanthology.org/2024.acl-long.580/",
+    "https://aclanthology.org/2024.acl-long.580.pdf"
+  ],
+  [
+    "CARE: A Clue-guided Assistant for CSRs to Read User Manuals",
+    "https://aclanthology.org/2024.acl-long.581/",
+    "https://aclanthology.org/2024.acl-long.581.pdf"
+  ],
+  [
+    "Enhancing Numerical Reasoning with the Guidance of Reliable Reasoning Processes",
+    "https://aclanthology.org/2024.acl-long.582/",
+    "https://aclanthology.org/2024.acl-long.582.pdf"
+  ],
+  [
+    "PAGED: A Benchmark for Procedural Graphs Extraction from Documents",
+    "https://aclanthology.org/2024.acl-long.583/",
+    "https://aclanthology.org/2024.acl-long.583.pdf"
+  ],
+  [
+    "Navigating the Shadows: Unveiling Effective Disturbances for Modern AI Content Detectors",
+    "https://aclanthology.org/2024.acl-long.584/",
+    "https://aclanthology.org/2024.acl-long.584.pdf"
+  ],
+  [
+    "RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models",
+    "https://aclanthology.org/2024.acl-long.585/",
+    "https://aclanthology.org/2024.acl-long.585.pdf"
+  ],
+  [
+    "The Dawn After the Dark: An Empirical Study on Factuality Hallucination in Large Language Models",
+    "https://aclanthology.org/2024.acl-long.586/",
+    "https://aclanthology.org/2024.acl-long.586.pdf"
+  ],
+  [
+    "Revisiting Knowledge Distillation for Autoregressive Language Models",
+    "https://aclanthology.org/2024.acl-long.587/",
+    "https://aclanthology.org/2024.acl-long.587.pdf"
+  ],
+  [
+    "Continual Learning with Semi-supervised Contrastive Distillation for Incremental Neural Machine Translation",
+    "https://aclanthology.org/2024.acl-long.588/",
+    "https://aclanthology.org/2024.acl-long.588.pdf"
+  ],
+  [
+    "Make-A-Voice: Revisiting Voice Large Language Models as Scalable Multilingual and Multitask Learners",
+    "https://aclanthology.org/2024.acl-long.589/",
+    "https://aclanthology.org/2024.acl-long.589.pdf"
+  ],
+  [
+    "Chat Vector: A Simple Approach to Equip LLMs with Instruction Following and Model Alignment in New Languages",
+    "https://aclanthology.org/2024.acl-long.590/",
+    "https://aclanthology.org/2024.acl-long.590.pdf"
+  ],
+  [
+    "PRP: Propagating Universal Perturbations to Attack Large Language Model Guard-Rails",
+    "https://aclanthology.org/2024.acl-long.591/",
+    "https://aclanthology.org/2024.acl-long.591.pdf"
+  ],
+  [
+    "Hide and Seek in Noise Labels: Noise-Robust Collaborative Active Learning with LLMs-Powered Assistance",
+    "https://aclanthology.org/2024.acl-long.592/",
+    "https://aclanthology.org/2024.acl-long.592.pdf"
+  ],
+  [
+    "CLOMO: Counterfactual Logical Modification with Large Language Models",
+    "https://aclanthology.org/2024.acl-long.593/",
+    "https://aclanthology.org/2024.acl-long.593.pdf"
+  ],
+  [
+    "Exploring Hybrid Question Answering via Program-based Prompting",
+    "https://aclanthology.org/2024.acl-long.594/",
+    "https://aclanthology.org/2024.acl-long.594.pdf"
+  ],
+  [
+    "IndicGenBench: A Multilingual Benchmark to Evaluate Generation Capabilities of LLMs on Indic Languages",
+    "https://aclanthology.org/2024.acl-long.595/",
+    "https://aclanthology.org/2024.acl-long.595.pdf"
+  ],
+  [
+    "Simple but Effective Compound Geometric Operations for Temporal Knowledge Graph Completion",
+    "https://aclanthology.org/2024.acl-long.596/",
+    "https://aclanthology.org/2024.acl-long.596.pdf"
+  ],
+  [
+    "Uncertainty Aware Learning for Language Model Alignment",
+    "https://aclanthology.org/2024.acl-long.597/",
+    "https://aclanthology.org/2024.acl-long.597.pdf"
+  ],
+  [
+    "Interpretable User Satisfaction Estimation for Conversational Systems with Large Language Models",
+    "https://aclanthology.org/2024.acl-long.598/",
+    "https://aclanthology.org/2024.acl-long.598.pdf"
+  ],
+  [
+    "Fundamental Capabilities of Large Language Models and their Applications in Domain Scenarios: A Survey",
+    "https://aclanthology.org/2024.acl-long.599/",
+    "https://aclanthology.org/2024.acl-long.599.pdf"
+  ],
+  [
+    "Measuring Political Bias in Large Language Models: What Is Said and How It Is Said",
+    "https://aclanthology.org/2024.acl-long.600/",
+    "https://aclanthology.org/2024.acl-long.600.pdf"
+  ],
+  [
+    "Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use",
+    "https://aclanthology.org/2024.acl-long.601/",
+    "https://aclanthology.org/2024.acl-long.601.pdf"
+  ],
+  [
+    "Layer-Condensed KV Cache for Efficient Inference of Large Language Models",
+    "https://aclanthology.org/2024.acl-long.602/",
+    "https://aclanthology.org/2024.acl-long.602.pdf"
+  ],
+  [
+    "Enhancing Multilingual Capabilities of Large Language Models through Self-Distillation from Resource-Rich Languages",
+    "https://aclanthology.org/2024.acl-long.603/",
+    "https://aclanthology.org/2024.acl-long.603.pdf"
+  ],
+  [
+    "Benchmarking Chinese Commonsense Reasoning of LLMs: From Chinese-Specifics to Reasoning-Memorization Correlations",
+    "https://aclanthology.org/2024.acl-long.604/",
+    "https://aclanthology.org/2024.acl-long.604.pdf"
+  ],
+  [
+    "Browse and Concentrate: Comprehending Multimodal Content via Prior-LLM Context Fusion",
+    "https://aclanthology.org/2024.acl-long.605/",
+    "https://aclanthology.org/2024.acl-long.605.pdf"
+  ],
+  [
+    "Model Composition for Multimodal Large Language Models",
+    "https://aclanthology.org/2024.acl-long.606/",
+    "https://aclanthology.org/2024.acl-long.606.pdf"
+  ],
+  [
+    "Draft & Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding",
+    "https://aclanthology.org/2024.acl-long.607/",
+    "https://aclanthology.org/2024.acl-long.607.pdf"
+  ],
+  [
+    "Soul-Mix: Enhancing Multimodal Machine Translation with Manifold Mixup",
+    "https://aclanthology.org/2024.acl-long.608/",
+    "https://aclanthology.org/2024.acl-long.608.pdf"
+  ],
+  [
+    "Measuring Meaning Composition in the Human Brain with Composition Scores from Large Language Models",
+    "https://aclanthology.org/2024.acl-long.609/",
+    "https://aclanthology.org/2024.acl-long.609.pdf"
+  ],
+  [
+    "MIST: Mutual Information Maximization for Short Text Clustering",
+    "https://aclanthology.org/2024.acl-long.610/",
+    "https://aclanthology.org/2024.acl-long.610.pdf"
+  ],
+  [
+    "Self-chats from Large Language Models Make Small Emotional Support Chatbot Better",
+    "https://aclanthology.org/2024.acl-long.611/",
+    "https://aclanthology.org/2024.acl-long.611.pdf"
+  ],
+  [
+    "Improving Conversational Abilities of Quantized Large Language Models via Direct Preference Alignment",
+    "https://aclanthology.org/2024.acl-long.612/",
+    "https://aclanthology.org/2024.acl-long.612.pdf"
+  ],
+  [
+    "Complex Reasoning over Logical Queries on Commonsense Knowledge Graphs",
+    "https://aclanthology.org/2024.acl-long.613/",
+    "https://aclanthology.org/2024.acl-long.613.pdf"
+  ],
+  [
+    "An Expert is Worth One Token: Synergizing Multiple Expert LLMs as Generalist via Expert Token Routing",
+    "https://aclanthology.org/2024.acl-long.614/",
+    "https://aclanthology.org/2024.acl-long.614.pdf"
+  ],
+  [
+    "Learning to Plan and Generate Text with Citations",
+    "https://aclanthology.org/2024.acl-long.615/",
+    "https://aclanthology.org/2024.acl-long.615.pdf"
+  ],
+  [
+    "Exploring Precision and Recall to assess the quality and diversity of LLMs",
+    "https://aclanthology.org/2024.acl-long.616/",
+    "https://aclanthology.org/2024.acl-long.616.pdf"
+  ],
+  [
+    "Aligning Large Language Models by On-Policy Self-Judgment",
+    "https://aclanthology.org/2024.acl-long.617/",
+    "https://aclanthology.org/2024.acl-long.617.pdf"
+  ],
+  [
+    "IL-TUR: Benchmark for Indian Legal Text Understanding and Reasoning",
+    "https://aclanthology.org/2024.acl-long.618/",
+    "https://aclanthology.org/2024.acl-long.618.pdf"
+  ],
+  [
+    "JumpCoder: Go Beyond Autoregressive Coder via Online Modification",
+    "https://aclanthology.org/2024.acl-long.619/",
+    "https://aclanthology.org/2024.acl-long.619.pdf"
+  ],
+  [
+    "Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning",
+    "https://aclanthology.org/2024.acl-long.620/",
+    "https://aclanthology.org/2024.acl-long.620.pdf"
+  ],
+  [
+    "Language Models can Exploit Cross-Task In-context Learning for Data-Scarce Novel Tasks",
+    "https://aclanthology.org/2024.acl-long.621/",
+    "https://aclanthology.org/2024.acl-long.621.pdf"
+  ],
+  [
+    "Split and Rephrase with Large Language Models",
+    "https://aclanthology.org/2024.acl-long.622/",
+    "https://aclanthology.org/2024.acl-long.622.pdf"
+  ],
+  [
+    "ChunkAttention: Efficient Self-Attention with Prefix-Aware KV Cache and Two-Phase Partition",
+    "https://aclanthology.org/2024.acl-long.623/",
+    "https://aclanthology.org/2024.acl-long.623.pdf"
+  ],
+  [
+    "AlignBench: Benchmarking Chinese Alignment of Large Language Models",
+    "https://aclanthology.org/2024.acl-long.624/",
+    "https://aclanthology.org/2024.acl-long.624.pdf"
+  ],
+  [
+    "SAPT: A Shared Attention Framework for Parameter-Efficient Continual Learning of Large Language Models",
+    "https://aclanthology.org/2024.acl-long.625/",
+    "https://aclanthology.org/2024.acl-long.625.pdf"
+  ],
+  [
+    "DoRA: Enhancing Parameter-Efficient Fine-Tuning with Dynamic Rank Distribution",
+    "https://aclanthology.org/2024.acl-long.626/",
+    "https://aclanthology.org/2024.acl-long.626.pdf"
+  ],
+  [
+    "Cross-Lingual Knowledge Editing in Large Language Models",
+    "https://aclanthology.org/2024.acl-long.627/",
+    "https://aclanthology.org/2024.acl-long.627.pdf"
+  ],
+  [
+    "Argument Mining in Data Scarce Settings: Cross-lingual Transfer and Few-shot Techniques",
+    "https://aclanthology.org/2024.acl-long.628/",
+    "https://aclanthology.org/2024.acl-long.628.pdf"
+  ],
+  [
+    "Learning Task Decomposition to Assist Humans in Competitive Programming",
+    "https://aclanthology.org/2024.acl-long.629/",
+    "https://aclanthology.org/2024.acl-long.629.pdf"
+  ],
+  [
+    "An Entropy-based Text Watermarking Detection Method",
+    "https://aclanthology.org/2024.acl-long.630/",
+    "https://aclanthology.org/2024.acl-long.630.pdf"
+  ],
+  [
+    "Enhancing Explainable Rating Prediction through Annotated Macro Concepts",
+    "https://aclanthology.org/2024.acl-long.631/",
+    "https://aclanthology.org/2024.acl-long.631.pdf"
+  ],
+  [
+    "How to Engage your Readers? Generating Guiding Questions to Promote Active Reading",
+    "https://aclanthology.org/2024.acl-long.632/",
+    "https://aclanthology.org/2024.acl-long.632.pdf"
+  ],
+  [
+    "Less is More: Mitigating Multimodal Hallucination from an EOS Decision Perspective",
+    "https://aclanthology.org/2024.acl-long.633/",
+    "https://aclanthology.org/2024.acl-long.633.pdf"
+  ],
+  [
+    "Integrate the Essence and Eliminate the Dross: Fine-Grained Self-Consistency for Free-Form Language Generation",
+    "https://aclanthology.org/2024.acl-long.634/",
+    "https://aclanthology.org/2024.acl-long.634.pdf"
+  ],
+  [
+    "More frequent verbs are associated with more diverse valency frames: Efficient principles at the lexicon-grammar interface",
+    "https://aclanthology.org/2024.acl-long.635/",
+    "https://aclanthology.org/2024.acl-long.635.pdf"
+  ],
+  [
+    "Quantifying Generalizations: Exploring the Divide Between Human and LLMs’ Sensitivity to Quantification",
+    "https://aclanthology.org/2024.acl-long.636/",
+    "https://aclanthology.org/2024.acl-long.636.pdf"
+  ],
+  [
+    "Can Large Language Models Interpret Noun-Noun Compounds? A Linguistically-Motivated Study on Lexicalized and Novel Compounds",
+    "https://aclanthology.org/2024.acl-long.637/",
+    "https://aclanthology.org/2024.acl-long.637.pdf"
+  ],
+  [
+    "CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation",
+    "https://aclanthology.org/2024.acl-long.638/",
+    "https://aclanthology.org/2024.acl-long.638.pdf"
+  ],
+  [
+    "Generative Cross-Modal Retrieval: Memorizing Images in Multimodal Language Models for Retrieval and Beyond",
+    "https://aclanthology.org/2024.acl-long.639/",
+    "https://aclanthology.org/2024.acl-long.639.pdf"
+  ],
+  [
+    "Self-Training with Pseudo-Label Scorer for Aspect Sentiment Quad Prediction",
+    "https://aclanthology.org/2024.acl-long.640/",
+    "https://aclanthology.org/2024.acl-long.640.pdf"
+  ],
+  [
+    "Learning to Generate Answers with Citations via Factual Consistency Models",
+    "https://aclanthology.org/2024.acl-long.641/",
+    "https://aclanthology.org/2024.acl-long.641.pdf"
+  ],
+  [
+    "Improving Text Embeddings with Large Language Models",
+    "https://aclanthology.org/2024.acl-long.642/",
+    "https://aclanthology.org/2024.acl-long.642.pdf"
+  ],
+  [
+    "Self-Training with Direct Preference Optimization Improves Chain-of-Thought Reasoning",
+    "https://aclanthology.org/2024.acl-long.643/",
+    "https://aclanthology.org/2024.acl-long.643.pdf"
+  ],
+  [
+    "UltraLink: An Open-Source Knowledge-Enhanced Multilingual Supervised Fine-tuning Dataset",
+    "https://aclanthology.org/2024.acl-long.644/",
+    "https://aclanthology.org/2024.acl-long.644.pdf"
+  ],
+  [
+    "Document-level Claim Extraction and Decontextualisation for Fact-Checking",
+    "https://aclanthology.org/2024.acl-long.645/",
+    "https://aclanthology.org/2024.acl-long.645.pdf"
+  ],
+  [
+    "PairCFR: Enhancing Model Training on Paired Counterfactually Augmented Data through Contrastive Learning",
+    "https://aclanthology.org/2024.acl-long.646/",
+    "https://aclanthology.org/2024.acl-long.646.pdf"
+  ],
+  [
+    "LLMs Learn Task Heuristics from Demonstrations: A Heuristic-Driven Prompting Strategy for Document-Level Event Argument Extraction",
+    "https://aclanthology.org/2024.acl-long.647/",
+    "https://aclanthology.org/2024.acl-long.647.pdf"
+  ],
+  [
+    "Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models",
+    "https://aclanthology.org/2024.acl-long.648/",
+    "https://aclanthology.org/2024.acl-long.648.pdf"
+  ],
+  [
+    "mCoT: Multilingual Instruction Tuning for Reasoning Consistency in Language Models",
+    "https://aclanthology.org/2024.acl-long.649/",
+    "https://aclanthology.org/2024.acl-long.649.pdf"
+  ],
+  [
+    "GunStance: Stance Detection for Gun Control and Gun Regulation",
+    "https://aclanthology.org/2024.acl-long.650/",
+    "https://aclanthology.org/2024.acl-long.650.pdf"
+  ],
+  [
+    "Beyond Traditional Benchmarks: Analyzing Behaviors of Open LLMs on Data-to-Text Generation",
+    "https://aclanthology.org/2024.acl-long.651/",
+    "https://aclanthology.org/2024.acl-long.651.pdf"
+  ],
+  [
+    "Don’t Go To Extremes: Revealing the Excessive Sensitivity and Calibration Limitations of LLMs in Implicit Hate Speech Detection",
+    "https://aclanthology.org/2024.acl-long.652/",
+    "https://aclanthology.org/2024.acl-long.652.pdf"
+  ],
+  [
+    "Don’t Rank, Combine! Combining Machine Translation Hypotheses Using Quality Estimation",
+    "https://aclanthology.org/2024.acl-long.653/",
+    "https://aclanthology.org/2024.acl-long.653.pdf"
+  ],
+  [
+    "Generating and Evaluating Plausible Explanations for Knowledge Graph Completion",
+    "https://aclanthology.org/2024.acl-long.654/",
+    "https://aclanthology.org/2024.acl-long.654.pdf"
+  ],
+  [
+    "One Prompt To Rule Them All: LLMs for Opinion Summary Evaluation",
+    "https://aclanthology.org/2024.acl-long.655/",
+    "https://aclanthology.org/2024.acl-long.655.pdf"
+  ],
+  [
+    "LANDeRMT: Dectecting and Routing Language-Aware Neurons for Selectively Finetuning LLMs to Machine Translation",
+    "https://aclanthology.org/2024.acl-long.656/",
+    "https://aclanthology.org/2024.acl-long.656.pdf"
+  ],
+  [
+    "A Joint Coreference-Aware Approach to Document-Level Target Sentiment Analysis",
+    "https://aclanthology.org/2024.acl-long.657/",
+    "https://aclanthology.org/2024.acl-long.657.pdf"
+  ],
+  [
+    "VisDiaHalBench: A Visual Dialogue Benchmark For Diagnosing Hallucination in Large Vision-Language Models",
+    "https://aclanthology.org/2024.acl-long.658/",
+    "https://aclanthology.org/2024.acl-long.658.pdf"
+  ],
+  [
+    "AutoDSL: Automated domain-specific language design for structural representation of procedures with constraints",
+    "https://aclanthology.org/2024.acl-long.659/",
+    "https://aclanthology.org/2024.acl-long.659.pdf"
+  ],
+  [
+    "Multipath parsing in the brain",
+    "https://aclanthology.org/2024.acl-long.660/",
+    "https://aclanthology.org/2024.acl-long.660.pdf"
+  ],
+  [
+    "Search-Adaptor: Embedding Customization for Information Retrieval",
+    "https://aclanthology.org/2024.acl-long.661/",
+    "https://aclanthology.org/2024.acl-long.661.pdf"
+  ],
+  [
+    "Back to Basics: Revisiting REINFORCE-Style Optimization for Learning from Human Feedback in LLMs",
+    "https://aclanthology.org/2024.acl-long.662/",
+    "https://aclanthology.org/2024.acl-long.662.pdf"
+  ],
+  [
+    "VIEScore: Towards Explainable Metrics for Conditional Image Synthesis Evaluation",
+    "https://aclanthology.org/2024.acl-long.663/",
+    "https://aclanthology.org/2024.acl-long.663.pdf"
+  ],
+  [
+    "Tree Transformer’s Disambiguation Ability of Prepositional Phrase Attachment and Garden Path Effects",
+    "https://aclanthology.org/2024.acl-long.664/",
+    "https://aclanthology.org/2024.acl-long.664.pdf"
+  ],
+  [
+    "Tree-of-Traversals: A Zero-Shot Reasoning Algorithm for Augmenting Black-box Language Models with Knowledge Graphs",
+    "https://aclanthology.org/2024.acl-long.665/",
+    "https://aclanthology.org/2024.acl-long.665.pdf"
+  ],
+  [
+    "Structured Tree Alignment for Evaluation of (Speech) Constituency Parsing",
+    "https://aclanthology.org/2024.acl-long.666/",
+    "https://aclanthology.org/2024.acl-long.666.pdf"
+  ],
+  [
+    "ViSAGe: A Global-Scale Analysis of Visual Stereotypes in Text-to-Image Generation",
+    "https://aclanthology.org/2024.acl-long.667/",
+    "https://aclanthology.org/2024.acl-long.667.pdf"
+  ],
+  [
+    "Transferable and Efficient Non-Factual Content Detection via Probe Training with Offline Consistency Checking",
+    "https://aclanthology.org/2024.acl-long.668/",
+    "https://aclanthology.org/2024.acl-long.668.pdf"
+  ],
+  [
+    "What Do Language Models Learn in Context? The Structured Task Hypothesis.",
+    "https://aclanthology.org/2024.acl-long.669/",
+    "https://aclanthology.org/2024.acl-long.669.pdf"
+  ],
+  [
+    "Agent Lumos: Unified and Modular Training for Open-Source Language Agents",
+    "https://aclanthology.org/2024.acl-long.670/",
+    "https://aclanthology.org/2024.acl-long.670.pdf"
+  ],
+  [
+    "Investigating Cultural Alignment of Large Language Models",
+    "https://aclanthology.org/2024.acl-long.671/",
+    "https://aclanthology.org/2024.acl-long.671.pdf"
+  ],
+  [
+    "More Victories, Less Cooperation: Assessing Cicero’s Diplomacy Play",
+    "https://aclanthology.org/2024.acl-long.672/",
+    "https://aclanthology.org/2024.acl-long.672.pdf"
+  ],
+  [
+    "VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild",
+    "https://aclanthology.org/2024.acl-long.673/",
+    "https://aclanthology.org/2024.acl-long.673.pdf"
+  ],
+  [
+    "RAID: A Shared Benchmark for Robust Evaluation of Machine-Generated Text Detectors",
+    "https://aclanthology.org/2024.acl-long.674/",
+    "https://aclanthology.org/2024.acl-long.674.pdf"
+  ],
+  [
+    "Silent Signals, Loud Impact: LLMs for Word-Sense Disambiguation of Coded Dog Whistles",
+    "https://aclanthology.org/2024.acl-long.675/",
+    "https://aclanthology.org/2024.acl-long.675.pdf"
+  ],
+  [
+    "On the Representational Capacity of Neural Language Models with Chain-of-Thought Reasoning",
+    "https://aclanthology.org/2024.acl-long.676/",
+    "https://aclanthology.org/2024.acl-long.676.pdf"
+  ],
+  [
+    "Analyzing LLM Behavior in Dialogue Summarization: Unveiling Circumstantial Hallucination Trends",
+    "https://aclanthology.org/2024.acl-long.677/",
+    "https://aclanthology.org/2024.acl-long.677.pdf"
+  ],
+  [
+    "LLM in a flash: Efficient Large Language Model Inference with Limited Memory",
+    "https://aclanthology.org/2024.acl-long.678/",
+    "https://aclanthology.org/2024.acl-long.678.pdf"
+  ],
+  [
+    "Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models",
+    "https://aclanthology.org/2024.acl-long.679/",
+    "https://aclanthology.org/2024.acl-long.679.pdf"
+  ],
+  [
+    "To Distill or Not to Distill? On the Robustness of Robust Knowledge Distillation",
+    "https://aclanthology.org/2024.acl-long.680/",
+    "https://aclanthology.org/2024.acl-long.680.pdf"
+  ],
+  [
+    "LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding",
+    "https://aclanthology.org/2024.acl-long.681/",
+    "https://aclanthology.org/2024.acl-long.681.pdf"
+  ],
+  [
+    "Classist Tools: Social Class Correlates with Performance in NLP",
+    "https://aclanthology.org/2024.acl-long.682/",
+    "https://aclanthology.org/2024.acl-long.682.pdf"
+  ],
+  [
+    "ActionIE: Action Extraction from Scientific Literature with Programming Languages",
+    "https://aclanthology.org/2024.acl-long.683/",
+    "https://aclanthology.org/2024.acl-long.683.pdf"
+  ],
+  [
+    "A Community-Centric Perspective for Characterizing and Detecting Anti-Asian Violence-Provoking Speech",
+    "https://aclanthology.org/2024.acl-long.684/",
+    "https://aclanthology.org/2024.acl-long.684.pdf"
+  ],
+  [
+    "Retaining Key Information under High Compression Ratios: Query-Guided Compressor for LLMs",
+    "https://aclanthology.org/2024.acl-long.685/",
+    "https://aclanthology.org/2024.acl-long.685.pdf"
+  ],
+  [
+    "COSMIC: Mutual Information for Task-Agnostic Summarization Evaluation",
+    "https://aclanthology.org/2024.acl-long.686/",
+    "https://aclanthology.org/2024.acl-long.686.pdf"
+  ],
+  [
+    "EUROPA: A Legal Multilingual Keyphrase Generation Dataset",
+    "https://aclanthology.org/2024.acl-long.687/",
+    "https://aclanthology.org/2024.acl-long.687.pdf"
+  ],
+  [
+    "GLIMPSE: Pragmatically Informative Multi-Document Summarization for Scholarly Reviews",
+    "https://aclanthology.org/2024.acl-long.688/",
+    "https://aclanthology.org/2024.acl-long.688.pdf"
+  ],
+  [
+    "Peacock: A Family of Arabic Multimodal Large Language Models and Benchmarks",
+    "https://aclanthology.org/2024.acl-long.689/",
+    "https://aclanthology.org/2024.acl-long.689.pdf"
+  ],
+  [
+    "Generating Coherent Sequences of Visual Illustrations for Real-World Manual Tasks",
+    "https://aclanthology.org/2024.acl-long.690/",
+    "https://aclanthology.org/2024.acl-long.690.pdf"
+  ],
+  [
+    "Cheetah: Natural Language Generation for 517 African Languages",
+    "https://aclanthology.org/2024.acl-long.691/",
+    "https://aclanthology.org/2024.acl-long.691.pdf"
+  ],
+  [
+    "TaPERA: Enhancing Faithfulness and Interpretability in Long-Form Table QA by Content Planning and Execution-based Reasoning",
+    "https://aclanthology.org/2024.acl-long.692/",
+    "https://aclanthology.org/2024.acl-long.692.pdf"
+  ],
+  [
+    "FinanceMATH: Knowledge-Intensive Math Reasoning in Finance Domains",
+    "https://aclanthology.org/2024.acl-long.693/",
+    "https://aclanthology.org/2024.acl-long.693.pdf"
+  ],
+  [
+    "API-BLEND: A Comprehensive Corpora for Training and Benchmarking API LLMs",
+    "https://aclanthology.org/2024.acl-long.694/",
+    "https://aclanthology.org/2024.acl-long.694.pdf"
+  ],
+  [
+    "LoRA-Flow: Dynamic LoRA Fusion for Large Language Models in Generative Tasks",
+    "https://aclanthology.org/2024.acl-long.695/",
+    "https://aclanthology.org/2024.acl-long.695.pdf"
+  ],
+  [
+    "Harder Task Needs More Experts: Dynamic Routing in MoE Models",
+    "https://aclanthology.org/2024.acl-long.696/",
+    "https://aclanthology.org/2024.acl-long.696.pdf"
+  ],
+  [
+    "XLAVS-R: Cross-Lingual Audio-Visual Speech Representation Learning for Noise-Robust Speech Perception",
+    "https://aclanthology.org/2024.acl-long.697/",
+    "https://aclanthology.org/2024.acl-long.697.pdf"
+  ],
+  [
+    "SOTOPIA-π: Interactive Learning of Socially Intelligent Language Agents",
+    "https://aclanthology.org/2024.acl-long.698/",
+    "https://aclanthology.org/2024.acl-long.698.pdf"
+  ],
+  [
+    "XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts",
+    "https://aclanthology.org/2024.acl-long.699/",
+    "https://aclanthology.org/2024.acl-long.699.pdf"
+  ],
+  [
+    "Generalizability of Mixture of Domain-Specific Adapters from the Lens of Signed Weight Directions and its Application to Effective Model Pruning",
+    "https://aclanthology.org/2024.acl-long.700/",
+    "https://aclanthology.org/2024.acl-long.700.pdf"
+  ],
+  [
+    "Learning to Decode Collaboratively with Multiple Language Models",
+    "https://aclanthology.org/2024.acl-long.701/",
+    "https://aclanthology.org/2024.acl-long.701.pdf"
+  ],
+  [
+    "DRAGIN: Dynamic Retrieval Augmented Generation based on the Real-time Information Needs of Large Language Models",
+    "https://aclanthology.org/2024.acl-long.702/",
+    "https://aclanthology.org/2024.acl-long.702.pdf"
+  ],
+  [
+    "Living in the Moment: Can Large Language Models Grasp Co-Temporal Reasoning?",
+    "https://aclanthology.org/2024.acl-long.703/",
+    "https://aclanthology.org/2024.acl-long.703.pdf"
+  ],
+  [
+    "CritiqueLLM: Towards an Informative Critique Generation Model for Evaluation of Large Language Model Generation",
+    "https://aclanthology.org/2024.acl-long.704/",
+    "https://aclanthology.org/2024.acl-long.704.pdf"
+  ],
+  [
+    "LLMArena: Assessing Capabilities of Large Language Models in Dynamic Multi-Agent Environments",
+    "https://aclanthology.org/2024.acl-long.705/",
+    "https://aclanthology.org/2024.acl-long.705.pdf"
+  ],
+  [
+    "Small But Funny: A Feedback-Driven Approach to Humor Distillation",
+    "https://aclanthology.org/2024.acl-long.706/",
+    "https://aclanthology.org/2024.acl-long.706.pdf"
+  ],
+  [
+    "Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models",
+    "https://aclanthology.org/2024.acl-long.707/",
+    "https://aclanthology.org/2024.acl-long.707.pdf"
+  ],
+  [
+    "From Sights to Insights: Towards Summarization of Multimodal Clinical Documents",
+    "https://aclanthology.org/2024.acl-long.708/",
+    "https://aclanthology.org/2024.acl-long.708.pdf"
+  ],
+  [
+    "When Phrases Meet Probabilities: Enabling Open Relation Extraction with Cooperating Large Language Models",
+    "https://aclanthology.org/2024.acl-long.709/",
+    "https://aclanthology.org/2024.acl-long.709.pdf"
+  ],
+  [
+    "Effects of diversity incentives on sample diversity and downstream model performance in LLM-based text augmentation",
+    "https://aclanthology.org/2024.acl-long.710/",
+    "https://aclanthology.org/2024.acl-long.710.pdf"
+  ],
+  [
+    "Beyond Orthography: Automatic Recovery of Short Vowels and Dialectal Sounds in Arabic",
+    "https://aclanthology.org/2024.acl-long.711/",
+    "https://aclanthology.org/2024.acl-long.711.pdf"
+  ],
+  [
+    "Document-Level Machine Translation with Large-Scale Public Parallel Corpora",
+    "https://aclanthology.org/2024.acl-long.712/",
+    "https://aclanthology.org/2024.acl-long.712.pdf"
+  ],
+  [
+    "Bridging the Empirical-Theoretical Gap in Neural Network Formal Language Learning Using Minimum Description Length",
+    "https://aclanthology.org/2024.acl-long.713/",
+    "https://aclanthology.org/2024.acl-long.713.pdf"
+  ],
+  [
+    "Context versus Prior Knowledge in Language Models",
+    "https://aclanthology.org/2024.acl-long.714/",
+    "https://aclanthology.org/2024.acl-long.714.pdf"
+  ],
+  [
+    "Word Matters: What Influences Domain Adaptation in Summarization?",
+    "https://aclanthology.org/2024.acl-long.715/",
+    "https://aclanthology.org/2024.acl-long.715.pdf"
+  ],
+  [
+    "Visualization Recommendation with Prompt-based Reprogramming of Large Language Models",
+    "https://aclanthology.org/2024.acl-long.716/",
+    "https://aclanthology.org/2024.acl-long.716.pdf"
+  ],
+  [
+    "HOLMES: Hyper-Relational Knowledge Graphs for Multi-hop Question Answering using LLMs",
+    "https://aclanthology.org/2024.acl-long.717/",
+    "https://aclanthology.org/2024.acl-long.717.pdf"
+  ],
+  [
+    "Toward In-Context Teaching: Adapting Examples to Students’ Misconceptions",
+    "https://aclanthology.org/2024.acl-long.718/",
+    "https://aclanthology.org/2024.acl-long.718.pdf"
+  ],
+  [
+    "Bridging Word-Pair and Token-Level Metaphor Detection with Explainable Domain Mining",
+    "https://aclanthology.org/2024.acl-long.719/",
+    "https://aclanthology.org/2024.acl-long.719.pdf"
+  ],
+  [
+    "Faithful Logical Reasoning via Symbolic Chain-of-Thought",
+    "https://aclanthology.org/2024.acl-long.720/",
+    "https://aclanthology.org/2024.acl-long.720.pdf"
+  ],
+  [
+    "S2GSL: Incorporating Segment to Syntactic Enhanced Graph Structure Learning for Aspect-based Sentiment Analysis",
+    "https://aclanthology.org/2024.acl-long.721/",
+    "https://aclanthology.org/2024.acl-long.721.pdf"
+  ],
+  [
+    "Maverick: Efficient and Accurate Coreference Resolution Defying Recent Trends",
+    "https://aclanthology.org/2024.acl-long.722/",
+    "https://aclanthology.org/2024.acl-long.722.pdf"
+  ],
+  [
+    "ESCoT: Towards Interpretable Emotional Support Dialogue Systems",
+    "https://aclanthology.org/2024.acl-long.723/",
+    "https://aclanthology.org/2024.acl-long.723.pdf"
+  ],
+  [
+    "PathReasoner: Modeling Reasoning Path with Equivalent Extension for Logical Question Answering",
+    "https://aclanthology.org/2024.acl-long.724/",
+    "https://aclanthology.org/2024.acl-long.724.pdf"
+  ],
+  [
+    "WARDEN: Multi-Directional Backdoor Watermarks for Embedding-as-a-Service Copyright Protection",
+    "https://aclanthology.org/2024.acl-long.725/",
+    "https://aclanthology.org/2024.acl-long.725.pdf"
+  ],
+  [
+    "Advancing Parameter Efficiency in Fine-tuning via Representation Editing",
+    "https://aclanthology.org/2024.acl-long.726/",
+    "https://aclanthology.org/2024.acl-long.726.pdf"
+  ],
+  [
+    "Context Consistency between Training and Inference in Simultaneous Machine Translation",
+    "https://aclanthology.org/2024.acl-long.727/",
+    "https://aclanthology.org/2024.acl-long.727.pdf"
+  ],
+  [
+    "Using Natural Language Explanations to Improve Robustness of In-context Learning",
+    "https://aclanthology.org/2024.acl-long.728/",
+    "https://aclanthology.org/2024.acl-long.728.pdf"
+  ],
+  [
+    "Chunk, Align, Select: A Simple Long-sequence Processing Method for Transformers",
+    "https://aclanthology.org/2024.acl-long.729/",
+    "https://aclanthology.org/2024.acl-long.729.pdf"
+  ],
+  [
+    "ArchCode: Incorporating Software Requirements in Code Generation with Large Language Models",
+    "https://aclanthology.org/2024.acl-long.730/",
+    "https://aclanthology.org/2024.acl-long.730.pdf"
+  ],
+  [
+    "Combining Supervised Learning and Reinforcement Learning for Multi-Label Classification Tasks with Partial Labels",
+    "https://aclanthology.org/2024.acl-long.731/",
+    "https://aclanthology.org/2024.acl-long.731.pdf"
+  ],
+  [
+    "MULFE: A Multi-Level Benchmark for Free Text Model Editing",
+    "https://aclanthology.org/2024.acl-long.732/",
+    "https://aclanthology.org/2024.acl-long.732.pdf"
+  ],
+  [
+    "MobileSpeech: A Fast and High-Fidelity Framework for Mobile Zero-Shot Text-to-Speech",
+    "https://aclanthology.org/2024.acl-long.733/",
+    "https://aclanthology.org/2024.acl-long.733.pdf"
+  ],
+  [
+    "Spatially-Aware Speaker for Vision-and-Language Navigation Instruction Generation",
+    "https://aclanthology.org/2024.acl-long.734/",
+    "https://aclanthology.org/2024.acl-long.734.pdf"
+  ],
+  [
+    "HiRoPE: Length Extrapolation for Code Models Using Hierarchical Position",
+    "https://aclanthology.org/2024.acl-long.735/",
+    "https://aclanthology.org/2024.acl-long.735.pdf"
+  ],
+  [
+    "Never Lost in the Middle: Mastering Long-Context Question Answering with Position-Agnostic Decompositional Training",
+    "https://aclanthology.org/2024.acl-long.736/",
+    "https://aclanthology.org/2024.acl-long.736.pdf"
+  ],
+  [
+    "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+    "https://aclanthology.org/2024.acl-long.737/",
+    "https://aclanthology.org/2024.acl-long.737.pdf"
+  ],
+  [
+    "When is Tree Search Useful for LLM Planning? It Depends on the Discriminator",
+    "https://aclanthology.org/2024.acl-long.738/",
+    "https://aclanthology.org/2024.acl-long.738.pdf"
+  ],
+  [
+    "LogicBench: Towards Systematic Evaluation of Logical Reasoning Ability of Large Language Models",
+    "https://aclanthology.org/2024.acl-long.739/",
+    "https://aclanthology.org/2024.acl-long.739.pdf"
+  ],
+  [
+    "Meta-Tuning LLMs to Leverage Lexical Knowledge for Generalizable Language Style Understanding",
+    "https://aclanthology.org/2024.acl-long.740/",
+    "https://aclanthology.org/2024.acl-long.740.pdf"
+  ],
+  [
+    "Reducing Privacy Risks in Online Self-Disclosures with Language Models",
+    "https://aclanthology.org/2024.acl-long.741/",
+    "https://aclanthology.org/2024.acl-long.741.pdf"
+  ],
+  [
+    "Navigating the Dual Facets: A Comprehensive Evaluation of Sequential Memory Editing in Large Language Models",
+    "https://aclanthology.org/2024.acl-long.742/",
+    "https://aclanthology.org/2024.acl-long.742.pdf"
+  ],
+  [
+    "REFINESUMM: Self-Refining MLLM for Generating a Multimodal Summarization Dataset",
+    "https://aclanthology.org/2024.acl-long.743/",
+    "https://aclanthology.org/2024.acl-long.743.pdf"
+  ],
+  [
+    "When Benchmarks are Targets: Revealing the Sensitivity of Large Language Model Leaderboards",
+    "https://aclanthology.org/2024.acl-long.744/",
+    "https://aclanthology.org/2024.acl-long.744.pdf"
+  ],
+  [
+    "LLM-Rubric: A Multidimensional, Calibrated Approach to Automated Evaluation of Natural Language Texts",
+    "https://aclanthology.org/2024.acl-long.745/",
+    "https://aclanthology.org/2024.acl-long.745.pdf"
+  ],
+  [
+    "LIEDER: Linguistically-Informed Evaluation for Discourse Entity Recognition",
+    "https://aclanthology.org/2024.acl-long.746/",
+    "https://aclanthology.org/2024.acl-long.746.pdf"
+  ],
+  [
+    "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+    "https://aclanthology.org/2024.acl-long.747/",
+    "https://aclanthology.org/2024.acl-long.747.pdf"
+  ],
+  [
+    "Prototypical Reward Network for Data-Efficient RLHF",
+    "https://aclanthology.org/2024.acl-long.748/",
+    "https://aclanthology.org/2024.acl-long.748.pdf"
+  ],
+  [
+    "NEO-BENCH: Evaluating Robustness of Large Language Models with Neologisms",
+    "https://aclanthology.org/2024.acl-long.749/",
+    "https://aclanthology.org/2024.acl-long.749.pdf"
+  ],
+  [
+    "Impacts of Misspelled Queries on Translation and Product Search",
+    "https://aclanthology.org/2024.acl-long.750/",
+    "https://aclanthology.org/2024.acl-long.750.pdf"
+  ],
+  [
+    "Skin-in-the-Game: Decision Making via Multi-Stakeholder Alignment in LLMs",
+    "https://aclanthology.org/2024.acl-long.751/",
+    "https://aclanthology.org/2024.acl-long.751.pdf"
+  ],
+  [
+    "The MERSA Dataset and a Transformer-Based Approach for Speech Emotion Recognition",
+    "https://aclanthology.org/2024.acl-long.752/",
+    "https://aclanthology.org/2024.acl-long.752.pdf"
+  ],
+  [
+    "Transparent and Scrutable Recommendations Using Natural Language User Profiles",
+    "https://aclanthology.org/2024.acl-long.753/",
+    "https://aclanthology.org/2024.acl-long.753.pdf"
+  ],
+  [
+    "Fora: A corpus and framework for the study of facilitated dialogue",
+    "https://aclanthology.org/2024.acl-long.754/",
+    "https://aclanthology.org/2024.acl-long.754.pdf"
+  ],
+  [
+    "Explanation-aware Soft Ensemble Empowers Large Language Model In-context Learning",
+    "https://aclanthology.org/2024.acl-long.755/",
+    "https://aclanthology.org/2024.acl-long.755.pdf"
+  ],
+  [
+    "What is the Best Way for ChatGPT to Translate Poetry?",
+    "https://aclanthology.org/2024.acl-long.756/",
+    "https://aclanthology.org/2024.acl-long.756.pdf"
+  ],
+  [
+    "Rephrasing the Web: A Recipe for Compute and Data-Efficient Language Modeling",
+    "https://aclanthology.org/2024.acl-long.757/",
+    "https://aclanthology.org/2024.acl-long.757.pdf"
+  ],
+  [
+    "DeCoT: Debiasing Chain-of-Thought for Knowledge-Intensive Tasks in Large Language Models via Causal Intervention",
+    "https://aclanthology.org/2024.acl-long.758/",
+    "https://aclanthology.org/2024.acl-long.758.pdf"
+  ],
+  [
+    "Representation Learning with Conditional Information Flow Maximization",
+    "https://aclanthology.org/2024.acl-long.759/",
+    "https://aclanthology.org/2024.acl-long.759.pdf"
+  ],
+  [
+    "GPT is Not an Annotator: The Necessity of Human Annotation in Fairness Benchmark Construction",
+    "https://aclanthology.org/2024.acl-long.760/",
+    "https://aclanthology.org/2024.acl-long.760.pdf"
+  ],
+  [
+    "Quantifying Contamination in Evaluating Code Generation Capabilities of Language Models",
+    "https://aclanthology.org/2024.acl-long.761/",
+    "https://aclanthology.org/2024.acl-long.761.pdf"
+  ],
+  [
+    "Language Models are Homer Simpson! Safety Re-Alignment of Fine-tuned Language Models through Task Arithmetic",
+    "https://aclanthology.org/2024.acl-long.762/",
+    "https://aclanthology.org/2024.acl-long.762.pdf"
+  ],
+  [
+    "Tracking the Newsworthiness of Public Documents",
+    "https://aclanthology.org/2024.acl-long.763/",
+    "https://aclanthology.org/2024.acl-long.763.pdf"
+  ],
+  [
+    "EWEK-QA : Enhanced Web and Efficient Knowledge Graph Retrieval for Citation-based Question Answering Systems",
+    "https://aclanthology.org/2024.acl-long.764/",
+    "https://aclanthology.org/2024.acl-long.764.pdf"
+  ],
+  [
+    "Multi-modal Preference Alignment Remedies Degradation of Visual Instruction Tuning on Language Models",
+    "https://aclanthology.org/2024.acl-long.765/",
+    "https://aclanthology.org/2024.acl-long.765.pdf"
+  ],
+  [
+    "Multistage Collaborative Knowledge Distillation from a Large Language Model for Semi-Supervised Sequence Generation",
+    "https://aclanthology.org/2024.acl-long.766/",
+    "https://aclanthology.org/2024.acl-long.766.pdf"
+  ],
+  [
+    "Controlled Text Generation for Black-box Language Models via Score-based Progressive Editor",
+    "https://aclanthology.org/2024.acl-long.767/",
+    "https://aclanthology.org/2024.acl-long.767.pdf"
+  ],
+  [
+    "LogogramNLP: Comparing Visual and Textual Representations of Ancient Logographic Writing Systems for NLP",
+    "https://aclanthology.org/2024.acl-long.768/",
+    "https://aclanthology.org/2024.acl-long.768.pdf"
+  ],
+  [
+    "Superfiltering: Weak-to-Strong Data Filtering for Fast Instruction-Tuning",
+    "https://aclanthology.org/2024.acl-long.769/",
+    "https://aclanthology.org/2024.acl-long.769.pdf"
+  ],
+  [
+    "Confabulation: The Surprising Value of Large Language Model Hallucinations",
+    "https://aclanthology.org/2024.acl-long.770/",
+    "https://aclanthology.org/2024.acl-long.770.pdf"
+  ],
+  [
+    "IAPT: Instance-Aware Prompt Tuning for Large Language Models",
+    "https://aclanthology.org/2024.acl-long.771/",
+    "https://aclanthology.org/2024.acl-long.771.pdf"
+  ],
+  [
+    "DeVAn: Dense Video Annotation for Video-Language Models",
+    "https://aclanthology.org/2024.acl-long.772/",
+    "https://aclanthology.org/2024.acl-long.772.pdf"
+  ],
+  [
+    "How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs",
+    "https://aclanthology.org/2024.acl-long.773/",
+    "https://aclanthology.org/2024.acl-long.773.pdf"
+  ],
+  [
+    "The Heuristic Core: Understanding Subnetwork Generalization in Pretrained Language Models",
+    "https://aclanthology.org/2024.acl-long.774/",
+    "https://aclanthology.org/2024.acl-long.774.pdf"
+  ],
+  [
+    "Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models",
+    "https://aclanthology.org/2024.acl-long.775/",
+    "https://aclanthology.org/2024.acl-long.775.pdf"
+  ],
+  [
+    "L-Eval: Instituting Standardized Evaluation for Long Context Language Models",
+    "https://aclanthology.org/2024.acl-long.776/",
+    "https://aclanthology.org/2024.acl-long.776.pdf"
+  ],
+  [
+    "DIALECTBENCH: An NLP Benchmark for Dialects, Varieties, and Closely-Related Languages",
+    "https://aclanthology.org/2024.acl-long.777/",
+    "https://aclanthology.org/2024.acl-long.777.pdf"
+  ],
+  [
+    "Causal-Guided Active Learning for Debiasing Large Language Models",
+    "https://aclanthology.org/2024.acl-long.778/",
+    "https://aclanthology.org/2024.acl-long.778.pdf"
+  ],
+  [
+    "PsychoGAT: A Novel Psychological Measurement Paradigm through Interactive Fiction Games with LLM Agents",
+    "https://aclanthology.org/2024.acl-long.779/",
+    "https://aclanthology.org/2024.acl-long.779.pdf"
+  ],
+  [
+    "Towards Better Understanding of Contrastive Sentence Representation Learning: A Unified Paradigm for Gradient",
+    "https://aclanthology.org/2024.acl-long.780/",
+    "https://aclanthology.org/2024.acl-long.780.pdf"
+  ],
+  [
+    "Emergent Word Order Universals from Cognitively-Motivated Language Models",
+    "https://aclanthology.org/2024.acl-long.781/",
+    "https://aclanthology.org/2024.acl-long.781.pdf"
+  ],
+  [
+    "Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View",
+    "https://aclanthology.org/2024.acl-long.782/",
+    "https://aclanthology.org/2024.acl-long.782.pdf"
+  ],
+  [
+    "MARVEL: Unlocking the Multi-Modal Capability of Dense Retrieval via Visual Module Plugin",
+    "https://aclanthology.org/2024.acl-long.783/",
+    "https://aclanthology.org/2024.acl-long.783.pdf"
+  ],
+  [
+    "Distributional Inclusion Hypothesis and Quantifications: Probing for Hypernymy in Functional Distributional Semantics",
+    "https://aclanthology.org/2024.acl-long.784/",
+    "https://aclanthology.org/2024.acl-long.784.pdf"
+  ],
+  [
+    "CausalGym: Benchmarking causal interpretability methods on linguistic tasks",
+    "https://aclanthology.org/2024.acl-long.785/",
+    "https://aclanthology.org/2024.acl-long.785.pdf"
+  ],
+  [
+    "Don’t Hallucinate, Abstain: Identifying LLM Knowledge Gaps via Multi-LLM Collaboration",
+    "https://aclanthology.org/2024.acl-long.786/",
+    "https://aclanthology.org/2024.acl-long.786.pdf"
+  ],
+  [
+    "Mission: Impossible Language Models",
+    "https://aclanthology.org/2024.acl-long.787/",
+    "https://aclanthology.org/2024.acl-long.787.pdf"
+  ],
+  [
+    "Semisupervised Neural Proto-Language Reconstruction",
+    "https://aclanthology.org/2024.acl-long.788/",
+    "https://aclanthology.org/2024.acl-long.788.pdf"
+  ],
+  [
+    "Speech Translation with Speech Foundation Models and Large Language Models: What is There and What is Missing?",
+    "https://aclanthology.org/2024.acl-long.789/",
+    "https://aclanthology.org/2024.acl-long.789.pdf"
+  ],
+  [
+    "Speech vs. Transcript: Does It Matter for Human Annotators in Speech Summarization?",
+    "https://aclanthology.org/2024.acl-long.790/",
+    "https://aclanthology.org/2024.acl-long.790.pdf"
+  ],
+  [
+    "D2LLM: Decomposed and Distilled Large Language Models for Semantic Search",
+    "https://aclanthology.org/2024.acl-long.791/",
+    "https://aclanthology.org/2024.acl-long.791.pdf"
+  ],
+  [
+    "Arabic Diacritics in the Wild: Exploiting Opportunities for Improved Diacritization",
+    "https://aclanthology.org/2024.acl-long.792/",
+    "https://aclanthology.org/2024.acl-long.792.pdf"
+  ],
+  [
+    "Disinformation Capabilities of Large Language Models",
+    "https://aclanthology.org/2024.acl-long.793/",
+    "https://aclanthology.org/2024.acl-long.793.pdf"
+  ],
+  [
+    "Learn or Recall? Revisiting Incremental Learning with Pre-trained Language Models",
+    "https://aclanthology.org/2024.acl-long.794/",
+    "https://aclanthology.org/2024.acl-long.794.pdf"
+  ],
+  [
+    "How to Handle Different Types of Out-of-Distribution Scenarios in Computational Argumentation? A Comprehensive and Fine-Grained Field Study",
+    "https://aclanthology.org/2024.acl-long.795/",
+    "https://aclanthology.org/2024.acl-long.795.pdf"
+  ],
+  [
+    "Cendol: Open Instruction-tuned Generative Large Language Models for Indonesian Languages",
+    "https://aclanthology.org/2024.acl-long.796/",
+    "https://aclanthology.org/2024.acl-long.796.pdf"
+  ],
+  [
+    "Must NLP be Extractive?",
+    "https://aclanthology.org/2024.acl-long.797/",
+    "https://aclanthology.org/2024.acl-long.797.pdf"
+  ],
+  [
+    "Spiral of Silence: How is Large Language Model Killing Information Retrieval?—A Case Study on Open Domain Question Answering",
+    "https://aclanthology.org/2024.acl-long.798/",
+    "https://aclanthology.org/2024.acl-long.798.pdf"
+  ],
+  [
+    "Latxa: An Open Language Model and Evaluation Suite for Basque",
+    "https://aclanthology.org/2024.acl-long.799/",
+    "https://aclanthology.org/2024.acl-long.799.pdf"
+  ],
+  [
+    "Why are Sensitive Functions Hard for Transformers?",
+    "https://aclanthology.org/2024.acl-long.800/",
+    "https://aclanthology.org/2024.acl-long.800.pdf"
+  ],
+  [
+    "Talk With Human-like Agents: Empathetic Dialogue Through Perceptible Acoustic Reception and Reaction",
+    "https://aclanthology.org/2024.acl-long.801/",
+    "https://aclanthology.org/2024.acl-long.801.pdf"
+  ],
+  [
+    "IRCoder: Intermediate Representations Make Language Models Robust Multilingual Code Generators",
+    "https://aclanthology.org/2024.acl-long.802/",
+    "https://aclanthology.org/2024.acl-long.802.pdf"
+  ],
+  [
+    "The Echoes of Multilinguality: Tracing Cultural Value Shifts during Language Model Fine-tuning",
+    "https://aclanthology.org/2024.acl-long.803/",
+    "https://aclanthology.org/2024.acl-long.803.pdf"
+  ],
+  [
+    "MYTE: Morphology-Driven Byte Encoding for Better and Fairer Multilingual Language Modeling",
+    "https://aclanthology.org/2024.acl-long.804/",
+    "https://aclanthology.org/2024.acl-long.804.pdf"
+  ],
+  [
+    "MultiLegalPile: A 689GB Multilingual Legal Corpus",
+    "https://aclanthology.org/2024.acl-long.805/",
+    "https://aclanthology.org/2024.acl-long.805.pdf"
+  ],
+  [
+    "WebCiteS: Attributed Query-Focused Summarization on Chinese Web Search Results with Citations",
+    "https://aclanthology.org/2024.acl-long.806/",
+    "https://aclanthology.org/2024.acl-long.806.pdf"
+  ],
+  [
+    "What Languages are Easy to Language-Model? A Perspective from Learning Probabilistic Regular Languages",
+    "https://aclanthology.org/2024.acl-long.807/",
+    "https://aclanthology.org/2024.acl-long.807.pdf"
+  ],
+  [
+    "Tree-Averaging Algorithms for Ensemble-Based Unsupervised Discontinuous Constituency Parsing",
+    "https://aclanthology.org/2024.acl-long.808/",
+    "https://aclanthology.org/2024.acl-long.808.pdf"
+  ],
+  [
+    "ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs",
+    "https://aclanthology.org/2024.acl-long.809/",
+    "https://aclanthology.org/2024.acl-long.809.pdf"
+  ],
+  [
+    "ChatDev: Communicative Agents for Software Development",
+    "https://aclanthology.org/2024.acl-long.810/",
+    "https://aclanthology.org/2024.acl-long.810.pdf"
+  ],
+  [
+    "Disentangled Learning with Synthetic Parallel Data for Text Style Transfer",
+    "https://aclanthology.org/2024.acl-long.811/",
+    "https://aclanthology.org/2024.acl-long.811.pdf"
+  ],
+  [
+    "PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety",
+    "https://aclanthology.org/2024.acl-long.812/",
+    "https://aclanthology.org/2024.acl-long.812.pdf"
+  ],
+  [
+    "Can Large Language Models be Good Emotional Supporter? Mitigating Preference Bias on Emotional Support Conversation",
+    "https://aclanthology.org/2024.acl-long.813/",
+    "https://aclanthology.org/2024.acl-long.813.pdf"
+  ],
+  [
+    "∞Bench: Extending Long Context Evaluation Beyond 100K Tokens",
+    "https://aclanthology.org/2024.acl-long.814/",
+    "https://aclanthology.org/2024.acl-long.814.pdf"
+  ],
+  [
+    "Natural Language Satisfiability: Exploring the Problem Distribution and Evaluating Transformer-based Language Models",
+    "https://aclanthology.org/2024.acl-long.815/",
+    "https://aclanthology.org/2024.acl-long.815.pdf"
+  ],
+  [
+    "Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models",
+    "https://aclanthology.org/2024.acl-long.816/",
+    "https://aclanthology.org/2024.acl-long.816.pdf"
+  ],
+  [
+    "AI ‘News’ Content Farms Are Easy to Make and Hard to Detect: A Case Study in Italian",
+    "https://aclanthology.org/2024.acl-long.817/",
+    "https://aclanthology.org/2024.acl-long.817.pdf"
+  ],
+  [
+    "Same Task, More Tokens: the Impact of Input Length on the Reasoning Performance of Large Language Models",
+    "https://aclanthology.org/2024.acl-long.818/",
+    "https://aclanthology.org/2024.acl-long.818.pdf"
+  ],
+  [
+    "Disambiguate Words like Composing Them: A Morphology-Informed Approach to Enhance Chinese Word Sense Disambiguation",
+    "https://aclanthology.org/2024.acl-long.819/",
+    "https://aclanthology.org/2024.acl-long.819.pdf"
+  ],
+  [
+    "Do Llamas Work in English? On the Latent Language of Multilingual Transformers",
+    "https://aclanthology.org/2024.acl-long.820/",
+    "https://aclanthology.org/2024.acl-long.820.pdf"
+  ],
+  [
+    "G-DIG: Towards Gradient-based DIverse and hiGh-quality Instruction Data Selection for Machine Translation",
+    "https://aclanthology.org/2024.acl-long.821/",
+    "https://aclanthology.org/2024.acl-long.821.pdf"
+  ],
+  [
+    "Media Framing: A typology and Survey of Computational Approaches Across Disciplines",
+    "https://aclanthology.org/2024.acl-long.822/",
+    "https://aclanthology.org/2024.acl-long.822.pdf"
+  ],
+  [
+    "SPZ: A Semantic Perturbation-based Data Augmentation Method with Zonal-Mixing for Alzheimer’s Disease Detection",
+    "https://aclanthology.org/2024.acl-long.823/",
+    "https://aclanthology.org/2024.acl-long.823.pdf"
+  ],
+  [
+    "Calibrating Large Language Models Using Their Generations Only",
+    "https://aclanthology.org/2024.acl-long.824/",
+    "https://aclanthology.org/2024.acl-long.824.pdf"
+  ],
+  [
+    "Iterative Forward Tuning Boosts In-Context Learning in Language Models",
+    "https://aclanthology.org/2024.acl-long.825/",
+    "https://aclanthology.org/2024.acl-long.825.pdf"
+  ],
+  [
+    "Pride and Prejudice: LLM Amplifies Self-Bias in Self-Refinement",
+    "https://aclanthology.org/2024.acl-long.826/",
+    "https://aclanthology.org/2024.acl-long.826.pdf"
+  ],
+  [
+    "Language Complexity and Speech Recognition Accuracy: Orthographic Complexity Hurts, Phonological Complexity Doesn’t",
+    "https://aclanthology.org/2024.acl-long.827/",
+    "https://aclanthology.org/2024.acl-long.827.pdf"
+  ],
+  [
+    "Steering Llama 2 via Contrastive Activation Addition",
+    "https://aclanthology.org/2024.acl-long.828/",
+    "https://aclanthology.org/2024.acl-long.828.pdf"
+  ],
+  [
+    "EconAgent: Large Language Model-Empowered Agents for Simulating Macroeconomic Activities",
+    "https://aclanthology.org/2024.acl-long.829/",
+    "https://aclanthology.org/2024.acl-long.829.pdf"
+  ],
+  [
+    "SafetyBench: Evaluating the Safety of Large Language Models",
+    "https://aclanthology.org/2024.acl-long.830/",
+    "https://aclanthology.org/2024.acl-long.830.pdf"
+  ],
+  [
+    "Deciphering Oracle Bone Language with Diffusion Models",
+    "https://aclanthology.org/2024.acl-long.831/",
+    "https://aclanthology.org/2024.acl-long.831.pdf"
+  ],
+  [
+    "M4LE: A Multi-Ability Multi-Range Multi-Task Multi-Domain Long-Context Evaluation Benchmark for Large Language Models",
+    "https://aclanthology.org/2024.acl-long.832/",
+    "https://aclanthology.org/2024.acl-long.832.pdf"
+  ],
+  [
+    "RomanSetu: Efficiently unlocking multilingual capabilities of Large Language Models via Romanization",
+    "https://aclanthology.org/2024.acl-long.833/",
+    "https://aclanthology.org/2024.acl-long.833.pdf"
+  ],
+  [
+    "Causal Estimation of Memorisation Profiles",
+    "https://aclanthology.org/2024.acl-long.834/",
+    "https://aclanthology.org/2024.acl-long.834.pdf"
+  ],
+  [
+    "CHECKWHY: Causal Fact Verification via Argument Structure",
+    "https://aclanthology.org/2024.acl-long.835/",
+    "https://aclanthology.org/2024.acl-long.835.pdf"
+  ],
+  [
+    "Quality-Aware Translation Models: Efficient Generation and Quality Estimation in a Single Model",
+    "https://aclanthology.org/2024.acl-long.836/",
+    "https://aclanthology.org/2024.acl-long.836.pdf"
+  ],
+  [
+    "On Efficient and Statistical Quality Estimation for Data Annotation",
+    "https://aclanthology.org/2024.acl-long.837/",
+    "https://aclanthology.org/2024.acl-long.837.pdf"
+  ],
+  [
+    "EZ-STANCE: A Large Dataset for English Zero-Shot Stance Detection",
+    "https://aclanthology.org/2024.acl-long.838/",
+    "https://aclanthology.org/2024.acl-long.838.pdf"
+  ],
+  [
+    "American Sign Language Handshapes Reflect Pressures for Communicative Efficiency",
+    "https://aclanthology.org/2024.acl-long.839/",
+    "https://aclanthology.org/2024.acl-long.839.pdf"
+  ],
+  [
+    "Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research",
+    "https://aclanthology.org/2024.acl-long.840/",
+    "https://aclanthology.org/2024.acl-long.840.pdf"
+  ],
+  [
+    "OLMo: Accelerating the Science of Language Models",
+    "https://aclanthology.org/2024.acl-long.841/",
+    "https://aclanthology.org/2024.acl-long.841.pdf"
+  ],
+  [
+    "Emulated Disalignment: Safety Alignment for Large Language Models May Backfire!",
+    "https://aclanthology.org/2024.acl-long.842/",
+    "https://aclanthology.org/2024.acl-long.842.pdf"
+  ],
+  [
+    "IndicLLMSuite: A Blueprint for Creating Pre-training and Fine-Tuning Datasets for Indian Languages",
+    "https://aclanthology.org/2024.acl-long.843/",
+    "https://aclanthology.org/2024.acl-long.843.pdf"
+  ],
+  [
+    "Reasoning in Conversation: Solving Subjective Tasks through Dialogue Simulation for Large Language Models",
+    "https://aclanthology.org/2024.acl-long.844/",
+    "https://aclanthology.org/2024.acl-long.844.pdf"
+  ],
+  [
+    "Aya Model: An Instruction Finetuned Open-Access Multilingual Language Model",
+    "https://aclanthology.org/2024.acl-long.845/",
+    "https://aclanthology.org/2024.acl-long.845.pdf"
+  ],
+  [
+    "BatchEval: Towards Human-like Text Evaluation",
+    "https://aclanthology.org/2024.acl-long.846/",
+    "https://aclanthology.org/2024.acl-long.846.pdf"
+  ],
+  [
+    "ToMBench: Benchmarking Theory of Mind in Large Language Models",
+    "https://aclanthology.org/2024.acl-long.847/",
+    "https://aclanthology.org/2024.acl-long.847.pdf"
+  ],
+  [
+    "COKE: A Cognitive Knowledge Graph for Machine Theory of Mind",
+    "https://aclanthology.org/2024.acl-long.848/",
+    "https://aclanthology.org/2024.acl-long.848.pdf"
+  ],
+  [
+    "MultiPICo: Multilingual Perspectivist Irony Corpus",
+    "https://aclanthology.org/2024.acl-long.849/",
+    "https://aclanthology.org/2024.acl-long.849.pdf"
+  ],
+  [
+    "AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents",
+    "https://aclanthology.org/2024.acl-long.850/",
+    "https://aclanthology.org/2024.acl-long.850.pdf"
+  ],
+  [
+    "MMToM-QA: Multimodal Theory of Mind Question Answering",
+    "https://aclanthology.org/2024.acl-long.851/",
+    "https://aclanthology.org/2024.acl-long.851.pdf"
+  ],
+  [
+    "DocMath-Eval: Evaluating Math Reasoning Capabilities of LLMs in Understanding Long and Specialized Documents",
+    "https://aclanthology.org/2024.acl-long.852/",
+    "https://aclanthology.org/2024.acl-long.852.pdf"
+  ],
+  [
+    "Unintended Impacts of LLM Alignment on Global Representation",
+    "https://aclanthology.org/2024.acl-long.853/",
+    "https://aclanthology.org/2024.acl-long.853.pdf"
+  ],
+  [
+    "ICLEF: In-Context Learning with Expert Feedback for Explainable Style Transfer",
+    "https://aclanthology.org/2024.acl-long.854/",
+    "https://aclanthology.org/2024.acl-long.854.pdf"
+  ],
+  [
+    "MAP’s not dead yet: Uncovering true language model modes by conditioning away degeneracy",
+    "https://aclanthology.org/2024.acl-long.855/",
+    "https://aclanthology.org/2024.acl-long.855.pdf"
+  ],
+  [
+    "Guardians of the Machine Translation Meta-Evaluation: Sentinel Metrics Fall In!",
+    "https://aclanthology.org/2024.acl-long.856/",
+    "https://aclanthology.org/2024.acl-long.856.pdf"
+  ],
+  [
+    "NounAtlas: Filling the Gap in Nominal Semantic Role Labeling",
+    "https://aclanthology.org/2024.acl-long.857/",
+    "https://aclanthology.org/2024.acl-long.857.pdf"
+  ],
+  [
+    "The Earth is Flat because...: Investigating LLMs’ Belief towards Misinformation via Persuasive Conversation",
+    "https://aclanthology.org/2024.acl-long.858/",
+    "https://aclanthology.org/2024.acl-long.858.pdf"
+  ],
+  [
+    "LooGLE: Can Long-Context Language Models Understand Long Contexts?",
+    "https://aclanthology.org/2024.acl-long.859/",
+    "https://aclanthology.org/2024.acl-long.859.pdf"
+  ],
+  [
+    "Let’s Go Real Talk: Spoken Dialogue Model for Face-to-Face Conversation",
+    "https://aclanthology.org/2024.acl-long.860/",
+    "https://aclanthology.org/2024.acl-long.860.pdf"
+  ],
+  [
+    "ECBD: Evidence-Centered Benchmark Design for NLP",
+    "https://aclanthology.org/2024.acl-long.861/",
+    "https://aclanthology.org/2024.acl-long.861.pdf"
+  ],
+  [
+    "Having Beer after Prayer? Measuring Cultural Bias in Large Language Models",
+    "https://aclanthology.org/2024.acl-long.862/",
+    "https://aclanthology.org/2024.acl-long.862.pdf"
+  ],
+  [
+    "Explicating the Implicit: Argument Detection Beyond Sentence Boundaries",
+    "https://aclanthology.org/2024.acl-long.863/",
+    "https://aclanthology.org/2024.acl-long.863.pdf"
+  ],
+  [
+    "Word Embeddings Are Steers for Language Models",
+    "https://aclanthology.org/2024.acl-long.864/",
+    "https://aclanthology.org/2024.acl-long.864.pdf"
+  ],
+  [
+    "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+    "https://aclanthology.org/2024.acl-short.0/",
+    "https://aclanthology.org/2024.acl-short.0.pdf"
+  ],
+  [
+    "Can Language Models Serve as Text-Based World Simulators?",
+    "https://aclanthology.org/2024.acl-short.1/",
+    "https://aclanthology.org/2024.acl-short.1.pdf"
+  ],
+  [
+    "FanOutQA: A Multi-Hop, Multi-Document Question Answering Benchmark for Large Language Models",
+    "https://aclanthology.org/2024.acl-short.2/",
+    "https://aclanthology.org/2024.acl-short.2.pdf"
+  ],
+  [
+    "Revisiting Code Similarity Evaluation with Abstract Syntax Tree Edit Distance",
+    "https://aclanthology.org/2024.acl-short.3/",
+    "https://aclanthology.org/2024.acl-short.3.pdf"
+  ],
+  [
+    "Resisting the Lure of the Skyline: Grounding Practices in Active Learning for Morphological Inflection",
+    "https://aclanthology.org/2024.acl-short.4/",
+    "https://aclanthology.org/2024.acl-short.4.pdf"
+  ],
+  [
+    "Speculative Contrastive Decoding",
+    "https://aclanthology.org/2024.acl-short.5/",
+    "https://aclanthology.org/2024.acl-short.5.pdf"
+  ],
+  [
+    "RDRec: Rationale Distillation for LLM-based Recommendation",
+    "https://aclanthology.org/2024.acl-short.6/",
+    "https://aclanthology.org/2024.acl-short.6.pdf"
+  ],
+  [
+    "Isotropy, Clusters, and Classifiers",
+    "https://aclanthology.org/2024.acl-short.7/",
+    "https://aclanthology.org/2024.acl-short.7.pdf"
+  ],
+  [
+    "Language Models Do Hard Arithmetic Tasks Easily and Hardly Do Easy Arithmetic Tasks",
+    "https://aclanthology.org/2024.acl-short.8/",
+    "https://aclanthology.org/2024.acl-short.8.pdf"
+  ],
+  [
+    "Simpson’s Paradox and the Accuracy-Fluency Tradeoff in Translation",
+    "https://aclanthology.org/2024.acl-short.9/",
+    "https://aclanthology.org/2024.acl-short.9.pdf"
+  ],
+  [
+    "UltraSparseBERT: 99% Conditionally Sparse Language Modelling",
+    "https://aclanthology.org/2024.acl-short.10/",
+    "https://aclanthology.org/2024.acl-short.10.pdf"
+  ],
+  [
+    "SceMQA: A Scientific College Entrance Level Multimodal Question Answering Benchmark",
+    "https://aclanthology.org/2024.acl-short.11/",
+    "https://aclanthology.org/2024.acl-short.11.pdf"
+  ],
+  [
+    "On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models",
+    "https://aclanthology.org/2024.acl-short.12/",
+    "https://aclanthology.org/2024.acl-short.12.pdf"
+  ],
+  [
+    "IEPile: Unearthing Large Scale Schema-Conditioned Information Extraction Corpus",
+    "https://aclanthology.org/2024.acl-short.13/",
+    "https://aclanthology.org/2024.acl-short.13.pdf"
+  ],
+  [
+    "Bi-Directional Multi-Granularity Generation Framework for Knowledge Graph-to-Text with Large Language Model",
+    "https://aclanthology.org/2024.acl-short.14/",
+    "https://aclanthology.org/2024.acl-short.14.pdf"
+  ],
+  [
+    "Code-Switching Can be Better Aligners: Advancing Cross-Lingual SLU through Representation-Level and Prediction-Level Alignment",
+    "https://aclanthology.org/2024.acl-short.15/",
+    "https://aclanthology.org/2024.acl-short.15.pdf"
+  ],
+  [
+    "AFLoRA: Adaptive Freezing of Low Rank Adaptation in Parameter Efficient Fine-Tuning of Large Models",
+    "https://aclanthology.org/2024.acl-short.16/",
+    "https://aclanthology.org/2024.acl-short.16.pdf"
+  ],
+  [
+    "DDPrompt: Differential Diversity Prompting in Large Language Models",
+    "https://aclanthology.org/2024.acl-short.17/",
+    "https://aclanthology.org/2024.acl-short.17.pdf"
+  ],
+  [
+    "Monotonic Representation of Numeric Attributes in Language Models",
+    "https://aclanthology.org/2024.acl-short.18/",
+    "https://aclanthology.org/2024.acl-short.18.pdf"
+  ],
+  [
+    "Two Issues with Chinese Spelling Correction and A Refinement Solution",
+    "https://aclanthology.org/2024.acl-short.19/",
+    "https://aclanthology.org/2024.acl-short.19.pdf"
+  ],
+  [
+    "DynaSemble: Dynamic Ensembling of Textual and Structure-Based Models for Knowledge Graph Completion",
+    "https://aclanthology.org/2024.acl-short.20/",
+    "https://aclanthology.org/2024.acl-short.20.pdf"
+  ],
+  [
+    "Fine-Tuning Pre-Trained Language Models with Gaze Supervision",
+    "https://aclanthology.org/2024.acl-short.21/",
+    "https://aclanthology.org/2024.acl-short.21.pdf"
+  ],
+  [
+    "Growing Trees on Sounds: Assessing Strategies for End-to-End Dependency Parsing of Speech",
+    "https://aclanthology.org/2024.acl-short.22/",
+    "https://aclanthology.org/2024.acl-short.22.pdf"
+  ],
+  [
+    "Sketch-Guided Constrained Decoding for Boosting Blackbox Large Language Models without Logit Access",
+    "https://aclanthology.org/2024.acl-short.23/",
+    "https://aclanthology.org/2024.acl-short.23.pdf"
+  ],
+  [
+    "On the Semantic Latent Space of Diffusion-Based Text-To-Speech Models",
+    "https://aclanthology.org/2024.acl-short.24/",
+    "https://aclanthology.org/2024.acl-short.24.pdf"
+  ],
+  [
+    "Learnable Privacy Neurons Localization in Language Models",
+    "https://aclanthology.org/2024.acl-short.25/",
+    "https://aclanthology.org/2024.acl-short.25.pdf"
+  ],
+  [
+    "Is the Pope Catholic? Yes, the Pope is Catholic. Generative Evaluation of Non-Literal Intent Resolution in LLMs",
+    "https://aclanthology.org/2024.acl-short.26/",
+    "https://aclanthology.org/2024.acl-short.26.pdf"
+  ],
+  [
+    "Generating Harder Cross-document Event Coreference Resolution Datasets using Metaphoric Paraphrasing",
+    "https://aclanthology.org/2024.acl-short.27/",
+    "https://aclanthology.org/2024.acl-short.27.pdf"
+  ],
+  [
+    "Soft Self-Consistency Improves Language Models Agents",
+    "https://aclanthology.org/2024.acl-short.28/",
+    "https://aclanthology.org/2024.acl-short.28.pdf"
+  ],
+  [
+    "RecGPT: Generative Pre-training for Text-based Recommendation",
+    "https://aclanthology.org/2024.acl-short.29/",
+    "https://aclanthology.org/2024.acl-short.29.pdf"
+  ],
+  [
+    "MTP: A Dataset for Multi-Modal Turning Points in Casual Conversations",
+    "https://aclanthology.org/2024.acl-short.30/",
+    "https://aclanthology.org/2024.acl-short.30.pdf"
+  ],
+  [
+    "What Does Parameter-free Probing Really Uncover?",
+    "https://aclanthology.org/2024.acl-short.31/",
+    "https://aclanthology.org/2024.acl-short.31.pdf"
+  ],
+  [
+    "ATLAS: Improving Lay Summarisation with Attribute-based Control",
+    "https://aclanthology.org/2024.acl-short.32/",
+    "https://aclanthology.org/2024.acl-short.32.pdf"
+  ],
+  [
+    "EmbSpatial-Bench: Benchmarking Spatial Understanding for Embodied Tasks with Large Vision-Language Models",
+    "https://aclanthology.org/2024.acl-short.33/",
+    "https://aclanthology.org/2024.acl-short.33.pdf"
+  ],
+  [
+    "Understanding the Effects of Noise in Text-to-SQL: An Examination of the BIRD-Bench Benchmark",
+    "https://aclanthology.org/2024.acl-short.34/",
+    "https://aclanthology.org/2024.acl-short.34.pdf"
+  ],
+  [
+    "Dwell in the Beginning: How Language Models Embed Long Documents for Dense Retrieval",
+    "https://aclanthology.org/2024.acl-short.35/",
+    "https://aclanthology.org/2024.acl-short.35.pdf"
+  ],
+  [
+    "That’s Optional: A Contemporary Exploration of “that” Omission in English Subordinate Clauses",
+    "https://aclanthology.org/2024.acl-short.36/",
+    "https://aclanthology.org/2024.acl-short.36.pdf"
+  ],
+  [
+    "Do Large Language Models Discriminate in Hiring Decisions on the Basis of Race, Ethnicity, and Gender?",
+    "https://aclanthology.org/2024.acl-short.37/",
+    "https://aclanthology.org/2024.acl-short.37.pdf"
+  ],
+  [
+    "Explainability and Hate Speech: Structured Explanations Make Social Media Moderators Faster",
+    "https://aclanthology.org/2024.acl-short.38/",
+    "https://aclanthology.org/2024.acl-short.38.pdf"
+  ],
+  [
+    "Born Differently Makes a Difference: Counterfactual Study of Bias in Biography Generation from a Data-to-Text Perspective",
+    "https://aclanthology.org/2024.acl-short.39/",
+    "https://aclanthology.org/2024.acl-short.39.pdf"
+  ],
+  [
+    "Sign Language Translation with Sentence Embedding Supervision",
+    "https://aclanthology.org/2024.acl-short.40/",
+    "https://aclanthology.org/2024.acl-short.40.pdf"
+  ],
+  [
+    "STREAM: Simplified Topic Retrieval, Exploration, and Analysis Module",
+    "https://aclanthology.org/2024.acl-short.41/",
+    "https://aclanthology.org/2024.acl-short.41.pdf"
+  ],
+  [
+    "DocFinQA: A Long-Context Financial Reasoning Dataset",
+    "https://aclanthology.org/2024.acl-short.42/",
+    "https://aclanthology.org/2024.acl-short.42.pdf"
+  ],
+  [
+    "MaskLID: Code-Switching Language Identification through Iterative Masking",
+    "https://aclanthology.org/2024.acl-short.43/",
+    "https://aclanthology.org/2024.acl-short.43.pdf"
+  ],
+  [
+    "An Empirical Analysis on Large Language Models in Debate Evaluation",
+    "https://aclanthology.org/2024.acl-short.44/",
+    "https://aclanthology.org/2024.acl-short.44.pdf"
+  ],
+  [
+    "Fine-Tuned Machine Translation Metrics Struggle in Unseen Domains",
+    "https://aclanthology.org/2024.acl-short.45/",
+    "https://aclanthology.org/2024.acl-short.45.pdf"
+  ],
+  [
+    "IndicIRSuite: Multilingual Dataset and Neural Information Models for Indian Languages",
+    "https://aclanthology.org/2024.acl-short.46/",
+    "https://aclanthology.org/2024.acl-short.46.pdf"
+  ],
+  [
+    "AGR: Reinforced Causal Agent-Guided Self-explaining Rationalization",
+    "https://aclanthology.org/2024.acl-short.47/",
+    "https://aclanthology.org/2024.acl-short.47.pdf"
+  ],
+  [
+    "Shoulders of Giants: A Look at the Degree and Utility of Openness in NLP Research",
+    "https://aclanthology.org/2024.acl-short.48/",
+    "https://aclanthology.org/2024.acl-short.48.pdf"
+  ],
+  [
+    "The Probabilities Also Matter: A More Faithful Metric for Faithfulness of Free-Text Explanations in Large Language Models",
+    "https://aclanthology.org/2024.acl-short.49/",
+    "https://aclanthology.org/2024.acl-short.49.pdf"
+  ],
+  [
+    "Naming, Describing, and Quantifying Visual Objects in Humans and LLMs",
+    "https://aclanthology.org/2024.acl-short.50/",
+    "https://aclanthology.org/2024.acl-short.50.pdf"
+  ],
+  [
+    "Are LLMs classical or nonmonotonic reasoners? Lessons from generics",
+    "https://aclanthology.org/2024.acl-short.51/",
+    "https://aclanthology.org/2024.acl-short.51.pdf"
+  ],
+  [
+    "ConstitutionalExperts: Training a Mixture of Principle-based Prompts",
+    "https://aclanthology.org/2024.acl-short.52/",
+    "https://aclanthology.org/2024.acl-short.52.pdf"
+  ],
+  [
+    "Time Sensitive Knowledge Editing through Efficient Finetuning",
+    "https://aclanthology.org/2024.acl-short.53/",
+    "https://aclanthology.org/2024.acl-short.53.pdf"
+  ],
+  [
+    "PRewrite: Prompt Rewriting with Reinforcement Learning",
+    "https://aclanthology.org/2024.acl-short.54/",
+    "https://aclanthology.org/2024.acl-short.54.pdf"
+  ],
+  [
+    "Paraphrasing in Affirmative Terms Improves Negation Understanding",
+    "https://aclanthology.org/2024.acl-short.55/",
+    "https://aclanthology.org/2024.acl-short.55.pdf"
+  ],
+  [
+    "Exploring Conditional Variational Mechanism to Pinyin Input Method for Addressing One-to-Many Mappings in Low-Resource Scenarios",
+    "https://aclanthology.org/2024.acl-short.56/",
+    "https://aclanthology.org/2024.acl-short.56.pdf"
+  ],
+  [
+    "Consistency Training by Synthetic Question Generation for Conversational Question Answering",
+    "https://aclanthology.org/2024.acl-short.57/",
+    "https://aclanthology.org/2024.acl-short.57.pdf"
+  ],
+  [
+    "How Good is Zero-Shot MT Evaluation for Low Resource Indian Languages?",
+    "https://aclanthology.org/2024.acl-short.58/",
+    "https://aclanthology.org/2024.acl-short.58.pdf"
+  ],
+  [
+    "Zero-Shot Cross-Lingual Reranking with Large Language Models for Low-Resource Languages",
+    "https://aclanthology.org/2024.acl-short.59/",
+    "https://aclanthology.org/2024.acl-short.59.pdf"
+  ],
+  [
+    "Cross-Modal Projection in Multimodal LLMs Doesn’t Really Project Visual Attributes to Textual Space",
+    "https://aclanthology.org/2024.acl-short.60/",
+    "https://aclanthology.org/2024.acl-short.60.pdf"
+  ],
+  [
+    "Guidance-Based Prompt Data Augmentation in Specialized Domains for Named Entity Recognition",
+    "https://aclanthology.org/2024.acl-short.61/",
+    "https://aclanthology.org/2024.acl-short.61.pdf"
+  ],
+  [
+    "Aligning Large Language Models via Fine-grained Supervision",
+    "https://aclanthology.org/2024.acl-short.62/",
+    "https://aclanthology.org/2024.acl-short.62.pdf"
+  ],
+  [
+    "Annotating FrameNet via Structure-Conditioned Language Generation",
+    "https://aclanthology.org/2024.acl-short.63/",
+    "https://aclanthology.org/2024.acl-short.63.pdf"
+  ],
+  [
+    "DUAL-REFLECT: Enhancing Large Language Models for Reflective Translation through Dual Learning Feedback Mechanisms",
+    "https://aclanthology.org/2024.acl-short.64/",
+    "https://aclanthology.org/2024.acl-short.64.pdf"
+  ],
+  [
+    "Towards Artwork Explanation in Large-scale Vision Language Models",
+    "https://aclanthology.org/2024.acl-short.65/",
+    "https://aclanthology.org/2024.acl-short.65.pdf"
+  ],
+  [
+    "On the Hallucination in Simultaneous Machine Translation",
+    "https://aclanthology.org/2024.acl-short.66/",
+    "https://aclanthology.org/2024.acl-short.66.pdf"
+  ],
+  [
+    "Self-Augmented In-Context Learning for Unsupervised Word Translation",
+    "https://aclanthology.org/2024.acl-short.67/",
+    "https://aclanthology.org/2024.acl-short.67.pdf"
+  ],
+  [
+    "RAM-EHR: Retrieval Augmentation Meets Clinical Predictions on Electronic Health Records",
+    "https://aclanthology.org/2024.acl-short.68/",
+    "https://aclanthology.org/2024.acl-short.68.pdf"
+  ],
+  [
+    "Estimating the Level of Dialectness Predicts Inter-annotator Agreement in Multi-dialect Arabic Datasets",
+    "https://aclanthology.org/2024.acl-short.69/",
+    "https://aclanthology.org/2024.acl-short.69.pdf"
+  ],
+  [
+    "Estimating the Level of Dialectness Predicts Inter-annotator Agreement in Multi-dialect Arabic Datasets",
+    "https://aclanthology.org/2024.acl-short.70/",
+    "https://aclanthology.org/2024.acl-short.70.pdf"
+  ],
+  [
+    "Linear-time Minimum Bayes Risk Decoding with Reference Aggregation",
+    "https://aclanthology.org/2024.acl-short.71/",
+    "https://aclanthology.org/2024.acl-short.71.pdf"
+  ],
+  [
+    "Cleaner Pretraining Corpus Curation with Neural Web Scraping",
+    "https://aclanthology.org/2024.acl-short.72/",
+    "https://aclanthology.org/2024.acl-short.72.pdf"
+  ],
+  [
+    "Greed is All You Need: An Evaluation of Tokenizer Inference Methods",
+    "https://aclanthology.org/2024.acl-short.73/",
+    "https://aclanthology.org/2024.acl-short.73.pdf"
+  ],
+  [
+    "What Do Dialect Speakers Want? A Survey of Attitudes Towards Language Technology for German Dialects",
+    "https://aclanthology.org/2024.acl-short.74/",
+    "https://aclanthology.org/2024.acl-short.74.pdf"
+  ],
+  [
+    "SeeGULL Multilingual: a Dataset of Geo-Culturally Situated Stereotypes",
+    "https://aclanthology.org/2024.acl-short.75/",
+    "https://aclanthology.org/2024.acl-short.75.pdf"
+  ],
+  [
+    "Getting Serious about Humor: Crafting Humor Datasets with Unfunny Large Language Models",
+    "https://aclanthology.org/2024.acl-short.76/",
+    "https://aclanthology.org/2024.acl-short.76.pdf"
+  ],
+  [
+    "Don’t Buy it! Reassessing the Ad Understanding Abilities of Contrastive Multimodal Models",
+    "https://aclanthology.org/2024.acl-short.77/",
+    "https://aclanthology.org/2024.acl-short.77.pdf"
+  ]
+]
