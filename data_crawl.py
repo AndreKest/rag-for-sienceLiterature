@@ -15,6 +15,8 @@ for config in configs:
     conf_name = config['conf_name']
     conf_id_list = config['conf_id_list']
 
+    print(f"Start crawling for {conf_name}..")
+
     #%%
     html_doc = requests.get(page_url).text
     soup = BeautifulSoup(html_doc, 'html.parser')
@@ -55,3 +57,5 @@ for config in configs:
         except Exception as e:
             print("Error: ", e)
             continue
+
+    print(f"Finished crawling for {conf_name}..")
