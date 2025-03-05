@@ -6,11 +6,9 @@ import requests
 import os
 from tqdm import tqdm
 
-page_url = "https://aclanthology.org/events/acl-2024/"
-conf_name = './data/ACL/acl_2024_main'
-conf_id = '2024acl-long'
-conf_id = '2024acl-short'
-conf_list = ['2024acl-long', '2024acl-short']
+page_url = "https://aclanthology.org/events/acl-2023/"
+conf_name = './data/ACL/acl_2023_main'
+conf_list = ['2023acl-long', '2023acl-short']
 
 #%%
 html_doc = requests.get(page_url).text
