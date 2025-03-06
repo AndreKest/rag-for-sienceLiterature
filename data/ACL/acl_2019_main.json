@@ -1,0 +1,3307 @@
+[
+  [
+    "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics",
+    "https://aclanthology.org/P19-1000/",
+    "https://aclanthology.org/P19-1000.pdf"
+  ],
+  [
+    "One Time of Interaction May Not Be Enough: Go Deep with an Interaction-over-Interaction Network for Response Selection in Dialogues",
+    "https://aclanthology.org/P19-1001/",
+    "https://aclanthology.org/P19-1001.pdf"
+  ],
+  [
+    "Incremental Transformer with Deliberation Decoder for Document Grounded Conversations",
+    "https://aclanthology.org/P19-1002/",
+    "https://aclanthology.org/P19-1002.pdf"
+  ],
+  [
+    "Improving Multi-turn Dialogue Modelling with Utterance ReWriter",
+    "https://aclanthology.org/P19-1003/",
+    "https://aclanthology.org/P19-1003.pdf"
+  ],
+  [
+    "Do Neural Dialog Systems Use the Conversation History Effectively? An Empirical Study",
+    "https://aclanthology.org/P19-1004/",
+    "https://aclanthology.org/P19-1004.pdf"
+  ],
+  [
+    "Boosting Dialog Response Generation",
+    "https://aclanthology.org/P19-1005/",
+    "https://aclanthology.org/P19-1005.pdf"
+  ],
+  [
+    "Constructing Interpretive Spatio-Temporal Features for Multi-Turn Responses Selection",
+    "https://aclanthology.org/P19-1006/",
+    "https://aclanthology.org/P19-1006.pdf"
+  ],
+  [
+    "Semantic Parsing with Dual Learning",
+    "https://aclanthology.org/P19-1007/",
+    "https://aclanthology.org/P19-1007.pdf"
+  ],
+  [
+    "Semantic Expressive Capacity with Bounded Memory",
+    "https://aclanthology.org/P19-1008/",
+    "https://aclanthology.org/P19-1008.pdf"
+  ],
+  [
+    "AMR Parsing as Sequence-to-Graph Transduction",
+    "https://aclanthology.org/P19-1009/",
+    "https://aclanthology.org/P19-1009.pdf"
+  ],
+  [
+    "Generating Logical Forms from Graph Representations of Text and Entities",
+    "https://aclanthology.org/P19-1010/",
+    "https://aclanthology.org/P19-1010.pdf"
+  ],
+  [
+    "Learning Compressed Sentence Representations for On-Device Text Processing",
+    "https://aclanthology.org/P19-1011/",
+    "https://aclanthology.org/P19-1011.pdf"
+  ],
+  [
+    "The (Non-)Utility of Structural Features in BiLSTM-based Dependency Parsers",
+    "https://aclanthology.org/P19-1012/",
+    "https://aclanthology.org/P19-1012.pdf"
+  ],
+  [
+    "Automatic Generation of High Quality CCGbanks for Parser Domain Adaptation",
+    "https://aclanthology.org/P19-1013/",
+    "https://aclanthology.org/P19-1013.pdf"
+  ],
+  [
+    "A Joint Named-Entity Recognizer for Heterogeneous Tag-sets Using a Tag Hierarchy",
+    "https://aclanthology.org/P19-1014/",
+    "https://aclanthology.org/P19-1014.pdf"
+  ],
+  [
+    "Massively Multilingual Transfer for NER",
+    "https://aclanthology.org/P19-1015/",
+    "https://aclanthology.org/P19-1015.pdf"
+  ],
+  [
+    "Reliability-aware Dynamic Feature Composition for Name Tagging",
+    "https://aclanthology.org/P19-1016/",
+    "https://aclanthology.org/P19-1016.pdf"
+  ],
+  [
+    "Unsupervised Pivot Translation for Distant Languages",
+    "https://aclanthology.org/P19-1017/",
+    "https://aclanthology.org/P19-1017.pdf"
+  ],
+  [
+    "Bilingual Lexicon Induction with Semi-supervision in Non-Isometric Embedding Spaces",
+    "https://aclanthology.org/P19-1018/",
+    "https://aclanthology.org/P19-1018.pdf"
+  ],
+  [
+    "An Effective Approach to Unsupervised Machine Translation",
+    "https://aclanthology.org/P19-1019/",
+    "https://aclanthology.org/P19-1019.pdf"
+  ],
+  [
+    "Effective Adversarial Regularization for Neural Machine Translation",
+    "https://aclanthology.org/P19-1020/",
+    "https://aclanthology.org/P19-1020.pdf"
+  ],
+  [
+    "Revisiting Low-Resource Neural Machine Translation: A Case Study",
+    "https://aclanthology.org/P19-1021/",
+    "https://aclanthology.org/P19-1021.pdf"
+  ],
+  [
+    "Domain Adaptive Inference for Neural Machine Translation",
+    "https://aclanthology.org/P19-1022/",
+    "https://aclanthology.org/P19-1022.pdf"
+  ],
+  [
+    "Neural Relation Extraction for Knowledge Base Enrichment",
+    "https://aclanthology.org/P19-1023/",
+    "https://aclanthology.org/P19-1023.pdf"
+  ],
+  [
+    "Attention Guided Graph Convolutional Networks for Relation Extraction",
+    "https://aclanthology.org/P19-1024/",
+    "https://aclanthology.org/P19-1024.pdf"
+  ],
+  [
+    "Spatial Aggregation Facilitates Discovery of Spatial Topics",
+    "https://aclanthology.org/P19-1025/",
+    "https://aclanthology.org/P19-1025.pdf"
+  ],
+  [
+    "Relation Embedding with Dihedral Group in Knowledge Graph",
+    "https://aclanthology.org/P19-1026/",
+    "https://aclanthology.org/P19-1026.pdf"
+  ],
+  [
+    "Sequence Tagging with Contextual and Non-Contextual Subword Representations: A Multilingual Evaluation",
+    "https://aclanthology.org/P19-1027/",
+    "https://aclanthology.org/P19-1027.pdf"
+  ],
+  [
+    "Augmenting Neural Networks with First-order Logic",
+    "https://aclanthology.org/P19-1028/",
+    "https://aclanthology.org/P19-1028.pdf"
+  ],
+  [
+    "Self-Regulated Interactive Sequence-to-Sequence Learning",
+    "https://aclanthology.org/P19-1029/",
+    "https://aclanthology.org/P19-1029.pdf"
+  ],
+  [
+    "You Only Need Attention to Traverse Trees",
+    "https://aclanthology.org/P19-1030/",
+    "https://aclanthology.org/P19-1030.pdf"
+  ],
+  [
+    "Cross-Domain Generalization of Neural Constituency Parsers",
+    "https://aclanthology.org/P19-1031/",
+    "https://aclanthology.org/P19-1031.pdf"
+  ],
+  [
+    "Adaptive Attention Span in Transformers",
+    "https://aclanthology.org/P19-1032/",
+    "https://aclanthology.org/P19-1032.pdf"
+  ],
+  [
+    "Neural News Recommendation with Long- and Short-term User Representations",
+    "https://aclanthology.org/P19-1033/",
+    "https://aclanthology.org/P19-1033.pdf"
+  ],
+  [
+    "Automatic Domain Adaptation Outperforms Manual Domain Adaptation for Predicting Financial Outcomes",
+    "https://aclanthology.org/P19-1034/",
+    "https://aclanthology.org/P19-1034.pdf"
+  ],
+  [
+    "Manipulating the Difficulty of C-Tests",
+    "https://aclanthology.org/P19-1035/",
+    "https://aclanthology.org/P19-1035.pdf"
+  ],
+  [
+    "Towards Unsupervised Text Classification Leveraging Experts and Word Embeddings",
+    "https://aclanthology.org/P19-1036/",
+    "https://aclanthology.org/P19-1036.pdf"
+  ],
+  [
+    "Neural Text Simplification of Clinical Letters with a Domain Specific Phrase Table",
+    "https://aclanthology.org/P19-1037/",
+    "https://aclanthology.org/P19-1037.pdf"
+  ],
+  [
+    "What You Say and How You Say It Matters: Predicting Stock Volatility Using Verbal and Vocal Cues",
+    "https://aclanthology.org/P19-1038/",
+    "https://aclanthology.org/P19-1038.pdf"
+  ],
+  [
+    "Detecting Concealed Information in Text and Speech",
+    "https://aclanthology.org/P19-1039/",
+    "https://aclanthology.org/P19-1039.pdf"
+  ],
+  [
+    "Evidence-based Trustworthiness",
+    "https://aclanthology.org/P19-1040/",
+    "https://aclanthology.org/P19-1040.pdf"
+  ],
+  [
+    "Disentangled Representation Learning for Non-Parallel Text Style Transfer",
+    "https://aclanthology.org/P19-1041/",
+    "https://aclanthology.org/P19-1041.pdf"
+  ],
+  [
+    "Cross-Sentence Grammatical Error Correction",
+    "https://aclanthology.org/P19-1042/",
+    "https://aclanthology.org/P19-1042.pdf"
+  ],
+  [
+    "This Email Could Save Your Life: Introducing the Task of Email Subject Line Generation",
+    "https://aclanthology.org/P19-1043/",
+    "https://aclanthology.org/P19-1043.pdf"
+  ],
+  [
+    "Time-Out: Temporal Referencing for Robust Modeling of Lexical Semantic Change",
+    "https://aclanthology.org/P19-1044/",
+    "https://aclanthology.org/P19-1044.pdf"
+  ],
+  [
+    "Adversarial Attention Modeling for Multi-dimensional Emotion Regression",
+    "https://aclanthology.org/P19-1045/",
+    "https://aclanthology.org/P19-1045.pdf"
+  ],
+  [
+    "Divide, Conquer and Combine: Hierarchical Feature Fusion Network with Local and Global Perspectives for Multimodal Affective Computing",
+    "https://aclanthology.org/P19-1046/",
+    "https://aclanthology.org/P19-1046.pdf"
+  ],
+  [
+    "Modeling Financial Analysts’ Decision Making via the Pragmatics and Semantics of Earnings Calls",
+    "https://aclanthology.org/P19-1047/",
+    "https://aclanthology.org/P19-1047.pdf"
+  ],
+  [
+    "An Interactive Multi-Task Learning Network for End-to-End Aspect-Based Sentiment Analysis",
+    "https://aclanthology.org/P19-1048/",
+    "https://aclanthology.org/P19-1048.pdf"
+  ],
+  [
+    "Decompositional Argument Mining: A General Purpose Approach for Argument Graph Construction",
+    "https://aclanthology.org/P19-1049/",
+    "https://aclanthology.org/P19-1049.pdf"
+  ],
+  [
+    "MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations",
+    "https://aclanthology.org/P19-1050/",
+    "https://aclanthology.org/P19-1050.pdf"
+  ],
+  [
+    "Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification",
+    "https://aclanthology.org/P19-1051/",
+    "https://aclanthology.org/P19-1051.pdf"
+  ],
+  [
+    "Transfer Capsule Network for Aspect Level Sentiment Classification",
+    "https://aclanthology.org/P19-1052/",
+    "https://aclanthology.org/P19-1052.pdf"
+  ],
+  [
+    "Progressive Self-Supervised Attention Learning for Aspect-Level Sentiment Analysis",
+    "https://aclanthology.org/P19-1053/",
+    "https://aclanthology.org/P19-1053.pdf"
+  ],
+  [
+    "Classification and Clustering of Arguments with Contextualized Word Embeddings",
+    "https://aclanthology.org/P19-1054/",
+    "https://aclanthology.org/P19-1054.pdf"
+  ],
+  [
+    "Sentiment Tagging with Partial Labels using Modular Architectures",
+    "https://aclanthology.org/P19-1055/",
+    "https://aclanthology.org/P19-1055.pdf"
+  ],
+  [
+    "DOER: Dual Cross-Shared RNN for Aspect Term-Polarity Co-Extraction",
+    "https://aclanthology.org/P19-1056/",
+    "https://aclanthology.org/P19-1056.pdf"
+  ],
+  [
+    "A Corpus for Modeling User and Language Effects in Argumentation on Online Debating",
+    "https://aclanthology.org/P19-1057/",
+    "https://aclanthology.org/P19-1057.pdf"
+  ],
+  [
+    "Topic Tensor Network for Implicit Discourse Relation Recognition in Chinese",
+    "https://aclanthology.org/P19-1058/",
+    "https://aclanthology.org/P19-1058.pdf"
+  ],
+  [
+    "Learning from Omission",
+    "https://aclanthology.org/P19-1059/",
+    "https://aclanthology.org/P19-1059.pdf"
+  ],
+  [
+    "Multi-Task Learning for Coherence Modeling",
+    "https://aclanthology.org/P19-1060/",
+    "https://aclanthology.org/P19-1060.pdf"
+  ],
+  [
+    "Data Programming for Learning Discourse Structure",
+    "https://aclanthology.org/P19-1061/",
+    "https://aclanthology.org/P19-1061.pdf"
+  ],
+  [
+    "Evaluating Discourse in Structured Text Representations",
+    "https://aclanthology.org/P19-1062/",
+    "https://aclanthology.org/P19-1062.pdf"
+  ],
+  [
+    "Know What You Don’t Know: Modeling a Pragmatic Speaker that Refers to Objects of Unknown Categories",
+    "https://aclanthology.org/P19-1063/",
+    "https://aclanthology.org/P19-1063.pdf"
+  ],
+  [
+    "End-to-end Deep Reinforcement Learning Based Coreference Resolution",
+    "https://aclanthology.org/P19-1064/",
+    "https://aclanthology.org/P19-1064.pdf"
+  ],
+  [
+    "Implicit Discourse Relation Identification for Open-domain Dialogues",
+    "https://aclanthology.org/P19-1065/",
+    "https://aclanthology.org/P19-1065.pdf"
+  ],
+  [
+    "Coreference Resolution with Entity Equalization",
+    "https://aclanthology.org/P19-1066/",
+    "https://aclanthology.org/P19-1066.pdf"
+  ],
+  [
+    "A Cross-Domain Transferable Neural Coherence Model",
+    "https://aclanthology.org/P19-1067/",
+    "https://aclanthology.org/P19-1067.pdf"
+  ],
+  [
+    "MOROCO: The Moldavian and Romanian Dialectal Corpus",
+    "https://aclanthology.org/P19-1068/",
+    "https://aclanthology.org/P19-1068.pdf"
+  ],
+  [
+    "Just “OneSeC” for Producing Multilingual Sense-Annotated Data",
+    "https://aclanthology.org/P19-1069/",
+    "https://aclanthology.org/P19-1069.pdf"
+  ],
+  [
+    "How to (Properly) Evaluate Cross-Lingual Word Embeddings: On Strong Baselines, Comparative Analyses, and Some Misconceptions",
+    "https://aclanthology.org/P19-1070/",
+    "https://aclanthology.org/P19-1070.pdf"
+  ],
+  [
+    "SP-10K: A Large-scale Evaluation Set for Selectional Preference Acquisition",
+    "https://aclanthology.org/P19-1071/",
+    "https://aclanthology.org/P19-1071.pdf"
+  ],
+  [
+    "A Wind of Change: Detecting and Evaluating Lexical Semantic Change across Times and Domains",
+    "https://aclanthology.org/P19-1072/",
+    "https://aclanthology.org/P19-1072.pdf"
+  ],
+  [
+    "Errudite: Scalable, Reproducible, and Testable Error Analysis",
+    "https://aclanthology.org/P19-1073/",
+    "https://aclanthology.org/P19-1073.pdf"
+  ],
+  [
+    "DocRED: A Large-Scale Document-Level Relation Extraction Dataset",
+    "https://aclanthology.org/P19-1074/",
+    "https://aclanthology.org/P19-1074.pdf"
+  ],
+  [
+    "ChID: A Large-scale Chinese IDiom Dataset for Cloze Test",
+    "https://aclanthology.org/P19-1075/",
+    "https://aclanthology.org/P19-1075.pdf"
+  ],
+  [
+    "Automatic Evaluation of Local Topic Quality",
+    "https://aclanthology.org/P19-1076/",
+    "https://aclanthology.org/P19-1076.pdf"
+  ],
+  [
+    "Crowdsourcing and Aggregating Nested Markable Annotations",
+    "https://aclanthology.org/P19-1077/",
+    "https://aclanthology.org/P19-1077.pdf"
+  ],
+  [
+    "Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems",
+    "https://aclanthology.org/P19-1078/",
+    "https://aclanthology.org/P19-1078.pdf"
+  ],
+  [
+    "Multi-Task Networks with Universe, Group, and Task Feature Learning",
+    "https://aclanthology.org/P19-1079/",
+    "https://aclanthology.org/P19-1079.pdf"
+  ],
+  [
+    "Constrained Decoding for Neural NLG from Compositional Representations in Task-Oriented Dialogue",
+    "https://aclanthology.org/P19-1080/",
+    "https://aclanthology.org/P19-1080.pdf"
+  ],
+  [
+    "OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs",
+    "https://aclanthology.org/P19-1081/",
+    "https://aclanthology.org/P19-1081.pdf"
+  ],
+  [
+    "Coupling Retrieval and Meta-Learning for Context-Dependent Semantic Parsing",
+    "https://aclanthology.org/P19-1082/",
+    "https://aclanthology.org/P19-1082.pdf"
+  ],
+  [
+    "Knowledge-aware Pronoun Coreference Resolution",
+    "https://aclanthology.org/P19-1083/",
+    "https://aclanthology.org/P19-1083.pdf"
+  ],
+  [
+    "Don’t Take the Premise for Granted: Mitigating Artifacts in Natural Language Inference",
+    "https://aclanthology.org/P19-1084/",
+    "https://aclanthology.org/P19-1084.pdf"
+  ],
+  [
+    "GEAR: Graph-based Evidence Aggregating and Reasoning for Fact Verification",
+    "https://aclanthology.org/P19-1085/",
+    "https://aclanthology.org/P19-1085.pdf"
+  ],
+  [
+    "SherLIiC: A Typed Event-Focused Lexical Inference Benchmark for Evaluating Natural Language Inference",
+    "https://aclanthology.org/P19-1086/",
+    "https://aclanthology.org/P19-1086.pdf"
+  ],
+  [
+    "Extracting Symptoms and their Status from Clinical Conversations",
+    "https://aclanthology.org/P19-1087/",
+    "https://aclanthology.org/P19-1087.pdf"
+  ],
+  [
+    "What Makes a Good Counselor? Learning to Distinguish between High-quality and Low-quality Counseling Conversations",
+    "https://aclanthology.org/P19-1088/",
+    "https://aclanthology.org/P19-1088.pdf"
+  ],
+  [
+    "Finding Your Voice: The Linguistic Development of Mental Health Counselors",
+    "https://aclanthology.org/P19-1089/",
+    "https://aclanthology.org/P19-1089.pdf"
+  ],
+  [
+    "Towards Automating Healthcare Question Answering in a Noisy Multilingual Low-Resource Setting",
+    "https://aclanthology.org/P19-1090/",
+    "https://aclanthology.org/P19-1090.pdf"
+  ],
+  [
+    "Joint Entity Extraction and Assertion Detection for Clinical Text",
+    "https://aclanthology.org/P19-1091/",
+    "https://aclanthology.org/P19-1091.pdf"
+  ],
+  [
+    "HEAD-QA: A Healthcare Dataset for Complex Reasoning",
+    "https://aclanthology.org/P19-1092/",
+    "https://aclanthology.org/P19-1092.pdf"
+  ],
+  [
+    "Are You Convinced? Choosing the More Convincing Evidence with a Siamese Network",
+    "https://aclanthology.org/P19-1093/",
+    "https://aclanthology.org/P19-1093.pdf"
+  ],
+  [
+    "From Surrogacy to Adoption; From Bitcoin to Cryptocurrency: Debate Topic Expansion",
+    "https://aclanthology.org/P19-1094/",
+    "https://aclanthology.org/P19-1094.pdf"
+  ],
+  [
+    "Multimodal and Multi-view Models for Emotion Recognition",
+    "https://aclanthology.org/P19-1095/",
+    "https://aclanthology.org/P19-1095.pdf"
+  ],
+  [
+    "Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts",
+    "https://aclanthology.org/P19-1096/",
+    "https://aclanthology.org/P19-1096.pdf"
+  ],
+  [
+    "Argument Invention from First Principles",
+    "https://aclanthology.org/P19-1097/",
+    "https://aclanthology.org/P19-1097.pdf"
+  ],
+  [
+    "Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization",
+    "https://aclanthology.org/P19-1098/",
+    "https://aclanthology.org/P19-1098.pdf"
+  ],
+  [
+    "Global Optimization under Length Constraint for Neural Text Summarization",
+    "https://aclanthology.org/P19-1099/",
+    "https://aclanthology.org/P19-1099.pdf"
+  ],
+  [
+    "Searching for Effective Neural Extractive Summarization: What Works and What’s Next",
+    "https://aclanthology.org/P19-1100/",
+    "https://aclanthology.org/P19-1100.pdf"
+  ],
+  [
+    "A Simple Theoretical Model of Importance for Summarization",
+    "https://aclanthology.org/P19-1101/",
+    "https://aclanthology.org/P19-1101.pdf"
+  ],
+  [
+    "Multi-News: A Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model",
+    "https://aclanthology.org/P19-1102/",
+    "https://aclanthology.org/P19-1102.pdf"
+  ],
+  [
+    "Generating Natural Language Adversarial Examples through Probability Weighted Word Saliency",
+    "https://aclanthology.org/P19-1103/",
+    "https://aclanthology.org/P19-1103.pdf"
+  ],
+  [
+    "Heuristic Authorship Obfuscation",
+    "https://aclanthology.org/P19-1104/",
+    "https://aclanthology.org/P19-1104.pdf"
+  ],
+  [
+    "Text Categorization by Learning Predominant Sense of Words as Auxiliary Task",
+    "https://aclanthology.org/P19-1105/",
+    "https://aclanthology.org/P19-1105.pdf"
+  ],
+  [
+    "DeepSentiPeer: Harnessing Sentiment in Review Texts to Recommend Peer Review Decisions",
+    "https://aclanthology.org/P19-1106/",
+    "https://aclanthology.org/P19-1106.pdf"
+  ],
+  [
+    "Gated Embeddings in End-to-End Speech Recognition for Conversational-Context Fusion",
+    "https://aclanthology.org/P19-1107/",
+    "https://aclanthology.org/P19-1107.pdf"
+  ],
+  [
+    "Figurative Usage Detection of Symptom Words to Improve Personal Health Mention Detection",
+    "https://aclanthology.org/P19-1108/",
+    "https://aclanthology.org/P19-1108.pdf"
+  ],
+  [
+    "Complex Word Identification as a Sequence Labelling Task",
+    "https://aclanthology.org/P19-1109/",
+    "https://aclanthology.org/P19-1109.pdf"
+  ],
+  [
+    "Neural News Recommendation with Topic-Aware News Representation",
+    "https://aclanthology.org/P19-1110/",
+    "https://aclanthology.org/P19-1110.pdf"
+  ],
+  [
+    "Poetry to Prose Conversion in Sanskrit as a Linearisation Task: A Case for Low-Resource Languages",
+    "https://aclanthology.org/P19-1111/",
+    "https://aclanthology.org/P19-1111.pdf"
+  ],
+  [
+    "Learning Emphasis Selection for Written Text in Visual Media from Crowd-Sourced Label Distributions",
+    "https://aclanthology.org/P19-1112/",
+    "https://aclanthology.org/P19-1112.pdf"
+  ],
+  [
+    "Rumor Detection by Exploiting User Credibility Information, Attention and Multi-task Learning",
+    "https://aclanthology.org/P19-1113/",
+    "https://aclanthology.org/P19-1113.pdf"
+  ],
+  [
+    "Context-specific Language Modeling for Human Trafficking Detection from Online Advertisements",
+    "https://aclanthology.org/P19-1114/",
+    "https://aclanthology.org/P19-1114.pdf"
+  ],
+  [
+    "Self-Attentional Models for Lattice Inputs",
+    "https://aclanthology.org/P19-1115/",
+    "https://aclanthology.org/P19-1115.pdf"
+  ],
+  [
+    "When a Good Translation is Wrong in Context: Context-Aware Machine Translation Improves on Deixis, Ellipsis, and Lexical Cohesion",
+    "https://aclanthology.org/P19-1116/",
+    "https://aclanthology.org/P19-1116.pdf"
+  ],
+  [
+    "A Compact and Language-Sensitive Multilingual Translation Method",
+    "https://aclanthology.org/P19-1117/",
+    "https://aclanthology.org/P19-1117.pdf"
+  ],
+  [
+    "Unsupervised Parallel Sentence Extraction with Parallel Segment Detection Helps Machine Translation",
+    "https://aclanthology.org/P19-1118/",
+    "https://aclanthology.org/P19-1118.pdf"
+  ],
+  [
+    "Unsupervised Bilingual Word Embedding Agreement for Unsupervised Neural Machine Translation",
+    "https://aclanthology.org/P19-1119/",
+    "https://aclanthology.org/P19-1119.pdf"
+  ],
+  [
+    "Effective Cross-lingual Transfer of Neural Machine Translation Models without Shared Vocabularies",
+    "https://aclanthology.org/P19-1120/",
+    "https://aclanthology.org/P19-1120.pdf"
+  ],
+  [
+    "Improved Zero-shot Neural Machine Translation via Ignoring Spurious Correlations",
+    "https://aclanthology.org/P19-1121/",
+    "https://aclanthology.org/P19-1121.pdf"
+  ],
+  [
+    "Syntactically Supervised Transformers for Faster Neural Machine Translation",
+    "https://aclanthology.org/P19-1122/",
+    "https://aclanthology.org/P19-1122.pdf"
+  ],
+  [
+    "Dynamically Composing Domain-Data Selection with Clean-Data Selection by “Co-Curricular Learning” for Neural Machine Translation",
+    "https://aclanthology.org/P19-1123/",
+    "https://aclanthology.org/P19-1123.pdf"
+  ],
+  [
+    "On the Word Alignment from Neural Machine Translation",
+    "https://aclanthology.org/P19-1124/",
+    "https://aclanthology.org/P19-1124.pdf"
+  ],
+  [
+    "Imitation Learning for Non-Autoregressive Neural Machine Translation",
+    "https://aclanthology.org/P19-1125/",
+    "https://aclanthology.org/P19-1125.pdf"
+  ],
+  [
+    "Monotonic Infinite Lookback Attention for Simultaneous Machine Translation",
+    "https://aclanthology.org/P19-1126/",
+    "https://aclanthology.org/P19-1126.pdf"
+  ],
+  [
+    "Global Textual Relation Embedding for Relational Understanding",
+    "https://aclanthology.org/P19-1127/",
+    "https://aclanthology.org/P19-1127.pdf"
+  ],
+  [
+    "Graph Neural Networks with Generated Parameters for Relation Extraction",
+    "https://aclanthology.org/P19-1128/",
+    "https://aclanthology.org/P19-1128.pdf"
+  ],
+  [
+    "Entity-Relation Extraction as Multi-Turn Question Answering",
+    "https://aclanthology.org/P19-1129/",
+    "https://aclanthology.org/P19-1129.pdf"
+  ],
+  [
+    "Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data",
+    "https://aclanthology.org/P19-1130/",
+    "https://aclanthology.org/P19-1130.pdf"
+  ],
+  [
+    "Joint Type Inference on Entities and Relations via Graph Convolutional Networks",
+    "https://aclanthology.org/P19-1131/",
+    "https://aclanthology.org/P19-1131.pdf"
+  ],
+  [
+    "Extracting Multiple-Relations in One-Pass with Pre-Trained Transformers",
+    "https://aclanthology.org/P19-1132/",
+    "https://aclanthology.org/P19-1132.pdf"
+  ],
+  [
+    "Unsupervised Information Extraction: Regularizing Discriminative Approaches with Relation Distribution Losses",
+    "https://aclanthology.org/P19-1133/",
+    "https://aclanthology.org/P19-1133.pdf"
+  ],
+  [
+    "Fine-tuning Pre-Trained Transformer Language Models to Distantly Supervised Relation Extraction",
+    "https://aclanthology.org/P19-1134/",
+    "https://aclanthology.org/P19-1134.pdf"
+  ],
+  [
+    "ARNOR: Attention Regularization based Noise Reduction for Distant Supervision Relation Classification",
+    "https://aclanthology.org/P19-1135/",
+    "https://aclanthology.org/P19-1135.pdf"
+  ],
+  [
+    "GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction",
+    "https://aclanthology.org/P19-1136/",
+    "https://aclanthology.org/P19-1136.pdf"
+  ],
+  [
+    "DIAG-NRE: A Neural Pattern Diagnosis Framework for Distantly Supervised Neural Relation Extraction",
+    "https://aclanthology.org/P19-1137/",
+    "https://aclanthology.org/P19-1137.pdf"
+  ],
+  [
+    "Multi-grained Named Entity Recognition",
+    "https://aclanthology.org/P19-1138/",
+    "https://aclanthology.org/P19-1138.pdf"
+  ],
+  [
+    "ERNIE: Enhanced Language Representation with Informative Entities",
+    "https://aclanthology.org/P19-1139/",
+    "https://aclanthology.org/P19-1139.pdf"
+  ],
+  [
+    "Multi-Channel Graph Neural Network for Entity Alignment",
+    "https://aclanthology.org/P19-1140/",
+    "https://aclanthology.org/P19-1140.pdf"
+  ],
+  [
+    "A Neural Multi-digraph Model for Chinese NER with Gazetteers",
+    "https://aclanthology.org/P19-1141/",
+    "https://aclanthology.org/P19-1141.pdf"
+  ],
+  [
+    "Improved Language Modeling by Decoding the Past",
+    "https://aclanthology.org/P19-1142/",
+    "https://aclanthology.org/P19-1142.pdf"
+  ],
+  [
+    "Training Hybrid Language Models by Marginalizing over Segmentations",
+    "https://aclanthology.org/P19-1143/",
+    "https://aclanthology.org/P19-1143.pdf"
+  ],
+  [
+    "Improving Neural Language Models by Segmenting, Attending, and Predicting the Future",
+    "https://aclanthology.org/P19-1144/",
+    "https://aclanthology.org/P19-1144.pdf"
+  ],
+  [
+    "Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks",
+    "https://aclanthology.org/P19-1145/",
+    "https://aclanthology.org/P19-1145.pdf"
+  ],
+  [
+    "Sparse Sequence-to-Sequence Models",
+    "https://aclanthology.org/P19-1146/",
+    "https://aclanthology.org/P19-1146.pdf"
+  ],
+  [
+    "On the Robustness of Self-Attentive Models",
+    "https://aclanthology.org/P19-1147/",
+    "https://aclanthology.org/P19-1147.pdf"
+  ],
+  [
+    "Exact Hard Monotonic Attention for Character-Level Transduction",
+    "https://aclanthology.org/P19-1148/",
+    "https://aclanthology.org/P19-1148.pdf"
+  ],
+  [
+    "A Lightweight Recurrent Network for Sequence Modeling",
+    "https://aclanthology.org/P19-1149/",
+    "https://aclanthology.org/P19-1149.pdf"
+  ],
+  [
+    "Towards Scalable and Reliable Capsule Networks for Challenging NLP Applications",
+    "https://aclanthology.org/P19-1150/",
+    "https://aclanthology.org/P19-1150.pdf"
+  ],
+  [
+    "Soft Representation Learning for Sparse Transfer",
+    "https://aclanthology.org/P19-1151/",
+    "https://aclanthology.org/P19-1151.pdf"
+  ],
+  [
+    "Learning Representations from Imperfect Time Series Data via Tensor Rank Regularization",
+    "https://aclanthology.org/P19-1152/",
+    "https://aclanthology.org/P19-1152.pdf"
+  ],
+  [
+    "Towards Lossless Encoding of Sentences",
+    "https://aclanthology.org/P19-1153/",
+    "https://aclanthology.org/P19-1153.pdf"
+  ],
+  [
+    "Open Vocabulary Learning for Neural Chinese Pinyin IME",
+    "https://aclanthology.org/P19-1154/",
+    "https://aclanthology.org/P19-1154.pdf"
+  ],
+  [
+    "Using LSTMs to Assess the Obligatoriness of Phonological Distinctive Features for Phonotactic Learning",
+    "https://aclanthology.org/P19-1155/",
+    "https://aclanthology.org/P19-1155.pdf"
+  ],
+  [
+    "Better Character Language Modeling through Morphology",
+    "https://aclanthology.org/P19-1156/",
+    "https://aclanthology.org/P19-1156.pdf"
+  ],
+  [
+    "Historical Text Normalization with Delayed Rewards",
+    "https://aclanthology.org/P19-1157/",
+    "https://aclanthology.org/P19-1157.pdf"
+  ],
+  [
+    "Stochastic Tokenization with a Language Model for Neural Text Classification",
+    "https://aclanthology.org/P19-1158/",
+    "https://aclanthology.org/P19-1158.pdf"
+  ],
+  [
+    "Mitigating Gender Bias in Natural Language Processing: Literature Review",
+    "https://aclanthology.org/P19-1159/",
+    "https://aclanthology.org/P19-1159.pdf"
+  ],
+  [
+    "Gender-preserving Debiasing for Pre-trained Word Embeddings",
+    "https://aclanthology.org/P19-1160/",
+    "https://aclanthology.org/P19-1160.pdf"
+  ],
+  [
+    "Counterfactual Data Augmentation for Mitigating Gender Stereotypes in Languages with Rich Morphology",
+    "https://aclanthology.org/P19-1161/",
+    "https://aclanthology.org/P19-1161.pdf"
+  ],
+  [
+    "A Transparent Framework for Evaluating Unintended Demographic Bias in Word Embeddings",
+    "https://aclanthology.org/P19-1162/",
+    "https://aclanthology.org/P19-1162.pdf"
+  ],
+  [
+    "The Risk of Racial Bias in Hate Speech Detection",
+    "https://aclanthology.org/P19-1163/",
+    "https://aclanthology.org/P19-1163.pdf"
+  ],
+  [
+    "Evaluating Gender Bias in Machine Translation",
+    "https://aclanthology.org/P19-1164/",
+    "https://aclanthology.org/P19-1164.pdf"
+  ],
+  [
+    "LSTMEmbed: Learning Word and Sense Representations from a Large Semantically Annotated Corpus with Long Short-Term Memories",
+    "https://aclanthology.org/P19-1165/",
+    "https://aclanthology.org/P19-1165.pdf"
+  ],
+  [
+    "Understanding Undesirable Word Embedding Associations",
+    "https://aclanthology.org/P19-1166/",
+    "https://aclanthology.org/P19-1166.pdf"
+  ],
+  [
+    "Unsupervised Discovery of Gendered Language through Latent-Variable Modeling",
+    "https://aclanthology.org/P19-1167/",
+    "https://aclanthology.org/P19-1167.pdf"
+  ],
+  [
+    "Topic Sensitive Attention on Generic Corpora Corrects Sense Bias in Pretrained Embeddings",
+    "https://aclanthology.org/P19-1168/",
+    "https://aclanthology.org/P19-1168.pdf"
+  ],
+  [
+    "SphereRE: Distinguishing Lexical Relations with Hyperspherical Relation Embeddings",
+    "https://aclanthology.org/P19-1169/",
+    "https://aclanthology.org/P19-1169.pdf"
+  ],
+  [
+    "Multilingual Factor Analysis",
+    "https://aclanthology.org/P19-1170/",
+    "https://aclanthology.org/P19-1170.pdf"
+  ],
+  [
+    "Meaning to Form: Measuring Systematicity as Information",
+    "https://aclanthology.org/P19-1171/",
+    "https://aclanthology.org/P19-1171.pdf"
+  ],
+  [
+    "Learning Morphosyntactic Analyzers from the Bible via Iterative Annotation Projection across 26 Languages",
+    "https://aclanthology.org/P19-1172/",
+    "https://aclanthology.org/P19-1172.pdf"
+  ],
+  [
+    "Adversarial Multitask Learning for Joint Multi-Feature and Multi-Dialect Morphological Modeling",
+    "https://aclanthology.org/P19-1173/",
+    "https://aclanthology.org/P19-1173.pdf"
+  ],
+  [
+    "Neural Machine Translation with Reordering Embeddings",
+    "https://aclanthology.org/P19-1174/",
+    "https://aclanthology.org/P19-1174.pdf"
+  ],
+  [
+    "Neural Fuzzy Repair: Integrating Fuzzy Matches into Neural Machine Translation",
+    "https://aclanthology.org/P19-1175/",
+    "https://aclanthology.org/P19-1175.pdf"
+  ],
+  [
+    "Learning Deep Transformer Models for Machine Translation",
+    "https://aclanthology.org/P19-1176/",
+    "https://aclanthology.org/P19-1176.pdf"
+  ],
+  [
+    "Generating Diverse Translations with Sentence Codes",
+    "https://aclanthology.org/P19-1177/",
+    "https://aclanthology.org/P19-1177.pdf"
+  ],
+  [
+    "Self-Supervised Neural Machine Translation",
+    "https://aclanthology.org/P19-1178/",
+    "https://aclanthology.org/P19-1178.pdf"
+  ],
+  [
+    "Exploring Phoneme-Level Speech Representations for End-to-End Speech Translation",
+    "https://aclanthology.org/P19-1179/",
+    "https://aclanthology.org/P19-1179.pdf"
+  ],
+  [
+    "Visually Grounded Neural Syntax Acquisition",
+    "https://aclanthology.org/P19-1180/",
+    "https://aclanthology.org/P19-1180.pdf"
+  ],
+  [
+    "Stay on the Path: Instruction Fidelity in Vision-and-Language Navigation",
+    "https://aclanthology.org/P19-1181/",
+    "https://aclanthology.org/P19-1181.pdf"
+  ],
+  [
+    "Expressing Visual Relationships via Language",
+    "https://aclanthology.org/P19-1182/",
+    "https://aclanthology.org/P19-1182.pdf"
+  ],
+  [
+    "Weakly-Supervised Spatio-Temporally Grounding Natural Sentence in Video",
+    "https://aclanthology.org/P19-1183/",
+    "https://aclanthology.org/P19-1183.pdf"
+  ],
+  [
+    "The PhotoBook Dataset: Building Common Ground through Visually-Grounded Dialogue",
+    "https://aclanthology.org/P19-1184/",
+    "https://aclanthology.org/P19-1184.pdf"
+  ],
+  [
+    "Continual and Multi-Task Architecture Search",
+    "https://aclanthology.org/P19-1185/",
+    "https://aclanthology.org/P19-1185.pdf"
+  ],
+  [
+    "Semi-supervised Stochastic Multi-Domain Learning using Variational Inference",
+    "https://aclanthology.org/P19-1186/",
+    "https://aclanthology.org/P19-1186.pdf"
+  ],
+  [
+    "Boosting Entity Linking Performance by Leveraging Unlabeled Documents",
+    "https://aclanthology.org/P19-1187/",
+    "https://aclanthology.org/P19-1187.pdf"
+  ],
+  [
+    "Pre-Learning Environment Representations for Data-Efficient Neural Instruction Following",
+    "https://aclanthology.org/P19-1188/",
+    "https://aclanthology.org/P19-1188.pdf"
+  ],
+  [
+    "Reinforced Training Data Selection for Domain Adaptation",
+    "https://aclanthology.org/P19-1189/",
+    "https://aclanthology.org/P19-1189.pdf"
+  ],
+  [
+    "Generating Long and Informative Reviews with Aspect-Aware Coarse-to-Fine Decoding",
+    "https://aclanthology.org/P19-1190/",
+    "https://aclanthology.org/P19-1190.pdf"
+  ],
+  [
+    "PaperRobot: Incremental Draft Generation of Scientific Ideas",
+    "https://aclanthology.org/P19-1191/",
+    "https://aclanthology.org/P19-1191.pdf"
+  ],
+  [
+    "Rhetorically Controlled Encoder-Decoder for Modern Chinese Poetry Generation",
+    "https://aclanthology.org/P19-1192/",
+    "https://aclanthology.org/P19-1192.pdf"
+  ],
+  [
+    "Enhancing Topic-to-Essay Generation with External Commonsense Knowledge",
+    "https://aclanthology.org/P19-1193/",
+    "https://aclanthology.org/P19-1193.pdf"
+  ],
+  [
+    "Towards Fine-grained Text Sentiment Transfer",
+    "https://aclanthology.org/P19-1194/",
+    "https://aclanthology.org/P19-1194.pdf"
+  ],
+  [
+    "Data-to-text Generation with Entity Modeling",
+    "https://aclanthology.org/P19-1195/",
+    "https://aclanthology.org/P19-1195.pdf"
+  ],
+  [
+    "Ensuring Readability and Data-fidelity using Head-modifier Templates in Deep Type Description Generation",
+    "https://aclanthology.org/P19-1196/",
+    "https://aclanthology.org/P19-1196.pdf"
+  ],
+  [
+    "Key Fact as Pivot: A Two-Stage Model for Low Resource Table-to-Text Generation",
+    "https://aclanthology.org/P19-1197/",
+    "https://aclanthology.org/P19-1197.pdf"
+  ],
+  [
+    "Unsupervised Neural Text Simplification",
+    "https://aclanthology.org/P19-1198/",
+    "https://aclanthology.org/P19-1198.pdf"
+  ],
+  [
+    "Syntax-Infused Variational Autoencoder for Text Generation",
+    "https://aclanthology.org/P19-1199/",
+    "https://aclanthology.org/P19-1199.pdf"
+  ],
+  [
+    "Towards Generating Long and Coherent Text with Multi-Level Latent Variable Models",
+    "https://aclanthology.org/P19-1200/",
+    "https://aclanthology.org/P19-1200.pdf"
+  ],
+  [
+    "Jointly Learning Semantic Parser and Natural Language Generator via Dual Information Maximization",
+    "https://aclanthology.org/P19-1201/",
+    "https://aclanthology.org/P19-1201.pdf"
+  ],
+  [
+    "Learning to Select, Track, and Generate for Data-to-Text",
+    "https://aclanthology.org/P19-1202/",
+    "https://aclanthology.org/P19-1202.pdf"
+  ],
+  [
+    "Reinforced Dynamic Reasoning for Conversational Question Generation",
+    "https://aclanthology.org/P19-1203/",
+    "https://aclanthology.org/P19-1203.pdf"
+  ],
+  [
+    "TalkSumm: A Dataset and Scalable Annotation Method for Scientific Paper Summarization Based on Conference Talks",
+    "https://aclanthology.org/P19-1204/",
+    "https://aclanthology.org/P19-1204.pdf"
+  ],
+  [
+    "Improving Abstractive Document Summarization with Salient Information Modeling",
+    "https://aclanthology.org/P19-1205/",
+    "https://aclanthology.org/P19-1205.pdf"
+  ],
+  [
+    "Unsupervised Neural Single-Document Summarization of Reviews via Learning Latent Discourse Structure and its Ranking",
+    "https://aclanthology.org/P19-1206/",
+    "https://aclanthology.org/P19-1206.pdf"
+  ],
+  [
+    "BiSET: Bi-directional Selective Encoding with Template for Abstractive Summarization",
+    "https://aclanthology.org/P19-1207/",
+    "https://aclanthology.org/P19-1207.pdf"
+  ],
+  [
+    "Neural Keyphrase Generation via Reinforcement Learning with Adaptive Rewards",
+    "https://aclanthology.org/P19-1208/",
+    "https://aclanthology.org/P19-1208.pdf"
+  ],
+  [
+    "Scoring Sentence Singletons and Pairs for Abstractive Summarization",
+    "https://aclanthology.org/P19-1209/",
+    "https://aclanthology.org/P19-1209.pdf"
+  ],
+  [
+    "Keep Meeting Summaries on Topic: Abstractive Multi-Modal Meeting Summarization",
+    "https://aclanthology.org/P19-1210/",
+    "https://aclanthology.org/P19-1210.pdf"
+  ],
+  [
+    "Adversarial Domain Adaptation Using Artificial Titles for Abstractive Title Generation",
+    "https://aclanthology.org/P19-1211/",
+    "https://aclanthology.org/P19-1211.pdf"
+  ],
+  [
+    "BIGPATENT: A Large-Scale Dataset for Abstractive and Coherent Summarization",
+    "https://aclanthology.org/P19-1212/",
+    "https://aclanthology.org/P19-1212.pdf"
+  ],
+  [
+    "Ranking Generated Summaries by Correctness: An Interesting but Challenging Application for Natural Language Inference",
+    "https://aclanthology.org/P19-1213/",
+    "https://aclanthology.org/P19-1213.pdf"
+  ],
+  [
+    "Self-Supervised Learning for Contextualized Extractive Summarization",
+    "https://aclanthology.org/P19-1214/",
+    "https://aclanthology.org/P19-1214.pdf"
+  ],
+  [
+    "On the Summarization of Consumer Health Questions",
+    "https://aclanthology.org/P19-1215/",
+    "https://aclanthology.org/P19-1215.pdf"
+  ],
+  [
+    "Unsupervised Rewriter for Multi-Sentence Compression",
+    "https://aclanthology.org/P19-1216/",
+    "https://aclanthology.org/P19-1216.pdf"
+  ],
+  [
+    "Inferential Machine Comprehension: Answering Questions by Recursively Deducing the Evidence Chain from Text",
+    "https://aclanthology.org/P19-1217/",
+    "https://aclanthology.org/P19-1217.pdf"
+  ],
+  [
+    "Token-level Dynamic Self-Attention Network for Multi-Passage Reading Comprehension",
+    "https://aclanthology.org/P19-1218/",
+    "https://aclanthology.org/P19-1218.pdf"
+  ],
+  [
+    "Explicit Utilization of General Knowledge in Machine Reading Comprehension",
+    "https://aclanthology.org/P19-1219/",
+    "https://aclanthology.org/P19-1219.pdf"
+  ],
+  [
+    "Multi-style Generative Reading Comprehension",
+    "https://aclanthology.org/P19-1220/",
+    "https://aclanthology.org/P19-1220.pdf"
+  ],
+  [
+    "Retrieve, Read, Rerank: Towards End-to-End Multi-Document Reading Comprehension",
+    "https://aclanthology.org/P19-1221/",
+    "https://aclanthology.org/P19-1221.pdf"
+  ],
+  [
+    "Multi-Hop Paragraph Retrieval for Open-Domain Question Answering",
+    "https://aclanthology.org/P19-1222/",
+    "https://aclanthology.org/P19-1222.pdf"
+  ],
+  [
+    "E3: Entailment-driven Extracting and Editing for Conversational Machine Reading",
+    "https://aclanthology.org/P19-1223/",
+    "https://aclanthology.org/P19-1223.pdf"
+  ],
+  [
+    "Generating Question-Answer Hierarchies",
+    "https://aclanthology.org/P19-1224/",
+    "https://aclanthology.org/P19-1224.pdf"
+  ],
+  [
+    "Answering while Summarizing: Multi-task Learning for Multi-hop QA with Evidence Extraction",
+    "https://aclanthology.org/P19-1225/",
+    "https://aclanthology.org/P19-1225.pdf"
+  ],
+  [
+    "Enhancing Pre-Trained Language Representations with Rich Knowledge for Machine Reading Comprehension",
+    "https://aclanthology.org/P19-1226/",
+    "https://aclanthology.org/P19-1226.pdf"
+  ],
+  [
+    "XQA: A Cross-lingual Open-domain Question Answering Dataset",
+    "https://aclanthology.org/P19-1227/",
+    "https://aclanthology.org/P19-1227.pdf"
+  ],
+  [
+    "Compound Probabilistic Context-Free Grammars for Grammar Induction",
+    "https://aclanthology.org/P19-1228/",
+    "https://aclanthology.org/P19-1228.pdf"
+  ],
+  [
+    "Semi-supervised Domain Adaptation for Dependency Parsing",
+    "https://aclanthology.org/P19-1229/",
+    "https://aclanthology.org/P19-1229.pdf"
+  ],
+  [
+    "Head-Driven Phrase Structure Grammar Parsing on Penn Treebank",
+    "https://aclanthology.org/P19-1230/",
+    "https://aclanthology.org/P19-1230.pdf"
+  ],
+  [
+    "Distantly Supervised Named Entity Recognition using Positive-Unlabeled Learning",
+    "https://aclanthology.org/P19-1231/",
+    "https://aclanthology.org/P19-1231.pdf"
+  ],
+  [
+    "Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-First Strategies",
+    "https://aclanthology.org/P19-1232/",
+    "https://aclanthology.org/P19-1232.pdf"
+  ],
+  [
+    "GCDT: A Global Context Enhanced Deep Transition Architecture for Sequence Labeling",
+    "https://aclanthology.org/P19-1233/",
+    "https://aclanthology.org/P19-1233.pdf"
+  ],
+  [
+    "Unsupervised Learning of PCFGs with Normalizing Flow",
+    "https://aclanthology.org/P19-1234/",
+    "https://aclanthology.org/P19-1234.pdf"
+  ],
+  [
+    "Variance of Average Surprisal: A Better Predictor for Quality of Grammar from Unsupervised PCFG Induction",
+    "https://aclanthology.org/P19-1235/",
+    "https://aclanthology.org/P19-1235.pdf"
+  ],
+  [
+    "Cross-Domain NER using Cross-Domain Language Modeling",
+    "https://aclanthology.org/P19-1236/",
+    "https://aclanthology.org/P19-1236.pdf"
+  ],
+  [
+    "Graph-based Dependency Parsing with Graph Neural Networks",
+    "https://aclanthology.org/P19-1237/",
+    "https://aclanthology.org/P19-1237.pdf"
+  ],
+  [
+    "Wide-Coverage Neural A* Parsing for Minimalist Grammars",
+    "https://aclanthology.org/P19-1238/",
+    "https://aclanthology.org/P19-1238.pdf"
+  ],
+  [
+    "Multi-Modal Sarcasm Detection in Twitter with Hierarchical Fusion Model",
+    "https://aclanthology.org/P19-1239/",
+    "https://aclanthology.org/P19-1239.pdf"
+  ],
+  [
+    "Topic-Aware Neural Keyphrase Generation for Social Media Language",
+    "https://aclanthology.org/P19-1240/",
+    "https://aclanthology.org/P19-1240.pdf"
+  ],
+  [
+    "#YouToo? Detection of Personal Recollections of Sexual Harassment on Social Media",
+    "https://aclanthology.org/P19-1241/",
+    "https://aclanthology.org/P19-1241.pdf"
+  ],
+  [
+    "Multi-task Pairwise Neural Ranking for Hashtag Segmentation",
+    "https://aclanthology.org/P19-1242/",
+    "https://aclanthology.org/P19-1242.pdf"
+  ],
+  [
+    "Entity-Centric Contextual Affective Analysis",
+    "https://aclanthology.org/P19-1243/",
+    "https://aclanthology.org/P19-1243.pdf"
+  ],
+  [
+    "Sentence-Level Evidence Embedding for Claim Verification with Hierarchical Attention Networks",
+    "https://aclanthology.org/P19-1244/",
+    "https://aclanthology.org/P19-1244.pdf"
+  ],
+  [
+    "Predicting Human Activities from User-Generated Content",
+    "https://aclanthology.org/P19-1245/",
+    "https://aclanthology.org/P19-1245.pdf"
+  ],
+  [
+    "You Write like You Eat: Stylistic Variation as a Predictor of Social Stratification",
+    "https://aclanthology.org/P19-1246/",
+    "https://aclanthology.org/P19-1246.pdf"
+  ],
+  [
+    "Encoding Social Information with Graph Convolutional Networks forPolitical Perspective Detection in News Media",
+    "https://aclanthology.org/P19-1247/",
+    "https://aclanthology.org/P19-1247.pdf"
+  ],
+  [
+    "Fine-Grained Spoiler Detection from Large-Scale Review Corpora",
+    "https://aclanthology.org/P19-1248/",
+    "https://aclanthology.org/P19-1248.pdf"
+  ],
+  [
+    "Celebrity Profiling",
+    "https://aclanthology.org/P19-1249/",
+    "https://aclanthology.org/P19-1249.pdf"
+  ],
+  [
+    "Dataset Creation for Ranking Constructive News Comments",
+    "https://aclanthology.org/P19-1250/",
+    "https://aclanthology.org/P19-1250.pdf"
+  ],
+  [
+    "Enhancing Air Quality Prediction with Social Media and Natural Language Processing",
+    "https://aclanthology.org/P19-1251/",
+    "https://aclanthology.org/P19-1251.pdf"
+  ],
+  [
+    "Twitter Homophily: Network Based Prediction of User’s Occupation",
+    "https://aclanthology.org/P19-1252/",
+    "https://aclanthology.org/P19-1252.pdf"
+  ],
+  [
+    "Domain Adaptive Dialog Generation via Meta Learning",
+    "https://aclanthology.org/P19-1253/",
+    "https://aclanthology.org/P19-1253.pdf"
+  ],
+  [
+    "Strategies for Structuring Story Generation",
+    "https://aclanthology.org/P19-1254/",
+    "https://aclanthology.org/P19-1254.pdf"
+  ],
+  [
+    "Argument Generation with Retrieval, Planning, and Realization",
+    "https://aclanthology.org/P19-1255/",
+    "https://aclanthology.org/P19-1255.pdf"
+  ],
+  [
+    "A Simple Recipe towards Reducing Hallucination in Neural Surface Realisation",
+    "https://aclanthology.org/P19-1256/",
+    "https://aclanthology.org/P19-1256.pdf"
+  ],
+  [
+    "Cross-Modal Commentator: Automatic Machine Commenting Based on Cross-Modal Information",
+    "https://aclanthology.org/P19-1257/",
+    "https://aclanthology.org/P19-1257.pdf"
+  ],
+  [
+    "A Working Memory Model for Task-oriented Dialog Response Generation",
+    "https://aclanthology.org/P19-1258/",
+    "https://aclanthology.org/P19-1258.pdf"
+  ],
+  [
+    "Cognitive Graph for Multi-Hop Reading Comprehension at Scale",
+    "https://aclanthology.org/P19-1259/",
+    "https://aclanthology.org/P19-1259.pdf"
+  ],
+  [
+    "Multi-hop Reading Comprehension across Multiple Documents by Reasoning over Heterogeneous Graphs",
+    "https://aclanthology.org/P19-1260/",
+    "https://aclanthology.org/P19-1260.pdf"
+  ],
+  [
+    "Explore, Propose, and Assemble: An Interpretable Model for Multi-Hop Reading Comprehension",
+    "https://aclanthology.org/P19-1261/",
+    "https://aclanthology.org/P19-1261.pdf"
+  ],
+  [
+    "Avoiding Reasoning Shortcuts: Adversarial Evaluation, Training, and Model Development for Multi-Hop QA",
+    "https://aclanthology.org/P19-1262/",
+    "https://aclanthology.org/P19-1262.pdf"
+  ],
+  [
+    "Exploiting Explicit Paths for Multi-hop Reading Comprehension",
+    "https://aclanthology.org/P19-1263/",
+    "https://aclanthology.org/P19-1263.pdf"
+  ],
+  [
+    "Sentence Mover’s Similarity: Automatic Evaluation for Multi-Sentence Texts",
+    "https://aclanthology.org/P19-1264/",
+    "https://aclanthology.org/P19-1264.pdf"
+  ],
+  [
+    "Analysis of Automatic Annotation Suggestions for Hard Discourse-Level Tasks in Expert Domains",
+    "https://aclanthology.org/P19-1265/",
+    "https://aclanthology.org/P19-1265.pdf"
+  ],
+  [
+    "Deep Dominance - How to Properly Compare Deep Neural Models",
+    "https://aclanthology.org/P19-1266/",
+    "https://aclanthology.org/P19-1266.pdf"
+  ],
+  [
+    "We Need to Talk about Standard Splits",
+    "https://aclanthology.org/P19-1267/",
+    "https://aclanthology.org/P19-1267.pdf"
+  ],
+  [
+    "Aiming beyond the Obvious: Identifying Non-Obvious Cases in Semantic Similarity Datasets",
+    "https://aclanthology.org/P19-1268/",
+    "https://aclanthology.org/P19-1268.pdf"
+  ],
+  [
+    "Putting Evaluation in Context: Contextual Embeddings Improve Machine Translation Evaluation",
+    "https://aclanthology.org/P19-1269/",
+    "https://aclanthology.org/P19-1269.pdf"
+  ],
+  [
+    "Joint Effects of Context and User History for Predicting Online Conversation Re-entries",
+    "https://aclanthology.org/P19-1270/",
+    "https://aclanthology.org/P19-1270.pdf"
+  ],
+  [
+    "CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech",
+    "https://aclanthology.org/P19-1271/",
+    "https://aclanthology.org/P19-1271.pdf"
+  ],
+  [
+    "Categorizing and Inferring the Relationship between the Text and Image of Twitter Posts",
+    "https://aclanthology.org/P19-1272/",
+    "https://aclanthology.org/P19-1272.pdf"
+  ],
+  [
+    "Who Sides with Whom? Towards Computational Construction of Discourse Networks for Political Debates",
+    "https://aclanthology.org/P19-1273/",
+    "https://aclanthology.org/P19-1273.pdf"
+  ],
+  [
+    "Analyzing Linguistic Differences between Owner and Staff Attributed Tweets",
+    "https://aclanthology.org/P19-1274/",
+    "https://aclanthology.org/P19-1274.pdf"
+  ],
+  [
+    "Exploring Author Context for Detecting Intended vs Perceived Sarcasm",
+    "https://aclanthology.org/P19-1275/",
+    "https://aclanthology.org/P19-1275.pdf"
+  ],
+  [
+    "Open Domain Event Extraction Using Neural Latent Variable Models",
+    "https://aclanthology.org/P19-1276/",
+    "https://aclanthology.org/P19-1276.pdf"
+  ],
+  [
+    "Multi-Level Matching and Aggregation Network for Few-Shot Relation Classification",
+    "https://aclanthology.org/P19-1277/",
+    "https://aclanthology.org/P19-1277.pdf"
+  ],
+  [
+    "Quantifying Similarity between Relations with Fact Distribution",
+    "https://aclanthology.org/P19-1278/",
+    "https://aclanthology.org/P19-1278.pdf"
+  ],
+  [
+    "Matching the Blanks: Distributional Similarity for Relation Learning",
+    "https://aclanthology.org/P19-1279/",
+    "https://aclanthology.org/P19-1279.pdf"
+  ],
+  [
+    "Fine-Grained Temporal Relation Extraction",
+    "https://aclanthology.org/P19-1280/",
+    "https://aclanthology.org/P19-1280.pdf"
+  ],
+  [
+    "FIESTA: Fast IdEntification of State-of-The-Art models using adaptive bandit algorithms",
+    "https://aclanthology.org/P19-1281/",
+    "https://aclanthology.org/P19-1281.pdf"
+  ],
+  [
+    "Is Attention Interpretable?",
+    "https://aclanthology.org/P19-1282/",
+    "https://aclanthology.org/P19-1282.pdf"
+  ],
+  [
+    "Correlating Neural and Symbolic Representations of Language",
+    "https://aclanthology.org/P19-1283/",
+    "https://aclanthology.org/P19-1283.pdf"
+  ],
+  [
+    "Interpretable Neural Predictions with Differentiable Binary Variables",
+    "https://aclanthology.org/P19-1284/",
+    "https://aclanthology.org/P19-1284.pdf"
+  ],
+  [
+    "Transformer-XL: Attentive Language Models beyond a Fixed-Length Context",
+    "https://aclanthology.org/P19-1285/",
+    "https://aclanthology.org/P19-1285.pdf"
+  ],
+  [
+    "Domain Adaptation of Neural Machine Translation by Lexicon Induction",
+    "https://aclanthology.org/P19-1286/",
+    "https://aclanthology.org/P19-1286.pdf"
+  ],
+  [
+    "Reference Network for Neural Machine Translation",
+    "https://aclanthology.org/P19-1287/",
+    "https://aclanthology.org/P19-1287.pdf"
+  ],
+  [
+    "Retrieving Sequential Information for Non-Autoregressive Neural Machine Translation",
+    "https://aclanthology.org/P19-1288/",
+    "https://aclanthology.org/P19-1288.pdf"
+  ],
+  [
+    "STACL: Simultaneous Translation with Implicit Anticipation and Controllable Latency using Prefix-to-Prefix Framework",
+    "https://aclanthology.org/P19-1289/",
+    "https://aclanthology.org/P19-1289.pdf"
+  ],
+  [
+    "Look Harder: A Neural Machine Translation Model with Hard Attention",
+    "https://aclanthology.org/P19-1290/",
+    "https://aclanthology.org/P19-1290.pdf"
+  ],
+  [
+    "Robust Neural Machine Translation with Joint Textual and Phonetic Embedding",
+    "https://aclanthology.org/P19-1291/",
+    "https://aclanthology.org/P19-1291.pdf"
+  ],
+  [
+    "A Simple and Effective Approach to Automatic Post-Editing with Transfer Learning",
+    "https://aclanthology.org/P19-1292/",
+    "https://aclanthology.org/P19-1292.pdf"
+  ],
+  [
+    "Translating Translationese: A Two-Step Approach to Unsupervised Machine Translation",
+    "https://aclanthology.org/P19-1293/",
+    "https://aclanthology.org/P19-1293.pdf"
+  ],
+  [
+    "Training Neural Machine Translation to Apply Terminology Constraints",
+    "https://aclanthology.org/P19-1294/",
+    "https://aclanthology.org/P19-1294.pdf"
+  ],
+  [
+    "Leveraging Local and Global Patterns for Self-Attention Networks",
+    "https://aclanthology.org/P19-1295/",
+    "https://aclanthology.org/P19-1295.pdf"
+  ],
+  [
+    "Sentence-Level Agreement for Neural Machine Translation",
+    "https://aclanthology.org/P19-1296/",
+    "https://aclanthology.org/P19-1296.pdf"
+  ],
+  [
+    "Multilingual Unsupervised NMT using Shared Encoder and Language-Specific Decoders",
+    "https://aclanthology.org/P19-1297/",
+    "https://aclanthology.org/P19-1297.pdf"
+  ],
+  [
+    "Lattice-Based Transformer Encoder for Neural Machine Translation",
+    "https://aclanthology.org/P19-1298/",
+    "https://aclanthology.org/P19-1298.pdf"
+  ],
+  [
+    "Multi-Source Cross-Lingual Model Transfer: Learning What to Share",
+    "https://aclanthology.org/P19-1299/",
+    "https://aclanthology.org/P19-1299.pdf"
+  ],
+  [
+    "Unsupervised Multilingual Word Embedding with Limited Resources using Neural Language Models",
+    "https://aclanthology.org/P19-1300/",
+    "https://aclanthology.org/P19-1300.pdf"
+  ],
+  [
+    "Choosing Transfer Languages for Cross-Lingual Learning",
+    "https://aclanthology.org/P19-1301/",
+    "https://aclanthology.org/P19-1301.pdf"
+  ],
+  [
+    "CogNet: A Large-Scale Cognate Database",
+    "https://aclanthology.org/P19-1302/",
+    "https://aclanthology.org/P19-1302.pdf"
+  ],
+  [
+    "Neural Decipherment via Minimum-Cost Flow: From Ugaritic to Linear B",
+    "https://aclanthology.org/P19-1303/",
+    "https://aclanthology.org/P19-1303.pdf"
+  ],
+  [
+    "Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network",
+    "https://aclanthology.org/P19-1304/",
+    "https://aclanthology.org/P19-1304.pdf"
+  ],
+  [
+    "Zero-Shot Cross-Lingual Abstractive Sentence Summarization through Teaching Generation and Attention",
+    "https://aclanthology.org/P19-1305/",
+    "https://aclanthology.org/P19-1305.pdf"
+  ],
+  [
+    "Improving Low-Resource Cross-lingual Document Retrieval by Reranking with Deep Bilingual Representations",
+    "https://aclanthology.org/P19-1306/",
+    "https://aclanthology.org/P19-1306.pdf"
+  ],
+  [
+    "Are Girls Neko or Shōjo? Cross-Lingual Alignment of Non-Isomorphic Embeddings with Iterative Normalization",
+    "https://aclanthology.org/P19-1307/",
+    "https://aclanthology.org/P19-1307.pdf"
+  ],
+  [
+    "MAAM: A Morphology-Aware Alignment Model for Unsupervised Bilingual Lexicon Induction",
+    "https://aclanthology.org/P19-1308/",
+    "https://aclanthology.org/P19-1308.pdf"
+  ],
+  [
+    "Margin-based Parallel Corpus Mining with Multilingual Sentence Embeddings",
+    "https://aclanthology.org/P19-1309/",
+    "https://aclanthology.org/P19-1309.pdf"
+  ],
+  [
+    "JW300: A Wide-Coverage Parallel Corpus for Low-Resource Languages",
+    "https://aclanthology.org/P19-1310/",
+    "https://aclanthology.org/P19-1310.pdf"
+  ],
+  [
+    "Cross-Lingual Syntactic Transfer through Unsupervised Adaptation of Invertible Projections",
+    "https://aclanthology.org/P19-1311/",
+    "https://aclanthology.org/P19-1311.pdf"
+  ],
+  [
+    "Unsupervised Joint Training of Bilingual Word Embeddings",
+    "https://aclanthology.org/P19-1312/",
+    "https://aclanthology.org/P19-1312.pdf"
+  ],
+  [
+    "Inferring Concept Hierarchies from Text Corpora via Hyperbolic Embeddings",
+    "https://aclanthology.org/P19-1313/",
+    "https://aclanthology.org/P19-1313.pdf"
+  ],
+  [
+    "Is Word Segmentation Necessary for Deep Learning of Chinese Representations?",
+    "https://aclanthology.org/P19-1314/",
+    "https://aclanthology.org/P19-1314.pdf"
+  ],
+  [
+    "Towards Understanding Linear Word Analogies",
+    "https://aclanthology.org/P19-1315/",
+    "https://aclanthology.org/P19-1315.pdf"
+  ],
+  [
+    "On the Compositionality Prediction of Noun Phrases using Poincaré Embeddings",
+    "https://aclanthology.org/P19-1316/",
+    "https://aclanthology.org/P19-1316.pdf"
+  ],
+  [
+    "Robust Representation Learning of Biomedical Names",
+    "https://aclanthology.org/P19-1317/",
+    "https://aclanthology.org/P19-1317.pdf"
+  ],
+  [
+    "Relational Word Embeddings",
+    "https://aclanthology.org/P19-1318/",
+    "https://aclanthology.org/P19-1318.pdf"
+  ],
+  [
+    "Unraveling Antonym’s Word Vectors through a Siamese-like Network",
+    "https://aclanthology.org/P19-1319/",
+    "https://aclanthology.org/P19-1319.pdf"
+  ],
+  [
+    "Incorporating Syntactic and Semantic Information in Word Embeddings using Graph Convolutional Networks",
+    "https://aclanthology.org/P19-1320/",
+    "https://aclanthology.org/P19-1320.pdf"
+  ],
+  [
+    "Word and Document Embedding with vMF-Mixture Priors on Context Word Vectors",
+    "https://aclanthology.org/P19-1321/",
+    "https://aclanthology.org/P19-1321.pdf"
+  ],
+  [
+    "Delta Embedding Learning",
+    "https://aclanthology.org/P19-1322/",
+    "https://aclanthology.org/P19-1322.pdf"
+  ],
+  [
+    "Annotation and Automatic Classification of Aspectual Categories",
+    "https://aclanthology.org/P19-1323/",
+    "https://aclanthology.org/P19-1323.pdf"
+  ],
+  [
+    "Putting Words in Context: LSTM Language Models and Lexical Ambiguity",
+    "https://aclanthology.org/P19-1324/",
+    "https://aclanthology.org/P19-1324.pdf"
+  ],
+  [
+    "Making Fast Graph-based Algorithms with Graph Metric Embeddings",
+    "https://aclanthology.org/P19-1325/",
+    "https://aclanthology.org/P19-1325.pdf"
+  ],
+  [
+    "Embedding Imputation with Grounded Language Information",
+    "https://aclanthology.org/P19-1326/",
+    "https://aclanthology.org/P19-1326.pdf"
+  ],
+  [
+    "The Effectiveness of Simple Hybrid Systems for Hypernym Discovery",
+    "https://aclanthology.org/P19-1327/",
+    "https://aclanthology.org/P19-1327.pdf"
+  ],
+  [
+    "BERT-based Lexical Substitution",
+    "https://aclanthology.org/P19-1328/",
+    "https://aclanthology.org/P19-1328.pdf"
+  ],
+  [
+    "Exploring Numeracy in Word Embeddings",
+    "https://aclanthology.org/P19-1329/",
+    "https://aclanthology.org/P19-1329.pdf"
+  ],
+  [
+    "HighRES: Highlight-based Reference-less Evaluation of Summarization",
+    "https://aclanthology.org/P19-1330/",
+    "https://aclanthology.org/P19-1330.pdf"
+  ],
+  [
+    "EditNTS: An Neural Programmer-Interpreter Model for Sentence Simplification through Explicit Editing",
+    "https://aclanthology.org/P19-1331/",
+    "https://aclanthology.org/P19-1331.pdf"
+  ],
+  [
+    "Decomposable Neural Paraphrase Generation",
+    "https://aclanthology.org/P19-1332/",
+    "https://aclanthology.org/P19-1332.pdf"
+  ],
+  [
+    "Transforming Complex Sentences into a Semantic Hierarchy",
+    "https://aclanthology.org/P19-1333/",
+    "https://aclanthology.org/P19-1333.pdf"
+  ],
+  [
+    "Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference",
+    "https://aclanthology.org/P19-1334/",
+    "https://aclanthology.org/P19-1334.pdf"
+  ],
+  [
+    "Zero-Shot Entity Linking by Reading Entity Descriptions",
+    "https://aclanthology.org/P19-1335/",
+    "https://aclanthology.org/P19-1335.pdf"
+  ],
+  [
+    "Dual Adversarial Neural Transfer for Low-Resource Named Entity Recognition",
+    "https://aclanthology.org/P19-1336/",
+    "https://aclanthology.org/P19-1336.pdf"
+  ],
+  [
+    "Scalable Syntax-Aware Language Models Using Knowledge Distillation",
+    "https://aclanthology.org/P19-1337/",
+    "https://aclanthology.org/P19-1337.pdf"
+  ],
+  [
+    "An Imitation Learning Approach to Unsupervised Parsing",
+    "https://aclanthology.org/P19-1338/",
+    "https://aclanthology.org/P19-1338.pdf"
+  ],
+  [
+    "Women’s Syntactic Resilience and Men’s Grammatical Luck: Gender-Bias in Part-of-Speech Tagging and Dependency Parsing",
+    "https://aclanthology.org/P19-1339/",
+    "https://aclanthology.org/P19-1339.pdf"
+  ],
+  [
+    "Multilingual Constituency Parsing with Self-Attention and Pre-Training",
+    "https://aclanthology.org/P19-1340/",
+    "https://aclanthology.org/P19-1340.pdf"
+  ],
+  [
+    "A Multilingual BPE Embedding Space for Universal Sentiment Lexicon Induction",
+    "https://aclanthology.org/P19-1341/",
+    "https://aclanthology.org/P19-1341.pdf"
+  ],
+  [
+    "Tree Communication Models for Sentiment Analysis",
+    "https://aclanthology.org/P19-1342/",
+    "https://aclanthology.org/P19-1342.pdf"
+  ],
+  [
+    "Improved Sentiment Detection via Label Transfer from Monolingual to Synthetic Code-Switched Text",
+    "https://aclanthology.org/P19-1343/",
+    "https://aclanthology.org/P19-1343.pdf"
+  ],
+  [
+    "Exploring Sequence-to-Sequence Learning in Aspect Term Extraction",
+    "https://aclanthology.org/P19-1344/",
+    "https://aclanthology.org/P19-1344.pdf"
+  ],
+  [
+    "Aspect Sentiment Classification Towards Question-Answering with Reinforced Bidirectional Attention Network",
+    "https://aclanthology.org/P19-1345/",
+    "https://aclanthology.org/P19-1345.pdf"
+  ],
+  [
+    "ELI5: Long Form Question Answering",
+    "https://aclanthology.org/P19-1346/",
+    "https://aclanthology.org/P19-1346.pdf"
+  ],
+  [
+    "Textbook Question Answering with Multi-modal Context Graph Understanding and Self-supervised Open-set Comprehension",
+    "https://aclanthology.org/P19-1347/",
+    "https://aclanthology.org/P19-1347.pdf"
+  ],
+  [
+    "Generating Question Relevant Captions to Aid Visual Question Answering",
+    "https://aclanthology.org/P19-1348/",
+    "https://aclanthology.org/P19-1348.pdf"
+  ],
+  [
+    "Multi-grained Attention with Object-level Grounding for Visual Question Answering",
+    "https://aclanthology.org/P19-1349/",
+    "https://aclanthology.org/P19-1349.pdf"
+  ],
+  [
+    "Psycholinguistics Meets Continual Learning: Measuring Catastrophic Forgetting in Visual Question Answering",
+    "https://aclanthology.org/P19-1350/",
+    "https://aclanthology.org/P19-1350.pdf"
+  ],
+  [
+    "Improving Visual Question Answering by Referring to Generated Paragraph Captions",
+    "https://aclanthology.org/P19-1351/",
+    "https://aclanthology.org/P19-1351.pdf"
+  ],
+  [
+    "Shared-Private Bilingual Word Embeddings for Neural Machine Translation",
+    "https://aclanthology.org/P19-1352/",
+    "https://aclanthology.org/P19-1352.pdf"
+  ],
+  [
+    "Literary Event Detection",
+    "https://aclanthology.org/P19-1353/",
+    "https://aclanthology.org/P19-1353.pdf"
+  ],
+  [
+    "Assessing the Ability of Self-Attention Networks to Learn Word Order",
+    "https://aclanthology.org/P19-1354/",
+    "https://aclanthology.org/P19-1354.pdf"
+  ],
+  [
+    "Energy and Policy Considerations for Deep Learning in NLP",
+    "https://aclanthology.org/P19-1355/",
+    "https://aclanthology.org/P19-1355.pdf"
+  ],
+  [
+    "What Does BERT Learn about the Structure of Language?",
+    "https://aclanthology.org/P19-1356/",
+    "https://aclanthology.org/P19-1356.pdf"
+  ],
+  [
+    "A Just and Comprehensive Strategy for Using NLP to Address Online Abuse",
+    "https://aclanthology.org/P19-1357/",
+    "https://aclanthology.org/P19-1357.pdf"
+  ],
+  [
+    "Learning from Dialogue after Deployment: Feed Yourself, Chatbot!",
+    "https://aclanthology.org/P19-1358/",
+    "https://aclanthology.org/P19-1358.pdf"
+  ],
+  [
+    "Generating Responses with a Specific Emotion in Dialog",
+    "https://aclanthology.org/P19-1359/",
+    "https://aclanthology.org/P19-1359.pdf"
+  ],
+  [
+    "Semantically Conditioned Dialog Response Generation via Hierarchical Disentangled Self-Attention",
+    "https://aclanthology.org/P19-1360/",
+    "https://aclanthology.org/P19-1360.pdf"
+  ],
+  [
+    "Incremental Learning from Scratch for Task-Oriented Dialogue Systems",
+    "https://aclanthology.org/P19-1361/",
+    "https://aclanthology.org/P19-1361.pdf"
+  ],
+  [
+    "ReCoSa: Detecting the Relevant Contexts with Self-Attention for Multi-turn Dialogue Generation",
+    "https://aclanthology.org/P19-1362/",
+    "https://aclanthology.org/P19-1362.pdf"
+  ],
+  [
+    "Dialogue Natural Language Inference",
+    "https://aclanthology.org/P19-1363/",
+    "https://aclanthology.org/P19-1363.pdf"
+  ],
+  [
+    "Budgeted Policy Learning for Task-Oriented Dialogue Systems",
+    "https://aclanthology.org/P19-1364/",
+    "https://aclanthology.org/P19-1364.pdf"
+  ],
+  [
+    "Comparison of Diverse Decoding Methods from Conditional Language Models",
+    "https://aclanthology.org/P19-1365/",
+    "https://aclanthology.org/P19-1365.pdf"
+  ],
+  [
+    "Retrieval-Enhanced Adversarial Training for Neural Response Generation",
+    "https://aclanthology.org/P19-1366/",
+    "https://aclanthology.org/P19-1366.pdf"
+  ],
+  [
+    "Vocabulary Pyramid Network: Multi-Pass Encoding and Decoding with Multi-Level Vocabularies for Response Generation",
+    "https://aclanthology.org/P19-1367/",
+    "https://aclanthology.org/P19-1367.pdf"
+  ],
+  [
+    "On-device Structured and Context Partitioned Projection Networks",
+    "https://aclanthology.org/P19-1368/",
+    "https://aclanthology.org/P19-1368.pdf"
+  ],
+  [
+    "Proactive Human-Machine Conversation with Explicit Conversation Goal",
+    "https://aclanthology.org/P19-1369/",
+    "https://aclanthology.org/P19-1369.pdf"
+  ],
+  [
+    "Learning a Matching Model with Co-teaching for Multi-turn Response Selection in Retrieval-based Dialogue Systems",
+    "https://aclanthology.org/P19-1370/",
+    "https://aclanthology.org/P19-1370.pdf"
+  ],
+  [
+    "Learning to Abstract for Memory-augmented Conversational Response Generation",
+    "https://aclanthology.org/P19-1371/",
+    "https://aclanthology.org/P19-1371.pdf"
+  ],
+  [
+    "Are Training Samples Correlated? Learning to Generate Dialogue Responses with Multiple References",
+    "https://aclanthology.org/P19-1372/",
+    "https://aclanthology.org/P19-1372.pdf"
+  ],
+  [
+    "Pretraining Methods for Dialog Context Representation Learning",
+    "https://aclanthology.org/P19-1373/",
+    "https://aclanthology.org/P19-1373.pdf"
+  ],
+  [
+    "A Large-Scale Corpus for Conversation Disentanglement",
+    "https://aclanthology.org/P19-1374/",
+    "https://aclanthology.org/P19-1374.pdf"
+  ],
+  [
+    "Self-Supervised Dialogue Learning",
+    "https://aclanthology.org/P19-1375/",
+    "https://aclanthology.org/P19-1375.pdf"
+  ],
+  [
+    "Are we there yet? Encoder-decoder neural networks as cognitive models of English past tense inflection",
+    "https://aclanthology.org/P19-1376/",
+    "https://aclanthology.org/P19-1376.pdf"
+  ],
+  [
+    "A Spreading Activation Framework for Tracking Conceptual Complexity of Texts",
+    "https://aclanthology.org/P19-1377/",
+    "https://aclanthology.org/P19-1377.pdf"
+  ],
+  [
+    "End-to-End Sequential Metaphor Identification Inspired by Linguistic Theories",
+    "https://aclanthology.org/P19-1378/",
+    "https://aclanthology.org/P19-1378.pdf"
+  ],
+  [
+    "Diachronic Sense Modeling with Deep Contextualized Word Embeddings: An Ecological View",
+    "https://aclanthology.org/P19-1379/",
+    "https://aclanthology.org/P19-1379.pdf"
+  ],
+  [
+    "Miss Tools and Mr Fruit: Emergent Communication in Agents Learning about Object Affordances",
+    "https://aclanthology.org/P19-1380/",
+    "https://aclanthology.org/P19-1380.pdf"
+  ],
+  [
+    "CNNs found to jump around more skillfully than RNNs: Compositional Generalization in Seq2seq Convolutional Networks",
+    "https://aclanthology.org/P19-1381/",
+    "https://aclanthology.org/P19-1381.pdf"
+  ],
+  [
+    "Uncovering Probabilistic Implications in Typological Knowledge Bases",
+    "https://aclanthology.org/P19-1382/",
+    "https://aclanthology.org/P19-1382.pdf"
+  ],
+  [
+    "Is Word Segmentation Child’s Play in All Languages?",
+    "https://aclanthology.org/P19-1383/",
+    "https://aclanthology.org/P19-1383.pdf"
+  ],
+  [
+    "On the Distribution of Deep Clausal Embeddings: A Large Cross-linguistic Study",
+    "https://aclanthology.org/P19-1384/",
+    "https://aclanthology.org/P19-1384.pdf"
+  ],
+  [
+    "Attention-based Conditioning Methods for External Knowledge Integration",
+    "https://aclanthology.org/P19-1385/",
+    "https://aclanthology.org/P19-1385.pdf"
+  ],
+  [
+    "The KnowRef Coreference Corpus: Removing Gender and Number Cues for Difficult Pronominal Anaphora Resolution",
+    "https://aclanthology.org/P19-1386/",
+    "https://aclanthology.org/P19-1386.pdf"
+  ],
+  [
+    "StRE: Self Attentive Edit Quality Prediction in Wikipedia",
+    "https://aclanthology.org/P19-1387/",
+    "https://aclanthology.org/P19-1387.pdf"
+  ],
+  [
+    "How Large Are Lions? Inducing Distributions over Quantitative Attributes",
+    "https://aclanthology.org/P19-1388/",
+    "https://aclanthology.org/P19-1388.pdf"
+  ],
+  [
+    "Fine-Grained Sentence Functions for Short-Text Conversation",
+    "https://aclanthology.org/P19-1389/",
+    "https://aclanthology.org/P19-1389.pdf"
+  ],
+  [
+    "Give Me More Feedback II: Annotating Thesis Strength and Related Attributes in Student Essays",
+    "https://aclanthology.org/P19-1390/",
+    "https://aclanthology.org/P19-1390.pdf"
+  ],
+  [
+    "Crowdsourcing and Validating Event-focused Emotion Corpora for German and English",
+    "https://aclanthology.org/P19-1391/",
+    "https://aclanthology.org/P19-1391.pdf"
+  ],
+  [
+    "Pay Attention when you Pay the Bills. A Multilingual Corpus with Dependency-based and Semantic Annotation of Collocations.",
+    "https://aclanthology.org/P19-1392/",
+    "https://aclanthology.org/P19-1392.pdf"
+  ],
+  [
+    "Does it Make Sense? And Why? A Pilot Study for Sense Making and Explanation",
+    "https://aclanthology.org/P19-1393/",
+    "https://aclanthology.org/P19-1393.pdf"
+  ],
+  [
+    "Large Dataset and Language Model Fun-Tuning for Humor Recognition",
+    "https://aclanthology.org/P19-1394/",
+    "https://aclanthology.org/P19-1394.pdf"
+  ],
+  [
+    "Towards Language Agnostic Universal Representations",
+    "https://aclanthology.org/P19-1395/",
+    "https://aclanthology.org/P19-1395.pdf"
+  ],
+  [
+    "Leveraging Meta Information in Short Text Aggregation",
+    "https://aclanthology.org/P19-1396/",
+    "https://aclanthology.org/P19-1396.pdf"
+  ],
+  [
+    "Exploiting Invertible Decoders for Unsupervised Sentence Representation Learning",
+    "https://aclanthology.org/P19-1397/",
+    "https://aclanthology.org/P19-1397.pdf"
+  ],
+  [
+    "Self-Attentive, Multi-Context One-Class Classification for Unsupervised Anomaly Detection on Text",
+    "https://aclanthology.org/P19-1398/",
+    "https://aclanthology.org/P19-1398.pdf"
+  ],
+  [
+    "Hubless Nearest Neighbor Search for Bilingual Lexicon Induction",
+    "https://aclanthology.org/P19-1399/",
+    "https://aclanthology.org/P19-1399.pdf"
+  ],
+  [
+    "Distant Learning for Entity Linking with Automatic Noise Detection",
+    "https://aclanthology.org/P19-1400/",
+    "https://aclanthology.org/P19-1400.pdf"
+  ],
+  [
+    "Learning How to Active Learn by Dreaming",
+    "https://aclanthology.org/P19-1401/",
+    "https://aclanthology.org/P19-1401.pdf"
+  ],
+  [
+    "Few-Shot Representation Learning for Out-Of-Vocabulary Words",
+    "https://aclanthology.org/P19-1402/",
+    "https://aclanthology.org/P19-1402.pdf"
+  ],
+  [
+    "Neural Temporality Adaptation for Document Classification: Diachronic Word Embeddings and Domain Adaptation Models",
+    "https://aclanthology.org/P19-1403/",
+    "https://aclanthology.org/P19-1403.pdf"
+  ],
+  [
+    "Learning Transferable Feature Representations Using Neural Networks",
+    "https://aclanthology.org/P19-1404/",
+    "https://aclanthology.org/P19-1404.pdf"
+  ],
+  [
+    "Bayes Test of Precision, Recall, and F1 Measure for Comparison of Two Natural Language Processing Models",
+    "https://aclanthology.org/P19-1405/",
+    "https://aclanthology.org/P19-1405.pdf"
+  ],
+  [
+    "TIGS: An Inference Algorithm for Text Infilling with Gradient Search",
+    "https://aclanthology.org/P19-1406/",
+    "https://aclanthology.org/P19-1406.pdf"
+  ],
+  [
+    "Keeping Notes: Conditional Natural Language Generation with a Scratchpad Encoder",
+    "https://aclanthology.org/P19-1407/",
+    "https://aclanthology.org/P19-1407.pdf"
+  ],
+  [
+    "Using Automatically Extracted Minimum Spans to Disentangle Coreference Evaluation from Boundary Detection",
+    "https://aclanthology.org/P19-1408/",
+    "https://aclanthology.org/P19-1408.pdf"
+  ],
+  [
+    "Revisiting Joint Modeling of Cross-document Entity and Event Coreference Resolution",
+    "https://aclanthology.org/P19-1409/",
+    "https://aclanthology.org/P19-1409.pdf"
+  ],
+  [
+    "A Unified Linear-Time Framework for Sentence-Level Discourse Parsing",
+    "https://aclanthology.org/P19-1410/",
+    "https://aclanthology.org/P19-1410.pdf"
+  ],
+  [
+    "Employing the Correspondence of Relations and Connectives to Identify Implicit Discourse Relations via Label Embeddings",
+    "https://aclanthology.org/P19-1411/",
+    "https://aclanthology.org/P19-1411.pdf"
+  ],
+  [
+    "Do You Know That Florence Is Packed with Visitors? Evaluating State-of-the-art Models of Speaker Commitment",
+    "https://aclanthology.org/P19-1412/",
+    "https://aclanthology.org/P19-1412.pdf"
+  ],
+  [
+    "Multi-Relational Script Learning for Discourse Relations",
+    "https://aclanthology.org/P19-1413/",
+    "https://aclanthology.org/P19-1413.pdf"
+  ],
+  [
+    "Open-Domain Why-Question Answering with Adversarial Learning to Encode Answer Texts",
+    "https://aclanthology.org/P19-1414/",
+    "https://aclanthology.org/P19-1414.pdf"
+  ],
+  [
+    "Learning to Ask Unanswerable Questions for Machine Reading Comprehension",
+    "https://aclanthology.org/P19-1415/",
+    "https://aclanthology.org/P19-1415.pdf"
+  ],
+  [
+    "Compositional Questions Do Not Necessitate Multi-hop Reasoning",
+    "https://aclanthology.org/P19-1416/",
+    "https://aclanthology.org/P19-1416.pdf"
+  ],
+  [
+    "Improving Question Answering over Incomplete KBs with Knowledge-Aware Reader",
+    "https://aclanthology.org/P19-1417/",
+    "https://aclanthology.org/P19-1417.pdf"
+  ],
+  [
+    "AdaNSP: Uncertainty-driven Adaptive Decoding in Neural Semantic Parsing",
+    "https://aclanthology.org/P19-1418/",
+    "https://aclanthology.org/P19-1418.pdf"
+  ],
+  [
+    "The Language of Legal and Illegal Activity on the Darknet",
+    "https://aclanthology.org/P19-1419/",
+    "https://aclanthology.org/P19-1419.pdf"
+  ],
+  [
+    "Eliciting Knowledge from Experts: Automatic Transcript Parsing for Cognitive Task Analysis",
+    "https://aclanthology.org/P19-1420/",
+    "https://aclanthology.org/P19-1420.pdf"
+  ],
+  [
+    "Course Concept Expansion in MOOCs with External Knowledge and Interactive Game",
+    "https://aclanthology.org/P19-1421/",
+    "https://aclanthology.org/P19-1421.pdf"
+  ],
+  [
+    "Towards Near-imperceptible Steganographic Text",
+    "https://aclanthology.org/P19-1422/",
+    "https://aclanthology.org/P19-1422.pdf"
+  ],
+  [
+    "Inter-sentence Relation Extraction with Document-level Graph Convolutional Neural Network",
+    "https://aclanthology.org/P19-1423/",
+    "https://aclanthology.org/P19-1423.pdf"
+  ],
+  [
+    "Neural Legal Judgment Prediction in English",
+    "https://aclanthology.org/P19-1424/",
+    "https://aclanthology.org/P19-1424.pdf"
+  ],
+  [
+    "Robust Neural Machine Translation with Doubly Adversarial Inputs",
+    "https://aclanthology.org/P19-1425/",
+    "https://aclanthology.org/P19-1425.pdf"
+  ],
+  [
+    "Bridging the Gap between Training and Inference for Neural Machine Translation",
+    "https://aclanthology.org/P19-1426/",
+    "https://aclanthology.org/P19-1426.pdf"
+  ],
+  [
+    "Beyond BLEU: Training Neural Machine Translation with Semantic Similarity",
+    "https://aclanthology.org/P19-1427/",
+    "https://aclanthology.org/P19-1427.pdf"
+  ],
+  [
+    "AutoML Strategy Based on Grammatical Evolution: A Case Study about Knowledge Discovery from Text",
+    "https://aclanthology.org/P19-1428/",
+    "https://aclanthology.org/P19-1428.pdf"
+  ],
+  [
+    "Distilling Discrimination and Generalization Knowledge for Event Detection via Delta-Representation Learning",
+    "https://aclanthology.org/P19-1429/",
+    "https://aclanthology.org/P19-1429.pdf"
+  ],
+  [
+    "Chinese Relation Extraction with Multi-Grained Information and External Linguistic Knowledge",
+    "https://aclanthology.org/P19-1430/",
+    "https://aclanthology.org/P19-1430.pdf"
+  ],
+  [
+    "A2N: Attending to Neighbors for Knowledge Graph Inference",
+    "https://aclanthology.org/P19-1431/",
+    "https://aclanthology.org/P19-1431.pdf"
+  ],
+  [
+    "Graph based Neural Networks for Event Factuality Prediction using Syntactic and Semantic Structures",
+    "https://aclanthology.org/P19-1432/",
+    "https://aclanthology.org/P19-1432.pdf"
+  ],
+  [
+    "Embedding Time Expressions for Deep Temporal Ordering Models",
+    "https://aclanthology.org/P19-1433/",
+    "https://aclanthology.org/P19-1433.pdf"
+  ],
+  [
+    "Episodic Memory Reader: Learning What to Remember for Question Answering from Streaming Data",
+    "https://aclanthology.org/P19-1434/",
+    "https://aclanthology.org/P19-1434.pdf"
+  ],
+  [
+    "Selection Bias Explorations and Debias Methods for Natural Language Sentence Matching Datasets",
+    "https://aclanthology.org/P19-1435/",
+    "https://aclanthology.org/P19-1435.pdf"
+  ],
+  [
+    "Real-Time Open-Domain Question Answering with Dense-Sparse Phrase Index",
+    "https://aclanthology.org/P19-1436/",
+    "https://aclanthology.org/P19-1436.pdf"
+  ],
+  [
+    "Language Modeling with Shared Grammar",
+    "https://aclanthology.org/P19-1437/",
+    "https://aclanthology.org/P19-1437.pdf"
+  ],
+  [
+    "Zero-Shot Semantic Parsing for Instructions",
+    "https://aclanthology.org/P19-1438/",
+    "https://aclanthology.org/P19-1438.pdf"
+  ],
+  [
+    "Can You Tell Me How to Get Past Sesame Street? Sentence-Level Pretraining Beyond Language Modeling",
+    "https://aclanthology.org/P19-1439/",
+    "https://aclanthology.org/P19-1439.pdf"
+  ],
+  [
+    "Complex Question Decomposition for Semantic Parsing",
+    "https://aclanthology.org/P19-1440/",
+    "https://aclanthology.org/P19-1440.pdf"
+  ],
+  [
+    "Multi-Task Deep Neural Networks for Natural Language Understanding",
+    "https://aclanthology.org/P19-1441/",
+    "https://aclanthology.org/P19-1441.pdf"
+  ],
+  [
+    "DisSent: Learning Sentence Representations from Explicit Discourse Relations",
+    "https://aclanthology.org/P19-1442/",
+    "https://aclanthology.org/P19-1442.pdf"
+  ],
+  [
+    "SParC: Cross-Domain Semantic Parsing in Context",
+    "https://aclanthology.org/P19-1443/",
+    "https://aclanthology.org/P19-1443.pdf"
+  ],
+  [
+    "Towards Complex Text-to-SQL in Cross-Domain Database with Intermediate Representation",
+    "https://aclanthology.org/P19-1444/",
+    "https://aclanthology.org/P19-1444.pdf"
+  ],
+  [
+    "EigenSent: Spectral sentence embeddings using higher-order Dynamic Mode Decomposition",
+    "https://aclanthology.org/P19-1445/",
+    "https://aclanthology.org/P19-1445.pdf"
+  ],
+  [
+    "SemBleu: A Robust Metric for AMR Parsing Evaluation",
+    "https://aclanthology.org/P19-1446/",
+    "https://aclanthology.org/P19-1446.pdf"
+  ],
+  [
+    "Reranking for Neural Semantic Parsing",
+    "https://aclanthology.org/P19-1447/",
+    "https://aclanthology.org/P19-1447.pdf"
+  ],
+  [
+    "Representing Schema Structure with Graph Neural Networks for Text-to-SQL Parsing",
+    "https://aclanthology.org/P19-1448/",
+    "https://aclanthology.org/P19-1448.pdf"
+  ],
+  [
+    "Human vs. Muppet: A Conservative Estimate of Human Performance on the GLUE Benchmark",
+    "https://aclanthology.org/P19-1449/",
+    "https://aclanthology.org/P19-1449.pdf"
+  ],
+  [
+    "Compositional Semantic Parsing across Graphbanks",
+    "https://aclanthology.org/P19-1450/",
+    "https://aclanthology.org/P19-1450.pdf"
+  ],
+  [
+    "Rewarding Smatch: Transition-Based AMR Parsing with Reinforcement Learning",
+    "https://aclanthology.org/P19-1451/",
+    "https://aclanthology.org/P19-1451.pdf"
+  ],
+  [
+    "BERT Rediscovers the Classical NLP Pipeline",
+    "https://aclanthology.org/P19-1452/",
+    "https://aclanthology.org/P19-1452.pdf"
+  ],
+  [
+    "Simple and Effective Paraphrastic Similarity from Parallel Translations",
+    "https://aclanthology.org/P19-1453/",
+    "https://aclanthology.org/P19-1453.pdf"
+  ],
+  [
+    "Second-Order Semantic Dependency Parsing with End-to-End Neural Networks",
+    "https://aclanthology.org/P19-1454/",
+    "https://aclanthology.org/P19-1454.pdf"
+  ],
+  [
+    "Towards Multimodal Sarcasm Detection (An _Obviously_ Perfect Paper)",
+    "https://aclanthology.org/P19-1455/",
+    "https://aclanthology.org/P19-1455.pdf"
+  ],
+  [
+    "Determining Relative Argument Specificity and Stance for Complex Argumentative Structures",
+    "https://aclanthology.org/P19-1456/",
+    "https://aclanthology.org/P19-1456.pdf"
+  ],
+  [
+    "Latent Variable Sentiment Grammar",
+    "https://aclanthology.org/P19-1457/",
+    "https://aclanthology.org/P19-1457.pdf"
+  ],
+  [
+    "An Investigation of Transfer Learning-Based Sentiment Analysis in Japanese",
+    "https://aclanthology.org/P19-1458/",
+    "https://aclanthology.org/P19-1458.pdf"
+  ],
+  [
+    "Probing Neural Network Comprehension of Natural Language Arguments",
+    "https://aclanthology.org/P19-1459/",
+    "https://aclanthology.org/P19-1459.pdf"
+  ],
+  [
+    "Recognising Agreement and Disagreement between Stances with Reason Comparing Networks",
+    "https://aclanthology.org/P19-1460/",
+    "https://aclanthology.org/P19-1460.pdf"
+  ],
+  [
+    "Toward Comprehensive Understanding of a Sentiment Based on Human Motives",
+    "https://aclanthology.org/P19-1461/",
+    "https://aclanthology.org/P19-1461.pdf"
+  ],
+  [
+    "Context-aware Embedding for Targeted Aspect-based Sentiment Analysis",
+    "https://aclanthology.org/P19-1462/",
+    "https://aclanthology.org/P19-1462.pdf"
+  ],
+  [
+    "Yes, we can! Mining Arguments in 50 Years of US Presidential Campaign Debates",
+    "https://aclanthology.org/P19-1463/",
+    "https://aclanthology.org/P19-1463.pdf"
+  ],
+  [
+    "An Empirical Study of Span Representations in Argumentation Structure Parsing",
+    "https://aclanthology.org/P19-1464/",
+    "https://aclanthology.org/P19-1464.pdf"
+  ],
+  [
+    "Simple and Effective Text Matching with Richer Alignment Features",
+    "https://aclanthology.org/P19-1465/",
+    "https://aclanthology.org/P19-1465.pdf"
+  ],
+  [
+    "Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs",
+    "https://aclanthology.org/P19-1466/",
+    "https://aclanthology.org/P19-1466.pdf"
+  ],
+  [
+    "Neural Network Alignment for Sentential Paraphrases",
+    "https://aclanthology.org/P19-1467/",
+    "https://aclanthology.org/P19-1467.pdf"
+  ],
+  [
+    "Duality of Link Prediction and Entailment Graph Induction",
+    "https://aclanthology.org/P19-1468/",
+    "https://aclanthology.org/P19-1468.pdf"
+  ],
+  [
+    "A Cross-Sentence Latent Variable Model for Semi-Supervised Text Sequence Matching",
+    "https://aclanthology.org/P19-1469/",
+    "https://aclanthology.org/P19-1469.pdf"
+  ],
+  [
+    "COMET: Commonsense Transformers for Automatic Knowledge Graph Construction",
+    "https://aclanthology.org/P19-1470/",
+    "https://aclanthology.org/P19-1470.pdf"
+  ],
+  [
+    "Detecting Subevents using Discourse and Narrative Features",
+    "https://aclanthology.org/P19-1471/",
+    "https://aclanthology.org/P19-1471.pdf"
+  ],
+  [
+    "HellaSwag: Can a Machine Really Finish Your Sentence?",
+    "https://aclanthology.org/P19-1472/",
+    "https://aclanthology.org/P19-1472.pdf"
+  ],
+  [
+    "Unified Semantic Parsing with Weak Supervision",
+    "https://aclanthology.org/P19-1473/",
+    "https://aclanthology.org/P19-1473.pdf"
+  ],
+  [
+    "Every Child Should Have Parents: A Taxonomy Refinement Algorithm Based on Hyperbolic Term Embeddings",
+    "https://aclanthology.org/P19-1474/",
+    "https://aclanthology.org/P19-1474.pdf"
+  ],
+  [
+    "Learning to Rank for Plausible Plausibility",
+    "https://aclanthology.org/P19-1475/",
+    "https://aclanthology.org/P19-1475.pdf"
+  ],
+  [
+    "Generalized Tuning of Distributional Word Vectors for Monolingual and Cross-Lingual Lexical Entailment",
+    "https://aclanthology.org/P19-1476/",
+    "https://aclanthology.org/P19-1476.pdf"
+  ],
+  [
+    "Attention Is (not) All You Need for Commonsense Reasoning",
+    "https://aclanthology.org/P19-1477/",
+    "https://aclanthology.org/P19-1477.pdf"
+  ],
+  [
+    "A Surprisingly Robust Trick for the Winograd Schema Challenge",
+    "https://aclanthology.org/P19-1478/",
+    "https://aclanthology.org/P19-1478.pdf"
+  ],
+  [
+    "Coherent Comments Generation for Chinese Articles with a Graph-to-Sequence Model",
+    "https://aclanthology.org/P19-1479/",
+    "https://aclanthology.org/P19-1479.pdf"
+  ],
+  [
+    "Interconnected Question Generation with Coreference Alignment and Conversation Flow Modeling",
+    "https://aclanthology.org/P19-1480/",
+    "https://aclanthology.org/P19-1480.pdf"
+  ],
+  [
+    "Cross-Lingual Training for Automatic Question Generation",
+    "https://aclanthology.org/P19-1481/",
+    "https://aclanthology.org/P19-1481.pdf"
+  ],
+  [
+    "A Hierarchical Reinforced Sequence Operation Method for Unsupervised Text Style Transfer",
+    "https://aclanthology.org/P19-1482/",
+    "https://aclanthology.org/P19-1482.pdf"
+  ],
+  [
+    "Handling Divergent Reference Texts when Evaluating Table-to-Text Generation",
+    "https://aclanthology.org/P19-1483/",
+    "https://aclanthology.org/P19-1483.pdf"
+  ],
+  [
+    "Unsupervised Question Answering by Cloze Translation",
+    "https://aclanthology.org/P19-1484/",
+    "https://aclanthology.org/P19-1484.pdf"
+  ],
+  [
+    "MultiQA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension",
+    "https://aclanthology.org/P19-1485/",
+    "https://aclanthology.org/P19-1485.pdf"
+  ],
+  [
+    "Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives",
+    "https://aclanthology.org/P19-1486/",
+    "https://aclanthology.org/P19-1486.pdf"
+  ],
+  [
+    "Explain Yourself! Leveraging Language Models for Commonsense Reasoning",
+    "https://aclanthology.org/P19-1487/",
+    "https://aclanthology.org/P19-1487.pdf"
+  ],
+  [
+    "Interpretable Question Answering on Knowledge Bases and Text",
+    "https://aclanthology.org/P19-1488/",
+    "https://aclanthology.org/P19-1488.pdf"
+  ],
+  [
+    "A Resource-Free Evaluation Metric for Cross-Lingual Word Embeddings Based on Graph Modularity",
+    "https://aclanthology.org/P19-1489/",
+    "https://aclanthology.org/P19-1489.pdf"
+  ],
+  [
+    "Multilingual and Cross-Lingual Graded Lexical Entailment",
+    "https://aclanthology.org/P19-1490/",
+    "https://aclanthology.org/P19-1490.pdf"
+  ],
+  [
+    "What Kind of Language Is Hard to Language-Model?",
+    "https://aclanthology.org/P19-1491/",
+    "https://aclanthology.org/P19-1491.pdf"
+  ],
+  [
+    "Analyzing the Limitations of Cross-lingual Word Embedding Mappings",
+    "https://aclanthology.org/P19-1492/",
+    "https://aclanthology.org/P19-1492.pdf"
+  ],
+  [
+    "How Multilingual is Multilingual BERT?",
+    "https://aclanthology.org/P19-1493/",
+    "https://aclanthology.org/P19-1493.pdf"
+  ],
+  [
+    "Bilingual Lexicon Induction through Unsupervised Machine Translation",
+    "https://aclanthology.org/P19-1494/",
+    "https://aclanthology.org/P19-1494.pdf"
+  ],
+  [
+    "Automatically Identifying Complaints in Social Media",
+    "https://aclanthology.org/P19-1495/",
+    "https://aclanthology.org/P19-1495.pdf"
+  ],
+  [
+    "TWEETQA: A Social Media Focused Question Answering Dataset",
+    "https://aclanthology.org/P19-1496/",
+    "https://aclanthology.org/P19-1496.pdf"
+  ],
+  [
+    "Asking the Crowd: Question Analysis, Evaluation and Generation for Open Discussion on Online Forums",
+    "https://aclanthology.org/P19-1497/",
+    "https://aclanthology.org/P19-1497.pdf"
+  ],
+  [
+    "Tree LSTMs with Convolution Units to Predict Stance and Rumor Veracity in Social Media Conversations",
+    "https://aclanthology.org/P19-1498/",
+    "https://aclanthology.org/P19-1498.pdf"
+  ],
+  [
+    "HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization",
+    "https://aclanthology.org/P19-1499/",
+    "https://aclanthology.org/P19-1499.pdf"
+  ],
+  [
+    "Hierarchical Transformers for Multi-Document Summarization",
+    "https://aclanthology.org/P19-1500/",
+    "https://aclanthology.org/P19-1500.pdf"
+  ],
+  [
+    "Abstractive Text Summarization Based on Deep Learning and Semantic Content Generalization",
+    "https://aclanthology.org/P19-1501/",
+    "https://aclanthology.org/P19-1501.pdf"
+  ],
+  [
+    "Studying Summarization Evaluation Metrics in the Appropriate Scoring Range",
+    "https://aclanthology.org/P19-1502/",
+    "https://aclanthology.org/P19-1502.pdf"
+  ],
+  [
+    "Simple Unsupervised Summarization by Contextual Matching",
+    "https://aclanthology.org/P19-1503/",
+    "https://aclanthology.org/P19-1503.pdf"
+  ],
+  [
+    "Generating Summaries with Topic Templates and Structured Convolutional Decoders",
+    "https://aclanthology.org/P19-1504/",
+    "https://aclanthology.org/P19-1504.pdf"
+  ],
+  [
+    "Morphological Irregularity Correlates with Frequency",
+    "https://aclanthology.org/P19-1505/",
+    "https://aclanthology.org/P19-1505.pdf"
+  ],
+  [
+    "Like a Baby: Visually Situated Neural Language Acquisition",
+    "https://aclanthology.org/P19-1506/",
+    "https://aclanthology.org/P19-1506.pdf"
+  ],
+  [
+    "Relating Simple Sentence Representations in Deep Neural Networks and the Brain",
+    "https://aclanthology.org/P19-1507/",
+    "https://aclanthology.org/P19-1507.pdf"
+  ],
+  [
+    "Modeling Affirmative and Negated Action Processing in the Brain with Lexical and Compositional Semantic Models",
+    "https://aclanthology.org/P19-1508/",
+    "https://aclanthology.org/P19-1508.pdf"
+  ],
+  [
+    "Word-order Biases in Deep-agent Emergent Communication",
+    "https://aclanthology.org/P19-1509/",
+    "https://aclanthology.org/P19-1509.pdf"
+  ],
+  [
+    "NNE: A Dataset for Nested Named Entity Recognition in English Newswire",
+    "https://aclanthology.org/P19-1510/",
+    "https://aclanthology.org/P19-1510.pdf"
+  ],
+  [
+    "Sequence-to-Nuggets: Nested Entity Mention Detection via Anchor-Region Networks",
+    "https://aclanthology.org/P19-1511/",
+    "https://aclanthology.org/P19-1511.pdf"
+  ],
+  [
+    "Improving Textual Network Embedding with Global Attention via Optimal Transport",
+    "https://aclanthology.org/P19-1512/",
+    "https://aclanthology.org/P19-1512.pdf"
+  ],
+  [
+    "Identification of Tasks, Datasets, Evaluation Metrics, and Numeric Scores for Scientific Leaderboards Construction",
+    "https://aclanthology.org/P19-1513/",
+    "https://aclanthology.org/P19-1513.pdf"
+  ],
+  [
+    "Scaling up Open Tagging from Tens to Thousands: Comprehension Empowered Attribute Value Extraction from Product Title",
+    "https://aclanthology.org/P19-1514/",
+    "https://aclanthology.org/P19-1514.pdf"
+  ],
+  [
+    "Incorporating Linguistic Constraints into Keyphrase Generation",
+    "https://aclanthology.org/P19-1515/",
+    "https://aclanthology.org/P19-1515.pdf"
+  ],
+  [
+    "A Unified Multi-task Adversarial Learning Framework for Pharmacovigilance Mining",
+    "https://aclanthology.org/P19-1516/",
+    "https://aclanthology.org/P19-1516.pdf"
+  ],
+  [
+    "Quantity Tagger: A Latent-Variable Sequence Labeling Approach to Solving Addition-Subtraction Word Problems",
+    "https://aclanthology.org/P19-1517/",
+    "https://aclanthology.org/P19-1517.pdf"
+  ],
+  [
+    "A Deep Reinforced Sequence-to-Set Model for Multi-Label Classification",
+    "https://aclanthology.org/P19-1518/",
+    "https://aclanthology.org/P19-1518.pdf"
+  ],
+  [
+    "Joint Slot Filling and Intent Detection via Capsule Neural Networks",
+    "https://aclanthology.org/P19-1519/",
+    "https://aclanthology.org/P19-1519.pdf"
+  ],
+  [
+    "Neural Aspect and Opinion Term Extraction with Mined Rules as Weak Supervision",
+    "https://aclanthology.org/P19-1520/",
+    "https://aclanthology.org/P19-1520.pdf"
+  ],
+  [
+    "Cost-sensitive Regularization for Label Confusion-aware Event Detection",
+    "https://aclanthology.org/P19-1521/",
+    "https://aclanthology.org/P19-1521.pdf"
+  ],
+  [
+    "Exploring Pre-trained Language Models for Event Extraction and Generation",
+    "https://aclanthology.org/P19-1522/",
+    "https://aclanthology.org/P19-1522.pdf"
+  ],
+  [
+    "Improving Open Information Extraction via Iterative Rank-Aware Learning",
+    "https://aclanthology.org/P19-1523/",
+    "https://aclanthology.org/P19-1523.pdf"
+  ],
+  [
+    "Towards Improving Neural Named Entity Recognition with Gazetteers",
+    "https://aclanthology.org/P19-1524/",
+    "https://aclanthology.org/P19-1524.pdf"
+  ],
+  [
+    "Span-Level Model for Relation Extraction",
+    "https://aclanthology.org/P19-1525/",
+    "https://aclanthology.org/P19-1525.pdf"
+  ],
+  [
+    "Enhancing Unsupervised Generative Dependency Parser with Contextual Information",
+    "https://aclanthology.org/P19-1526/",
+    "https://aclanthology.org/P19-1526.pdf"
+  ],
+  [
+    "Neural Architectures for Nested NER through Linearization",
+    "https://aclanthology.org/P19-1527/",
+    "https://aclanthology.org/P19-1527.pdf"
+  ],
+  [
+    "Online Infix Probability Computation for Probabilistic Finite Automata",
+    "https://aclanthology.org/P19-1528/",
+    "https://aclanthology.org/P19-1528.pdf"
+  ],
+  [
+    "How to Best Use Syntax in Semantic Role Labelling",
+    "https://aclanthology.org/P19-1529/",
+    "https://aclanthology.org/P19-1529.pdf"
+  ],
+  [
+    "PTB Graph Parsing with Tree Approximation",
+    "https://aclanthology.org/P19-1530/",
+    "https://aclanthology.org/P19-1530.pdf"
+  ],
+  [
+    "Sequence Labeling Parsing by Learning across Representations",
+    "https://aclanthology.org/P19-1531/",
+    "https://aclanthology.org/P19-1531.pdf"
+  ],
+  [
+    "A Prism Module for Semantic Disentanglement in Name Entity Recognition",
+    "https://aclanthology.org/P19-1532/",
+    "https://aclanthology.org/P19-1532.pdf"
+  ],
+  [
+    "Label-Agnostic Sequence Labeling by Copying Nearest Neighbors",
+    "https://aclanthology.org/P19-1533/",
+    "https://aclanthology.org/P19-1533.pdf"
+  ],
+  [
+    "Towards Empathetic Open-domain Conversation Models: A New Benchmark and Dataset",
+    "https://aclanthology.org/P19-1534/",
+    "https://aclanthology.org/P19-1534.pdf"
+  ],
+  [
+    "Know More about Each Other: Evolving Dialogue Strategy via Compound Assessment",
+    "https://aclanthology.org/P19-1535/",
+    "https://aclanthology.org/P19-1535.pdf"
+  ],
+  [
+    "Training Neural Response Selection for Task-Oriented Dialogue Systems",
+    "https://aclanthology.org/P19-1536/",
+    "https://aclanthology.org/P19-1536.pdf"
+  ],
+  [
+    "Collaborative Dialogue in Minecraft",
+    "https://aclanthology.org/P19-1537/",
+    "https://aclanthology.org/P19-1537.pdf"
+  ],
+  [
+    "Neural Response Generation with Meta-words",
+    "https://aclanthology.org/P19-1538/",
+    "https://aclanthology.org/P19-1538.pdf"
+  ],
+  [
+    "Conversing by Reading: Contentful Neural Conversation with On-demand Machine Reading",
+    "https://aclanthology.org/P19-1539/",
+    "https://aclanthology.org/P19-1539.pdf"
+  ],
+  [
+    "Ordinal and Attribute Aware Response Generation in a Multimodal Dialogue System",
+    "https://aclanthology.org/P19-1540/",
+    "https://aclanthology.org/P19-1540.pdf"
+  ],
+  [
+    "Memory Consolidation for Contextual Spoken Language Understanding with Dialogue Logistic Inference",
+    "https://aclanthology.org/P19-1541/",
+    "https://aclanthology.org/P19-1541.pdf"
+  ],
+  [
+    "Personalizing Dialogue Agents via Meta-Learning",
+    "https://aclanthology.org/P19-1542/",
+    "https://aclanthology.org/P19-1542.pdf"
+  ],
+  [
+    "Reading Turn by Turn: Hierarchical Attention Architecture for Spoken Dialogue Comprehension",
+    "https://aclanthology.org/P19-1543/",
+    "https://aclanthology.org/P19-1543.pdf"
+  ],
+  [
+    "A Novel Bi-directional Interrelated Model for Joint Intent Detection and Slot Filling",
+    "https://aclanthology.org/P19-1544/",
+    "https://aclanthology.org/P19-1544.pdf"
+  ],
+  [
+    "Dual Supervised Learning for Natural Language Understanding and Generation",
+    "https://aclanthology.org/P19-1545/",
+    "https://aclanthology.org/P19-1545.pdf"
+  ],
+  [
+    "SUMBT: Slot-Utterance Matching for Universal and Scalable Belief Tracking",
+    "https://aclanthology.org/P19-1546/",
+    "https://aclanthology.org/P19-1546.pdf"
+  ],
+  [
+    "Robust Zero-Shot Cross-Domain Slot Filling with Example Values",
+    "https://aclanthology.org/P19-1547/",
+    "https://aclanthology.org/P19-1547.pdf"
+  ],
+  [
+    "Deep Unknown Intent Detection with Margin Loss",
+    "https://aclanthology.org/P19-1548/",
+    "https://aclanthology.org/P19-1548.pdf"
+  ],
+  [
+    "Modeling Semantic Relationship in Multi-turn Conversations with Hierarchical Latent Variables",
+    "https://aclanthology.org/P19-1549/",
+    "https://aclanthology.org/P19-1549.pdf"
+  ],
+  [
+    "Rationally Reappraising ATIS-based Dialogue Systems",
+    "https://aclanthology.org/P19-1550/",
+    "https://aclanthology.org/P19-1550.pdf"
+  ],
+  [
+    "Learning Latent Trees with Stochastic Perturbations and Differentiable Dynamic Programming",
+    "https://aclanthology.org/P19-1551/",
+    "https://aclanthology.org/P19-1551.pdf"
+  ],
+  [
+    "Neural-based Chinese Idiom Recommendation for Enhancing Elegance in Essay Writing",
+    "https://aclanthology.org/P19-1552/",
+    "https://aclanthology.org/P19-1552.pdf"
+  ],
+  [
+    "Better Exploiting Latent Variables in Text Modeling",
+    "https://aclanthology.org/P19-1553/",
+    "https://aclanthology.org/P19-1553.pdf"
+  ],
+  [
+    "Misleading Failures of Partial-input Baselines",
+    "https://aclanthology.org/P19-1554/",
+    "https://aclanthology.org/P19-1554.pdf"
+  ],
+  [
+    "Soft Contextual Data Augmentation for Neural Machine Translation",
+    "https://aclanthology.org/P19-1555/",
+    "https://aclanthology.org/P19-1555.pdf"
+  ],
+  [
+    "Reversing Gradients in Adversarial Domain Adaptation for Question Deduplication and Textual Entailment Tasks",
+    "https://aclanthology.org/P19-1556/",
+    "https://aclanthology.org/P19-1556.pdf"
+  ],
+  [
+    "Towards Integration of Statistical Hypothesis Tests into Deep Neural Networks",
+    "https://aclanthology.org/P19-1557/",
+    "https://aclanthology.org/P19-1557.pdf"
+  ],
+  [
+    "Depth Growing for Neural Machine Translation",
+    "https://aclanthology.org/P19-1558/",
+    "https://aclanthology.org/P19-1558.pdf"
+  ],
+  [
+    "Generating Fluent Adversarial Examples for Natural Languages",
+    "https://aclanthology.org/P19-1559/",
+    "https://aclanthology.org/P19-1559.pdf"
+  ],
+  [
+    "Towards Explainable NLP: A Generative Explanation Framework for Text Classification",
+    "https://aclanthology.org/P19-1560/",
+    "https://aclanthology.org/P19-1560.pdf"
+  ],
+  [
+    "Combating Adversarial Misspellings with Robust Word Recognition",
+    "https://aclanthology.org/P19-1561/",
+    "https://aclanthology.org/P19-1561.pdf"
+  ],
+  [
+    "An Empirical Investigation of Structured Output Modeling for Graph-based Neural Dependency Parsing",
+    "https://aclanthology.org/P19-1562/",
+    "https://aclanthology.org/P19-1562.pdf"
+  ],
+  [
+    "Observing Dialogue in Therapy: Categorizing and Forecasting Behavioral Codes",
+    "https://aclanthology.org/P19-1563/",
+    "https://aclanthology.org/P19-1563.pdf"
+  ],
+  [
+    "Multimodal Transformer Networks for End-to-End Video-Grounded Dialogue Systems",
+    "https://aclanthology.org/P19-1564/",
+    "https://aclanthology.org/P19-1564.pdf"
+  ],
+  [
+    "Target-Guided Open-Domain Conversation",
+    "https://aclanthology.org/P19-1565/",
+    "https://aclanthology.org/P19-1565.pdf"
+  ],
+  [
+    "Persuasion for Good: Towards a Personalized Persuasive Dialogue System for Social Good",
+    "https://aclanthology.org/P19-1566/",
+    "https://aclanthology.org/P19-1566.pdf"
+  ],
+  [
+    "Improving Neural Conversational Models with Entropy-Based Data Filtering",
+    "https://aclanthology.org/P19-1567/",
+    "https://aclanthology.org/P19-1567.pdf"
+  ],
+  [
+    "Zero-shot Word Sense Disambiguation using Sense Definition Embeddings",
+    "https://aclanthology.org/P19-1568/",
+    "https://aclanthology.org/P19-1568.pdf"
+  ],
+  [
+    "Language Modelling Makes Sense: Propagating Representations through WordNet for Full-Coverage Word Sense Disambiguation",
+    "https://aclanthology.org/P19-1569/",
+    "https://aclanthology.org/P19-1569.pdf"
+  ],
+  [
+    "Word2Sense: Sparse Interpretable Word Embeddings",
+    "https://aclanthology.org/P19-1570/",
+    "https://aclanthology.org/P19-1570.pdf"
+  ],
+  [
+    "Modeling Semantic Compositionality with Sememe Knowledge",
+    "https://aclanthology.org/P19-1571/",
+    "https://aclanthology.org/P19-1571.pdf"
+  ],
+  [
+    "Predicting Humorousness and Metaphor Novelty with Gaussian Process Preference Learning",
+    "https://aclanthology.org/P19-1572/",
+    "https://aclanthology.org/P19-1572.pdf"
+  ],
+  [
+    "Empirical Linguistic Study of Sentence Embeddings",
+    "https://aclanthology.org/P19-1573/",
+    "https://aclanthology.org/P19-1573.pdf"
+  ],
+  [
+    "Probing for Semantic Classes: Diagnosing the Meaning Content of Word Embeddings",
+    "https://aclanthology.org/P19-1574/",
+    "https://aclanthology.org/P19-1574.pdf"
+  ],
+  [
+    "Deep Neural Model Inspection and Comparison via Functional Neuron Pathways",
+    "https://aclanthology.org/P19-1575/",
+    "https://aclanthology.org/P19-1575.pdf"
+  ],
+  [
+    "Collocation Classification with Unsupervised Relation Vectors",
+    "https://aclanthology.org/P19-1576/",
+    "https://aclanthology.org/P19-1576.pdf"
+  ],
+  [
+    "Corpus-based Check-up for Thesaurus",
+    "https://aclanthology.org/P19-1577/",
+    "https://aclanthology.org/P19-1577.pdf"
+  ],
+  [
+    "Confusionset-guided Pointer Networks for Chinese Spelling Check",
+    "https://aclanthology.org/P19-1578/",
+    "https://aclanthology.org/P19-1578.pdf"
+  ],
+  [
+    "Generalized Data Augmentation for Low-Resource Translation",
+    "https://aclanthology.org/P19-1579/",
+    "https://aclanthology.org/P19-1579.pdf"
+  ],
+  [
+    "Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned",
+    "https://aclanthology.org/P19-1580/",
+    "https://aclanthology.org/P19-1580.pdf"
+  ],
+  [
+    "Better OOV Translation with Bilingual Terminology Mining",
+    "https://aclanthology.org/P19-1581/",
+    "https://aclanthology.org/P19-1581.pdf"
+  ],
+  [
+    "Simultaneous Translation with Flexible Policy via Restricted Imitation Learning",
+    "https://aclanthology.org/P19-1582/",
+    "https://aclanthology.org/P19-1582.pdf"
+  ],
+  [
+    "Target Conditioned Sampling: Optimizing Data Selection for Multilingual Neural Machine Translation",
+    "https://aclanthology.org/P19-1583/",
+    "https://aclanthology.org/P19-1583.pdf"
+  ],
+  [
+    "Adversarial Learning of Privacy-Preserving Text Representations for De-Identification of Medical Records",
+    "https://aclanthology.org/P19-1584/",
+    "https://aclanthology.org/P19-1584.pdf"
+  ],
+  [
+    "Merge and Label: A Novel Neural Network Architecture for Nested NER",
+    "https://aclanthology.org/P19-1585/",
+    "https://aclanthology.org/P19-1585.pdf"
+  ],
+  [
+    "Low-resource Deep Entity Resolution with Transfer and Active Learning",
+    "https://aclanthology.org/P19-1586/",
+    "https://aclanthology.org/P19-1586.pdf"
+  ],
+  [
+    "A Semi-Markov Structured Support Vector Machine Model for High-Precision Named Entity Recognition",
+    "https://aclanthology.org/P19-1587/",
+    "https://aclanthology.org/P19-1587.pdf"
+  ],
+  [
+    "Using Human Attention to Extract Keyphrase from Microblog Post",
+    "https://aclanthology.org/P19-1588/",
+    "https://aclanthology.org/P19-1588.pdf"
+  ],
+  [
+    "Model-Agnostic Meta-Learning for Relation Classification with Limited Supervision",
+    "https://aclanthology.org/P19-1589/",
+    "https://aclanthology.org/P19-1589.pdf"
+  ],
+  [
+    "Variational Pretraining for Semi-supervised Text Classification",
+    "https://aclanthology.org/P19-1590/",
+    "https://aclanthology.org/P19-1590.pdf"
+  ],
+  [
+    "Task Refinement Learning for Improved Accuracy and Stability of Unsupervised Domain Adaptation",
+    "https://aclanthology.org/P19-1591/",
+    "https://aclanthology.org/P19-1591.pdf"
+  ],
+  [
+    "Optimal Transport-based Alignment of Learned Character Representations for String Similarity",
+    "https://aclanthology.org/P19-1592/",
+    "https://aclanthology.org/P19-1592.pdf"
+  ],
+  [
+    "The Referential Reader: A Recurrent Entity Network for Anaphora Resolution",
+    "https://aclanthology.org/P19-1593/",
+    "https://aclanthology.org/P19-1593.pdf"
+  ],
+  [
+    "Interpolated Spectral NGram Language Models",
+    "https://aclanthology.org/P19-1594/",
+    "https://aclanthology.org/P19-1594.pdf"
+  ],
+  [
+    "BAM! Born-Again Multi-Task Networks for Natural Language Understanding",
+    "https://aclanthology.org/P19-1595/",
+    "https://aclanthology.org/P19-1595.pdf"
+  ],
+  [
+    "Curate and Generate: A Corpus and Method for Joint Control of Semantics and Style in Neural NLG",
+    "https://aclanthology.org/P19-1596/",
+    "https://aclanthology.org/P19-1596.pdf"
+  ],
+  [
+    "Automated Chess Commentator Powered by Neural Chess Engine",
+    "https://aclanthology.org/P19-1597/",
+    "https://aclanthology.org/P19-1597.pdf"
+  ],
+  [
+    "Barack’s Wife Hillary: Using Knowledge Graphs for Fact-Aware Language Modeling",
+    "https://aclanthology.org/P19-1598/",
+    "https://aclanthology.org/P19-1598.pdf"
+  ],
+  [
+    "Controllable Paraphrase Generation with a Syntactic Exemplar",
+    "https://aclanthology.org/P19-1599/",
+    "https://aclanthology.org/P19-1599.pdf"
+  ],
+  [
+    "Towards Comprehensive Description Generation from Factual Attribute-value Tables",
+    "https://aclanthology.org/P19-1600/",
+    "https://aclanthology.org/P19-1600.pdf"
+  ],
+  [
+    "Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation",
+    "https://aclanthology.org/P19-1601/",
+    "https://aclanthology.org/P19-1601.pdf"
+  ],
+  [
+    "Generating Sentences from Disentangled Syntactic and Semantic Spaces",
+    "https://aclanthology.org/P19-1602/",
+    "https://aclanthology.org/P19-1602.pdf"
+  ],
+  [
+    "Learning to Control the Fine-grained Sentiment for Story Ending Generation",
+    "https://aclanthology.org/P19-1603/",
+    "https://aclanthology.org/P19-1603.pdf"
+  ],
+  [
+    "Self-Attention Architectures for Answer-Agnostic Neural Question Generation",
+    "https://aclanthology.org/P19-1604/",
+    "https://aclanthology.org/P19-1604.pdf"
+  ],
+  [
+    "Unsupervised Paraphrasing without Translation",
+    "https://aclanthology.org/P19-1605/",
+    "https://aclanthology.org/P19-1605.pdf"
+  ],
+  [
+    "Storyboarding of Recipes: Grounded Contextual Generation",
+    "https://aclanthology.org/P19-1606/",
+    "https://aclanthology.org/P19-1606.pdf"
+  ],
+  [
+    "Negative Lexically Constrained Decoding for Paraphrase Generation",
+    "https://aclanthology.org/P19-1607/",
+    "https://aclanthology.org/P19-1607.pdf"
+  ],
+  [
+    "Large-Scale Transfer Learning for Natural Language Generation",
+    "https://aclanthology.org/P19-1608/",
+    "https://aclanthology.org/P19-1608.pdf"
+  ],
+  [
+    "Automatic Grammatical Error Correction for Sequence-to-sequence Text Generation: An Empirical Study",
+    "https://aclanthology.org/P19-1609/",
+    "https://aclanthology.org/P19-1609.pdf"
+  ],
+  [
+    "Improving the Robustness of Question Answering Systems to Question Paraphrasing",
+    "https://aclanthology.org/P19-1610/",
+    "https://aclanthology.org/P19-1610.pdf"
+  ],
+  [
+    "RankQA: Neural Question Answering with Answer Re-Ranking",
+    "https://aclanthology.org/P19-1611/",
+    "https://aclanthology.org/P19-1611.pdf"
+  ],
+  [
+    "Latent Retrieval for Weakly Supervised Open Domain Question Answering",
+    "https://aclanthology.org/P19-1612/",
+    "https://aclanthology.org/P19-1612.pdf"
+  ],
+  [
+    "Multi-hop Reading Comprehension through Question Decomposition and Rescoring",
+    "https://aclanthology.org/P19-1613/",
+    "https://aclanthology.org/P19-1613.pdf"
+  ],
+  [
+    "Combining Knowledge Hunting and Neural Language Models to Solve the Winograd Schema Challenge",
+    "https://aclanthology.org/P19-1614/",
+    "https://aclanthology.org/P19-1614.pdf"
+  ],
+  [
+    "Careful Selection of Knowledge to Solve Open Book Question Answering",
+    "https://aclanthology.org/P19-1615/",
+    "https://aclanthology.org/P19-1615.pdf"
+  ],
+  [
+    "Learning Representation Mapping for Relation Detection in Knowledge Base Question Answering",
+    "https://aclanthology.org/P19-1616/",
+    "https://aclanthology.org/P19-1616.pdf"
+  ],
+  [
+    "Dynamically Fused Graph Network for Multi-hop Reasoning",
+    "https://aclanthology.org/P19-1617/",
+    "https://aclanthology.org/P19-1617.pdf"
+  ],
+  [
+    "NLProlog: Reasoning with Weak Unification for Question Answering in Natural Language",
+    "https://aclanthology.org/P19-1618/",
+    "https://aclanthology.org/P19-1618.pdf"
+  ],
+  [
+    "Modeling Intra-Relation in Math Word Problems with Different Functional Multi-Head Attentions",
+    "https://aclanthology.org/P19-1619/",
+    "https://aclanthology.org/P19-1619.pdf"
+  ],
+  [
+    "Synthetic QA Corpora Generation with Roundtrip Consistency",
+    "https://aclanthology.org/P19-1620/",
+    "https://aclanthology.org/P19-1620.pdf"
+  ],
+  [
+    "Are Red Roses Red? Evaluating Consistency of Question-Answering Models",
+    "https://aclanthology.org/P19-1621/",
+    "https://aclanthology.org/P19-1621.pdf"
+  ],
+  [
+    "MCˆ2: Multi-perspective Convolutional Cube for Conversational Machine Reading Comprehension",
+    "https://aclanthology.org/P19-1622/",
+    "https://aclanthology.org/P19-1622.pdf"
+  ],
+  [
+    "Reducing Word Omission Errors in Neural Machine Translation: A Contrastive Learning Approach",
+    "https://aclanthology.org/P19-1623/",
+    "https://aclanthology.org/P19-1623.pdf"
+  ],
+  [
+    "Exploiting Sentential Context for Neural Machine Translation",
+    "https://aclanthology.org/P19-1624/",
+    "https://aclanthology.org/P19-1624.pdf"
+  ],
+  [
+    "Wetin dey with these comments? Modeling Sociolinguistic Factors Affecting Code-switching Behavior in Nigerian Online Discussions",
+    "https://aclanthology.org/P19-1625/",
+    "https://aclanthology.org/P19-1625.pdf"
+  ],
+  [
+    "Accelerating Sparse Matrix Operations in Neural Networks on Graphics Processing Units",
+    "https://aclanthology.org/P19-1626/",
+    "https://aclanthology.org/P19-1626.pdf"
+  ],
+  [
+    "An Automated Framework for Fast Cognate Detection and Bayesian Phylogenetic Inference in Computational Historical Linguistics",
+    "https://aclanthology.org/P19-1627/",
+    "https://aclanthology.org/P19-1627.pdf"
+  ],
+  [
+    "Sentence Centrality Revisited for Unsupervised Summarization",
+    "https://aclanthology.org/P19-1628/",
+    "https://aclanthology.org/P19-1628.pdf"
+  ],
+  [
+    "Discourse Representation Parsing for Sentences and Documents",
+    "https://aclanthology.org/P19-1629/",
+    "https://aclanthology.org/P19-1629.pdf"
+  ],
+  [
+    "Inducing Document Structure for Aspect-based Summarization",
+    "https://aclanthology.org/P19-1630/",
+    "https://aclanthology.org/P19-1630.pdf"
+  ],
+  [
+    "Incorporating Priors with Feature Attribution on Text Classification",
+    "https://aclanthology.org/P19-1631/",
+    "https://aclanthology.org/P19-1631.pdf"
+  ],
+  [
+    "Matching Article Pairs with Graphical Decomposition and Convolutions",
+    "https://aclanthology.org/P19-1632/",
+    "https://aclanthology.org/P19-1632.pdf"
+  ],
+  [
+    "Hierarchical Transfer Learning for Multi-label Text Classification",
+    "https://aclanthology.org/P19-1633/",
+    "https://aclanthology.org/P19-1633.pdf"
+  ],
+  [
+    "Bias Analysis and Mitigation in the Evaluation of Authorship Verification",
+    "https://aclanthology.org/P19-1634/",
+    "https://aclanthology.org/P19-1634.pdf"
+  ],
+  [
+    "Numeracy-600K: Learning Numeracy for Detecting Exaggerated Information in Market Comments",
+    "https://aclanthology.org/P19-1635/",
+    "https://aclanthology.org/P19-1635.pdf"
+  ],
+  [
+    "Large-Scale Multi-Label Text Classification on EU Legislation",
+    "https://aclanthology.org/P19-1636/",
+    "https://aclanthology.org/P19-1636.pdf"
+  ],
+  [
+    "Why Didn’t You Listen to Me? Comparing User Control of Human-in-the-Loop Topic Models",
+    "https://aclanthology.org/P19-1637/",
+    "https://aclanthology.org/P19-1637.pdf"
+  ],
+  [
+    "Encouraging Paragraph Embeddings to Remember Sentence Identity Improves Classification",
+    "https://aclanthology.org/P19-1638/",
+    "https://aclanthology.org/P19-1638.pdf"
+  ],
+  [
+    "A Multi-Task Architecture on Relevance-based Neural Query Translation",
+    "https://aclanthology.org/P19-1639/",
+    "https://aclanthology.org/P19-1639.pdf"
+  ],
+  [
+    "Topic Modeling with Wasserstein Autoencoders",
+    "https://aclanthology.org/P19-1640/",
+    "https://aclanthology.org/P19-1640.pdf"
+  ],
+  [
+    "Dense Procedure Captioning in Narrated Instructional Videos",
+    "https://aclanthology.org/P19-1641/",
+    "https://aclanthology.org/P19-1641.pdf"
+  ],
+  [
+    "Latent Variable Model for Multi-modal Translation",
+    "https://aclanthology.org/P19-1642/",
+    "https://aclanthology.org/P19-1642.pdf"
+  ],
+  [
+    "Identifying Visible Actions in Lifestyle Vlogs",
+    "https://aclanthology.org/P19-1643/",
+    "https://aclanthology.org/P19-1643.pdf"
+  ],
+  [
+    "A Corpus for Reasoning about Natural Language Grounded in Photographs",
+    "https://aclanthology.org/P19-1644/",
+    "https://aclanthology.org/P19-1644.pdf"
+  ],
+  [
+    "Learning to Discover, Ground and Use Words with Segmental Neural Language Models",
+    "https://aclanthology.org/P19-1645/",
+    "https://aclanthology.org/P19-1645.pdf"
+  ],
+  [
+    "What Should I Ask? Using Conversationally Informative Rewards for Goal-oriented Visual Dialog.",
+    "https://aclanthology.org/P19-1646/",
+    "https://aclanthology.org/P19-1646.pdf"
+  ],
+  [
+    "Symbolic Inductive Bias for Visually Grounded Learning of Spoken Language",
+    "https://aclanthology.org/P19-1647/",
+    "https://aclanthology.org/P19-1647.pdf"
+  ],
+  [
+    "Multi-step Reasoning via Recurrent Dual Attention for Visual Dialog",
+    "https://aclanthology.org/P19-1648/",
+    "https://aclanthology.org/P19-1648.pdf"
+  ],
+  [
+    "Lattice Transformer for Speech Translation",
+    "https://aclanthology.org/P19-1649/",
+    "https://aclanthology.org/P19-1649.pdf"
+  ],
+  [
+    "Informative Image Captioning with External Sources of Information",
+    "https://aclanthology.org/P19-1650/",
+    "https://aclanthology.org/P19-1650.pdf"
+  ],
+  [
+    "CoDraw: Collaborative Drawing as a Testbed for Grounded Goal-driven Communication",
+    "https://aclanthology.org/P19-1651/",
+    "https://aclanthology.org/P19-1651.pdf"
+  ],
+  [
+    "Bridging by Word: Image Grounded Vocabulary Construction for Visual Captioning",
+    "https://aclanthology.org/P19-1652/",
+    "https://aclanthology.org/P19-1652.pdf"
+  ],
+  [
+    "Distilling Translations with Visual Awareness",
+    "https://aclanthology.org/P19-1653/",
+    "https://aclanthology.org/P19-1653.pdf"
+  ],
+  [
+    "VIFIDEL: Evaluating the Visual Fidelity of Image Descriptions",
+    "https://aclanthology.org/P19-1654/",
+    "https://aclanthology.org/P19-1654.pdf"
+  ],
+  [
+    "Are You Looking? Grounding to Multiple Modalities in Vision-and-Language Navigation",
+    "https://aclanthology.org/P19-1655/",
+    "https://aclanthology.org/P19-1655.pdf"
+  ],
+  [
+    "Multimodal Transformer for Unaligned Multimodal Language Sequences",
+    "https://aclanthology.org/P19-1656/",
+    "https://aclanthology.org/P19-1656.pdf"
+  ],
+  [
+    "Show, Describe and Conclude: On Exploiting the Structure Information of Chest X-ray Reports",
+    "https://aclanthology.org/P19-1657/",
+    "https://aclanthology.org/P19-1657.pdf"
+  ],
+  [
+    "Visual Story Post-Editing",
+    "https://aclanthology.org/P19-1658/",
+    "https://aclanthology.org/P19-1658.pdf"
+  ],
+  [
+    "Multimodal Abstractive Summarization for How2 Videos",
+    "https://aclanthology.org/P19-1659/",
+    "https://aclanthology.org/P19-1659.pdf"
+  ],
+  [
+    "Learning to Relate from Captions and Bounding Boxes",
+    "https://aclanthology.org/P19-1660/",
+    "https://aclanthology.org/P19-1660.pdf"
+  ]
+]

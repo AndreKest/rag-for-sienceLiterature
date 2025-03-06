@@ -41,19 +41,24 @@ def extract_abstract(page):
     return abstract
 
 
-for year in range(2010, 2013):
-    # year = 2021
+for year in range(2021, 2025):
+    str_path = "ACL/acl"
     print(f"Starting {year} data conversion")
     data = pd.DataFrame(columns=['title', 'header', 'abstract', 'text', 'year', 'pages'])
 
     lst_data = []
-    lst_pdfs = [f for f in os.listdir(f'./data/EMNLP/emnlp_{year}_main') if f.endswith('.pdf')]
+    lst_pdfs = [f for f in os.listdir(f'./data/{str_path}_{year}_main') if f.endswith('.pdf')]
 
     for idx, path in enumerate(lst_pdfs):
         print(f"Idx: {idx}\tFile: {path}")
         # Read pdf
-        pdf = PyPDFLoader(f'./data/EMNLP/emnlp_{year}_main/{path}')
-        text = pdf.load()
+        pdf = PyPDFLoader(f'./data/{str_path}_{year}_main/{path}')
+        try:
+            text = pdf.load()
+        except Exception as e:
+            print("Error: ", e)
+            print(f"Idx: {idx} and name {path}")
+            continue
 
         # Extract title
         titel = text[0].metadata['source']
@@ -85,6 +90,6 @@ for year in range(2010, 2013):
         lst_data.append(row)
 
     data = pd.DataFrame(lst_data)
-    data.to_csv(f'./data/EMNLP/emnlp_{year}_main.csv', index=False, encoding='utf-8', errors='ignore')
+    data.to_csv(f'./data/{str_path}_{year}_main.csv', index=False, encoding='utf-8', errors='ignore', escapechar='\\')
 
     print(f"Finished writing {year} data to csv")

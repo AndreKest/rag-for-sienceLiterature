@@ -10,7 +10,7 @@ from tqdm import tqdm
 with open('./data/ACL/acl.json', 'r') as f:
     configs = json.load(f)
 
-for config in configs:
+for config in configs[2:]:
     page_url = config['page_url']
     conf_name = config['conf_name']
     conf_id_list = config['conf_id_list']
