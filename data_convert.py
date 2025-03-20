@@ -6,6 +6,8 @@ import pandas as pd
 
 from langchain_community.document_loaders import PyPDFLoader
 
+conference = 'acl'
+
 def extract_header(page):
     header = ""
 
@@ -32,7 +34,7 @@ def extract_abstract(page):
         pattern = re.compile(r'1\s*Introduction', re.IGNORECASE)
         match = pattern.search(header)
         if match:
-            abstract = header[:match.start()]
+            abstract = 'Abstract'+header[:match.start()]
         else:
             abstract = ""
     else:
@@ -40,11 +42,22 @@ def extract_abstract(page):
     
     return abstract
 
+def extract_references(text):
+    references = ""
+    pattern = re.compile(r'\sReference[s]?', re.IGNORECASE)
+    match = pattern.search(text)
+    if match:
+        references = text[match.start():]
+    else:
+        references = ""
+    return references
 
-for year in range(2021, 2025):
+
+
+for year in range(2015, 2025):
     str_path = "ACL/acl"
     print(f"Starting {year} data conversion")
-    data = pd.DataFrame(columns=['title', 'header', 'abstract', 'text', 'year', 'pages'])
+    data = pd.DataFrame(columns=['title', 'header', 'abstract', 'main_body', 'reference', 'text', 'year', 'pages', 'conference'])
 
     lst_data = []
     lst_pdfs = [f for f in os.listdir(f'./data/{str_path}_{year}_main') if f.endswith('.pdf')]
@@ -52,7 +65,10 @@ for year in range(2021, 2025):
     for idx, path in enumerate(lst_pdfs):
         print(f"Idx: {idx}\tFile: {path}")
         # Read pdf
-        pdf = PyPDFLoader(f'./data/{str_path}_{year}_main/{path}')
+        # pdf = PyPDFLoader(f'./data/{str_path}_{year}_main/{path}')
+
+        pdf = PyPDFLoader(path)
+
         try:
             text = pdf.load()
         except Exception as e:
@@ -86,10 +102,21 @@ for year in range(2021, 2025):
 
             page_content += " " + t.page_content
 
-        row = {'titel': titel, 'header': header, 'abstract':abstract, 'text': page_content, 'year': year, 'pages': total_pages}
+        # Extract references
+        references = extract_references(page_content)
+
+        # Extract main body (without abstract and references)
+        main_body = page_content
+        if abstract != "":
+            main_body = main_body.replace(abstract, "")
+        if references != "":
+            main_body = main_body.replace(references, "")
+
+
+        row = {'titel': titel, 'header': header, 'abstract':abstract, 'main_body': main_body, 'references': references, 'text': page_content, 'year': year, 'pages': total_pages, 'conference': conference}
         lst_data.append(row)
 
     data = pd.DataFrame(lst_data)
-    data.to_csv(f'./data/{str_path}_{year}_main.csv', index=False, encoding='utf-8', errors='ignore', escapechar='\\')
+    data.to_pickle(f'./data/{str_path}_{year}_main.pkl')
 
     print(f"Finished writing {year} data to csv")
