@@ -8,5 +8,5 @@
         "page_url" : "https://aclanthology.org/events/naacl-2022/",
         "conf_name" : "./data/NAACL/findings/naacl_2022_main",
         "conf_id_list" : ["2022findings-naacl"]
-    },
+    }
 ]
