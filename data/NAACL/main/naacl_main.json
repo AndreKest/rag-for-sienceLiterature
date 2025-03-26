@@ -1,0 +1,52 @@
+[
+    {
+        "page_url" : "https://aclanthology.org/events/naacl-2024/",
+        "conf_name" : "./data/NAACL/main/naacl_2024_main",
+        "conf_id_list" : ["2024naacl-long", "2024naacl-short"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/naacl-2022/",
+        "conf_name" : "./data/NAACL/main/naacl_2022_main",
+        "conf_id_list" : ["2022naacl-main"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/naacl-2021/",
+        "conf_name" : "./data/NAACL/main/naacl_2021_main",
+        "conf_id_list" : ["2021naacl-main"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/naacl-2019/",
+        "conf_name" : "./data/NAACL/main/naacl_2019_main",
+        "conf_id_list" : ["n19-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/naacl-2018/",
+        "conf_name" : "./data/NAACL/main/naacl_2018_main",
+        "conf_id_list" : ["n18-1", "n18-2"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/naacl-2016/",
+        "conf_name" : "./data/NAACL/main/naacl_2016_main",
+        "conf_id_list" : ["n16-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/naacl-2015/",
+        "conf_name" : "./data/NAACL/main/naacl_2015_main",
+        "conf_id_list" : ["n15-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/naacl-2013/",
+        "conf_name" : "./data/NAACL/main/naacl_2013_main",
+        "conf_id_list" : ["n13-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/naacl-2012/",
+        "conf_name" : "./data/NAACL/main/naacl_2012_main",
+        "conf_id_list" : ["n12-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/naacl-2010/",
+        "conf_name" : "./data/NAACL/main/naacl_2010_main",
+        "conf_id_list" : ["n10-1"]
+    }
+]
