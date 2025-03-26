@@ -3,5 +3,20 @@
         "page_url" : "https://aclanthology.org/events/acl-2024/",
         "conf_name" : "./data/ACL/findings/acl_2024_findings",
         "conf_id_list" : ["2024findings-acl"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/acl-2023/",
+        "conf_name" : "./data/ACL/findings/acl_2023_findings",
+        "conf_id_list" : ["2023findings-acl"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/acl-2022/",
+        "conf_name" : "./data/ACL/findings/acl_2022_findings",
+        "conf_id_list" : ["2022findings-acl"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/acl-2021/",
+        "conf_name" : "./data/ACL/findings/acl_2021_findings",
+        "conf_id_list" : ["2021findings-acl"]
     }
 ]

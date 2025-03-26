@@ -2,6 +2,26 @@
     {
         "page_url" : "https://aclanthology.org/events/emnlp-2024",
         "conf_name" : "./data/EMNLP/findings/emnlp_2024_findings",
-        "conf_id_list" : ["2024emnlp-findings"]
+        "conf_id_list" : ["2024findings-emnlp"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-2023",
+        "conf_name" : "./data/EMNLP/findings/emnlp_2023_findings",
+        "conf_id_list" : ["2023findings-emnlp"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-2022",
+        "conf_name" : "./data/EMNLP/findings/emnlp_2022_findings",
+        "conf_id_list" : ["2022findings-emnlp"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-2021",
+        "conf_name" : "./data/EMNLP/findings/emnlp_2021_findings",
+        "conf_id_list" : ["2021findings-emnlp"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-2020",
+        "conf_name" : "./data/EMNLP/findings/emnlp_2020_findings",
+        "conf_id_list" : ["2020findings-emnlp"]
     }
 ]
