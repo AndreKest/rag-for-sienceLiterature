@@ -7,7 +7,7 @@ import os
 from tqdm import tqdm
 
 # Read config
-with open('./data/ACL/acl.json', 'r') as f:
+with open('./data/ACL/main/acl_main.json', 'r') as f:
     configs = json.load(f)
 
 for config in configs[2:]:

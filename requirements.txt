@@ -4,8 +4,10 @@ pandas
 langchain
 langchain-community
 langchain-huggingface
-langchain-chroma
 transformers
+bitsandbytes
+accelerate
 datasets
+faiss-cpu
 pypdf
 beautifulsoup4
