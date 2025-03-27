@@ -1,5 +1,12 @@
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
 import numpy as np
 import pandas as pd
+import torch
+import transformers
+from transformers import AutoTokenizer, AutoModelForCausalLM,  BitsAndBytesConfig, TextStreamer
 
 from langchain_community.document_loaders.dataframe import DataFrameLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
@@ -8,19 +15,9 @@ from langchain_huggingface import HuggingFaceEmbeddings, ChatHuggingFace, Huggin
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain.chains.retrieval import create_retrieval_chain
 from langchain.chains.history_aware_retriever import create_history_aware_retriever
+
 from langchain.schema import HumanMessage, AIMessage
 from langchain.vectorstores import FAISS
-
-import transformers
-from transformers import AutoTokenizer, AutoModelForCausalLM,  BitsAndBytesConfig, TextStreamer
-
-import torch
-
-import os
-from dotenv import load_dotenv
-
-load_dotenv()
-
 
 def create_embeddings(embedding_name: str = "BAAI/bge-base-en-v1.5"):
     """
@@ -80,10 +77,10 @@ def create_index(database, embeddings, chunked_docs, path):
     Return:
     None
     """
-    db = FAISS.from_documents(chunked_docs, embeddings)
+    db = database.from_documents(chunked_docs, embeddings)
     db.save_local(path)
 
-def load_index(database, embeddings, path):
+def load_index(database, embeddings, path, search_type='similarity', search_kwargs={"k": 4}):
     """
     Load index local
 
@@ -91,12 +88,22 @@ def load_index(database, embeddings, path):
     database: Vectordatabase
     embeddings: Embeddings to use
     path: Path to load index
+    search_type (str):
+        - 'mmr': maximum marginal relevance
+        - 'similarity': take top k similar docs
+        - 'similarity_score_threshold': sets a similarity score threshold and only returns documents with a score above that
+    search_kwargs (dict):
+        - {'k': int} Amount of documents to return (Default: 4)
+        - {score_threshold: float (0..1)} Minimum relevance threshold (for search_type=similarity_score_threhsold)
+        - {fetch_k: int}: Amount of documents to pass to MMR algorithm (default: 20)
+        - {'lambda_mult': float (1 for min ... 0 for max)} Diversity of results returned by MMR (default: 0.5)
+        - filter: Filter by metadata (e.g {'paper_title' : 'name of paper'}
     
     Return:
-    retriever: Vectordatabase as retriever
+    retriever: Vector DB as retriever
     """
     db = database.load_local(path, embeddings=embeddings, allow_dangerous_deserialization=True)
-    retriever = db.as_retriever(search_type="similarity", search_kwargs={"k": 4})
+    retriever = db.as_retriever(search_type=search_type, search_kwargs=search_kwargs)
 
     return retriever
 
@@ -159,11 +166,9 @@ def create_rag(llm, rephrase_prompt, retrieval_qa_prompt, retriever):
     Load RAG prompts from LangSmith Hub and create RAG chain (with history aware retriever)
 
     RAG Chain is based on (stuff_document_chain, history_aware_retriever_chain)
-
-    TODO: Explain functions
-    create_history_aware_retriever:
-    create_stuff_documents_chain:
-    create_retrieval_chain:
+    - create_history_aware_retriever: Create a chain that takes conversation history and returns documents
+    - create_stuff_documents_chain: Create a chain for passing a list of Documents to a model
+    - create_retrieval_chain: Create retrieval chain that retrieves documents and then passes them on
 
     Args:
     llm: LLM to use for the answer
@@ -172,7 +177,7 @@ def create_rag(llm, rephrase_prompt, retrieval_qa_prompt, retriever):
     retriever: Vectordatabase as a retriever
 
     Return:
-    retrieval_chain: Created RAG chain from create_retrieval_chain()
+    retrieval_chain: RAG chain from create_retrieval_chain()
     
     """
     # Create Chain
