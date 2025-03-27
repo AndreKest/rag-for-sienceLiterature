@@ -1,12 +1,12 @@
 [
     {
         "page_url" : "https://aclanthology.org/events/naacl-2024/",
-        "conf_name" : "./data/NAACL/findings/naacl_2024_main",
+        "conf_name" : "./data/NAACL/findings/naacl_2024_findings",
         "conf_id_list" : ["2024findings-naacl"]
     },
     {
         "page_url" : "https://aclanthology.org/events/naacl-2022/",
-        "conf_name" : "./data/NAACL/findings/naacl_2022_main",
+        "conf_name" : "./data/NAACL/findings/naacl_2022_findings",
         "conf_id_list" : ["2022findings-naacl"]
     }
 ]

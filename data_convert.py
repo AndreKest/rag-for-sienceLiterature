@@ -6,7 +6,8 @@ import pandas as pd
 
 from langchain_community.document_loaders import PyPDFLoader
 
-conference = 'acl'
+conference = 'eacl'
+position = 'findings'
 
 def extract_header(page):
     header = ""
@@ -52,22 +53,30 @@ def extract_references(text):
         references = ""
     return references
 
+# Get available years from folder names in data/conference/position folder (exclude .pkl files and .json files)
+str_path = f"{conference.upper()}/{position}"
+pattern = r'[0-9]{4}'
+years = [int(re.search(pattern, f).group()) for f in os.listdir(f'./data/{str_path}') if re.search(pattern, f) is not None and not f.endswith('.json') and not f.endswith('.pkl')]
+# sort list
+years.sort()
 
 
-for year in range(2015, 2025):
-    str_path = "ACL/acl"
-    print(f"Starting {year} data conversion")
+print("Available years: ", years)
+print(f"Conference: {conference}")
+print(f"Position/Type: {position}")
+print("\n")
+
+for year in years:
+    print(f"Starting {year}-{conference}-{position} data conversion")
     data = pd.DataFrame(columns=['title', 'header', 'abstract', 'main_body', 'reference', 'text', 'year', 'pages', 'conference'])
 
     lst_data = []
-    lst_pdfs = [f for f in os.listdir(f'./data/{str_path}_{year}_main') if f.endswith('.pdf')]
-
+    lst_pdfs = [f for f in os.listdir(f'./data/{str_path}/{conference.lower()}_{year}_{position}') if f.endswith('.pdf')]
     for idx, path in enumerate(lst_pdfs):
         print(f"Idx: {idx}\tFile: {path}")
-        # Read pdf
-        # pdf = PyPDFLoader(f'./data/{str_path}_{year}_main/{path}')
 
-        pdf = PyPDFLoader(path)
+        # Read pdf
+        pdf = PyPDFLoader(f'./data/{str_path}/{conference.lower()}_{year}_{position}/{path}')
 
         try:
             text = pdf.load()
@@ -117,6 +126,6 @@ for year in range(2015, 2025):
         lst_data.append(row)
 
     data = pd.DataFrame(lst_data)
-    data.to_pickle(f'./data/{str_path}_{year}_main.pkl')
+    data.to_pickle(f'./data/{str_path}/{conference.lower()}_{year}_{position}.pkl')
 
-    print(f"Finished writing {year} data to csv")
+    print(f"Finished writing {year}-{conference}-{position} data to pkl file")

@@ -1,0 +1,432 @@
+[
+  [
+    "Proceedings of the 13th Conference of the European Chapter of the Association for Computational Linguistics",
+    "https://aclanthology.org/E12-1000/",
+    "https://aclanthology.org/E12-1000.pdf"
+  ],
+  [
+    "Speech Communication in the Wild",
+    "https://aclanthology.org/E12-1001/",
+    "https://aclanthology.org/E12-1001.pdf"
+  ],
+  [
+    "Power-Law Distributions for Paraphrases Extracted from Bilingual Corpora",
+    "https://aclanthology.org/E12-1002/",
+    "https://aclanthology.org/E12-1002.pdf"
+  ],
+  [
+    "A Bayesian Approach to Unsupervised Semantic Role Induction",
+    "https://aclanthology.org/E12-1003/",
+    "https://aclanthology.org/E12-1003.pdf"
+  ],
+  [
+    "Entailment above the word level in distributional semantics",
+    "https://aclanthology.org/E12-1004/",
+    "https://aclanthology.org/E12-1004.pdf"
+  ],
+  [
+    "Evaluating Distributional Models of Semantics for Syntactically Invariant Inference",
+    "https://aclanthology.org/E12-1005/",
+    "https://aclanthology.org/E12-1005.pdf"
+  ],
+  [
+    "Cross-Framework Evaluation for Statistical Parsing",
+    "https://aclanthology.org/E12-1006/",
+    "https://aclanthology.org/E12-1006.pdf"
+  ],
+  [
+    "Dependency Parsing of Hungarian: Baseline Results and Challenges",
+    "https://aclanthology.org/E12-1007/",
+    "https://aclanthology.org/E12-1007.pdf"
+  ],
+  [
+    "Dependency Parsing with Undirected Graphs",
+    "https://aclanthology.org/E12-1008/",
+    "https://aclanthology.org/E12-1008.pdf"
+  ],
+  [
+    "The Best of Both Worlds – A Graph-based Completion Model for Transition-based Parsers",
+    "https://aclanthology.org/E12-1009/",
+    "https://aclanthology.org/E12-1009.pdf"
+  ],
+  [
+    "Answer Sentence Retrieval by Matching Dependency Paths acquired from Question/Answer Sentence Pairs",
+    "https://aclanthology.org/E12-1010/",
+    "https://aclanthology.org/E12-1010.pdf"
+  ],
+  [
+    "Can Click Patterns across User’s Query Logs Predict Answers to Definition Questions?",
+    "https://aclanthology.org/E12-1011/",
+    "https://aclanthology.org/E12-1011.pdf"
+  ],
+  [
+    "Adaptation of Statistical Machine Translation Model for Cross-Lingual Information Retrieval in a Service Context",
+    "https://aclanthology.org/E12-1012/",
+    "https://aclanthology.org/E12-1012.pdf"
+  ],
+  [
+    "Computing Lattice BLEU Oracle Scores for Machine Translation",
+    "https://aclanthology.org/E12-1013/",
+    "https://aclanthology.org/E12-1013.pdf"
+  ],
+  [
+    "Toward Statistical Machine Translation without Parallel Corpora",
+    "https://aclanthology.org/E12-1014/",
+    "https://aclanthology.org/E12-1014.pdf"
+  ],
+  [
+    "Character-Based Pivot Translation for Under-Resourced Languages and Domains",
+    "https://aclanthology.org/E12-1015/",
+    "https://aclanthology.org/E12-1015.pdf"
+  ],
+  [
+    "Does more data always yield better translations?",
+    "https://aclanthology.org/E12-1016/",
+    "https://aclanthology.org/E12-1016.pdf"
+  ],
+  [
+    "Recall-Oriented Learning of Named Entities in Arabic Wikipedia",
+    "https://aclanthology.org/E12-1017/",
+    "https://aclanthology.org/E12-1017.pdf"
+  ],
+  [
+    "Tree Representations in Probabilistic Models for Extended Named Entities Detection",
+    "https://aclanthology.org/E12-1018/",
+    "https://aclanthology.org/E12-1018.pdf"
+  ],
+  [
+    "When Did that Happen? — Linking Events and Relations to Timestamps",
+    "https://aclanthology.org/E12-1019/",
+    "https://aclanthology.org/E12-1019.pdf"
+  ],
+  [
+    "Compensating for Annotation Errors in Training a Relation Extractor",
+    "https://aclanthology.org/E12-1020/",
+    "https://aclanthology.org/E12-1020.pdf"
+  ],
+  [
+    "Incorporating Lexical Priors into Topic Models",
+    "https://aclanthology.org/E12-1021/",
+    "https://aclanthology.org/E12-1021.pdf"
+  ],
+  [
+    "DualSum: a Topic-Model based approach for update summarization",
+    "https://aclanthology.org/E12-1022/",
+    "https://aclanthology.org/E12-1022.pdf"
+  ],
+  [
+    "Large-Margin Learning of Submodular Summarization Models",
+    "https://aclanthology.org/E12-1023/",
+    "https://aclanthology.org/E12-1023.pdf"
+  ],
+  [
+    "A Probabilistic Model of Syntactic and Semantic Acquisition from Child-Directed Utterances and their Meanings",
+    "https://aclanthology.org/E12-1024/",
+    "https://aclanthology.org/E12-1024.pdf"
+  ],
+  [
+    "Active learning for interactive machine translation",
+    "https://aclanthology.org/E12-1025/",
+    "https://aclanthology.org/E12-1025.pdf"
+  ],
+  [
+    "Adapting Translation Models to Translationese Improves SMT",
+    "https://aclanthology.org/E12-1026/",
+    "https://aclanthology.org/E12-1026.pdf"
+  ],
+  [
+    "Aspectual Type and Temporal Relation Classification",
+    "https://aclanthology.org/E12-1027/",
+    "https://aclanthology.org/E12-1027.pdf"
+  ],
+  [
+    "Automatic generation of short informative sentiment summaries",
+    "https://aclanthology.org/E12-1028/",
+    "https://aclanthology.org/E12-1028.pdf"
+  ],
+  [
+    "Bootstrapped Training of Event Extraction Classifiers",
+    "https://aclanthology.org/E12-1029/",
+    "https://aclanthology.org/E12-1029.pdf"
+  ],
+  [
+    "Bootstrapping Events and Relations from Text",
+    "https://aclanthology.org/E12-1030/",
+    "https://aclanthology.org/E12-1030.pdf"
+  ],
+  [
+    "CLex: A Lexicon for Exploring Color, Concept and Emotion Associations in Language",
+    "https://aclanthology.org/E12-1031/",
+    "https://aclanthology.org/E12-1031.pdf"
+  ],
+  [
+    "Extending the Entity-based Coherence Model with Multiple Ranks",
+    "https://aclanthology.org/E12-1032/",
+    "https://aclanthology.org/E12-1032.pdf"
+  ],
+  [
+    "Generalization Methods for In-Domain and Cross-Domain Opinion Holder Extraction",
+    "https://aclanthology.org/E12-1033/",
+    "https://aclanthology.org/E12-1033.pdf"
+  ],
+  [
+    "Skip N-grams and Ranking Functions for Predicting Script Events",
+    "https://aclanthology.org/E12-1034/",
+    "https://aclanthology.org/E12-1034.pdf"
+  ],
+  [
+    "The Problem with Kappa",
+    "https://aclanthology.org/E12-1035/",
+    "https://aclanthology.org/E12-1035.pdf"
+  ],
+  [
+    "User Edits Classification Using Document Revision Histories",
+    "https://aclanthology.org/E12-1036/",
+    "https://aclanthology.org/E12-1036.pdf"
+  ],
+  [
+    "User Participation Prediction in Online Forums",
+    "https://aclanthology.org/E12-1037/",
+    "https://aclanthology.org/E12-1037.pdf"
+  ],
+  [
+    "Inferring Selectional Preferences from Part-Of-Speech N-grams",
+    "https://aclanthology.org/E12-1038/",
+    "https://aclanthology.org/E12-1038.pdf"
+  ],
+  [
+    "WebCAGe – A Web-Harvested Corpus Annotated with GermaNet Senses",
+    "https://aclanthology.org/E12-1039/",
+    "https://aclanthology.org/E12-1039.pdf"
+  ],
+  [
+    "Learning to Behave by Reading",
+    "https://aclanthology.org/E12-1040/",
+    "https://aclanthology.org/E12-1040.pdf"
+  ],
+  [
+    "Lexical surprisal as a general predictor of reading time",
+    "https://aclanthology.org/E12-1041/",
+    "https://aclanthology.org/E12-1041.pdf"
+  ],
+  [
+    "Spectral Learning for Non-Deterministic Dependency Parsing",
+    "https://aclanthology.org/E12-1042/",
+    "https://aclanthology.org/E12-1042.pdf"
+  ],
+  [
+    "Combining Tree Structures, Flat Features and Patterns for Biomedical Relation Extraction",
+    "https://aclanthology.org/E12-1043/",
+    "https://aclanthology.org/E12-1043.pdf"
+  ],
+  [
+    "Coordination Structure Analysis using Dual Decomposition",
+    "https://aclanthology.org/E12-1044/",
+    "https://aclanthology.org/E12-1044.pdf"
+  ],
+  [
+    "Cutting the Long Tail: Hybrid Language Models for Translation Style Adaptation",
+    "https://aclanthology.org/E12-1045/",
+    "https://aclanthology.org/E12-1045.pdf"
+  ],
+  [
+    "Detecting Highly Confident Word Translations from Comparable Corpora without Any Prior Knowledge",
+    "https://aclanthology.org/E12-1046/",
+    "https://aclanthology.org/E12-1046.pdf"
+  ],
+  [
+    "Efficient parsing with Linear Context-Free Rewriting Systems",
+    "https://aclanthology.org/E12-1047/",
+    "https://aclanthology.org/E12-1047.pdf"
+  ],
+  [
+    "Evaluating language understanding accuracy with respect to objective outcomes in a dialogue system",
+    "https://aclanthology.org/E12-1048/",
+    "https://aclanthology.org/E12-1048.pdf"
+  ],
+  [
+    "Experimenting with Distant Supervision for Emotion Classification",
+    "https://aclanthology.org/E12-1049/",
+    "https://aclanthology.org/E12-1049.pdf"
+  ],
+  [
+    "Feature-Rich Part-of-speech Tagging for Morphologically Complex Languages: Application to Bulgarian",
+    "https://aclanthology.org/E12-1050/",
+    "https://aclanthology.org/E12-1050.pdf"
+  ],
+  [
+    "Instance-Driven Attachment of Semantic Annotations over Conceptual Hierarchies",
+    "https://aclanthology.org/E12-1051/",
+    "https://aclanthology.org/E12-1051.pdf"
+  ],
+  [
+    "Joint Satisfaction of Syntactic and Pragmatic Constraints Improves Incremental Spoken Language Understanding",
+    "https://aclanthology.org/E12-1052/",
+    "https://aclanthology.org/E12-1052.pdf"
+  ],
+  [
+    "Learning How to Conjugate the Romanian Verb. Rules for Regular and Partially Irregular Verbs",
+    "https://aclanthology.org/E12-1053/",
+    "https://aclanthology.org/E12-1053.pdf"
+  ],
+  [
+    "Measuring Contextual Fitness Using Error Contexts Extracted from the Wikipedia Revision History",
+    "https://aclanthology.org/E12-1054/",
+    "https://aclanthology.org/E12-1054.pdf"
+  ],
+  [
+    "Perplexity Minimization for Translation Model Domain Adaptation in Statistical Machine Translation",
+    "https://aclanthology.org/E12-1055/",
+    "https://aclanthology.org/E12-1055.pdf"
+  ],
+  [
+    "Subcat-LMF: Fleshing out a standardized format for subcategorization frame interoperability",
+    "https://aclanthology.org/E12-1056/",
+    "https://aclanthology.org/E12-1056.pdf"
+  ],
+  [
+    "The effect of domain and text type on text prediction quality",
+    "https://aclanthology.org/E12-1057/",
+    "https://aclanthology.org/E12-1057.pdf"
+  ],
+  [
+    "The Impact of Spelling Errors on Patent Search",
+    "https://aclanthology.org/E12-1058/",
+    "https://aclanthology.org/E12-1058.pdf"
+  ],
+  [
+    "UBY - A Large-Scale Unified Lexical-Semantic Resource Based on LMF",
+    "https://aclanthology.org/E12-1059/",
+    "https://aclanthology.org/E12-1059.pdf"
+  ],
+  [
+    "Word Sense Induction for Novel Sense Detection",
+    "https://aclanthology.org/E12-1060/",
+    "https://aclanthology.org/E12-1060.pdf"
+  ],
+  [
+    "Learning Language from Perceptual Context",
+    "https://aclanthology.org/E12-1061/",
+    "https://aclanthology.org/E12-1061.pdf"
+  ],
+  [
+    "Learning for Microblogs with Distant Supervision: Political Forecasting with Twitter",
+    "https://aclanthology.org/E12-1062/",
+    "https://aclanthology.org/E12-1062.pdf"
+  ],
+  [
+    "Learning from evolving data streams: online triage of bug reports",
+    "https://aclanthology.org/E12-1063/",
+    "https://aclanthology.org/E12-1063.pdf"
+  ],
+  [
+    "Towards a model of formal and informal address in English",
+    "https://aclanthology.org/E12-1064/",
+    "https://aclanthology.org/E12-1064.pdf"
+  ],
+  [
+    "Character-based kernels for novelistic plot structure",
+    "https://aclanthology.org/E12-1065/",
+    "https://aclanthology.org/E12-1065.pdf"
+  ],
+  [
+    "Smart Paradigms and the Predictability and Complexity of Inflectional Morphology",
+    "https://aclanthology.org/E12-1066/",
+    "https://aclanthology.org/E12-1066.pdf"
+  ],
+  [
+    "Probabilistic Hierarchical Clustering of Morphological Paradigms",
+    "https://aclanthology.org/E12-1067/",
+    "https://aclanthology.org/E12-1067.pdf"
+  ],
+  [
+    "Modeling Inflection and Word-Formation in SMT",
+    "https://aclanthology.org/E12-1068/",
+    "https://aclanthology.org/E12-1068.pdf"
+  ],
+  [
+    "Identifying Broken Plurals, Irregular Gender, and Rationality in Arabic Text",
+    "https://aclanthology.org/E12-1069/",
+    "https://aclanthology.org/E12-1069.pdf"
+  ],
+  [
+    "Framework of Semantic Role Assignment based on Extended Lexical Conceptual Structure: Comparison with VerbNet and FrameNet",
+    "https://aclanthology.org/E12-1070/",
+    "https://aclanthology.org/E12-1070.pdf"
+  ],
+  [
+    "Unsupervised Detection of Downward-Entailing Operators By Maximizing Classification Certainty",
+    "https://aclanthology.org/E12-1071/",
+    "https://aclanthology.org/E12-1071.pdf"
+  ],
+  [
+    "Elliphant: Improved Automatic Detection of Zero Subjects and Impersonal Constructions in Spanish",
+    "https://aclanthology.org/E12-1072/",
+    "https://aclanthology.org/E12-1072.pdf"
+  ],
+  [
+    "Validation of sub-sentential paraphrases acquired from parallel monolingual corpora",
+    "https://aclanthology.org/E12-1073/",
+    "https://aclanthology.org/E12-1073.pdf"
+  ],
+  [
+    "Determining the placement of German verbs in English–to–German SMT",
+    "https://aclanthology.org/E12-1074/",
+    "https://aclanthology.org/E12-1074.pdf"
+  ],
+  [
+    "Syntax-Based Word Ordering Incorporating a Large-Scale Language Model",
+    "https://aclanthology.org/E12-1075/",
+    "https://aclanthology.org/E12-1075.pdf"
+  ],
+  [
+    "Midge: Generating Image Descriptions From Computer Vision Detections",
+    "https://aclanthology.org/E12-1076/",
+    "https://aclanthology.org/E12-1076.pdf"
+  ],
+  [
+    "Generation of landmark-based navigation instructions from open-source data",
+    "https://aclanthology.org/E12-1077/",
+    "https://aclanthology.org/E12-1077.pdf"
+  ],
+  [
+    "To what extent does sentence-internal realisation reflect discourse context? A study on word order",
+    "https://aclanthology.org/E12-1078/",
+    "https://aclanthology.org/E12-1078.pdf"
+  ],
+  [
+    "Behind the Article: Recognizing Dialog Acts in Wikipedia Talk Pages",
+    "https://aclanthology.org/E12-1079/",
+    "https://aclanthology.org/E12-1079.pdf"
+  ],
+  [
+    "An Unsupervised Dynamic Bayesian Network Approach to Measuring Speech Style Accommodation",
+    "https://aclanthology.org/E12-1080/",
+    "https://aclanthology.org/E12-1080.pdf"
+  ],
+  [
+    "Learning the Fine-Grained Information Status of Discourse Entities",
+    "https://aclanthology.org/E12-1081/",
+    "https://aclanthology.org/E12-1081.pdf"
+  ],
+  [
+    "Composing extended top-down tree transducers",
+    "https://aclanthology.org/E12-1082/",
+    "https://aclanthology.org/E12-1082.pdf"
+  ],
+  [
+    "Structural and Topical Dimensions in Multi-Task Patent Translation",
+    "https://aclanthology.org/E12-1083/",
+    "https://aclanthology.org/E12-1083.pdf"
+  ],
+  [
+    "Not as Awful as it Seems: Explaining German Case through Computational Experiments in Fluid Construction Grammar",
+    "https://aclanthology.org/E12-1084/",
+    "https://aclanthology.org/E12-1084.pdf"
+  ],
+  [
+    "Managing Uncertainty in Semantic Tagging",
+    "https://aclanthology.org/E12-1085/",
+    "https://aclanthology.org/E12-1085.pdf"
+  ]
+]

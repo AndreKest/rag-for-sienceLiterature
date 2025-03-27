@@ -1,0 +1,1487 @@
+[
+  [
+    "Findings of the Association for Computational Linguistics: NAACL 2024",
+    "https://aclanthology.org/2024.findings-naacl.0/",
+    "https://aclanthology.org/2024.findings-naacl.0.pdf"
+  ],
+  [
+    "Structured Pruning for Large Language Models Using Coupled Components Elimination and Minor Fine-tuning",
+    "https://aclanthology.org/2024.findings-naacl.1/",
+    "https://aclanthology.org/2024.findings-naacl.1.pdf"
+  ],
+  [
+    "Weight-Inherited Distillation for Task-Agnostic BERT Compression",
+    "https://aclanthology.org/2024.findings-naacl.2/",
+    "https://aclanthology.org/2024.findings-naacl.2.pdf"
+  ],
+  [
+    "Ignore Me But Don’t Replace Me: Utilizing Non-Linguistic Elements for Pretraining on the Cybersecurity Domain",
+    "https://aclanthology.org/2024.findings-naacl.3/",
+    "https://aclanthology.org/2024.findings-naacl.3.pdf"
+  ],
+  [
+    "Extremely efficient online query encoding for dense retrieval",
+    "https://aclanthology.org/2024.findings-naacl.4/",
+    "https://aclanthology.org/2024.findings-naacl.4.pdf"
+  ],
+  [
+    "DIVKNOWQA: Assessing the Reasoning Ability of LLMs via Open-Domain Question Answering over Knowledge Base and Text",
+    "https://aclanthology.org/2024.findings-naacl.5/",
+    "https://aclanthology.org/2024.findings-naacl.5.pdf"
+  ],
+  [
+    "SpeedE: Euclidean Geometric Knowledge Graph Embedding Strikes Back",
+    "https://aclanthology.org/2024.findings-naacl.6/",
+    "https://aclanthology.org/2024.findings-naacl.6.pdf"
+  ],
+  [
+    "Language Guided Exploration for RL Agents in Text Environments",
+    "https://aclanthology.org/2024.findings-naacl.7/",
+    "https://aclanthology.org/2024.findings-naacl.7.pdf"
+  ],
+  [
+    "GPT-who: An Information Density-based Machine-Generated Text Detector",
+    "https://aclanthology.org/2024.findings-naacl.8/",
+    "https://aclanthology.org/2024.findings-naacl.8.pdf"
+  ],
+  [
+    "DEED: Dynamic Early Exit on Decoder for Accelerating Encoder-Decoder Transformer Models",
+    "https://aclanthology.org/2024.findings-naacl.9/",
+    "https://aclanthology.org/2024.findings-naacl.9.pdf"
+  ],
+  [
+    "Attention Alignment and Flexible Positional Embeddings Improve Transformer Length Extrapolation",
+    "https://aclanthology.org/2024.findings-naacl.10/",
+    "https://aclanthology.org/2024.findings-naacl.10.pdf"
+  ],
+  [
+    "Automatic Pair Construction for Contrastive Post-training",
+    "https://aclanthology.org/2024.findings-naacl.11/",
+    "https://aclanthology.org/2024.findings-naacl.11.pdf"
+  ],
+  [
+    "Self-Checker: Plug-and-Play Modules for Fact-Checking with Large Language Models",
+    "https://aclanthology.org/2024.findings-naacl.12/",
+    "https://aclanthology.org/2024.findings-naacl.12.pdf"
+  ],
+  [
+    "Low-resource neural machine translation with morphological modeling",
+    "https://aclanthology.org/2024.findings-naacl.13/",
+    "https://aclanthology.org/2024.findings-naacl.13.pdf"
+  ],
+  [
+    "Self-Cleaning: Improving a Named Entity Recognizer Trained on Noisy Data with a Few Clean Instances",
+    "https://aclanthology.org/2024.findings-naacl.14/",
+    "https://aclanthology.org/2024.findings-naacl.14.pdf"
+  ],
+  [
+    "VLUE: A New Benchmark and Multi-task Knowledge Transfer Learning for Vietnamese Natural Language Understanding",
+    "https://aclanthology.org/2024.findings-naacl.15/",
+    "https://aclanthology.org/2024.findings-naacl.15.pdf"
+  ],
+  [
+    "LETI: Learning to Generate from Textual Interactions",
+    "https://aclanthology.org/2024.findings-naacl.16/",
+    "https://aclanthology.org/2024.findings-naacl.16.pdf"
+  ],
+  [
+    "Bilateral Masking with prompt for Knowledge Graph Completion",
+    "https://aclanthology.org/2024.findings-naacl.17/",
+    "https://aclanthology.org/2024.findings-naacl.17.pdf"
+  ],
+  [
+    "MiLe Loss: a New Loss for Mitigating the Bias of Learning Difficulties in Generative Language Models",
+    "https://aclanthology.org/2024.findings-naacl.18/",
+    "https://aclanthology.org/2024.findings-naacl.18.pdf"
+  ],
+  [
+    "GOLD: Geometry Problem Solver with Natural Language Description",
+    "https://aclanthology.org/2024.findings-naacl.19/",
+    "https://aclanthology.org/2024.findings-naacl.19.pdf"
+  ],
+  [
+    "RoDia: A New Dataset for Romanian Dialect Identification from Speech",
+    "https://aclanthology.org/2024.findings-naacl.20/",
+    "https://aclanthology.org/2024.findings-naacl.20.pdf"
+  ],
+  [
+    "Examining Modularity in Multilingual LMs via Language-Specialized Subnetworks",
+    "https://aclanthology.org/2024.findings-naacl.21/",
+    "https://aclanthology.org/2024.findings-naacl.21.pdf"
+  ],
+  [
+    "Reverse Chain: A Generic-Rule for LLMs to Master Multi-API Planning",
+    "https://aclanthology.org/2024.findings-naacl.22/",
+    "https://aclanthology.org/2024.findings-naacl.22.pdf"
+  ],
+  [
+    "Incorporating Exponential Smoothing into MLP: a Simple but Effective Sequence Model",
+    "https://aclanthology.org/2024.findings-naacl.23/",
+    "https://aclanthology.org/2024.findings-naacl.23.pdf"
+  ],
+  [
+    "OpenFMNav: Towards Open-Set Zero-Shot Object Navigation via Vision-Language Foundation Models",
+    "https://aclanthology.org/2024.findings-naacl.24/",
+    "https://aclanthology.org/2024.findings-naacl.24.pdf"
+  ],
+  [
+    "Comparing Two Model Designs for Clinical Note Generation; Is an LLM a Useful Evaluator of Consistency?",
+    "https://aclanthology.org/2024.findings-naacl.25/",
+    "https://aclanthology.org/2024.findings-naacl.25.pdf"
+  ],
+  [
+    "VOLTA: Improving Generative Diversity by Variational Mutual Information Maximizing Autoencoder",
+    "https://aclanthology.org/2024.findings-naacl.26/",
+    "https://aclanthology.org/2024.findings-naacl.26.pdf"
+  ],
+  [
+    "EcoSpeak: Cost-Efficient Bias Mitigation for Partially Cross-Lingual Speaker Verification",
+    "https://aclanthology.org/2024.findings-naacl.27/",
+    "https://aclanthology.org/2024.findings-naacl.27.pdf"
+  ],
+  [
+    "Leveraging Contextual Information for Effective Entity Salience Detection",
+    "https://aclanthology.org/2024.findings-naacl.28/",
+    "https://aclanthology.org/2024.findings-naacl.28.pdf"
+  ],
+  [
+    "LLM-as-a-Coauthor: Can Mixed Human-Written and Machine-Generated Text Be Detected?",
+    "https://aclanthology.org/2024.findings-naacl.29/",
+    "https://aclanthology.org/2024.findings-naacl.29.pdf"
+  ],
+  [
+    "A (More) Realistic Evaluation Setup for Generalisation of Community Models on Malicious Content Detection",
+    "https://aclanthology.org/2024.findings-naacl.30/",
+    "https://aclanthology.org/2024.findings-naacl.30.pdf"
+  ],
+  [
+    "Citation: A Key to Building Responsible and Accountable Large Language Models",
+    "https://aclanthology.org/2024.findings-naacl.31/",
+    "https://aclanthology.org/2024.findings-naacl.31.pdf"
+  ],
+  [
+    "Graph-Induced Syntactic-Semantic Spaces in Transformer-Based Variational AutoEncoders",
+    "https://aclanthology.org/2024.findings-naacl.32/",
+    "https://aclanthology.org/2024.findings-naacl.32.pdf"
+  ],
+  [
+    "Narrowing the Gap between Zero- and Few-shot Machine Translation by Matching Styles",
+    "https://aclanthology.org/2024.findings-naacl.33/",
+    "https://aclanthology.org/2024.findings-naacl.33.pdf"
+  ],
+  [
+    "Which Modality should I use - Text, Motif, or Image? : Understanding Graphs with Large Language Models",
+    "https://aclanthology.org/2024.findings-naacl.34/",
+    "https://aclanthology.org/2024.findings-naacl.34.pdf"
+  ],
+  [
+    "On-the-Fly Fusion of Large Language Models and Machine Translation",
+    "https://aclanthology.org/2024.findings-naacl.35/",
+    "https://aclanthology.org/2024.findings-naacl.35.pdf"
+  ],
+  [
+    "READ: Improving Relation Extraction from an ADversarial Perspective",
+    "https://aclanthology.org/2024.findings-naacl.36/",
+    "https://aclanthology.org/2024.findings-naacl.36.pdf"
+  ],
+  [
+    "REQUAL-LM: Reliability and Equity through Aggregation in Large Language Models",
+    "https://aclanthology.org/2024.findings-naacl.37/",
+    "https://aclanthology.org/2024.findings-naacl.37.pdf"
+  ],
+  [
+    "Addressing Both Statistical and Causal Gender Fairness in NLP Models",
+    "https://aclanthology.org/2024.findings-naacl.38/",
+    "https://aclanthology.org/2024.findings-naacl.38.pdf"
+  ],
+  [
+    "LLM-Rec: Personalized Recommendation via Prompting Large Language Models",
+    "https://aclanthology.org/2024.findings-naacl.39/",
+    "https://aclanthology.org/2024.findings-naacl.39.pdf"
+  ],
+  [
+    "A Robust Semantics-based Watermark for Large Language Model against Paraphrasing",
+    "https://aclanthology.org/2024.findings-naacl.40/",
+    "https://aclanthology.org/2024.findings-naacl.40.pdf"
+  ],
+  [
+    "Solving Data-centric Tasks using Large Language Models",
+    "https://aclanthology.org/2024.findings-naacl.41/",
+    "https://aclanthology.org/2024.findings-naacl.41.pdf"
+  ],
+  [
+    "A Novel Paradigm Boosting Translation Capabilities of Large Language Models",
+    "https://aclanthology.org/2024.findings-naacl.42/",
+    "https://aclanthology.org/2024.findings-naacl.42.pdf"
+  ],
+  [
+    "Measuring Social Norms of Large Language Models",
+    "https://aclanthology.org/2024.findings-naacl.43/",
+    "https://aclanthology.org/2024.findings-naacl.43.pdf"
+  ],
+  [
+    "Source-Free Unsupervised Domain Adaptation for Question Answering via Prompt-Assisted Self-learning",
+    "https://aclanthology.org/2024.findings-naacl.44/",
+    "https://aclanthology.org/2024.findings-naacl.44.pdf"
+  ],
+  [
+    "Hierarchical Attention Graph for Scientific Document Summarization in Global and Local Level",
+    "https://aclanthology.org/2024.findings-naacl.45/",
+    "https://aclanthology.org/2024.findings-naacl.45.pdf"
+  ],
+  [
+    "LEEETs-Dial: Linguistic Entrainment in End-to-End Task-oriented Dialogue systems",
+    "https://aclanthology.org/2024.findings-naacl.46/",
+    "https://aclanthology.org/2024.findings-naacl.46.pdf"
+  ],
+  [
+    "Efficient Dependency Tree Sampling Without Replacement",
+    "https://aclanthology.org/2024.findings-naacl.47/",
+    "https://aclanthology.org/2024.findings-naacl.47.pdf"
+  ],
+  [
+    "Towards Better Generalization in Open-Domain Question Answering by Mitigating Context Memorization",
+    "https://aclanthology.org/2024.findings-naacl.48/",
+    "https://aclanthology.org/2024.findings-naacl.48.pdf"
+  ],
+  [
+    "GEE! Grammar Error Explanation with Large Language Models",
+    "https://aclanthology.org/2024.findings-naacl.49/",
+    "https://aclanthology.org/2024.findings-naacl.49.pdf"
+  ],
+  [
+    "AdaRefiner: Refining Decisions of Language Models with Adaptive Feedback",
+    "https://aclanthology.org/2024.findings-naacl.50/",
+    "https://aclanthology.org/2024.findings-naacl.50.pdf"
+  ],
+  [
+    "DivTOD: Unleashing the Power of LLMs for Diversifying Task-Oriented Dialogue Representations",
+    "https://aclanthology.org/2024.findings-naacl.51/",
+    "https://aclanthology.org/2024.findings-naacl.51.pdf"
+  ],
+  [
+    "Teaching a Multilingual Large Language Model to Understand Multilingual Speech via Multi-Instructional Training",
+    "https://aclanthology.org/2024.findings-naacl.52/",
+    "https://aclanthology.org/2024.findings-naacl.52.pdf"
+  ],
+  [
+    "CLEAN–EVAL: Clean Evaluation on Contaminated Large Language Models",
+    "https://aclanthology.org/2024.findings-naacl.53/",
+    "https://aclanthology.org/2024.findings-naacl.53.pdf"
+  ],
+  [
+    "R-BASS : Relevance-aided Block-wise Adaptation for Speech Summarization",
+    "https://aclanthology.org/2024.findings-naacl.54/",
+    "https://aclanthology.org/2024.findings-naacl.54.pdf"
+  ],
+  [
+    "OVM, Outcome-supervised Value Models for Planning in Mathematical Reasoning",
+    "https://aclanthology.org/2024.findings-naacl.55/",
+    "https://aclanthology.org/2024.findings-naacl.55.pdf"
+  ],
+  [
+    "The Whole is Better than the Sum: Using Aggregated Demonstrations in In-Context Learning for Sequential Recommendation",
+    "https://aclanthology.org/2024.findings-naacl.56/",
+    "https://aclanthology.org/2024.findings-naacl.56.pdf"
+  ],
+  [
+    "Bring Your Own KG: Self-Supervised Program Synthesis for Zero-Shot KGQA",
+    "https://aclanthology.org/2024.findings-naacl.57/",
+    "https://aclanthology.org/2024.findings-naacl.57.pdf"
+  ],
+  [
+    "GraSAME: Injecting Token-Level Structural Information to Pretrained Language Models via Graph-guided Self-Attention Mechanism",
+    "https://aclanthology.org/2024.findings-naacl.58/",
+    "https://aclanthology.org/2024.findings-naacl.58.pdf"
+  ],
+  [
+    "Can Public Large Language Models Help Private Cross-device Federated Learning?",
+    "https://aclanthology.org/2024.findings-naacl.59/",
+    "https://aclanthology.org/2024.findings-naacl.59.pdf"
+  ],
+  [
+    "LangNav: Language as a Perceptual Representation for Navigation",
+    "https://aclanthology.org/2024.findings-naacl.60/",
+    "https://aclanthology.org/2024.findings-naacl.60.pdf"
+  ],
+  [
+    "Planning and Editing What You Retrieve for Enhanced Tool Learning",
+    "https://aclanthology.org/2024.findings-naacl.61/",
+    "https://aclanthology.org/2024.findings-naacl.61.pdf"
+  ],
+  [
+    "Chart-based Reasoning: Transferring Capabilities from LLMs to VLMs",
+    "https://aclanthology.org/2024.findings-naacl.62/",
+    "https://aclanthology.org/2024.findings-naacl.62.pdf"
+  ],
+  [
+    "SLiM: Speculative Decoding with Hypothesis Reduction",
+    "https://aclanthology.org/2024.findings-naacl.63/",
+    "https://aclanthology.org/2024.findings-naacl.63.pdf"
+  ],
+  [
+    "REMATCH: Robust and Efficient Matching of Local Knowledge Graphs to Improve Structural and Semantic Similarity",
+    "https://aclanthology.org/2024.findings-naacl.64/",
+    "https://aclanthology.org/2024.findings-naacl.64.pdf"
+  ],
+  [
+    "Modeling the Sacred: Considerations when Using Religious Texts in Natural Language Processing",
+    "https://aclanthology.org/2024.findings-naacl.65/",
+    "https://aclanthology.org/2024.findings-naacl.65.pdf"
+  ],
+  [
+    "Testing the Effect of Code Documentation on Large Language Model Code Understanding",
+    "https://aclanthology.org/2024.findings-naacl.66/",
+    "https://aclanthology.org/2024.findings-naacl.66.pdf"
+  ],
+  [
+    "Aligning Large Language Models with Recommendation Knowledge",
+    "https://aclanthology.org/2024.findings-naacl.67/",
+    "https://aclanthology.org/2024.findings-naacl.67.pdf"
+  ],
+  [
+    "OFA: A Framework of Initializing Unseen Subword Embeddings for Efficient Large-scale Multilingual Continued Pretraining",
+    "https://aclanthology.org/2024.findings-naacl.68/",
+    "https://aclanthology.org/2024.findings-naacl.68.pdf"
+  ],
+  [
+    "SELF-EXPERTISE: Knowledge-based Instruction Dataset Augmentation for a Legal Expert Language Model",
+    "https://aclanthology.org/2024.findings-naacl.69/",
+    "https://aclanthology.org/2024.findings-naacl.69.pdf"
+  ],
+  [
+    "Re-evaluating the Need for Visual Signals in Unsupervised Grammar Induction",
+    "https://aclanthology.org/2024.findings-naacl.70/",
+    "https://aclanthology.org/2024.findings-naacl.70.pdf"
+  ],
+  [
+    "EDEntail: An Entailment-based Few-shot Text Classification with Extensional Definition",
+    "https://aclanthology.org/2024.findings-naacl.71/",
+    "https://aclanthology.org/2024.findings-naacl.71.pdf"
+  ],
+  [
+    "What Makes Math Word Problems Challenging for LLMs?",
+    "https://aclanthology.org/2024.findings-naacl.72/",
+    "https://aclanthology.org/2024.findings-naacl.72.pdf"
+  ],
+  [
+    "SMILE: Multimodal Dataset for Understanding Laughter in Video with Language Models",
+    "https://aclanthology.org/2024.findings-naacl.73/",
+    "https://aclanthology.org/2024.findings-naacl.73.pdf"
+  ],
+  [
+    "T3M: Text Guided 3D Human Motion Synthesis from Speech",
+    "https://aclanthology.org/2024.findings-naacl.74/",
+    "https://aclanthology.org/2024.findings-naacl.74.pdf"
+  ],
+  [
+    "Deja vu: Contrastive Historical Modeling with Prefix-tuning for Temporal Knowledge Graph Reasoning",
+    "https://aclanthology.org/2024.findings-naacl.75/",
+    "https://aclanthology.org/2024.findings-naacl.75.pdf"
+  ],
+  [
+    "Explanation Extraction from Hierarchical Classification Frameworks for Long Legal Documents",
+    "https://aclanthology.org/2024.findings-naacl.76/",
+    "https://aclanthology.org/2024.findings-naacl.76.pdf"
+  ],
+  [
+    "Low-Rank Adaptation for Multilingual Summarization: An Empirical Study",
+    "https://aclanthology.org/2024.findings-naacl.77/",
+    "https://aclanthology.org/2024.findings-naacl.77.pdf"
+  ],
+  [
+    "A Tree-of-Thoughts to Broaden Multi-step Reasoning across Languages",
+    "https://aclanthology.org/2024.findings-naacl.78/",
+    "https://aclanthology.org/2024.findings-naacl.78.pdf"
+  ],
+  [
+    "Emergent Abilities in Reduced-Scale Generative Language Models",
+    "https://aclanthology.org/2024.findings-naacl.79/",
+    "https://aclanthology.org/2024.findings-naacl.79.pdf"
+  ],
+  [
+    "Context Does Matter: Implications for Crowdsourced Evaluation Labels in Task-Oriented Dialogue Systems",
+    "https://aclanthology.org/2024.findings-naacl.80/",
+    "https://aclanthology.org/2024.findings-naacl.80.pdf"
+  ],
+  [
+    "Matching Varying-Length Texts via Topic-Informed and Decoupled Sentence Embeddings",
+    "https://aclanthology.org/2024.findings-naacl.81/",
+    "https://aclanthology.org/2024.findings-naacl.81.pdf"
+  ],
+  [
+    "Instruction Tuning with Human Curriculum",
+    "https://aclanthology.org/2024.findings-naacl.82/",
+    "https://aclanthology.org/2024.findings-naacl.82.pdf"
+  ],
+  [
+    "Natural Language-based State Representation in Deep Reinforcement Learning",
+    "https://aclanthology.org/2024.findings-naacl.83/",
+    "https://aclanthology.org/2024.findings-naacl.83.pdf"
+  ],
+  [
+    "Learning Cross-Architecture Instruction Embeddings for Binary Code Analysis in Low-Resource Architectures",
+    "https://aclanthology.org/2024.findings-naacl.84/",
+    "https://aclanthology.org/2024.findings-naacl.84.pdf"
+  ],
+  [
+    "ReEval: Automatic Hallucination Evaluation for Retrieval-Augmented Large Language Models via Transferable Adversarial Attacks",
+    "https://aclanthology.org/2024.findings-naacl.85/",
+    "https://aclanthology.org/2024.findings-naacl.85.pdf"
+  ],
+  [
+    "An Effective Automated Speaking Assessment Approach to Mitigating Data Scarcity and Imbalanced Distribution",
+    "https://aclanthology.org/2024.findings-naacl.86/",
+    "https://aclanthology.org/2024.findings-naacl.86.pdf"
+  ],
+  [
+    "GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond",
+    "https://aclanthology.org/2024.findings-naacl.87/",
+    "https://aclanthology.org/2024.findings-naacl.87.pdf"
+  ],
+  [
+    "Subword Attention and Post-Processing for Rare and Unknown Contextualized Embeddings",
+    "https://aclanthology.org/2024.findings-naacl.88/",
+    "https://aclanthology.org/2024.findings-naacl.88.pdf"
+  ],
+  [
+    "UGIF-DataSet: A New Dataset for Cross-lingual, Cross-modal Sequential actions on the UI",
+    "https://aclanthology.org/2024.findings-naacl.89/",
+    "https://aclanthology.org/2024.findings-naacl.89.pdf"
+  ],
+  [
+    "SimSCOOD: Systematic Analysis of Out-of-Distribution Generalization in Fine-tuned Source Code Models",
+    "https://aclanthology.org/2024.findings-naacl.90/",
+    "https://aclanthology.org/2024.findings-naacl.90.pdf"
+  ],
+  [
+    "Pruning as a Domain-specific LLM Extractor",
+    "https://aclanthology.org/2024.findings-naacl.91/",
+    "https://aclanthology.org/2024.findings-naacl.91.pdf"
+  ],
+  [
+    "LLMRefine: Pinpointing and Refining Large Language Models via Fine-Grained Actionable Feedback",
+    "https://aclanthology.org/2024.findings-naacl.92/",
+    "https://aclanthology.org/2024.findings-naacl.92.pdf"
+  ],
+  [
+    "Noisy Multi-Label Text Classification via Instance-Label Pair Correction",
+    "https://aclanthology.org/2024.findings-naacl.93/",
+    "https://aclanthology.org/2024.findings-naacl.93.pdf"
+  ],
+  [
+    "Composite Backdoor Attacks Against Large Language Models",
+    "https://aclanthology.org/2024.findings-naacl.94/",
+    "https://aclanthology.org/2024.findings-naacl.94.pdf"
+  ],
+  [
+    "Adapting Fake News Detection to the Era of Large Language Models",
+    "https://aclanthology.org/2024.findings-naacl.95/",
+    "https://aclanthology.org/2024.findings-naacl.95.pdf"
+  ],
+  [
+    "MCAD: Multi-teacher Cross-modal Alignment Distillation for efficient image-text retrieval",
+    "https://aclanthology.org/2024.findings-naacl.96/",
+    "https://aclanthology.org/2024.findings-naacl.96.pdf"
+  ],
+  [
+    "Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting",
+    "https://aclanthology.org/2024.findings-naacl.97/",
+    "https://aclanthology.org/2024.findings-naacl.97.pdf"
+  ],
+  [
+    "FedLFC: Towards Efficient Federated Multilingual Modeling with LoRA-based Language Family Clustering",
+    "https://aclanthology.org/2024.findings-naacl.98/",
+    "https://aclanthology.org/2024.findings-naacl.98.pdf"
+  ],
+  [
+    "Gaussian Process Optimization for Adaptable Multi-Objective Text Generation using Linearly-Weighted Language Models",
+    "https://aclanthology.org/2024.findings-naacl.99/",
+    "https://aclanthology.org/2024.findings-naacl.99.pdf"
+  ],
+  [
+    "Groundedness in Retrieval-augmented Long-form Generation: An Empirical Study",
+    "https://aclanthology.org/2024.findings-naacl.100/",
+    "https://aclanthology.org/2024.findings-naacl.100.pdf"
+  ],
+  [
+    "TagDebias: Entity and Concept Tagging for Social Bias Mitigation in Pretrained Language Models",
+    "https://aclanthology.org/2024.findings-naacl.101/",
+    "https://aclanthology.org/2024.findings-naacl.101.pdf"
+  ],
+  [
+    "Improving Absent Keyphrase Generation with Diversity Heads",
+    "https://aclanthology.org/2024.findings-naacl.102/",
+    "https://aclanthology.org/2024.findings-naacl.102.pdf"
+  ],
+  [
+    "mOthello: When Do Cross-Lingual Representation Alignment and Cross-Lingual Transfer Emerge in Multilingual Models?",
+    "https://aclanthology.org/2024.findings-naacl.103/",
+    "https://aclanthology.org/2024.findings-naacl.103.pdf"
+  ],
+  [
+    "Discovering and Mitigating Indirect Bias in Attention-Based Model Explanations",
+    "https://aclanthology.org/2024.findings-naacl.104/",
+    "https://aclanthology.org/2024.findings-naacl.104.pdf"
+  ],
+  [
+    "i-Code V2: An Autoregressive Generation Framework over Vision, Language, and Speech Data",
+    "https://aclanthology.org/2024.findings-naacl.105/",
+    "https://aclanthology.org/2024.findings-naacl.105.pdf"
+  ],
+  [
+    "Think While You Write: Hypothesis Verification Promotes Faithful Knowledge-to-Text Generation",
+    "https://aclanthology.org/2024.findings-naacl.106/",
+    "https://aclanthology.org/2024.findings-naacl.106.pdf"
+  ],
+  [
+    "It’s All Relative! – A Synthetic Query Generation Approach for Improving Zero-Shot Relevance Prediction",
+    "https://aclanthology.org/2024.findings-naacl.107/",
+    "https://aclanthology.org/2024.findings-naacl.107.pdf"
+  ],
+  [
+    "RS-DPO: A Hybrid Rejection Sampling and Direct Preference Optimization Method for Alignment of Large Language Models",
+    "https://aclanthology.org/2024.findings-naacl.108/",
+    "https://aclanthology.org/2024.findings-naacl.108.pdf"
+  ],
+  [
+    "Hypernetwork-Assisted Parameter-Efficient Fine-Tuning with Meta-Knowledge Distillation for Domain Knowledge Disentanglement",
+    "https://aclanthology.org/2024.findings-naacl.109/",
+    "https://aclanthology.org/2024.findings-naacl.109.pdf"
+  ],
+  [
+    "MICo: Preventative Detoxification of Large Language Models through Inhibition Control",
+    "https://aclanthology.org/2024.findings-naacl.110/",
+    "https://aclanthology.org/2024.findings-naacl.110.pdf"
+  ],
+  [
+    "Reinforcement Learning with Token-level Feedback for Controllable Text Generation",
+    "https://aclanthology.org/2024.findings-naacl.111/",
+    "https://aclanthology.org/2024.findings-naacl.111.pdf"
+  ],
+  [
+    "CoMM: Collaborative Multi-Agent, Multi-Reasoning-Path Prompting for Complex Problem Solving",
+    "https://aclanthology.org/2024.findings-naacl.112/",
+    "https://aclanthology.org/2024.findings-naacl.112.pdf"
+  ],
+  [
+    "Tokenization Matters: Navigating Data-Scarce Tokenization for Gender Inclusive Language Technologies",
+    "https://aclanthology.org/2024.findings-naacl.113/",
+    "https://aclanthology.org/2024.findings-naacl.113.pdf"
+  ],
+  [
+    "AdaPT: A Set of Guidelines for Hyperbolic Multimodal Multilingual NLP",
+    "https://aclanthology.org/2024.findings-naacl.114/",
+    "https://aclanthology.org/2024.findings-naacl.114.pdf"
+  ],
+  [
+    "More Samples or More Prompts? Exploring Effective Few-Shot In-Context Learning for LLMs with In-Context Sampling",
+    "https://aclanthology.org/2024.findings-naacl.115/",
+    "https://aclanthology.org/2024.findings-naacl.115.pdf"
+  ],
+  [
+    "ZSEE: A Dataset based on Zeolite Synthesis Event Extraction for Automated Synthesis Platform",
+    "https://aclanthology.org/2024.findings-naacl.116/",
+    "https://aclanthology.org/2024.findings-naacl.116.pdf"
+  ],
+  [
+    "Mitigating Hallucination in Abstractive Summarization with Domain-Conditional Mutual Information",
+    "https://aclanthology.org/2024.findings-naacl.117/",
+    "https://aclanthology.org/2024.findings-naacl.117.pdf"
+  ],
+  [
+    "Adversarial DPO: Harnessing Harmful Data for Reducing Toxicity with Minimal Impact on Coherence and Evasiveness in Dialogue Agents",
+    "https://aclanthology.org/2024.findings-naacl.118/",
+    "https://aclanthology.org/2024.findings-naacl.118.pdf"
+  ],
+  [
+    "Prompt Space Optimizing Few-shot Reasoning Success with Large Language Models",
+    "https://aclanthology.org/2024.findings-naacl.119/",
+    "https://aclanthology.org/2024.findings-naacl.119.pdf"
+  ],
+  [
+    "DAGCN: Distance-based and Aspect-oriented Graph Convolutional Network for Aspect-based Sentiment Analysis",
+    "https://aclanthology.org/2024.findings-naacl.120/",
+    "https://aclanthology.org/2024.findings-naacl.120.pdf"
+  ],
+  [
+    "Connecting the Dots: Inferring Patent Phrase Similarity with Retrieved Phrase Graphs",
+    "https://aclanthology.org/2024.findings-naacl.121/",
+    "https://aclanthology.org/2024.findings-naacl.121.pdf"
+  ],
+  [
+    "Self-Regulated Sample Diversity in Large Language Models",
+    "https://aclanthology.org/2024.findings-naacl.122/",
+    "https://aclanthology.org/2024.findings-naacl.122.pdf"
+  ],
+  [
+    "Methods, Applications, and Directions of Learning-to-Rank in NLP Research",
+    "https://aclanthology.org/2024.findings-naacl.123/",
+    "https://aclanthology.org/2024.findings-naacl.123.pdf"
+  ],
+  [
+    "When Quantization Affects Confidence of Large Language Models?",
+    "https://aclanthology.org/2024.findings-naacl.124/",
+    "https://aclanthology.org/2024.findings-naacl.124.pdf"
+  ],
+  [
+    "MedCycle: Unpaired Medical Report Generation via Cycle-Consistency",
+    "https://aclanthology.org/2024.findings-naacl.125/",
+    "https://aclanthology.org/2024.findings-naacl.125.pdf"
+  ],
+  [
+    "Beta-LR: Interpretable Logical Reasoning based on Beta Distribution",
+    "https://aclanthology.org/2024.findings-naacl.126/",
+    "https://aclanthology.org/2024.findings-naacl.126.pdf"
+  ],
+  [
+    "Applications of BERT Models Towards Automation of Clinical Coding in Icelandic",
+    "https://aclanthology.org/2024.findings-naacl.127/",
+    "https://aclanthology.org/2024.findings-naacl.127.pdf"
+  ],
+  [
+    "“Tell me who you are and I tell you how you argue”: Predicting Stances and Arguments for Stakeholder Groups",
+    "https://aclanthology.org/2024.findings-naacl.128/",
+    "https://aclanthology.org/2024.findings-naacl.128.pdf"
+  ],
+  [
+    "Psychometric Predictive Power of Large Language Models",
+    "https://aclanthology.org/2024.findings-naacl.129/",
+    "https://aclanthology.org/2024.findings-naacl.129.pdf"
+  ],
+  [
+    "Large Language Models Sensitivity to The Order of Options in Multiple-Choice Questions",
+    "https://aclanthology.org/2024.findings-naacl.130/",
+    "https://aclanthology.org/2024.findings-naacl.130.pdf"
+  ],
+  [
+    "PEEB: Part-based Image Classifiers with an Explainable and Editable Language Bottleneck",
+    "https://aclanthology.org/2024.findings-naacl.131/",
+    "https://aclanthology.org/2024.findings-naacl.131.pdf"
+  ],
+  [
+    "Ethos: Rectifying Language Models in Orthogonal Parameter Space",
+    "https://aclanthology.org/2024.findings-naacl.132/",
+    "https://aclanthology.org/2024.findings-naacl.132.pdf"
+  ],
+  [
+    "Crafting In-context Examples according to LMs’ Parametric Knowledge",
+    "https://aclanthology.org/2024.findings-naacl.133/",
+    "https://aclanthology.org/2024.findings-naacl.133.pdf"
+  ],
+  [
+    "ICXML: An In-Context Learning Framework for Zero-Shot Extreme Multi-Label Classification",
+    "https://aclanthology.org/2024.findings-naacl.134/",
+    "https://aclanthology.org/2024.findings-naacl.134.pdf"
+  ],
+  [
+    "CLGSI: A Multimodal Sentiment Analysis Framework based on Contrastive Learning Guided by Sentiment Intensity",
+    "https://aclanthology.org/2024.findings-naacl.135/",
+    "https://aclanthology.org/2024.findings-naacl.135.pdf"
+  ],
+  [
+    "Interpreting Answers to Yes-No Questions in Dialogues from Multiple Domains",
+    "https://aclanthology.org/2024.findings-naacl.136/",
+    "https://aclanthology.org/2024.findings-naacl.136.pdf"
+  ],
+  [
+    "Enhancing Perception: Refining Explanations of News Claims with LLM Conversations",
+    "https://aclanthology.org/2024.findings-naacl.137/",
+    "https://aclanthology.org/2024.findings-naacl.137.pdf"
+  ],
+  [
+    "How Interpretable are Reasoning Explanations from Prompting Large Language Models?",
+    "https://aclanthology.org/2024.findings-naacl.138/",
+    "https://aclanthology.org/2024.findings-naacl.138.pdf"
+  ],
+  [
+    "Plug-in Language Model: Controlling Text Generation with a Simple Regression Model",
+    "https://aclanthology.org/2024.findings-naacl.139/",
+    "https://aclanthology.org/2024.findings-naacl.139.pdf"
+  ],
+  [
+    "Signer Diversity-driven Data Augmentation for Signer-Independent Sign Language Translation",
+    "https://aclanthology.org/2024.findings-naacl.140/",
+    "https://aclanthology.org/2024.findings-naacl.140.pdf"
+  ],
+  [
+    "A Systematic Analysis of Subwords and Cross-Lingual Transfer in Multilingual Translation",
+    "https://aclanthology.org/2024.findings-naacl.141/",
+    "https://aclanthology.org/2024.findings-naacl.141.pdf"
+  ],
+  [
+    "Multi-Granularity Guided Fusion-in-Decoder",
+    "https://aclanthology.org/2024.findings-naacl.142/",
+    "https://aclanthology.org/2024.findings-naacl.142.pdf"
+  ],
+  [
+    "Group Fairness in Multilingual Speech Recognition Models",
+    "https://aclanthology.org/2024.findings-naacl.143/",
+    "https://aclanthology.org/2024.findings-naacl.143.pdf"
+  ],
+  [
+    "Rethinking Machine Ethics – Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?",
+    "https://aclanthology.org/2024.findings-naacl.144/",
+    "https://aclanthology.org/2024.findings-naacl.144.pdf"
+  ],
+  [
+    "Role Prompting Guided Domain Adaptation with General Capability Preserve for Large Language Models",
+    "https://aclanthology.org/2024.findings-naacl.145/",
+    "https://aclanthology.org/2024.findings-naacl.145.pdf"
+  ],
+  [
+    "BERTweet’s TACO Fiesta: Contrasting Flavors On The Path Of Inference And Information-Driven Argument Mining On Twitter",
+    "https://aclanthology.org/2024.findings-naacl.146/",
+    "https://aclanthology.org/2024.findings-naacl.146.pdf"
+  ],
+  [
+    "Testing the limits of logical reasoning in neural and hybrid models",
+    "https://aclanthology.org/2024.findings-naacl.147/",
+    "https://aclanthology.org/2024.findings-naacl.147.pdf"
+  ],
+  [
+    "METAL: Towards Multilingual Meta-Evaluation",
+    "https://aclanthology.org/2024.findings-naacl.148/",
+    "https://aclanthology.org/2024.findings-naacl.148.pdf"
+  ],
+  [
+    "AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models",
+    "https://aclanthology.org/2024.findings-naacl.149/",
+    "https://aclanthology.org/2024.findings-naacl.149.pdf"
+  ],
+  [
+    "Product Description and QA Assisted Self-Supervised Opinion Summarization",
+    "https://aclanthology.org/2024.findings-naacl.150/",
+    "https://aclanthology.org/2024.findings-naacl.150.pdf"
+  ],
+  [
+    "COMEM: In-Context Retrieval-Augmented Mass-Editing Memory in Large Language Models",
+    "https://aclanthology.org/2024.findings-naacl.151/",
+    "https://aclanthology.org/2024.findings-naacl.151.pdf"
+  ],
+  [
+    "Content-Specific Humorous Image Captioning Using Incongruity Resolution Chain-of-Thought",
+    "https://aclanthology.org/2024.findings-naacl.152/",
+    "https://aclanthology.org/2024.findings-naacl.152.pdf"
+  ],
+  [
+    "Denoising Attention for Query-aware User Modeling",
+    "https://aclanthology.org/2024.findings-naacl.153/",
+    "https://aclanthology.org/2024.findings-naacl.153.pdf"
+  ],
+  [
+    "A Lightweight Mixture-of-Experts Neural Machine Translation Model with Stage-wise Training Strategy",
+    "https://aclanthology.org/2024.findings-naacl.154/",
+    "https://aclanthology.org/2024.findings-naacl.154.pdf"
+  ],
+  [
+    "BEAR: A Unified Framework for Evaluating Relational Knowledge in Causal and Masked Language Models",
+    "https://aclanthology.org/2024.findings-naacl.155/",
+    "https://aclanthology.org/2024.findings-naacl.155.pdf"
+  ],
+  [
+    "Conformal Intent Classification and Clarification for Fast and Accurate Intent Recognition",
+    "https://aclanthology.org/2024.findings-naacl.156/",
+    "https://aclanthology.org/2024.findings-naacl.156.pdf"
+  ],
+  [
+    "Anonymity at Risk? Assessing Re-Identification Capabilities of Large Language Models in Court Decisions",
+    "https://aclanthology.org/2024.findings-naacl.157/",
+    "https://aclanthology.org/2024.findings-naacl.157.pdf"
+  ],
+  [
+    "X-LLaVA: Optimizing Bilingual Large Vision-Language Alignment",
+    "https://aclanthology.org/2024.findings-naacl.158/",
+    "https://aclanthology.org/2024.findings-naacl.158.pdf"
+  ],
+  [
+    "Why So Gullible? Enhancing the Robustness of Retrieval-Augmented Models against Counterfactual Noise",
+    "https://aclanthology.org/2024.findings-naacl.159/",
+    "https://aclanthology.org/2024.findings-naacl.159.pdf"
+  ],
+  [
+    "Heterogeneity over Homogeneity: Investigating Multilingual Speech Pre-Trained Models for Detecting Audio Deepfake",
+    "https://aclanthology.org/2024.findings-naacl.160/",
+    "https://aclanthology.org/2024.findings-naacl.160.pdf"
+  ],
+  [
+    "Identifying Self-Disclosures of Use, Misuse and Addiction in Community-based Social Media Posts",
+    "https://aclanthology.org/2024.findings-naacl.161/",
+    "https://aclanthology.org/2024.findings-naacl.161.pdf"
+  ],
+  [
+    "Self-Adaptive Sampling for Accurate Video Question Answering on Image Text Models",
+    "https://aclanthology.org/2024.findings-naacl.162/",
+    "https://aclanthology.org/2024.findings-naacl.162.pdf"
+  ],
+  [
+    "Towards an On-device Agent for Text Rewriting",
+    "https://aclanthology.org/2024.findings-naacl.163/",
+    "https://aclanthology.org/2024.findings-naacl.163.pdf"
+  ],
+  [
+    "Tailoring Vaccine Messaging with Common-Ground Opinions",
+    "https://aclanthology.org/2024.findings-naacl.164/",
+    "https://aclanthology.org/2024.findings-naacl.164.pdf"
+  ],
+  [
+    "Best of Both Worlds: A Pliable and Generalizable Neuro-Symbolic Approach for Relation Classification",
+    "https://aclanthology.org/2024.findings-naacl.165/",
+    "https://aclanthology.org/2024.findings-naacl.165.pdf"
+  ],
+  [
+    "Q-Tuning: Queue-based Prompt Tuning for Lifelong Few-shot Language Learning",
+    "https://aclanthology.org/2024.findings-naacl.166/",
+    "https://aclanthology.org/2024.findings-naacl.166.pdf"
+  ],
+  [
+    "In-Context Example Ordering Guided by Label Distributions",
+    "https://aclanthology.org/2024.findings-naacl.167/",
+    "https://aclanthology.org/2024.findings-naacl.167.pdf"
+  ],
+  [
+    "Beyond Surface Similarity: Detecting Subtle Semantic Shifts in Financial Narratives",
+    "https://aclanthology.org/2024.findings-naacl.168/",
+    "https://aclanthology.org/2024.findings-naacl.168.pdf"
+  ],
+  [
+    "Laying Anchors: Semantically Priming Numerals in Language Modeling",
+    "https://aclanthology.org/2024.findings-naacl.169/",
+    "https://aclanthology.org/2024.findings-naacl.169.pdf"
+  ],
+  [
+    "UEGP: Unified Expert-Guided Pre-training for Knowledge Rekindle",
+    "https://aclanthology.org/2024.findings-naacl.170/",
+    "https://aclanthology.org/2024.findings-naacl.170.pdf"
+  ],
+  [
+    "LatticeGen: Hiding Generated Text in a Lattice for Privacy-Aware Large Language Model Generation on Cloud",
+    "https://aclanthology.org/2024.findings-naacl.171/",
+    "https://aclanthology.org/2024.findings-naacl.171.pdf"
+  ],
+  [
+    "HateModerate: Testing Hate Speech Detectors against Content Moderation Policies",
+    "https://aclanthology.org/2024.findings-naacl.172/",
+    "https://aclanthology.org/2024.findings-naacl.172.pdf"
+  ],
+  [
+    "Compensate Quantization Errors: Make Weights Hierarchical to Compensate Each Other",
+    "https://aclanthology.org/2024.findings-naacl.173/",
+    "https://aclanthology.org/2024.findings-naacl.173.pdf"
+  ],
+  [
+    "Contrastive Preference Learning for Neural Machine Translation",
+    "https://aclanthology.org/2024.findings-naacl.174/",
+    "https://aclanthology.org/2024.findings-naacl.174.pdf"
+  ],
+  [
+    "SocREval: Large Language Models with the Socratic Method for Reference-free Reasoning Evaluation",
+    "https://aclanthology.org/2024.findings-naacl.175/",
+    "https://aclanthology.org/2024.findings-naacl.175.pdf"
+  ],
+  [
+    "Multilingual Machine Translation with Large Language Models: Empirical Results and Analysis",
+    "https://aclanthology.org/2024.findings-naacl.176/",
+    "https://aclanthology.org/2024.findings-naacl.176.pdf"
+  ],
+  [
+    "Unleashing the Power of LLMs in Court View Generation by Stimulating Internal Knowledge and Incorporating External Knowledge",
+    "https://aclanthology.org/2024.findings-naacl.177/",
+    "https://aclanthology.org/2024.findings-naacl.177.pdf"
+  ],
+  [
+    "Prompting Vision-Language Models For Aspect-Controlled Generation of Referring Expressions",
+    "https://aclanthology.org/2024.findings-naacl.178/",
+    "https://aclanthology.org/2024.findings-naacl.178.pdf"
+  ],
+  [
+    "Task-Agnostic Detector for Insertion-Based Backdoor Attacks",
+    "https://aclanthology.org/2024.findings-naacl.179/",
+    "https://aclanthology.org/2024.findings-naacl.179.pdf"
+  ],
+  [
+    "Uncertainty Estimation on Sequential Labeling via Uncertainty Transmission",
+    "https://aclanthology.org/2024.findings-naacl.180/",
+    "https://aclanthology.org/2024.findings-naacl.180.pdf"
+  ],
+  [
+    "Exploring Language Model’s Code Generation Ability with Auxiliary Functions",
+    "https://aclanthology.org/2024.findings-naacl.181/",
+    "https://aclanthology.org/2024.findings-naacl.181.pdf"
+  ],
+  [
+    "Crossing Linguistic Horizons: Finetuning and Comprehensive Evaluation of Vietnamese Large Language Models",
+    "https://aclanthology.org/2024.findings-naacl.182/",
+    "https://aclanthology.org/2024.findings-naacl.182.pdf"
+  ],
+  [
+    "GoT: Effective Graph-of-Thought Reasoning in Language Models",
+    "https://aclanthology.org/2024.findings-naacl.183/",
+    "https://aclanthology.org/2024.findings-naacl.183.pdf"
+  ],
+  [
+    "Enhancing the General Agent Capabilities of Low-Paramter LLMs through Tuning and Multi-Branch Reasoning",
+    "https://aclanthology.org/2024.findings-naacl.184/",
+    "https://aclanthology.org/2024.findings-naacl.184.pdf"
+  ],
+  [
+    "MuMath: Multi-perspective Data Augmentation for Mathematical Reasoning in Large Language Models",
+    "https://aclanthology.org/2024.findings-naacl.185/",
+    "https://aclanthology.org/2024.findings-naacl.185.pdf"
+  ],
+  [
+    "Tram: A Token-level Retrieval-augmented Mechanism for Source Code Summarization",
+    "https://aclanthology.org/2024.findings-naacl.186/",
+    "https://aclanthology.org/2024.findings-naacl.186.pdf"
+  ],
+  [
+    "UNO-DST: Leveraging Unlabelled Data in Zero-Shot Dialogue State Tracking",
+    "https://aclanthology.org/2024.findings-naacl.187/",
+    "https://aclanthology.org/2024.findings-naacl.187.pdf"
+  ],
+  [
+    "Evaluating Step-by-Step Reasoning through Symbolic Verification",
+    "https://aclanthology.org/2024.findings-naacl.188/",
+    "https://aclanthology.org/2024.findings-naacl.188.pdf"
+  ],
+  [
+    "Multi-Review Fusion-in-Context",
+    "https://aclanthology.org/2024.findings-naacl.189/",
+    "https://aclanthology.org/2024.findings-naacl.189.pdf"
+  ],
+  [
+    "Retrieving Examples from Memory for Retrieval Augmented Neural Machine Translation: A Systematic Comparison",
+    "https://aclanthology.org/2024.findings-naacl.190/",
+    "https://aclanthology.org/2024.findings-naacl.190.pdf"
+  ],
+  [
+    "Extending Input Contexts of Language Models through Training on Segmented Sequences",
+    "https://aclanthology.org/2024.findings-naacl.191/",
+    "https://aclanthology.org/2024.findings-naacl.191.pdf"
+  ],
+  [
+    "Reason from Fallacy: Enhancing Large Language Models’ Logical Reasoning through Logical Fallacy Understanding",
+    "https://aclanthology.org/2024.findings-naacl.192/",
+    "https://aclanthology.org/2024.findings-naacl.192.pdf"
+  ],
+  [
+    "Exploring Automated Distractor Generation for Math Multiple-choice Questions via Large Language Models",
+    "https://aclanthology.org/2024.findings-naacl.193/",
+    "https://aclanthology.org/2024.findings-naacl.193.pdf"
+  ],
+  [
+    "Aspect-based Sentiment Analysis with Context Denoising",
+    "https://aclanthology.org/2024.findings-naacl.194/",
+    "https://aclanthology.org/2024.findings-naacl.194.pdf"
+  ],
+  [
+    "IruMozhi: Automatically classifying diglossia in Tamil",
+    "https://aclanthology.org/2024.findings-naacl.195/",
+    "https://aclanthology.org/2024.findings-naacl.195.pdf"
+  ],
+  [
+    "RENOVI: A Benchmark Towards Remediating Norm Violations in Socio-Cultural Conversations",
+    "https://aclanthology.org/2024.findings-naacl.196/",
+    "https://aclanthology.org/2024.findings-naacl.196.pdf"
+  ],
+  [
+    "Human-in-the-Loop Synthetic Text Data Inspection with Provenance Tracking",
+    "https://aclanthology.org/2024.findings-naacl.197/",
+    "https://aclanthology.org/2024.findings-naacl.197.pdf"
+  ],
+  [
+    "COMMIT: Code-Mixing English-Centric Large Language Model for Multilingual Instruction Tuning",
+    "https://aclanthology.org/2024.findings-naacl.198/",
+    "https://aclanthology.org/2024.findings-naacl.198.pdf"
+  ],
+  [
+    "DiLM: Distilling Dataset into Language Model for Text-level Dataset Distillation",
+    "https://aclanthology.org/2024.findings-naacl.199/",
+    "https://aclanthology.org/2024.findings-naacl.199.pdf"
+  ],
+  [
+    "MindAgent: Emergent Gaming Interaction",
+    "https://aclanthology.org/2024.findings-naacl.200/",
+    "https://aclanthology.org/2024.findings-naacl.200.pdf"
+  ],
+  [
+    "BotChat: Evaluating LLMs’ Capabilities of Having Multi-Turn Dialogues",
+    "https://aclanthology.org/2024.findings-naacl.201/",
+    "https://aclanthology.org/2024.findings-naacl.201.pdf"
+  ],
+  [
+    "Learning Mutually Informed Representations for Characters and Subwords",
+    "https://aclanthology.org/2024.findings-naacl.202/",
+    "https://aclanthology.org/2024.findings-naacl.202.pdf"
+  ],
+  [
+    "A Novel Two-step Fine-tuning Framework for Transfer Learning in Low-Resource Neural Machine Translation",
+    "https://aclanthology.org/2024.findings-naacl.203/",
+    "https://aclanthology.org/2024.findings-naacl.203.pdf"
+  ],
+  [
+    "Enhancing Cross-lingual Sentence Embedding for Low-resource Languages with Word Alignment",
+    "https://aclanthology.org/2024.findings-naacl.204/",
+    "https://aclanthology.org/2024.findings-naacl.204.pdf"
+  ],
+  [
+    "C3LPGCN:Integrating Contrastive Learning and Cooperative Learning with Prompt into Graph Convolutional Network for Aspect-based Sentiment Analysis",
+    "https://aclanthology.org/2024.findings-naacl.205/",
+    "https://aclanthology.org/2024.findings-naacl.205.pdf"
+  ],
+  [
+    "Visual Enhanced Entity-Level Interaction Network for Multimodal Summarization",
+    "https://aclanthology.org/2024.findings-naacl.206/",
+    "https://aclanthology.org/2024.findings-naacl.206.pdf"
+  ],
+  [
+    "Knowledgeable In-Context Tuning: Exploring and Exploiting Factual Knowledge for In-Context Learning",
+    "https://aclanthology.org/2024.findings-naacl.207/",
+    "https://aclanthology.org/2024.findings-naacl.207.pdf"
+  ],
+  [
+    "Time Machine GPT",
+    "https://aclanthology.org/2024.findings-naacl.208/",
+    "https://aclanthology.org/2024.findings-naacl.208.pdf"
+  ],
+  [
+    "An End-to-End Submodular Framework for Data-Efficient In-Context Learning",
+    "https://aclanthology.org/2024.findings-naacl.209/",
+    "https://aclanthology.org/2024.findings-naacl.209.pdf"
+  ],
+  [
+    "Teaching Llama a New Language Through Cross-Lingual Knowledge Transfer",
+    "https://aclanthology.org/2024.findings-naacl.210/",
+    "https://aclanthology.org/2024.findings-naacl.210.pdf"
+  ],
+  [
+    "Simulating Opinion Dynamics with Networks of LLM-based Agents",
+    "https://aclanthology.org/2024.findings-naacl.211/",
+    "https://aclanthology.org/2024.findings-naacl.211.pdf"
+  ],
+  [
+    "Probing the Category of Verbal Aspect in Transformer Language Models",
+    "https://aclanthology.org/2024.findings-naacl.212/",
+    "https://aclanthology.org/2024.findings-naacl.212.pdf"
+  ],
+  [
+    "A Measure for Transparent Comparison of Linguistic Diversity in Multilingual NLP Data Sets",
+    "https://aclanthology.org/2024.findings-naacl.213/",
+    "https://aclanthology.org/2024.findings-naacl.213.pdf"
+  ],
+  [
+    "Beyond Read-Only: Crafting a Comprehensive Chinese Text-to-SQL Dataset for Database Manipulation and Query",
+    "https://aclanthology.org/2024.findings-naacl.214/",
+    "https://aclanthology.org/2024.findings-naacl.214.pdf"
+  ],
+  [
+    "Normalizing without Modernizing: Keeping Historical Wordforms of Middle French while Reducing Spelling Variants",
+    "https://aclanthology.org/2024.findings-naacl.215/",
+    "https://aclanthology.org/2024.findings-naacl.215.pdf"
+  ],
+  [
+    "Anti-LM Decoding for Zero-shot In-context Machine Translation",
+    "https://aclanthology.org/2024.findings-naacl.216/",
+    "https://aclanthology.org/2024.findings-naacl.216.pdf"
+  ],
+  [
+    "Defending Against Weight-Poisoning Backdoor Attacks for Parameter-Efficient Fine-Tuning",
+    "https://aclanthology.org/2024.findings-naacl.217/",
+    "https://aclanthology.org/2024.findings-naacl.217.pdf"
+  ],
+  [
+    "Select and Summarize: Scene Saliency for Movie Script Summarization",
+    "https://aclanthology.org/2024.findings-naacl.218/",
+    "https://aclanthology.org/2024.findings-naacl.218.pdf"
+  ],
+  [
+    "Don’t be a Fool: Pooling Strategies in Offensive Language Detection from User-Intended Adversarial Attacks",
+    "https://aclanthology.org/2024.findings-naacl.219/",
+    "https://aclanthology.org/2024.findings-naacl.219.pdf"
+  ],
+  [
+    "Z-GMOT: Zero-shot Generic Multiple Object Tracking",
+    "https://aclanthology.org/2024.findings-naacl.220/",
+    "https://aclanthology.org/2024.findings-naacl.220.pdf"
+  ],
+  [
+    "NLP for Counterspeech against Hate: A Survey and How-To Guide",
+    "https://aclanthology.org/2024.findings-naacl.221/",
+    "https://aclanthology.org/2024.findings-naacl.221.pdf"
+  ],
+  [
+    "PRODIGy: a PROfile-based DIalogue Generation dataset",
+    "https://aclanthology.org/2024.findings-naacl.222/",
+    "https://aclanthology.org/2024.findings-naacl.222.pdf"
+  ],
+  [
+    "WaterJudge: Quality-Detection Trade-off when Watermarking Large Language Models",
+    "https://aclanthology.org/2024.findings-naacl.223/",
+    "https://aclanthology.org/2024.findings-naacl.223.pdf"
+  ],
+  [
+    "Cognitive Overload: Jailbreaking Large Language Models with Overloaded Logical Thinking",
+    "https://aclanthology.org/2024.findings-naacl.224/",
+    "https://aclanthology.org/2024.findings-naacl.224.pdf"
+  ],
+  [
+    "PAELLA: Parameter-Efficient Lightweight Language-Agnostic Captioning Model",
+    "https://aclanthology.org/2024.findings-naacl.225/",
+    "https://aclanthology.org/2024.findings-naacl.225.pdf"
+  ],
+  [
+    "OSCaR: Object State Captioning and State Change Representation",
+    "https://aclanthology.org/2024.findings-naacl.226/",
+    "https://aclanthology.org/2024.findings-naacl.226.pdf"
+  ],
+  [
+    "SumCSE: Summary as a transformation for Contrastive Learning",
+    "https://aclanthology.org/2024.findings-naacl.227/",
+    "https://aclanthology.org/2024.findings-naacl.227.pdf"
+  ],
+  [
+    "The Curious Decline of Linguistic Diversity: Training Language Models on Synthetic Text",
+    "https://aclanthology.org/2024.findings-naacl.228/",
+    "https://aclanthology.org/2024.findings-naacl.228.pdf"
+  ],
+  [
+    "PersonaLLM: Investigating the Ability of Large Language Models to Express Personality Traits",
+    "https://aclanthology.org/2024.findings-naacl.229/",
+    "https://aclanthology.org/2024.findings-naacl.229.pdf"
+  ],
+  [
+    "FIRE: A Dataset for Financial Relation Extraction",
+    "https://aclanthology.org/2024.findings-naacl.230/",
+    "https://aclanthology.org/2024.findings-naacl.230.pdf"
+  ],
+  [
+    "MusiLingo: Bridging Music and Text with Pre-trained Language Models for Music Captioning and Query Response",
+    "https://aclanthology.org/2024.findings-naacl.231/",
+    "https://aclanthology.org/2024.findings-naacl.231.pdf"
+  ],
+  [
+    "Investigating Acceleration of LLaMA Inference by Enabling Intermediate Layer Decoding via Instruction Tuning with ‘LITE’",
+    "https://aclanthology.org/2024.findings-naacl.232/",
+    "https://aclanthology.org/2024.findings-naacl.232.pdf"
+  ],
+  [
+    "Instruction-following Evaluation through Verbalizer Manipulation",
+    "https://aclanthology.org/2024.findings-naacl.233/",
+    "https://aclanthology.org/2024.findings-naacl.233.pdf"
+  ],
+  [
+    "WebWISE: Unlocking Web Interface Control for LLMs via Sequential Exploration",
+    "https://aclanthology.org/2024.findings-naacl.234/",
+    "https://aclanthology.org/2024.findings-naacl.234.pdf"
+  ],
+  [
+    "CodecLM: Aligning Language Models with Tailored Synthetic Data",
+    "https://aclanthology.org/2024.findings-naacl.235/",
+    "https://aclanthology.org/2024.findings-naacl.235.pdf"
+  ],
+  [
+    "Prompting Few-shot Multi-hop Question Generation via Comprehending Type-aware Semantics",
+    "https://aclanthology.org/2024.findings-naacl.236/",
+    "https://aclanthology.org/2024.findings-naacl.236.pdf"
+  ],
+  [
+    "When Hindsight is Not 20/20: Testing Limits on Reflective Thinking in Large Language Models",
+    "https://aclanthology.org/2024.findings-naacl.237/",
+    "https://aclanthology.org/2024.findings-naacl.237.pdf"
+  ],
+  [
+    "CoDa: Constrained Generation based Data Augmentation for Low-Resource NLP",
+    "https://aclanthology.org/2024.findings-naacl.238/",
+    "https://aclanthology.org/2024.findings-naacl.238.pdf"
+  ],
+  [
+    "Synonym relations affect object detection learned on vision-language data",
+    "https://aclanthology.org/2024.findings-naacl.239/",
+    "https://aclanthology.org/2024.findings-naacl.239.pdf"
+  ],
+  [
+    "CM-TTS: Enhancing Real Time Text-to-Speech Synthesis Efficiency through Weighted Samplers and Consistency Models",
+    "https://aclanthology.org/2024.findings-naacl.240/",
+    "https://aclanthology.org/2024.findings-naacl.240.pdf"
+  ],
+  [
+    "RobustSentEmbed: Robust Sentence Embeddings Using Adversarial Self-Supervised Contrastive Learning",
+    "https://aclanthology.org/2024.findings-naacl.241/",
+    "https://aclanthology.org/2024.findings-naacl.241.pdf"
+  ],
+  [
+    "Characterizing Human and Zero-Shot GPT-3.5 Object-Similarity Judgments",
+    "https://aclanthology.org/2024.findings-naacl.242/",
+    "https://aclanthology.org/2024.findings-naacl.242.pdf"
+  ],
+  [
+    "Self-Demos: Eliciting Out-of-Demonstration Generalizability in Large Language Models",
+    "https://aclanthology.org/2024.findings-naacl.243/",
+    "https://aclanthology.org/2024.findings-naacl.243.pdf"
+  ],
+  [
+    "Getting Sick After Seeing a Doctor? Diagnosing and Mitigating Knowledge Conflicts in Event Temporal Reasoning",
+    "https://aclanthology.org/2024.findings-naacl.244/",
+    "https://aclanthology.org/2024.findings-naacl.244.pdf"
+  ],
+  [
+    "MCECR: A Novel Dataset for Multilingual Cross-Document Event Coreference Resolution",
+    "https://aclanthology.org/2024.findings-naacl.245/",
+    "https://aclanthology.org/2024.findings-naacl.245.pdf"
+  ],
+  [
+    "Sentiment Analysis in the Era of Large Language Models: A Reality Check",
+    "https://aclanthology.org/2024.findings-naacl.246/",
+    "https://aclanthology.org/2024.findings-naacl.246.pdf"
+  ],
+  [
+    "Tokenizer Choice For LLM Training: Negligible or Crucial?",
+    "https://aclanthology.org/2024.findings-naacl.247/",
+    "https://aclanthology.org/2024.findings-naacl.247.pdf"
+  ],
+  [
+    "Think Before You Speak: Cultivating Communication Skills of Large Language Models via Inner Monologue",
+    "https://aclanthology.org/2024.findings-naacl.248/",
+    "https://aclanthology.org/2024.findings-naacl.248.pdf"
+  ],
+  [
+    "The Impact of Differential Privacy on Group Disparity Mitigation",
+    "https://aclanthology.org/2024.findings-naacl.249/",
+    "https://aclanthology.org/2024.findings-naacl.249.pdf"
+  ],
+  [
+    "Isometric Neural Machine Translation using Phoneme Count Ratio Reward-based Reinforcement Learning",
+    "https://aclanthology.org/2024.findings-naacl.250/",
+    "https://aclanthology.org/2024.findings-naacl.250.pdf"
+  ],
+  [
+    "Read between the lines - Functionality Extraction From READMEs",
+    "https://aclanthology.org/2024.findings-naacl.251/",
+    "https://aclanthology.org/2024.findings-naacl.251.pdf"
+  ],
+  [
+    "AbsPyramid: Benchmarking the Abstraction Ability of Language Models with a Unified Entailment Graph",
+    "https://aclanthology.org/2024.findings-naacl.252/",
+    "https://aclanthology.org/2024.findings-naacl.252.pdf"
+  ],
+  [
+    "Few-TK: A Dataset for Few-shot Scientific Typed Keyphrase Recognition",
+    "https://aclanthology.org/2024.findings-naacl.253/",
+    "https://aclanthology.org/2024.findings-naacl.253.pdf"
+  ],
+  [
+    "Language Models can be Deductive Solvers",
+    "https://aclanthology.org/2024.findings-naacl.254/",
+    "https://aclanthology.org/2024.findings-naacl.254.pdf"
+  ],
+  [
+    "Interpreting User Requests in the Context of Natural Language Standing Instructions",
+    "https://aclanthology.org/2024.findings-naacl.255/",
+    "https://aclanthology.org/2024.findings-naacl.255.pdf"
+  ],
+  [
+    "Secure Your Model: An Effective Key Prompt Protection Mechanism for Large Language Models",
+    "https://aclanthology.org/2024.findings-naacl.256/",
+    "https://aclanthology.org/2024.findings-naacl.256.pdf"
+  ],
+  [
+    "Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models",
+    "https://aclanthology.org/2024.findings-naacl.257/",
+    "https://aclanthology.org/2024.findings-naacl.257.pdf"
+  ],
+  [
+    "Do Prompt Positions Really Matter?",
+    "https://aclanthology.org/2024.findings-naacl.258/",
+    "https://aclanthology.org/2024.findings-naacl.258.pdf"
+  ],
+  [
+    "Natural Language Embedded Programs for Hybrid Language Symbolic Reasoning",
+    "https://aclanthology.org/2024.findings-naacl.259/",
+    "https://aclanthology.org/2024.findings-naacl.259.pdf"
+  ],
+  [
+    "A Study on Scaling Up Multilingual News Framing Analysis",
+    "https://aclanthology.org/2024.findings-naacl.260/",
+    "https://aclanthology.org/2024.findings-naacl.260.pdf"
+  ],
+  [
+    "ViGLUE: A Vietnamese General Language Understanding Benchmark and Analysis of Vietnamese Language Models",
+    "https://aclanthology.org/2024.findings-naacl.261/",
+    "https://aclanthology.org/2024.findings-naacl.261.pdf"
+  ],
+  [
+    "Exploring the Trade-off Between Model Performance and Explanation Plausibility of Text Classifiers Using Human Rationales",
+    "https://aclanthology.org/2024.findings-naacl.262/",
+    "https://aclanthology.org/2024.findings-naacl.262.pdf"
+  ],
+  [
+    "Unlocking Parameter-Efficient Fine-Tuning for Low-Resource Language Translation",
+    "https://aclanthology.org/2024.findings-naacl.263/",
+    "https://aclanthology.org/2024.findings-naacl.263.pdf"
+  ],
+  [
+    "ADaPT: As-Needed Decomposition and Planning with Language Models",
+    "https://aclanthology.org/2024.findings-naacl.264/",
+    "https://aclanthology.org/2024.findings-naacl.264.pdf"
+  ],
+  [
+    "Guiding Large Language Models to Post-Edit Machine Translation with Error Annotations",
+    "https://aclanthology.org/2024.findings-naacl.265/",
+    "https://aclanthology.org/2024.findings-naacl.265.pdf"
+  ],
+  [
+    "Non-contrastive sentence representations via self-supervision",
+    "https://aclanthology.org/2024.findings-naacl.266/",
+    "https://aclanthology.org/2024.findings-naacl.266.pdf"
+  ],
+  [
+    "Semantically-Prompted Language Models Improve Visual Descriptions",
+    "https://aclanthology.org/2024.findings-naacl.267/",
+    "https://aclanthology.org/2024.findings-naacl.267.pdf"
+  ],
+  [
+    "GenTKG: Generative Forecasting on Temporal Knowledge Graph with Large Language Models",
+    "https://aclanthology.org/2024.findings-naacl.268/",
+    "https://aclanthology.org/2024.findings-naacl.268.pdf"
+  ],
+  [
+    "A Transformer with Stack Attention",
+    "https://aclanthology.org/2024.findings-naacl.269/",
+    "https://aclanthology.org/2024.findings-naacl.269.pdf"
+  ],
+  [
+    "InstructEval: Systematic Evaluation of Instruction Selection Methods",
+    "https://aclanthology.org/2024.findings-naacl.270/",
+    "https://aclanthology.org/2024.findings-naacl.270.pdf"
+  ],
+  [
+    "RecMind: Large Language Model Powered Agent For Recommendation",
+    "https://aclanthology.org/2024.findings-naacl.271/",
+    "https://aclanthology.org/2024.findings-naacl.271.pdf"
+  ],
+  [
+    "GOLD: Generalized Knowledge Distillation via Out-of-Distribution-Guided Language Data Generation",
+    "https://aclanthology.org/2024.findings-naacl.272/",
+    "https://aclanthology.org/2024.findings-naacl.272.pdf"
+  ],
+  [
+    "How Lexical is Bilingual Lexicon Induction?",
+    "https://aclanthology.org/2024.findings-naacl.273/",
+    "https://aclanthology.org/2024.findings-naacl.273.pdf"
+  ],
+  [
+    "Fumbling in Babel: An Investigation into ChatGPT’s Language Identification Ability",
+    "https://aclanthology.org/2024.findings-naacl.274/",
+    "https://aclanthology.org/2024.findings-naacl.274.pdf"
+  ],
+  [
+    "Targeted Augmentation for Low-Resource Event Extraction",
+    "https://aclanthology.org/2024.findings-naacl.275/",
+    "https://aclanthology.org/2024.findings-naacl.275.pdf"
+  ],
+  [
+    "Asking More Informative Questions for Grounded Retrieval",
+    "https://aclanthology.org/2024.findings-naacl.276/",
+    "https://aclanthology.org/2024.findings-naacl.276.pdf"
+  ],
+  [
+    "Efficient Citer: Tuning Large Language Models for Enhanced Answer Quality and Verification",
+    "https://aclanthology.org/2024.findings-naacl.277/",
+    "https://aclanthology.org/2024.findings-naacl.277.pdf"
+  ],
+  [
+    "Addressing Healthcare-related Racial and LGBTQ+ Biases in Pretrained Language Models",
+    "https://aclanthology.org/2024.findings-naacl.278/",
+    "https://aclanthology.org/2024.findings-naacl.278.pdf"
+  ],
+  [
+    "ATG: Benchmarking Automated Theorem Generation for Generative Language Models",
+    "https://aclanthology.org/2024.findings-naacl.279/",
+    "https://aclanthology.org/2024.findings-naacl.279.pdf"
+  ],
+  [
+    "Benchmarking Generation and Evaluation Capabilities of Large Language Models for Instruction Controllable Summarization",
+    "https://aclanthology.org/2024.findings-naacl.280/",
+    "https://aclanthology.org/2024.findings-naacl.280.pdf"
+  ],
+  [
+    "NeuroComparatives: Neuro-Symbolic Distillation of Comparative Knowledge",
+    "https://aclanthology.org/2024.findings-naacl.281/",
+    "https://aclanthology.org/2024.findings-naacl.281.pdf"
+  ],
+  [
+    "Emotion-Anchored Contrastive Learning Framework for Emotion Recognition in Conversation",
+    "https://aclanthology.org/2024.findings-naacl.282/",
+    "https://aclanthology.org/2024.findings-naacl.282.pdf"
+  ],
+  [
+    "SUQL: Conversational Search over Structured and Unstructured Data with Large Language Models",
+    "https://aclanthology.org/2024.findings-naacl.283/",
+    "https://aclanthology.org/2024.findings-naacl.283.pdf"
+  ],
+  [
+    "On Evaluating the Integration of Reasoning and Action in LLM Agents with Database Question Answering",
+    "https://aclanthology.org/2024.findings-naacl.284/",
+    "https://aclanthology.org/2024.findings-naacl.284.pdf"
+  ],
+  [
+    "CARE: Extracting Experimental Findings From Clinical Literature",
+    "https://aclanthology.org/2024.findings-naacl.285/",
+    "https://aclanthology.org/2024.findings-naacl.285.pdf"
+  ],
+  [
+    "Personalized Federated Learning for Text Classification with Gradient-Free Prompt Tuning",
+    "https://aclanthology.org/2024.findings-naacl.286/",
+    "https://aclanthology.org/2024.findings-naacl.286.pdf"
+  ],
+  [
+    "SGSH: Stimulate Large Language Models with Skeleton Heuristics for Knowledge Base Question Generation",
+    "https://aclanthology.org/2024.findings-naacl.287/",
+    "https://aclanthology.org/2024.findings-naacl.287.pdf"
+  ],
+  [
+    "Biomedical Entity Representation with Graph-Augmented Multi-Objective Transformer",
+    "https://aclanthology.org/2024.findings-naacl.288/",
+    "https://aclanthology.org/2024.findings-naacl.288.pdf"
+  ],
+  [
+    "Cross-Lingual Summarization with Pseudo-Label Regularization",
+    "https://aclanthology.org/2024.findings-naacl.289/",
+    "https://aclanthology.org/2024.findings-naacl.289.pdf"
+  ],
+  [
+    "On the Way to Gentle AI Counselor: Politeness Cause Elicitation and Intensity Tagging in Code-mixed Hinglish Conversations for Social Good",
+    "https://aclanthology.org/2024.findings-naacl.290/",
+    "https://aclanthology.org/2024.findings-naacl.290.pdf"
+  ],
+  [
+    "Leveraging Summarization for Unsupervised Dialogue Topic Segmentation",
+    "https://aclanthology.org/2024.findings-naacl.291/",
+    "https://aclanthology.org/2024.findings-naacl.291.pdf"
+  ],
+  [
+    "LLaMA-Rider: Spurring Large Language Models to Explore the Open World",
+    "https://aclanthology.org/2024.findings-naacl.292/",
+    "https://aclanthology.org/2024.findings-naacl.292.pdf"
+  ],
+  [
+    "Contrastive Learning as a Polarizer: Mitigating Gender Bias by Fair and Biased sentences",
+    "https://aclanthology.org/2024.findings-naacl.293/",
+    "https://aclanthology.org/2024.findings-naacl.293.pdf"
+  ],
+  [
+    "PoLLMgraph: Unraveling Hallucinations in Large Language Models via State Transition Dynamics",
+    "https://aclanthology.org/2024.findings-naacl.294/",
+    "https://aclanthology.org/2024.findings-naacl.294.pdf"
+  ],
+  [
+    "Improving Health Question Answering with Reliable and Time-Aware Evidence Retrieval",
+    "https://aclanthology.org/2024.findings-naacl.295/",
+    "https://aclanthology.org/2024.findings-naacl.295.pdf"
+  ],
+  [
+    "DecoderLens: Layerwise Interpretation of Encoder-Decoder Transformers",
+    "https://aclanthology.org/2024.findings-naacl.296/",
+    "https://aclanthology.org/2024.findings-naacl.296.pdf"
+  ]
+]

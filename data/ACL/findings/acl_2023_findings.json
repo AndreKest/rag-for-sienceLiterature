@@ -1,0 +1,4512 @@
+[
+  [
+    "Findings of the Association for Computational Linguistics: ACL 2023",
+    "https://aclanthology.org/2023.findings-acl.0/",
+    "https://aclanthology.org/2023.findings-acl.0.pdf"
+  ],
+  [
+    "Investigating Glyph-Phonetic Information for Chinese Spell Checking: What Works and What’s Next?",
+    "https://aclanthology.org/2023.findings-acl.1/",
+    "https://aclanthology.org/2023.findings-acl.1.pdf"
+  ],
+  [
+    "A Self-Supervised Integration Method of Pretrained Language Models and Word Definitions",
+    "https://aclanthology.org/2023.findings-acl.2/",
+    "https://aclanthology.org/2023.findings-acl.2.pdf"
+  ],
+  [
+    "Conformal Nucleus Sampling",
+    "https://aclanthology.org/2023.findings-acl.3/",
+    "https://aclanthology.org/2023.findings-acl.3.pdf"
+  ],
+  [
+    "DiscoPrompt: Path Prediction Prompt Tuning for Implicit Discourse Relation Recognition",
+    "https://aclanthology.org/2023.findings-acl.4/",
+    "https://aclanthology.org/2023.findings-acl.4.pdf"
+  ],
+  [
+    "Modularized Zero-shot VQA with Pre-trained Models",
+    "https://aclanthology.org/2023.findings-acl.5/",
+    "https://aclanthology.org/2023.findings-acl.5.pdf"
+  ],
+  [
+    "TimelineQA: A Benchmark for Question Answering over Timelines",
+    "https://aclanthology.org/2023.findings-acl.6/",
+    "https://aclanthology.org/2023.findings-acl.6.pdf"
+  ],
+  [
+    "Abstractive Text Summarization Using the BRIO Training Paradigm",
+    "https://aclanthology.org/2023.findings-acl.7/",
+    "https://aclanthology.org/2023.findings-acl.7.pdf"
+  ],
+  [
+    "Modeling the Q-Diversity in a Min-max Play Game for Robust Optimization",
+    "https://aclanthology.org/2023.findings-acl.8/",
+    "https://aclanthology.org/2023.findings-acl.8.pdf"
+  ],
+  [
+    "Pre-training Language Model as a Multi-perspective Course Learner",
+    "https://aclanthology.org/2023.findings-acl.9/",
+    "https://aclanthology.org/2023.findings-acl.9.pdf"
+  ],
+  [
+    "Layerwise universal adversarial attack on NLP models",
+    "https://aclanthology.org/2023.findings-acl.10/",
+    "https://aclanthology.org/2023.findings-acl.10.pdf"
+  ],
+  [
+    "Scene-robust Natural Language Video Localization via Learning Domain-invariant Representations",
+    "https://aclanthology.org/2023.findings-acl.11/",
+    "https://aclanthology.org/2023.findings-acl.11.pdf"
+  ],
+  [
+    "Exploiting Pseudo Image Captions for Multimodal Summarization",
+    "https://aclanthology.org/2023.findings-acl.12/",
+    "https://aclanthology.org/2023.findings-acl.12.pdf"
+  ],
+  [
+    "Cross-Lingual Transfer with Target Language-Ready Task Adapters",
+    "https://aclanthology.org/2023.findings-acl.13/",
+    "https://aclanthology.org/2023.findings-acl.13.pdf"
+  ],
+  [
+    "DynaMiTE: Discovering Explosive Topic Evolutions with User Guidance",
+    "https://aclanthology.org/2023.findings-acl.14/",
+    "https://aclanthology.org/2023.findings-acl.14.pdf"
+  ],
+  [
+    "Boost Transformer-based Language Models with GPU-Friendly Sparsity and Quantization",
+    "https://aclanthology.org/2023.findings-acl.15/",
+    "https://aclanthology.org/2023.findings-acl.15.pdf"
+  ],
+  [
+    "RMSSinger: Realistic-Music-Score based Singing Voice Synthesis",
+    "https://aclanthology.org/2023.findings-acl.16/",
+    "https://aclanthology.org/2023.findings-acl.16.pdf"
+  ],
+  [
+    "Zero-Shot Prompting for Implicit Intent Prediction and Recommendation with Commonsense Reasoning",
+    "https://aclanthology.org/2023.findings-acl.17/",
+    "https://aclanthology.org/2023.findings-acl.17.pdf"
+  ],
+  [
+    "MTGP: Multi-turn Target-oriented Dialogue Guided by Generative Global Path with Flexible Turns",
+    "https://aclanthology.org/2023.findings-acl.18/",
+    "https://aclanthology.org/2023.findings-acl.18.pdf"
+  ],
+  [
+    "The Larger they are, the Harder they Fail: Language Models do not Recognize Identifier Swaps in Python",
+    "https://aclanthology.org/2023.findings-acl.19/",
+    "https://aclanthology.org/2023.findings-acl.19.pdf"
+  ],
+  [
+    "Class Lifelong Learning for Intent Detection via Structure Consolidation Networks",
+    "https://aclanthology.org/2023.findings-acl.20/",
+    "https://aclanthology.org/2023.findings-acl.20.pdf"
+  ],
+  [
+    "On Evaluating and Mitigating Gender Biases in Multilingual Settings",
+    "https://aclanthology.org/2023.findings-acl.21/",
+    "https://aclanthology.org/2023.findings-acl.21.pdf"
+  ],
+  [
+    "Rethinking Round-Trip Translation for Machine Translation Evaluation",
+    "https://aclanthology.org/2023.findings-acl.22/",
+    "https://aclanthology.org/2023.findings-acl.22.pdf"
+  ],
+  [
+    "G3R: A Graph-Guided Generate-and-Rerank Framework for Complex and Cross-domain Text-to-SQL Generation",
+    "https://aclanthology.org/2023.findings-acl.23/",
+    "https://aclanthology.org/2023.findings-acl.23.pdf"
+  ],
+  [
+    "A Unified Knowledge Graph Augmentation Service for Boosting Domain-specific NLP Tasks",
+    "https://aclanthology.org/2023.findings-acl.24/",
+    "https://aclanthology.org/2023.findings-acl.24.pdf"
+  ],
+  [
+    "Dialogue Planning via Brownian Bridge Stochastic Process for Goal-directed Proactive Dialogue",
+    "https://aclanthology.org/2023.findings-acl.25/",
+    "https://aclanthology.org/2023.findings-acl.25.pdf"
+  ],
+  [
+    "A Match Made in Heaven: A Multi-task Framework for Hyperbole and Metaphor Detection",
+    "https://aclanthology.org/2023.findings-acl.26/",
+    "https://aclanthology.org/2023.findings-acl.26.pdf"
+  ],
+  [
+    "Prompt Tuning for Unified Multimodal Pretrained Models",
+    "https://aclanthology.org/2023.findings-acl.27/",
+    "https://aclanthology.org/2023.findings-acl.27.pdf"
+  ],
+  [
+    "Learning Joint Structural and Temporal Contextualized Knowledge Embeddings for Temporal Knowledge Graph Completion",
+    "https://aclanthology.org/2023.findings-acl.28/",
+    "https://aclanthology.org/2023.findings-acl.28.pdf"
+  ],
+  [
+    "A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets",
+    "https://aclanthology.org/2023.findings-acl.29/",
+    "https://aclanthology.org/2023.findings-acl.29.pdf"
+  ],
+  [
+    "Generating Deep Questions with Commonsense Reasoning Ability from the Text by Disentangled Adversarial Inference",
+    "https://aclanthology.org/2023.findings-acl.30/",
+    "https://aclanthology.org/2023.findings-acl.30.pdf"
+  ],
+  [
+    "TADA: Efficient Task-Agnostic Domain Adaptation for Transformers",
+    "https://aclanthology.org/2023.findings-acl.31/",
+    "https://aclanthology.org/2023.findings-acl.31.pdf"
+  ],
+  [
+    "Robust Natural Language Understanding with Residual Attention Debiasing",
+    "https://aclanthology.org/2023.findings-acl.32/",
+    "https://aclanthology.org/2023.findings-acl.32.pdf"
+  ],
+  [
+    "MoNET: Tackle State Momentum via Noise-Enhanced Training for Dialogue State Tracking",
+    "https://aclanthology.org/2023.findings-acl.33/",
+    "https://aclanthology.org/2023.findings-acl.33.pdf"
+  ],
+  [
+    "PAL: Persona-Augmented Emotional Support Conversation Generation",
+    "https://aclanthology.org/2023.findings-acl.34/",
+    "https://aclanthology.org/2023.findings-acl.34.pdf"
+  ],
+  [
+    "Farewell to Aimless Large-scale Pretraining: Influential Subset Selection for Language Model",
+    "https://aclanthology.org/2023.findings-acl.35/",
+    "https://aclanthology.org/2023.findings-acl.35.pdf"
+  ],
+  [
+    "Exclusive Supermask Subnetwork Training for Continual Learning",
+    "https://aclanthology.org/2023.findings-acl.36/",
+    "https://aclanthology.org/2023.findings-acl.36.pdf"
+  ],
+  [
+    "Transferring General Multimodal Pretrained Models to Text Recognition",
+    "https://aclanthology.org/2023.findings-acl.37/",
+    "https://aclanthology.org/2023.findings-acl.37.pdf"
+  ],
+  [
+    "A Formal Perspective on Byte-Pair Encoding",
+    "https://aclanthology.org/2023.findings-acl.38/",
+    "https://aclanthology.org/2023.findings-acl.38.pdf"
+  ],
+  [
+    "Automatic Named Entity Obfuscation in Speech",
+    "https://aclanthology.org/2023.findings-acl.39/",
+    "https://aclanthology.org/2023.findings-acl.39.pdf"
+  ],
+  [
+    "Recursion of Thought: A Divide-and-Conquer Approach to Multi-Context Reasoning with Language Models",
+    "https://aclanthology.org/2023.findings-acl.40/",
+    "https://aclanthology.org/2023.findings-acl.40.pdf"
+  ],
+  [
+    "UniS-MMC: Multimodal Classification via Unimodality-supervised Multimodal Contrastive Learning",
+    "https://aclanthology.org/2023.findings-acl.41/",
+    "https://aclanthology.org/2023.findings-acl.41.pdf"
+  ],
+  [
+    "Robustness-Aware Word Embedding Improves Certified Robustness to Adversarial Word Substitutions",
+    "https://aclanthology.org/2023.findings-acl.42/",
+    "https://aclanthology.org/2023.findings-acl.42.pdf"
+  ],
+  [
+    "Exploring the Compositional Generalization in Context Dependent Text-to-SQL Parsing",
+    "https://aclanthology.org/2023.findings-acl.43/",
+    "https://aclanthology.org/2023.findings-acl.43.pdf"
+  ],
+  [
+    "Towards Generative Event Factuality Prediction",
+    "https://aclanthology.org/2023.findings-acl.44/",
+    "https://aclanthology.org/2023.findings-acl.44.pdf"
+  ],
+  [
+    "Can Language Models Be Specific? How?",
+    "https://aclanthology.org/2023.findings-acl.45/",
+    "https://aclanthology.org/2023.findings-acl.45.pdf"
+  ],
+  [
+    "The Web Can Be Your Oyster for Improving Language Models",
+    "https://aclanthology.org/2023.findings-acl.46/",
+    "https://aclanthology.org/2023.findings-acl.46.pdf"
+  ],
+  [
+    "Enhancing Few-shot Cross-lingual Transfer with Target Language Peculiar Examples",
+    "https://aclanthology.org/2023.findings-acl.47/",
+    "https://aclanthology.org/2023.findings-acl.47.pdf"
+  ],
+  [
+    "Overcoming Catastrophic Forgetting in Massively Multilingual Continual Learning",
+    "https://aclanthology.org/2023.findings-acl.48/",
+    "https://aclanthology.org/2023.findings-acl.48.pdf"
+  ],
+  [
+    "UniFine: A Unified and Fine-grained Approach for Zero-shot Vision-Language Understanding",
+    "https://aclanthology.org/2023.findings-acl.49/",
+    "https://aclanthology.org/2023.findings-acl.49.pdf"
+  ],
+  [
+    "Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors",
+    "https://aclanthology.org/2023.findings-acl.50/",
+    "https://aclanthology.org/2023.findings-acl.50.pdf"
+  ],
+  [
+    "TADA : Task Agnostic Dialect Adapters for English",
+    "https://aclanthology.org/2023.findings-acl.51/",
+    "https://aclanthology.org/2023.findings-acl.51.pdf"
+  ],
+  [
+    "Generative Zero-Shot Prompt Learning for Cross-Domain Slot Filling with Inverse Prompting",
+    "https://aclanthology.org/2023.findings-acl.52/",
+    "https://aclanthology.org/2023.findings-acl.52.pdf"
+  ],
+  [
+    "Re-appraising the Schema Linking for Text-to-SQL",
+    "https://aclanthology.org/2023.findings-acl.53/",
+    "https://aclanthology.org/2023.findings-acl.53.pdf"
+  ],
+  [
+    "Echoes from Alexandria: A Large Resource for Multilingual Book Summarization",
+    "https://aclanthology.org/2023.findings-acl.54/",
+    "https://aclanthology.org/2023.findings-acl.54.pdf"
+  ],
+  [
+    "When Gradient Descent Meets Derivative-Free Optimization: A Match Made in Black-Box Scenario",
+    "https://aclanthology.org/2023.findings-acl.55/",
+    "https://aclanthology.org/2023.findings-acl.55.pdf"
+  ],
+  [
+    "Align-then-Enhance: Multilingual Entailment Graph Enhancement with Soft Predicate Alignment",
+    "https://aclanthology.org/2023.findings-acl.56/",
+    "https://aclanthology.org/2023.findings-acl.56.pdf"
+  ],
+  [
+    "Few-shot Classification with Hypersphere Modeling of Prototypes",
+    "https://aclanthology.org/2023.findings-acl.57/",
+    "https://aclanthology.org/2023.findings-acl.57.pdf"
+  ],
+  [
+    "Structured Mean-Field Variational Inference for Higher-Order Span-Based Semantic Role Labeling",
+    "https://aclanthology.org/2023.findings-acl.58/",
+    "https://aclanthology.org/2023.findings-acl.58.pdf"
+  ],
+  [
+    "AQE: Argument Quadruplet Extraction via a Quad-Tagging Augmented Generative Approach",
+    "https://aclanthology.org/2023.findings-acl.59/",
+    "https://aclanthology.org/2023.findings-acl.59.pdf"
+  ],
+  [
+    "The Dangers of trusting Stochastic Parrots: Faithfulness and Trust in Open-domain Conversational Question Answering",
+    "https://aclanthology.org/2023.findings-acl.60/",
+    "https://aclanthology.org/2023.findings-acl.60.pdf"
+  ],
+  [
+    "Discrete Prompt Optimization via Constrained Generation for Zero-shot Re-ranker",
+    "https://aclanthology.org/2023.findings-acl.61/",
+    "https://aclanthology.org/2023.findings-acl.61.pdf"
+  ],
+  [
+    "Triggering Multi-Hop Reasoning for Question Answering in Language Models using Soft Prompts and Random Walks",
+    "https://aclanthology.org/2023.findings-acl.62/",
+    "https://aclanthology.org/2023.findings-acl.62.pdf"
+  ],
+  [
+    "Multimedia Generative Script Learning for Task Planning",
+    "https://aclanthology.org/2023.findings-acl.63/",
+    "https://aclanthology.org/2023.findings-acl.63.pdf"
+  ],
+  [
+    "Label Agnostic Pre-training for Zero-shot Text Classification",
+    "https://aclanthology.org/2023.findings-acl.64/",
+    "https://aclanthology.org/2023.findings-acl.64.pdf"
+  ],
+  [
+    "Click: Controllable Text Generation with Sequence Likelihood Contrastive Learning",
+    "https://aclanthology.org/2023.findings-acl.65/",
+    "https://aclanthology.org/2023.findings-acl.65.pdf"
+  ],
+  [
+    "Improving Embedding-based Unsupervised Keyphrase Extraction by Incorporating Structural Information",
+    "https://aclanthology.org/2023.findings-acl.66/",
+    "https://aclanthology.org/2023.findings-acl.66.pdf"
+  ],
+  [
+    "Towards Reasoning in Large Language Models: A Survey",
+    "https://aclanthology.org/2023.findings-acl.67/",
+    "https://aclanthology.org/2023.findings-acl.67.pdf"
+  ],
+  [
+    "Transitioning from benchmarks to a real-world case of information-seeking in Scientific Publications",
+    "https://aclanthology.org/2023.findings-acl.68/",
+    "https://aclanthology.org/2023.findings-acl.68.pdf"
+  ],
+  [
+    "CLIPText: A New Paradigm for Zero-shot Text Classification",
+    "https://aclanthology.org/2023.findings-acl.69/",
+    "https://aclanthology.org/2023.findings-acl.69.pdf"
+  ],
+  [
+    "Rethinking Dictionaries and Glyphs for Chinese Language Pre-training",
+    "https://aclanthology.org/2023.findings-acl.70/",
+    "https://aclanthology.org/2023.findings-acl.70.pdf"
+  ],
+  [
+    "One Embedder, Any Task: Instruction-Finetuned Text Embeddings",
+    "https://aclanthology.org/2023.findings-acl.71/",
+    "https://aclanthology.org/2023.findings-acl.71.pdf"
+  ],
+  [
+    "Towards Speech Dialogue Translation Mediating Speakers of Different Languages",
+    "https://aclanthology.org/2023.findings-acl.72/",
+    "https://aclanthology.org/2023.findings-acl.72.pdf"
+  ],
+  [
+    "Adaptation Approaches for Nearest Neighbor Language Models",
+    "https://aclanthology.org/2023.findings-acl.73/",
+    "https://aclanthology.org/2023.findings-acl.73.pdf"
+  ],
+  [
+    "Language Models for German Text Simplification: Overcoming Parallel Data Scarcity through Style-specific Pre-training",
+    "https://aclanthology.org/2023.findings-acl.74/",
+    "https://aclanthology.org/2023.findings-acl.74.pdf"
+  ],
+  [
+    "Client-Customized Adaptation for Parameter-Efficient Federated Learning",
+    "https://aclanthology.org/2023.findings-acl.75/",
+    "https://aclanthology.org/2023.findings-acl.75.pdf"
+  ],
+  [
+    "FolkScope: Intention Knowledge Graph Construction for E-commerce Commonsense Discovery",
+    "https://aclanthology.org/2023.findings-acl.76/",
+    "https://aclanthology.org/2023.findings-acl.76.pdf"
+  ],
+  [
+    "I am PsyAM: Modeling Happiness with Cognitive Appraisal Dimensions",
+    "https://aclanthology.org/2023.findings-acl.77/",
+    "https://aclanthology.org/2023.findings-acl.77.pdf"
+  ],
+  [
+    "Value type: the bridge to a better DST model",
+    "https://aclanthology.org/2023.findings-acl.78/",
+    "https://aclanthology.org/2023.findings-acl.78.pdf"
+  ],
+  [
+    "Hypothetical Training for Robust Machine Reading Comprehension of Tabular Context",
+    "https://aclanthology.org/2023.findings-acl.79/",
+    "https://aclanthology.org/2023.findings-acl.79.pdf"
+  ],
+  [
+    "BanglaBook: A Large-scale Bangla Dataset for Sentiment Analysis from Book Reviews",
+    "https://aclanthology.org/2023.findings-acl.80/",
+    "https://aclanthology.org/2023.findings-acl.80.pdf"
+  ],
+  [
+    "Risks and NLP Design: A Case Study on Procedural Document QA",
+    "https://aclanthology.org/2023.findings-acl.81/",
+    "https://aclanthology.org/2023.findings-acl.81.pdf"
+  ],
+  [
+    "The Diminishing Returns of Masked Language Models to Science",
+    "https://aclanthology.org/2023.findings-acl.82/",
+    "https://aclanthology.org/2023.findings-acl.82.pdf"
+  ],
+  [
+    "Causal Matching with Text Embeddings: A Case Study in Estimating the Causal Effects of Peer Review Policies",
+    "https://aclanthology.org/2023.findings-acl.83/",
+    "https://aclanthology.org/2023.findings-acl.83.pdf"
+  ],
+  [
+    "Learning to Generalize for Cross-domain QA",
+    "https://aclanthology.org/2023.findings-acl.84/",
+    "https://aclanthology.org/2023.findings-acl.84.pdf"
+  ],
+  [
+    "Enhanced Chart Understanding via Visual Language Pre-training on Plot Table Pairs",
+    "https://aclanthology.org/2023.findings-acl.85/",
+    "https://aclanthology.org/2023.findings-acl.85.pdf"
+  ],
+  [
+    "Importance of Synthesizing High-quality Data for Text-to-SQL Parsing",
+    "https://aclanthology.org/2023.findings-acl.86/",
+    "https://aclanthology.org/2023.findings-acl.86.pdf"
+  ],
+  [
+    "Exploring Schema Generalizability of Text-to-SQL",
+    "https://aclanthology.org/2023.findings-acl.87/",
+    "https://aclanthology.org/2023.findings-acl.87.pdf"
+  ],
+  [
+    "Enhancing Cross-lingual Natural Language Inference by Soft Prompting with Multilingual Verbalizer",
+    "https://aclanthology.org/2023.findings-acl.88/",
+    "https://aclanthology.org/2023.findings-acl.88.pdf"
+  ],
+  [
+    "A Confidence-based Partial Label Learning Model for Crowd-Annotated Named Entity Recognition",
+    "https://aclanthology.org/2023.findings-acl.89/",
+    "https://aclanthology.org/2023.findings-acl.89.pdf"
+  ],
+  [
+    "Towards Zero-Shot Persona Dialogue Generation with In-Context Learning",
+    "https://aclanthology.org/2023.findings-acl.90/",
+    "https://aclanthology.org/2023.findings-acl.90.pdf"
+  ],
+  [
+    "Grammar-based Decoding for Improved Compositional Generalization in Semantic Parsing",
+    "https://aclanthology.org/2023.findings-acl.91/",
+    "https://aclanthology.org/2023.findings-acl.91.pdf"
+  ],
+  [
+    "Exploiting Rich Textual User-Product Context for Improving Personalized Sentiment Analysis",
+    "https://aclanthology.org/2023.findings-acl.92/",
+    "https://aclanthology.org/2023.findings-acl.92.pdf"
+  ],
+  [
+    "Efficient Out-of-Domain Detection for Sequence to Sequence Models",
+    "https://aclanthology.org/2023.findings-acl.93/",
+    "https://aclanthology.org/2023.findings-acl.93.pdf"
+  ],
+  [
+    "Emotion Cause Extraction on Social Media without Human Annotation",
+    "https://aclanthology.org/2023.findings-acl.94/",
+    "https://aclanthology.org/2023.findings-acl.94.pdf"
+  ],
+  [
+    "Pseudo Outlier Exposure for Out-of-Distribution Detection using Pretrained Transformers",
+    "https://aclanthology.org/2023.findings-acl.95/",
+    "https://aclanthology.org/2023.findings-acl.95.pdf"
+  ],
+  [
+    "Adversarial Multi-task Learning for End-to-end Metaphor Detection",
+    "https://aclanthology.org/2023.findings-acl.96/",
+    "https://aclanthology.org/2023.findings-acl.96.pdf"
+  ],
+  [
+    "SERENGETI: Massively Multilingual Language Models for Africa",
+    "https://aclanthology.org/2023.findings-acl.97/",
+    "https://aclanthology.org/2023.findings-acl.97.pdf"
+  ],
+  [
+    "Prompt- and Trait Relation-aware Cross-prompt Essay Trait Scoring",
+    "https://aclanthology.org/2023.findings-acl.98/",
+    "https://aclanthology.org/2023.findings-acl.98.pdf"
+  ],
+  [
+    "AugESC: Dialogue Augmentation with Large Language Models for Emotional Support Conversation",
+    "https://aclanthology.org/2023.findings-acl.99/",
+    "https://aclanthology.org/2023.findings-acl.99.pdf"
+  ],
+  [
+    "2*n is better than n2: Decomposing Event Coreference Resolution into Two Tractable Problems",
+    "https://aclanthology.org/2023.findings-acl.100/",
+    "https://aclanthology.org/2023.findings-acl.100.pdf"
+  ],
+  [
+    "SCCS: Semantics-Consistent Cross-domain Summarization via Optimal Transport Alignment",
+    "https://aclanthology.org/2023.findings-acl.101/",
+    "https://aclanthology.org/2023.findings-acl.101.pdf"
+  ],
+  [
+    "General-to-Specific Transfer Labeling for Domain Adaptable Keyphrase Generation",
+    "https://aclanthology.org/2023.findings-acl.102/",
+    "https://aclanthology.org/2023.findings-acl.102.pdf"
+  ],
+  [
+    "E-NER: Evidential Deep Learning for Trustworthy Named Entity Recognition",
+    "https://aclanthology.org/2023.findings-acl.103/",
+    "https://aclanthology.org/2023.findings-acl.103.pdf"
+  ],
+  [
+    "LMCap: Few-shot Multilingual Image Captioning by Retrieval Augmented Language Model Prompting",
+    "https://aclanthology.org/2023.findings-acl.104/",
+    "https://aclanthology.org/2023.findings-acl.104.pdf"
+  ],
+  [
+    "Boosting Text Augmentation via Hybrid Instance Filtering Framework",
+    "https://aclanthology.org/2023.findings-acl.105/",
+    "https://aclanthology.org/2023.findings-acl.105.pdf"
+  ],
+  [
+    "Gradient-Boosted Decision Tree for Listwise Context Model in Multimodal Review Helpfulness Prediction",
+    "https://aclanthology.org/2023.findings-acl.106/",
+    "https://aclanthology.org/2023.findings-acl.106.pdf"
+  ],
+  [
+    "Extract and Attend: Improving Entity Translation in Neural Machine Translation",
+    "https://aclanthology.org/2023.findings-acl.107/",
+    "https://aclanthology.org/2023.findings-acl.107.pdf"
+  ],
+  [
+    "Real-World Compositional Generalization with Disentangled Sequence-to-Sequence Learning",
+    "https://aclanthology.org/2023.findings-acl.108/",
+    "https://aclanthology.org/2023.findings-acl.108.pdf"
+  ],
+  [
+    "Cross-lingual AMR Aligner: Paying Attention to Cross-Attention",
+    "https://aclanthology.org/2023.findings-acl.109/",
+    "https://aclanthology.org/2023.findings-acl.109.pdf"
+  ],
+  [
+    "Zero-Shot Text Classification via Self-Supervised Tuning",
+    "https://aclanthology.org/2023.findings-acl.110/",
+    "https://aclanthology.org/2023.findings-acl.110.pdf"
+  ],
+  [
+    "Logical Transformers: Infusing Logical Structures into Pre-Trained Language Models",
+    "https://aclanthology.org/2023.findings-acl.111/",
+    "https://aclanthology.org/2023.findings-acl.111.pdf"
+  ],
+  [
+    "Large Language Models with Controllable Working Memory",
+    "https://aclanthology.org/2023.findings-acl.112/",
+    "https://aclanthology.org/2023.findings-acl.112.pdf"
+  ],
+  [
+    "A Unified Evaluation Framework for Novelty Detection and Accommodation in NLP with an Instantiation in Authorship Attribution",
+    "https://aclanthology.org/2023.findings-acl.113/",
+    "https://aclanthology.org/2023.findings-acl.113.pdf"
+  ],
+  [
+    "CDA: A Contrastive Data Augmentation Method for Alzheimer’s Disease Detection",
+    "https://aclanthology.org/2023.findings-acl.114/",
+    "https://aclanthology.org/2023.findings-acl.114.pdf"
+  ],
+  [
+    "Disentangling Aspect and Stance via a Siamese Autoencoder for Aspect Clustering of Vaccination Opinions",
+    "https://aclanthology.org/2023.findings-acl.115/",
+    "https://aclanthology.org/2023.findings-acl.115.pdf"
+  ],
+  [
+    "Temporal Relation Classification using Boolean Question Answering",
+    "https://aclanthology.org/2023.findings-acl.116/",
+    "https://aclanthology.org/2023.findings-acl.116.pdf"
+  ],
+  [
+    "Are Synonym Substitution Attacks Really Synonym Substitution Attacks?",
+    "https://aclanthology.org/2023.findings-acl.117/",
+    "https://aclanthology.org/2023.findings-acl.117.pdf"
+  ],
+  [
+    "DivHSK: Diverse Headline Generation using Self-Attention based Keyword Selection",
+    "https://aclanthology.org/2023.findings-acl.118/",
+    "https://aclanthology.org/2023.findings-acl.118.pdf"
+  ],
+  [
+    "Similarity-Based Content Scoring - A more Classroom-Suitable Alternative to Instance-Based Scoring?",
+    "https://aclanthology.org/2023.findings-acl.119/",
+    "https://aclanthology.org/2023.findings-acl.119.pdf"
+  ],
+  [
+    "Pragmatic Inference with a CLIP Listener for Contrastive Captioning",
+    "https://aclanthology.org/2023.findings-acl.120/",
+    "https://aclanthology.org/2023.findings-acl.120.pdf"
+  ],
+  [
+    "A Statistical Exploration of Text Partition Into Constituents: The Case of the Priestly Source in the Books of Genesis and Exodus",
+    "https://aclanthology.org/2023.findings-acl.121/",
+    "https://aclanthology.org/2023.findings-acl.121.pdf"
+  ],
+  [
+    "A Language-First Approach for Procedure Planning",
+    "https://aclanthology.org/2023.findings-acl.122/",
+    "https://aclanthology.org/2023.findings-acl.122.pdf"
+  ],
+  [
+    "An Empirical Analysis of Leveraging Knowledge for Low-Resource Task-Oriented Semantic Parsing",
+    "https://aclanthology.org/2023.findings-acl.123/",
+    "https://aclanthology.org/2023.findings-acl.123.pdf"
+  ],
+  [
+    "TempLM: Distilling Language Models into Template-Based Generators",
+    "https://aclanthology.org/2023.findings-acl.124/",
+    "https://aclanthology.org/2023.findings-acl.124.pdf"
+  ],
+  [
+    "Incorporating Graph Information in Transformer-based AMR Parsing",
+    "https://aclanthology.org/2023.findings-acl.125/",
+    "https://aclanthology.org/2023.findings-acl.125.pdf"
+  ],
+  [
+    "Rethinking the Word-level Quality Estimation for Machine Translation from Human Judgement",
+    "https://aclanthology.org/2023.findings-acl.126/",
+    "https://aclanthology.org/2023.findings-acl.126.pdf"
+  ],
+  [
+    "PV2TEA: Patching Visual Modality to Textual-Established Information Extraction",
+    "https://aclanthology.org/2023.findings-acl.127/",
+    "https://aclanthology.org/2023.findings-acl.127.pdf"
+  ],
+  [
+    "Structural Contrastive Pretraining for Cross-Lingual Comprehension",
+    "https://aclanthology.org/2023.findings-acl.128/",
+    "https://aclanthology.org/2023.findings-acl.128.pdf"
+  ],
+  [
+    "Reducing Sensitivity on Speaker Names for Text Generation from Dialogues",
+    "https://aclanthology.org/2023.findings-acl.129/",
+    "https://aclanthology.org/2023.findings-acl.129.pdf"
+  ],
+  [
+    "Topic and Style-aware Transformer for Multimodal Emotion Recognition",
+    "https://aclanthology.org/2023.findings-acl.130/",
+    "https://aclanthology.org/2023.findings-acl.130.pdf"
+  ],
+  [
+    "Exploiting Abstract Meaning Representation for Open-Domain Question Answering",
+    "https://aclanthology.org/2023.findings-acl.131/",
+    "https://aclanthology.org/2023.findings-acl.131.pdf"
+  ],
+  [
+    "Nonparametric Masked Language Modeling",
+    "https://aclanthology.org/2023.findings-acl.132/",
+    "https://aclanthology.org/2023.findings-acl.132.pdf"
+  ],
+  [
+    "Pay More Attention to Relation Exploration for Knowledge Base Question Answering",
+    "https://aclanthology.org/2023.findings-acl.133/",
+    "https://aclanthology.org/2023.findings-acl.133.pdf"
+  ],
+  [
+    "Speaking Multiple Languages Affects the Moral Bias of Language Models",
+    "https://aclanthology.org/2023.findings-acl.134/",
+    "https://aclanthology.org/2023.findings-acl.134.pdf"
+  ],
+  [
+    "Retrieving Relevant Context to Align Representations for Cross-lingual Event Detection",
+    "https://aclanthology.org/2023.findings-acl.135/",
+    "https://aclanthology.org/2023.findings-acl.135.pdf"
+  ],
+  [
+    "NormNet: Normalize Noun Phrases for More Robust NLP",
+    "https://aclanthology.org/2023.findings-acl.136/",
+    "https://aclanthology.org/2023.findings-acl.136.pdf"
+  ],
+  [
+    "Cross Encoding as Augmentation: Towards Effective Educational Text Classification",
+    "https://aclanthology.org/2023.findings-acl.137/",
+    "https://aclanthology.org/2023.findings-acl.137.pdf"
+  ],
+  [
+    "Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding",
+    "https://aclanthology.org/2023.findings-acl.138/",
+    "https://aclanthology.org/2023.findings-acl.138.pdf"
+  ],
+  [
+    "This prompt is measuring <mask>: evaluating bias evaluation in language models",
+    "https://aclanthology.org/2023.findings-acl.139/",
+    "https://aclanthology.org/2023.findings-acl.139.pdf"
+  ],
+  [
+    "Towards Open Environment Intent Prediction",
+    "https://aclanthology.org/2023.findings-acl.140/",
+    "https://aclanthology.org/2023.findings-acl.140.pdf"
+  ],
+  [
+    "Teamwork Is Not Always Good: An Empirical Study of Classifier Drift in Class-incremental Information Extraction",
+    "https://aclanthology.org/2023.findings-acl.141/",
+    "https://aclanthology.org/2023.findings-acl.141.pdf"
+  ],
+  [
+    "C-XNLI: Croatian Extension of XNLI Dataset",
+    "https://aclanthology.org/2023.findings-acl.142/",
+    "https://aclanthology.org/2023.findings-acl.142.pdf"
+  ],
+  [
+    "AVATAR: A Parallel Corpus for Java-Python Program Translation",
+    "https://aclanthology.org/2023.findings-acl.143/",
+    "https://aclanthology.org/2023.findings-acl.143.pdf"
+  ],
+  [
+    "On Dataset Transferability in Active Learning for Transformers",
+    "https://aclanthology.org/2023.findings-acl.144/",
+    "https://aclanthology.org/2023.findings-acl.144.pdf"
+  ],
+  [
+    "Structured Persuasive Writing Support in Legal Education: A Model and Tool for German Legal Case Solutions",
+    "https://aclanthology.org/2023.findings-acl.145/",
+    "https://aclanthology.org/2023.findings-acl.145.pdf"
+  ],
+  [
+    "Characterizing the Impacts of Instances on Robustness",
+    "https://aclanthology.org/2023.findings-acl.146/",
+    "https://aclanthology.org/2023.findings-acl.146.pdf"
+  ],
+  [
+    "Generate then Select: Open-ended Visual Question Answering Guided by World Knowledge",
+    "https://aclanthology.org/2023.findings-acl.147/",
+    "https://aclanthology.org/2023.findings-acl.147.pdf"
+  ],
+  [
+    "Hence, Socrates is mortal: A Benchmark for Natural Language Syllogistic Reasoning",
+    "https://aclanthology.org/2023.findings-acl.148/",
+    "https://aclanthology.org/2023.findings-acl.148.pdf"
+  ],
+  [
+    "Categorial grammar induction from raw data",
+    "https://aclanthology.org/2023.findings-acl.149/",
+    "https://aclanthology.org/2023.findings-acl.149.pdf"
+  ],
+  [
+    "Attribute Controlled Dialogue Prompting",
+    "https://aclanthology.org/2023.findings-acl.150/",
+    "https://aclanthology.org/2023.findings-acl.150.pdf"
+  ],
+  [
+    "Open-World Factually Consistent Question Generation",
+    "https://aclanthology.org/2023.findings-acl.151/",
+    "https://aclanthology.org/2023.findings-acl.151.pdf"
+  ],
+  [
+    "Contrastive Learning of Sociopragmatic Meaning in Social Media",
+    "https://aclanthology.org/2023.findings-acl.152/",
+    "https://aclanthology.org/2023.findings-acl.152.pdf"
+  ],
+  [
+    "Noisy Positive-Unlabeled Learning with Self-Training for Speculative Knowledge Graph Reasoning",
+    "https://aclanthology.org/2023.findings-acl.153/",
+    "https://aclanthology.org/2023.findings-acl.153.pdf"
+  ],
+  [
+    "ACROSS: An Alignment-based Framework for Low-Resource Many-to-One Cross-Lingual Summarization",
+    "https://aclanthology.org/2023.findings-acl.154/",
+    "https://aclanthology.org/2023.findings-acl.154.pdf"
+  ],
+  [
+    "RFiD: Towards Rational Fusion-in-Decoder for Open-Domain Question Answering",
+    "https://aclanthology.org/2023.findings-acl.155/",
+    "https://aclanthology.org/2023.findings-acl.155.pdf"
+  ],
+  [
+    "Unsupervised Keyphrase Extraction by Learning Neural Keyphrase Set Function",
+    "https://aclanthology.org/2023.findings-acl.156/",
+    "https://aclanthology.org/2023.findings-acl.156.pdf"
+  ],
+  [
+    "Diffusion Theory as a Scalpel: Detecting and Purifying Poisonous Dimensions in Pre-trained Language Models Caused by Backdoor or Bias",
+    "https://aclanthology.org/2023.findings-acl.157/",
+    "https://aclanthology.org/2023.findings-acl.157.pdf"
+  ],
+  [
+    "Retrieving Multimodal Prompts for Generative Visual Question Answering",
+    "https://aclanthology.org/2023.findings-acl.158/",
+    "https://aclanthology.org/2023.findings-acl.158.pdf"
+  ],
+  [
+    "InfoSync: Information Synchronization across Multilingual Semi-structured Tables",
+    "https://aclanthology.org/2023.findings-acl.159/",
+    "https://aclanthology.org/2023.findings-acl.159.pdf"
+  ],
+  [
+    "T2IAT: Measuring Valence and Stereotypical Biases in Text-to-Image Generation",
+    "https://aclanthology.org/2023.findings-acl.160/",
+    "https://aclanthology.org/2023.findings-acl.160.pdf"
+  ],
+  [
+    "An Investigation of Evaluation Methods in Automatic Medical Note Generation",
+    "https://aclanthology.org/2023.findings-acl.161/",
+    "https://aclanthology.org/2023.findings-acl.161.pdf"
+  ],
+  [
+    "Rethinking Translation Memory Augmented Neural Machine Translation",
+    "https://aclanthology.org/2023.findings-acl.162/",
+    "https://aclanthology.org/2023.findings-acl.162.pdf"
+  ],
+  [
+    "Controlling Styles in Neural Machine Translation with Activation Prompt",
+    "https://aclanthology.org/2023.findings-acl.163/",
+    "https://aclanthology.org/2023.findings-acl.163.pdf"
+  ],
+  [
+    "Focusing, Bridging and Prompting for Few-shot Nested Named Entity Recognition",
+    "https://aclanthology.org/2023.findings-acl.164/",
+    "https://aclanthology.org/2023.findings-acl.164.pdf"
+  ],
+  [
+    "Together We Make Sense–Learning Meta-Sense Embeddings",
+    "https://aclanthology.org/2023.findings-acl.165/",
+    "https://aclanthology.org/2023.findings-acl.165.pdf"
+  ],
+  [
+    "Multimodal Prompt Learning for Product Title Generation with Extremely Limited Labels",
+    "https://aclanthology.org/2023.findings-acl.166/",
+    "https://aclanthology.org/2023.findings-acl.166.pdf"
+  ],
+  [
+    "Large Language Models are Built-in Autoregressive Search Engines",
+    "https://aclanthology.org/2023.findings-acl.167/",
+    "https://aclanthology.org/2023.findings-acl.167.pdf"
+  ],
+  [
+    "Beyond Triplet: Leveraging the Most Data for Multimodal Machine Translation",
+    "https://aclanthology.org/2023.findings-acl.168/",
+    "https://aclanthology.org/2023.findings-acl.168.pdf"
+  ],
+  [
+    "From chocolate bunny to chocolate crocodile: Do Language Models Understand Noun Compounds?",
+    "https://aclanthology.org/2023.findings-acl.169/",
+    "https://aclanthology.org/2023.findings-acl.169.pdf"
+  ],
+  [
+    "Measuring Intersectional Biases in Historical Documents",
+    "https://aclanthology.org/2023.findings-acl.170/",
+    "https://aclanthology.org/2023.findings-acl.170.pdf"
+  ],
+  [
+    "Incomplete Utterance Rewriting by A Two-Phase Locate-and-Fill Regime",
+    "https://aclanthology.org/2023.findings-acl.171/",
+    "https://aclanthology.org/2023.findings-acl.171.pdf"
+  ],
+  [
+    "Exploring Variation of Results from Different Experimental Conditions",
+    "https://aclanthology.org/2023.findings-acl.172/",
+    "https://aclanthology.org/2023.findings-acl.172.pdf"
+  ],
+  [
+    "Playing the Part of the Sharp Bully: Generating Adversarial Examples for Implicit Hate Speech Detection",
+    "https://aclanthology.org/2023.findings-acl.173/",
+    "https://aclanthology.org/2023.findings-acl.173.pdf"
+  ],
+  [
+    "X-RiSAWOZ: High-Quality End-to-End Multilingual Dialogue Datasets and Few-shot Agents",
+    "https://aclanthology.org/2023.findings-acl.174/",
+    "https://aclanthology.org/2023.findings-acl.174.pdf"
+  ],
+  [
+    "Subword Segmental Machine Translation: Unifying Segmentation and Target Sentence Generation",
+    "https://aclanthology.org/2023.findings-acl.175/",
+    "https://aclanthology.org/2023.findings-acl.175.pdf"
+  ],
+  [
+    "Measuring and Mitigating Local Instability in Deep Neural Networks",
+    "https://aclanthology.org/2023.findings-acl.176/",
+    "https://aclanthology.org/2023.findings-acl.176.pdf"
+  ],
+  [
+    "What Knowledge Is Needed? Towards Explainable Memory for kNN-MT Domain Adaptation",
+    "https://aclanthology.org/2023.findings-acl.177/",
+    "https://aclanthology.org/2023.findings-acl.177.pdf"
+  ],
+  [
+    "Measuring Your ASTE Models in The Wild: A Diversified Multi-domain Dataset For Aspect Sentiment Triplet Extraction",
+    "https://aclanthology.org/2023.findings-acl.178/",
+    "https://aclanthology.org/2023.findings-acl.178.pdf"
+  ],
+  [
+    "Grounding the Lexical Substitution Task in Entailment",
+    "https://aclanthology.org/2023.findings-acl.179/",
+    "https://aclanthology.org/2023.findings-acl.179.pdf"
+  ],
+  [
+    "Operator Selection and Ordering in a Pipeline Approach to Efficiency Optimizations for Transformers",
+    "https://aclanthology.org/2023.findings-acl.180/",
+    "https://aclanthology.org/2023.findings-acl.180.pdf"
+  ],
+  [
+    "AraMUS: Pushing the Limits of Data and Model Scale for Arabic Natural Language Processing",
+    "https://aclanthology.org/2023.findings-acl.181/",
+    "https://aclanthology.org/2023.findings-acl.181.pdf"
+  ],
+  [
+    "Leveraging Explicit Procedural Instructions for Data-Efficient Action Prediction",
+    "https://aclanthology.org/2023.findings-acl.182/",
+    "https://aclanthology.org/2023.findings-acl.182.pdf"
+  ],
+  [
+    "Quantifying Train-Evaluation Overlap with Nearest Neighbors",
+    "https://aclanthology.org/2023.findings-acl.183/",
+    "https://aclanthology.org/2023.findings-acl.183.pdf"
+  ],
+  [
+    "Unsupervised Mapping of Arguments of Deverbal Nouns to Their Corresponding Verbal Labels",
+    "https://aclanthology.org/2023.findings-acl.184/",
+    "https://aclanthology.org/2023.findings-acl.184.pdf"
+  ],
+  [
+    "The Decades Progress on Code-Switching Research in NLP: A Systematic Survey on Trends and Challenges",
+    "https://aclanthology.org/2023.findings-acl.185/",
+    "https://aclanthology.org/2023.findings-acl.185.pdf"
+  ],
+  [
+    "Learning to Predict Persona Information for Dialogue Personalization without Explicit Persona Description",
+    "https://aclanthology.org/2023.findings-acl.186/",
+    "https://aclanthology.org/2023.findings-acl.186.pdf"
+  ],
+  [
+    "Automated Refugee Case Analysis: An NLP Pipeline for Supporting Legal Practitioners",
+    "https://aclanthology.org/2023.findings-acl.187/",
+    "https://aclanthology.org/2023.findings-acl.187.pdf"
+  ],
+  [
+    "Recurrent Attention Networks for Long-text Modeling",
+    "https://aclanthology.org/2023.findings-acl.188/",
+    "https://aclanthology.org/2023.findings-acl.188.pdf"
+  ],
+  [
+    "Exploring the Relationship between Alignment and Cross-lingual Transfer in Multilingual Transformers",
+    "https://aclanthology.org/2023.findings-acl.189/",
+    "https://aclanthology.org/2023.findings-acl.189.pdf"
+  ],
+  [
+    "Aerial Vision-and-Dialog Navigation",
+    "https://aclanthology.org/2023.findings-acl.190/",
+    "https://aclanthology.org/2023.findings-acl.190.pdf"
+  ],
+  [
+    "Improved Logical Reasoning of Language Models via Differentiable Symbolic Programming",
+    "https://aclanthology.org/2023.findings-acl.191/",
+    "https://aclanthology.org/2023.findings-acl.191.pdf"
+  ],
+  [
+    "B2T Connection: Serving Stability and Performance in Deep Transformers",
+    "https://aclanthology.org/2023.findings-acl.192/",
+    "https://aclanthology.org/2023.findings-acl.192.pdf"
+  ],
+  [
+    "Boosting Zero-shot Cross-lingual Retrieval by Training on Artificially Code-Switched Data",
+    "https://aclanthology.org/2023.findings-acl.193/",
+    "https://aclanthology.org/2023.findings-acl.193.pdf"
+  ],
+  [
+    "Domain-specific Attention with Distributional Signatures for Multi-Domain End-to-end Task-Oriented Dialogue",
+    "https://aclanthology.org/2023.findings-acl.194/",
+    "https://aclanthology.org/2023.findings-acl.194.pdf"
+  ],
+  [
+    "CKDST: Comprehensively and Effectively Distill Knowledge from Machine Translation to End-to-End Speech Translation",
+    "https://aclanthology.org/2023.findings-acl.195/",
+    "https://aclanthology.org/2023.findings-acl.195.pdf"
+  ],
+  [
+    "Follow the leader(board) with confidence: Estimating p-values from a single test set with item and response variance",
+    "https://aclanthology.org/2023.findings-acl.196/",
+    "https://aclanthology.org/2023.findings-acl.196.pdf"
+  ],
+  [
+    "Parallel Data Helps Neural Entity Coreference Resolution",
+    "https://aclanthology.org/2023.findings-acl.197/",
+    "https://aclanthology.org/2023.findings-acl.197.pdf"
+  ],
+  [
+    "Towards Open-Domain Twitter User Profile Inference",
+    "https://aclanthology.org/2023.findings-acl.198/",
+    "https://aclanthology.org/2023.findings-acl.198.pdf"
+  ],
+  [
+    "Eliciting Affective Events from Language Models by Multiple View Co-prompting",
+    "https://aclanthology.org/2023.findings-acl.199/",
+    "https://aclanthology.org/2023.findings-acl.199.pdf"
+  ],
+  [
+    "ZeroAE: Pre-trained Language Model based Autoencoder for Transductive Zero-shot Text Classification",
+    "https://aclanthology.org/2023.findings-acl.200/",
+    "https://aclanthology.org/2023.findings-acl.200.pdf"
+  ],
+  [
+    "PRAM: An End-to-end Prototype-based Representation Alignment Model for Zero-resource Cross-lingual Named Entity Recognition",
+    "https://aclanthology.org/2023.findings-acl.201/",
+    "https://aclanthology.org/2023.findings-acl.201.pdf"
+  ],
+  [
+    "It Takes Two to Tango: Navigating Conceptualizations of NLP Tasks and Measurements of Performance",
+    "https://aclanthology.org/2023.findings-acl.202/",
+    "https://aclanthology.org/2023.findings-acl.202.pdf"
+  ],
+  [
+    "Task-adaptive Label Dependency Transfer for Few-shot Named Entity Recognition",
+    "https://aclanthology.org/2023.findings-acl.203/",
+    "https://aclanthology.org/2023.findings-acl.203.pdf"
+  ],
+  [
+    "WYWEB: A NLP Evaluation Benchmark For Classical Chinese",
+    "https://aclanthology.org/2023.findings-acl.204/",
+    "https://aclanthology.org/2023.findings-acl.204.pdf"
+  ],
+  [
+    "A Fused Gromov-Wasserstein Framework for Unsupervised Knowledge Graph Entity Alignment",
+    "https://aclanthology.org/2023.findings-acl.205/",
+    "https://aclanthology.org/2023.findings-acl.205.pdf"
+  ],
+  [
+    "Two Examples are Better than One: Context Regularization for Gradient-based Prompt Tuning",
+    "https://aclanthology.org/2023.findings-acl.206/",
+    "https://aclanthology.org/2023.findings-acl.206.pdf"
+  ],
+  [
+    "An Investigation of Noise in Morphological Inflection",
+    "https://aclanthology.org/2023.findings-acl.207/",
+    "https://aclanthology.org/2023.findings-acl.207.pdf"
+  ],
+  [
+    "Graph Reasoning for Question Answering with Triplet Retrieval",
+    "https://aclanthology.org/2023.findings-acl.208/",
+    "https://aclanthology.org/2023.findings-acl.208.pdf"
+  ],
+  [
+    "End-to-End Argument Mining over Varying Rhetorical Structures",
+    "https://aclanthology.org/2023.findings-acl.209/",
+    "https://aclanthology.org/2023.findings-acl.209.pdf"
+  ],
+  [
+    "Unsupervised Task Graph Generation from Instructional Video Transcripts",
+    "https://aclanthology.org/2023.findings-acl.210/",
+    "https://aclanthology.org/2023.findings-acl.210.pdf"
+  ],
+  [
+    "Exploiting Hierarchically Structured Categories in Fine-grained Chinese Named Entity Recognition",
+    "https://aclanthology.org/2023.findings-acl.211/",
+    "https://aclanthology.org/2023.findings-acl.211.pdf"
+  ],
+  [
+    "Adversarial Textual Robustness on Visual Dialog",
+    "https://aclanthology.org/2023.findings-acl.212/",
+    "https://aclanthology.org/2023.findings-acl.212.pdf"
+  ],
+  [
+    "Language Model Analysis for Ontology Subsumption Inference",
+    "https://aclanthology.org/2023.findings-acl.213/",
+    "https://aclanthology.org/2023.findings-acl.213.pdf"
+  ],
+  [
+    "Exploring Automatically Perturbed Natural Language Explanations in Relation Extraction",
+    "https://aclanthology.org/2023.findings-acl.214/",
+    "https://aclanthology.org/2023.findings-acl.214.pdf"
+  ],
+  [
+    "Varta: A Large-Scale Headline-Generation Dataset for Indic Languages",
+    "https://aclanthology.org/2023.findings-acl.215/",
+    "https://aclanthology.org/2023.findings-acl.215.pdf"
+  ],
+  [
+    "Better Zero-Shot Reasoning with Self-Adaptive Prompting",
+    "https://aclanthology.org/2023.findings-acl.216/",
+    "https://aclanthology.org/2023.findings-acl.216.pdf"
+  ],
+  [
+    "Multimodal Recommendation Dialog with Subjective Preference: A New Challenge and Benchmark",
+    "https://aclanthology.org/2023.findings-acl.217/",
+    "https://aclanthology.org/2023.findings-acl.217.pdf"
+  ],
+  [
+    "ANALOGICAL - A Novel Benchmark for Long Text Analogy Evaluation in Large Language Models",
+    "https://aclanthology.org/2023.findings-acl.218/",
+    "https://aclanthology.org/2023.findings-acl.218.pdf"
+  ],
+  [
+    "Financial Numeric Extreme Labelling: A dataset and benchmarking",
+    "https://aclanthology.org/2023.findings-acl.219/",
+    "https://aclanthology.org/2023.findings-acl.219.pdf"
+  ],
+  [
+    "Multilingual Summarization with Factual Consistency Evaluation",
+    "https://aclanthology.org/2023.findings-acl.220/",
+    "https://aclanthology.org/2023.findings-acl.220.pdf"
+  ],
+  [
+    "Enhancing Out-of-Vocabulary Estimation with Subword Attention",
+    "https://aclanthology.org/2023.findings-acl.221/",
+    "https://aclanthology.org/2023.findings-acl.221.pdf"
+  ],
+  [
+    "Encoder and Decoder, Not One Less for Pre-trained Language Model Sponsored NMT",
+    "https://aclanthology.org/2023.findings-acl.222/",
+    "https://aclanthology.org/2023.findings-acl.222.pdf"
+  ],
+  [
+    "TransGEC: Improving Grammatical Error Correction with Translationese",
+    "https://aclanthology.org/2023.findings-acl.223/",
+    "https://aclanthology.org/2023.findings-acl.223.pdf"
+  ],
+  [
+    "NewsDialogues: Towards Proactive News Grounded Conversation",
+    "https://aclanthology.org/2023.findings-acl.224/",
+    "https://aclanthology.org/2023.findings-acl.224.pdf"
+  ],
+  [
+    "Task-aware Retrieval with Instructions",
+    "https://aclanthology.org/2023.findings-acl.225/",
+    "https://aclanthology.org/2023.findings-acl.225.pdf"
+  ],
+  [
+    "Non-Repeatable Experiments and Non-Reproducible Results: The Reproducibility Crisis in Human Evaluation in NLP",
+    "https://aclanthology.org/2023.findings-acl.226/",
+    "https://aclanthology.org/2023.findings-acl.226.pdf"
+  ],
+  [
+    "Define, Evaluate, and Improve Task-Oriented Cognitive Capabilities for Instruction Generation Models",
+    "https://aclanthology.org/2023.findings-acl.227/",
+    "https://aclanthology.org/2023.findings-acl.227.pdf"
+  ],
+  [
+    "Robustness of Multi-Source MT to Transcription Errors",
+    "https://aclanthology.org/2023.findings-acl.228/",
+    "https://aclanthology.org/2023.findings-acl.228.pdf"
+  ],
+  [
+    "Not The End of Story: An Evaluation of ChatGPT-Driven Vulnerability Description Mappings",
+    "https://aclanthology.org/2023.findings-acl.229/",
+    "https://aclanthology.org/2023.findings-acl.229.pdf"
+  ],
+  [
+    "Multi3NLU++: A Multilingual, Multi-Intent, Multi-Domain Dataset for Natural Language Understanding in Task-Oriented Dialogue",
+    "https://aclanthology.org/2023.findings-acl.230/",
+    "https://aclanthology.org/2023.findings-acl.230.pdf"
+  ],
+  [
+    "A Robust Information-Masking Approach for Domain Counterfactual Generation",
+    "https://aclanthology.org/2023.findings-acl.231/",
+    "https://aclanthology.org/2023.findings-acl.231.pdf"
+  ],
+  [
+    "Misleading Relation Classifiers by Substituting Words in Texts",
+    "https://aclanthology.org/2023.findings-acl.232/",
+    "https://aclanthology.org/2023.findings-acl.232.pdf"
+  ],
+  [
+    "Automatic Table Union Search with Tabular Representation Learning",
+    "https://aclanthology.org/2023.findings-acl.233/",
+    "https://aclanthology.org/2023.findings-acl.233.pdf"
+  ],
+  [
+    "Bidirectional Transformer Reranker for Grammatical Error Correction",
+    "https://aclanthology.org/2023.findings-acl.234/",
+    "https://aclanthology.org/2023.findings-acl.234.pdf"
+  ],
+  [
+    "Not Enough Data to Pre-train Your Language Model? MT to the Rescue!",
+    "https://aclanthology.org/2023.findings-acl.235/",
+    "https://aclanthology.org/2023.findings-acl.235.pdf"
+  ],
+  [
+    "UMSE: Unified Multi-scenario Summarization Evaluation",
+    "https://aclanthology.org/2023.findings-acl.236/",
+    "https://aclanthology.org/2023.findings-acl.236.pdf"
+  ],
+  [
+    "Maximum Entropy Loss, the Silver Bullet Targeting Backdoor Attacks in Pre-trained Language Models",
+    "https://aclanthology.org/2023.findings-acl.237/",
+    "https://aclanthology.org/2023.findings-acl.237.pdf"
+  ],
+  [
+    "Improving Named Entity Recognition via Bridge-based Domain Adaptation",
+    "https://aclanthology.org/2023.findings-acl.238/",
+    "https://aclanthology.org/2023.findings-acl.238.pdf"
+  ],
+  [
+    "SANTA: Separate Strategies for Inaccurate and Incomplete Annotation Noise in Distantly-Supervised Named Entity Recognition",
+    "https://aclanthology.org/2023.findings-acl.239/",
+    "https://aclanthology.org/2023.findings-acl.239.pdf"
+  ],
+  [
+    "The State of Profanity Obfuscation in Natural Language Processing Scientific Publications",
+    "https://aclanthology.org/2023.findings-acl.240/",
+    "https://aclanthology.org/2023.findings-acl.240.pdf"
+  ],
+  [
+    "Teacher and Student Models of Offensive Language in Social Media",
+    "https://aclanthology.org/2023.findings-acl.241/",
+    "https://aclanthology.org/2023.findings-acl.241.pdf"
+  ],
+  [
+    "A Simple Yet Strong Domain-Agnostic De-bias Method for Zero-Shot Sentiment Classification",
+    "https://aclanthology.org/2023.findings-acl.242/",
+    "https://aclanthology.org/2023.findings-acl.242.pdf"
+  ],
+  [
+    "Balancing the Effect of Training Dataset Distribution of Multiple Styles for Multi-Style Text Transfer",
+    "https://aclanthology.org/2023.findings-acl.243/",
+    "https://aclanthology.org/2023.findings-acl.243.pdf"
+  ],
+  [
+    "A Benchmark on Extremely Weakly Supervised Text Classification: Reconcile Seed Matching and Prompting Approaches",
+    "https://aclanthology.org/2023.findings-acl.244/",
+    "https://aclanthology.org/2023.findings-acl.244.pdf"
+  ],
+  [
+    "Ambiguity Meets Uncertainty: Investigating Uncertainty Estimation for Word Sense Disambiguation",
+    "https://aclanthology.org/2023.findings-acl.245/",
+    "https://aclanthology.org/2023.findings-acl.245.pdf"
+  ],
+  [
+    "Zemi: Learning Zero-Shot Semi-Parametric Language Models from Multiple Tasks",
+    "https://aclanthology.org/2023.findings-acl.246/",
+    "https://aclanthology.org/2023.findings-acl.246.pdf"
+  ],
+  [
+    "Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers",
+    "https://aclanthology.org/2023.findings-acl.247/",
+    "https://aclanthology.org/2023.findings-acl.247.pdf"
+  ],
+  [
+    "Dramatic Conversation Disentanglement",
+    "https://aclanthology.org/2023.findings-acl.248/",
+    "https://aclanthology.org/2023.findings-acl.248.pdf"
+  ],
+  [
+    "Injecting Comparison Skills in Task-Oriented Dialogue Systems for Database Search Results Disambiguation",
+    "https://aclanthology.org/2023.findings-acl.249/",
+    "https://aclanthology.org/2023.findings-acl.249.pdf"
+  ],
+  [
+    "Emergent Modularity in Pre-trained Transformers",
+    "https://aclanthology.org/2023.findings-acl.250/",
+    "https://aclanthology.org/2023.findings-acl.250.pdf"
+  ],
+  [
+    "Universal Information Extraction with Meta-Pretrained Self-Retrieval",
+    "https://aclanthology.org/2023.findings-acl.251/",
+    "https://aclanthology.org/2023.findings-acl.251.pdf"
+  ],
+  [
+    "SETI: Systematicity Evaluation of Textual Inference",
+    "https://aclanthology.org/2023.findings-acl.252/",
+    "https://aclanthology.org/2023.findings-acl.252.pdf"
+  ],
+  [
+    "Coarse-to-fine Few-shot Learning for Named Entity Recognition",
+    "https://aclanthology.org/2023.findings-acl.253/",
+    "https://aclanthology.org/2023.findings-acl.253.pdf"
+  ],
+  [
+    "Self-Evolution Learning for Discriminative Language Model Pretraining",
+    "https://aclanthology.org/2023.findings-acl.254/",
+    "https://aclanthology.org/2023.findings-acl.254.pdf"
+  ],
+  [
+    "QueryForm: A Simple Zero-shot Form Entity Query Framework",
+    "https://aclanthology.org/2023.findings-acl.255/",
+    "https://aclanthology.org/2023.findings-acl.255.pdf"
+  ],
+  [
+    "Search-Oriented Conversational Query Editing",
+    "https://aclanthology.org/2023.findings-acl.256/",
+    "https://aclanthology.org/2023.findings-acl.256.pdf"
+  ],
+  [
+    "TAPIR: Learning Adaptive Revision for Incremental Natural Language Understanding with a Two-Pass Model",
+    "https://aclanthology.org/2023.findings-acl.257/",
+    "https://aclanthology.org/2023.findings-acl.257.pdf"
+  ],
+  [
+    "Speaking the Language of Your Listener: Audience-Aware Adaptation via Plug-and-Play Theory of Mind",
+    "https://aclanthology.org/2023.findings-acl.258/",
+    "https://aclanthology.org/2023.findings-acl.258.pdf"
+  ],
+  [
+    "A Semi-Autoregressive Graph Generative Model for Dependency Graph Parsing",
+    "https://aclanthology.org/2023.findings-acl.259/",
+    "https://aclanthology.org/2023.findings-acl.259.pdf"
+  ],
+  [
+    "AMR-TST: Abstract Meaning Representation-based Text Style Transfer",
+    "https://aclanthology.org/2023.findings-acl.260/",
+    "https://aclanthology.org/2023.findings-acl.260.pdf"
+  ],
+  [
+    "Understanding the Cooking Process with English Recipe Text",
+    "https://aclanthology.org/2023.findings-acl.261/",
+    "https://aclanthology.org/2023.findings-acl.261.pdf"
+  ],
+  [
+    "Follow the Wisdom of the Crowd: Effective Text Generation via Minimum Bayes Risk Decoding",
+    "https://aclanthology.org/2023.findings-acl.262/",
+    "https://aclanthology.org/2023.findings-acl.262.pdf"
+  ],
+  [
+    "RobustQA: Benchmarking the Robustness of Domain Adaptation for Open-Domain Question Answering",
+    "https://aclanthology.org/2023.findings-acl.263/",
+    "https://aclanthology.org/2023.findings-acl.263.pdf"
+  ],
+  [
+    "SenteCon: Leveraging Lexicons to Learn Human-Interpretable Language Representations",
+    "https://aclanthology.org/2023.findings-acl.264/",
+    "https://aclanthology.org/2023.findings-acl.264.pdf"
+  ],
+  [
+    "Reinforcement Learning for Topic Models",
+    "https://aclanthology.org/2023.findings-acl.265/",
+    "https://aclanthology.org/2023.findings-acl.265.pdf"
+  ],
+  [
+    "Contextualized Soft Prompts for Extraction of Event Arguments",
+    "https://aclanthology.org/2023.findings-acl.266/",
+    "https://aclanthology.org/2023.findings-acl.266.pdf"
+  ],
+  [
+    "TextVerifier: Robustness Verification for Textual Classifiers with Certifiable Guarantees",
+    "https://aclanthology.org/2023.findings-acl.267/",
+    "https://aclanthology.org/2023.findings-acl.267.pdf"
+  ],
+  [
+    "OASum: Large-Scale Open Domain Aspect-based Summarization",
+    "https://aclanthology.org/2023.findings-acl.268/",
+    "https://aclanthology.org/2023.findings-acl.268.pdf"
+  ],
+  [
+    "On the Limitations of Simulating Active Learning",
+    "https://aclanthology.org/2023.findings-acl.269/",
+    "https://aclanthology.org/2023.findings-acl.269.pdf"
+  ],
+  [
+    "Towards Alleviating the Object Bias in Prompt Tuning-based Factual Knowledge Extraction",
+    "https://aclanthology.org/2023.findings-acl.270/",
+    "https://aclanthology.org/2023.findings-acl.270.pdf"
+  ],
+  [
+    "vONTSS: vMF based semi-supervised neural topic modeling with optimal transport",
+    "https://aclanthology.org/2023.findings-acl.271/",
+    "https://aclanthology.org/2023.findings-acl.271.pdf"
+  ],
+  [
+    "Bias Beyond English: Counterfactual Tests for Bias in Sentiment Analysis in Four Languages",
+    "https://aclanthology.org/2023.findings-acl.272/",
+    "https://aclanthology.org/2023.findings-acl.272.pdf"
+  ],
+  [
+    "Complementary Explanations for Effective In-Context Learning",
+    "https://aclanthology.org/2023.findings-acl.273/",
+    "https://aclanthology.org/2023.findings-acl.273.pdf"
+  ],
+  [
+    "MISMATCH: Fine-grained Evaluation of Machine-generated Text with Mismatch Error Types",
+    "https://aclanthology.org/2023.findings-acl.274/",
+    "https://aclanthology.org/2023.findings-acl.274.pdf"
+  ],
+  [
+    "RHO: Reducing Hallucination in Open-domain Dialogues with Knowledge Grounding",
+    "https://aclanthology.org/2023.findings-acl.275/",
+    "https://aclanthology.org/2023.findings-acl.275.pdf"
+  ],
+  [
+    "Transformer Language Models Handle Word Frequency in Prediction Head",
+    "https://aclanthology.org/2023.findings-acl.276/",
+    "https://aclanthology.org/2023.findings-acl.276.pdf"
+  ],
+  [
+    "Prompted LLMs as Chatbot Modules for Long Open-domain Conversation",
+    "https://aclanthology.org/2023.findings-acl.277/",
+    "https://aclanthology.org/2023.findings-acl.277.pdf"
+  ],
+  [
+    "Prompt to be Consistent is Better than Self-Consistent? Few-Shot and Zero-Shot Fact Verification with Pre-trained Language Models",
+    "https://aclanthology.org/2023.findings-acl.278/",
+    "https://aclanthology.org/2023.findings-acl.278.pdf"
+  ],
+  [
+    "Model Analysis & Evaluation for Ambiguous Question Answering",
+    "https://aclanthology.org/2023.findings-acl.279/",
+    "https://aclanthology.org/2023.findings-acl.279.pdf"
+  ],
+  [
+    "Debiasing should be Good and Bad: Measuring the Consistency of Debiasing Techniques in Language Models",
+    "https://aclanthology.org/2023.findings-acl.280/",
+    "https://aclanthology.org/2023.findings-acl.280.pdf"
+  ],
+  [
+    "Critic-Guided Decoding for Controlled Text Generation",
+    "https://aclanthology.org/2023.findings-acl.281/",
+    "https://aclanthology.org/2023.findings-acl.281.pdf"
+  ],
+  [
+    "MedNgage: A Dataset for Understanding Engagement in Patient-Nurse Conversations",
+    "https://aclanthology.org/2023.findings-acl.282/",
+    "https://aclanthology.org/2023.findings-acl.282.pdf"
+  ],
+  [
+    "SEAG: Structure-Aware Event Causality Generation",
+    "https://aclanthology.org/2023.findings-acl.283/",
+    "https://aclanthology.org/2023.findings-acl.283.pdf"
+  ],
+  [
+    "Large Language Models Can be Lazy Learners: Analyze Shortcuts in In-Context Learning",
+    "https://aclanthology.org/2023.findings-acl.284/",
+    "https://aclanthology.org/2023.findings-acl.284.pdf"
+  ],
+  [
+    "A Two-Stage Decoder for Efficient ICD Coding",
+    "https://aclanthology.org/2023.findings-acl.285/",
+    "https://aclanthology.org/2023.findings-acl.285.pdf"
+  ],
+  [
+    "Asymmetric feature interaction for interpreting model predictions",
+    "https://aclanthology.org/2023.findings-acl.286/",
+    "https://aclanthology.org/2023.findings-acl.286.pdf"
+  ],
+  [
+    "Disagreement Matters: Preserving Label Diversity by Jointly Modeling Item and Annotator Label Distributions with DisCo",
+    "https://aclanthology.org/2023.findings-acl.287/",
+    "https://aclanthology.org/2023.findings-acl.287.pdf"
+  ],
+  [
+    "Domain Aligned Prefix Averaging for Domain Generalization in Abstractive Summarization",
+    "https://aclanthology.org/2023.findings-acl.288/",
+    "https://aclanthology.org/2023.findings-acl.288.pdf"
+  ],
+  [
+    "ClaimDiff: Comparing and Contrasting Claims on Contentious Issues",
+    "https://aclanthology.org/2023.findings-acl.289/",
+    "https://aclanthology.org/2023.findings-acl.289.pdf"
+  ],
+  [
+    "Unsupervised Paraphrasing of Multiword Expressions",
+    "https://aclanthology.org/2023.findings-acl.290/",
+    "https://aclanthology.org/2023.findings-acl.290.pdf"
+  ],
+  [
+    "G-Tuning: Improving Generalization of Pre-trained Language Models with Generative Adversarial Network",
+    "https://aclanthology.org/2023.findings-acl.291/",
+    "https://aclanthology.org/2023.findings-acl.291.pdf"
+  ],
+  [
+    "Unified Language Representation for Question Answering over Text, Tables, and Images",
+    "https://aclanthology.org/2023.findings-acl.292/",
+    "https://aclanthology.org/2023.findings-acl.292.pdf"
+  ],
+  [
+    "A Set Prediction Network For Extractive Summarization",
+    "https://aclanthology.org/2023.findings-acl.293/",
+    "https://aclanthology.org/2023.findings-acl.293.pdf"
+  ],
+  [
+    "Geo-Seq2seq: Twitter User Geolocation on Noisy Data through Sequence to Sequence Learning",
+    "https://aclanthology.org/2023.findings-acl.294/",
+    "https://aclanthology.org/2023.findings-acl.294.pdf"
+  ],
+  [
+    "Predicting Numerals in Text Using Nearest Neighbor Language Models",
+    "https://aclanthology.org/2023.findings-acl.295/",
+    "https://aclanthology.org/2023.findings-acl.295.pdf"
+  ],
+  [
+    "HonestBait: Forward References for Attractive but Faithful Headline Generation",
+    "https://aclanthology.org/2023.findings-acl.296/",
+    "https://aclanthology.org/2023.findings-acl.296.pdf"
+  ],
+  [
+    "Few Shot Rationale Generation using Self-Training with Dual Teachers",
+    "https://aclanthology.org/2023.findings-acl.297/",
+    "https://aclanthology.org/2023.findings-acl.297.pdf"
+  ],
+  [
+    "Towards Accurate Translation via Semantically Appropriate Application of Lexical Constraints",
+    "https://aclanthology.org/2023.findings-acl.298/",
+    "https://aclanthology.org/2023.findings-acl.298.pdf"
+  ],
+  [
+    "NoisywikiHow: A Benchmark for Learning with Real-world Noisy Labels in Natural Language Processing",
+    "https://aclanthology.org/2023.findings-acl.299/",
+    "https://aclanthology.org/2023.findings-acl.299.pdf"
+  ],
+  [
+    "Sampling Better Negatives for Distantly Supervised Named Entity Recognition",
+    "https://aclanthology.org/2023.findings-acl.300/",
+    "https://aclanthology.org/2023.findings-acl.300.pdf"
+  ],
+  [
+    "Prototype-Based Interpretability for Legal Citation Prediction",
+    "https://aclanthology.org/2023.findings-acl.301/",
+    "https://aclanthology.org/2023.findings-acl.301.pdf"
+  ],
+  [
+    "LMs stand their Ground: Investigating the Effect of Embodiment in Figurative Language Interpretation by Language Models",
+    "https://aclanthology.org/2023.findings-acl.302/",
+    "https://aclanthology.org/2023.findings-acl.302.pdf"
+  ],
+  [
+    "Making Better Use of Training Corpus: Retrieval-based Aspect Sentiment Triplet Extraction via Label Interpolation",
+    "https://aclanthology.org/2023.findings-acl.303/",
+    "https://aclanthology.org/2023.findings-acl.303.pdf"
+  ],
+  [
+    "Multi-Domain Dialogue State Tracking with Disentangled Domain-Slot Attention",
+    "https://aclanthology.org/2023.findings-acl.304/",
+    "https://aclanthology.org/2023.findings-acl.304.pdf"
+  ],
+  [
+    "Improved Visual Story Generation with Adaptive Context Modeling",
+    "https://aclanthology.org/2023.findings-acl.305/",
+    "https://aclanthology.org/2023.findings-acl.305.pdf"
+  ],
+  [
+    "Question-Interlocutor Scope Realized Graph Modeling over Key Utterances for Dialogue Reading Comprehension",
+    "https://aclanthology.org/2023.findings-acl.306/",
+    "https://aclanthology.org/2023.findings-acl.306.pdf"
+  ],
+  [
+    "Speech-to-Speech Translation for a Real-world Unwritten Language",
+    "https://aclanthology.org/2023.findings-acl.307/",
+    "https://aclanthology.org/2023.findings-acl.307.pdf"
+  ],
+  [
+    "Code Execution with Pre-trained Language Models",
+    "https://aclanthology.org/2023.findings-acl.308/",
+    "https://aclanthology.org/2023.findings-acl.308.pdf"
+  ],
+  [
+    "BertNet: Harvesting Knowledge Graphs with Arbitrary Relations from Pretrained Language Models",
+    "https://aclanthology.org/2023.findings-acl.309/",
+    "https://aclanthology.org/2023.findings-acl.309.pdf"
+  ],
+  [
+    "Sequential Path Signature Networks for Personalised Longitudinal Language Modeling",
+    "https://aclanthology.org/2023.findings-acl.310/",
+    "https://aclanthology.org/2023.findings-acl.310.pdf"
+  ],
+  [
+    "A Multi-modal Debiasing Model with Dynamical Constraint for Robust Visual Question Answering",
+    "https://aclanthology.org/2023.findings-acl.311/",
+    "https://aclanthology.org/2023.findings-acl.311.pdf"
+  ],
+  [
+    "Trigger-Argument based Explanation for Event Detection",
+    "https://aclanthology.org/2023.findings-acl.312/",
+    "https://aclanthology.org/2023.findings-acl.312.pdf"
+  ],
+  [
+    "Interactive Concept Learning for Uncovering Latent Themes in Large Text Collections",
+    "https://aclanthology.org/2023.findings-acl.313/",
+    "https://aclanthology.org/2023.findings-acl.313.pdf"
+  ],
+  [
+    "NormMark: A Weakly Supervised Markov Model for Socio-cultural Norm Discovery",
+    "https://aclanthology.org/2023.findings-acl.314/",
+    "https://aclanthology.org/2023.findings-acl.314.pdf"
+  ],
+  [
+    "VoteTRANS: Detecting Adversarial Text without Training by Voting on Hard Labels of Transformations",
+    "https://aclanthology.org/2023.findings-acl.315/",
+    "https://aclanthology.org/2023.findings-acl.315.pdf"
+  ],
+  [
+    "Fusion or Defusion? Flexible Vision-and-Language Pre-Training",
+    "https://aclanthology.org/2023.findings-acl.316/",
+    "https://aclanthology.org/2023.findings-acl.316.pdf"
+  ],
+  [
+    "COCKATIEL: COntinuous Concept ranKed ATtribution with Interpretable ELements for explaining neural net classifiers on NLP",
+    "https://aclanthology.org/2023.findings-acl.317/",
+    "https://aclanthology.org/2023.findings-acl.317.pdf"
+  ],
+  [
+    "Code-Switched Text Synthesis in Unseen Language Pairs",
+    "https://aclanthology.org/2023.findings-acl.318/",
+    "https://aclanthology.org/2023.findings-acl.318.pdf"
+  ],
+  [
+    "Imagination is All You Need! Curved Contrastive Learning for Abstract Sequence Modeling Utilized on Long Short-Term Dialogue Planning",
+    "https://aclanthology.org/2023.findings-acl.319/",
+    "https://aclanthology.org/2023.findings-acl.319.pdf"
+  ],
+  [
+    "Data-Efficient French Language Modeling with CamemBERTa",
+    "https://aclanthology.org/2023.findings-acl.320/",
+    "https://aclanthology.org/2023.findings-acl.320.pdf"
+  ],
+  [
+    "Coupling Large Language Models with Logic Programming for Robust and General Reasoning from Text",
+    "https://aclanthology.org/2023.findings-acl.321/",
+    "https://aclanthology.org/2023.findings-acl.321.pdf"
+  ],
+  [
+    "Evaluating the Factual Consistency of Large Language Models Through News Summarization",
+    "https://aclanthology.org/2023.findings-acl.322/",
+    "https://aclanthology.org/2023.findings-acl.322.pdf"
+  ],
+  [
+    "Text Generation Model Enhanced with Semantic Information in Aspect Category Sentiment Analysis",
+    "https://aclanthology.org/2023.findings-acl.323/",
+    "https://aclanthology.org/2023.findings-acl.323.pdf"
+  ],
+  [
+    "Mind the Biases: Quantifying Cognitive Biases in Language Model Prompting",
+    "https://aclanthology.org/2023.findings-acl.324/",
+    "https://aclanthology.org/2023.findings-acl.324.pdf"
+  ],
+  [
+    "CodePrompt: Task-Agnostic Prefix Tuning for Program and Language Generation",
+    "https://aclanthology.org/2023.findings-acl.325/",
+    "https://aclanthology.org/2023.findings-acl.325.pdf"
+  ],
+  [
+    "Honey, I Shrunk the Language: Language Model Behavior at Reduced Scale.",
+    "https://aclanthology.org/2023.findings-acl.326/",
+    "https://aclanthology.org/2023.findings-acl.326.pdf"
+  ],
+  [
+    "Communication Efficient Federated Learning for Multilingual Neural Machine Translation with Adapter",
+    "https://aclanthology.org/2023.findings-acl.327/",
+    "https://aclanthology.org/2023.findings-acl.327.pdf"
+  ],
+  [
+    "Cross-task Knowledge Transfer for Extremely Weakly Supervised Text Classification",
+    "https://aclanthology.org/2023.findings-acl.328/",
+    "https://aclanthology.org/2023.findings-acl.328.pdf"
+  ],
+  [
+    "GVdoc - Graph-based Visual DOcument Classification",
+    "https://aclanthology.org/2023.findings-acl.329/",
+    "https://aclanthology.org/2023.findings-acl.329.pdf"
+  ],
+  [
+    "A Sequence-to-Sequence&Set Model for Text-to-Table Generation",
+    "https://aclanthology.org/2023.findings-acl.330/",
+    "https://aclanthology.org/2023.findings-acl.330.pdf"
+  ],
+  [
+    "Automatic Readability Assessment for Closely Related Languages",
+    "https://aclanthology.org/2023.findings-acl.331/",
+    "https://aclanthology.org/2023.findings-acl.331.pdf"
+  ],
+  [
+    "Towards Robust Ranker for Text Retrieval",
+    "https://aclanthology.org/2023.findings-acl.332/",
+    "https://aclanthology.org/2023.findings-acl.332.pdf"
+  ],
+  [
+    "Semi-Supervised Domain Adaptation for Emotion-Related Tasks",
+    "https://aclanthology.org/2023.findings-acl.333/",
+    "https://aclanthology.org/2023.findings-acl.333.pdf"
+  ],
+  [
+    "Boosting Distress Support Dialogue Responses with Motivational Interviewing Strategy",
+    "https://aclanthology.org/2023.findings-acl.334/",
+    "https://aclanthology.org/2023.findings-acl.334.pdf"
+  ],
+  [
+    "ECOLA: Enhancing Temporal Knowledge Embeddings with Contextualized Language Representations",
+    "https://aclanthology.org/2023.findings-acl.335/",
+    "https://aclanthology.org/2023.findings-acl.335.pdf"
+  ],
+  [
+    "Gender-tuning: Empowering Fine-tuning for Debiasing Pre-trained Language Models",
+    "https://aclanthology.org/2023.findings-acl.336/",
+    "https://aclanthology.org/2023.findings-acl.336.pdf"
+  ],
+  [
+    "TextObfuscator: Making Pre-trained Language Model a Privacy Protector via Obfuscating Word Representations",
+    "https://aclanthology.org/2023.findings-acl.337/",
+    "https://aclanthology.org/2023.findings-acl.337.pdf"
+  ],
+  [
+    "Mini-Model Adaptation: Efficiently Extending Pretrained Models to New Languages via Aligned Shallow Training",
+    "https://aclanthology.org/2023.findings-acl.338/",
+    "https://aclanthology.org/2023.findings-acl.338.pdf"
+  ],
+  [
+    "DSP: Discriminative Soft Prompts for Zero-Shot Entity and Relation Extraction",
+    "https://aclanthology.org/2023.findings-acl.339/",
+    "https://aclanthology.org/2023.findings-acl.339.pdf"
+  ],
+  [
+    "Exploring Robust Overfitting for Pre-trained Language Models",
+    "https://aclanthology.org/2023.findings-acl.340/",
+    "https://aclanthology.org/2023.findings-acl.340.pdf"
+  ],
+  [
+    "Improving Cross-task Generalization of Unified Table-to-text Models with Compositional Task Configurations",
+    "https://aclanthology.org/2023.findings-acl.341/",
+    "https://aclanthology.org/2023.findings-acl.341.pdf"
+  ],
+  [
+    "D-CALM: A Dynamic Clustering-based Active Learning Approach for Mitigating Bias",
+    "https://aclanthology.org/2023.findings-acl.342/",
+    "https://aclanthology.org/2023.findings-acl.342.pdf"
+  ],
+  [
+    "Language Anisotropic Cross-Lingual Model Editing",
+    "https://aclanthology.org/2023.findings-acl.343/",
+    "https://aclanthology.org/2023.findings-acl.343.pdf"
+  ],
+  [
+    "Diverse Retrieval-Augmented In-Context Learning for Dialogue State Tracking",
+    "https://aclanthology.org/2023.findings-acl.344/",
+    "https://aclanthology.org/2023.findings-acl.344.pdf"
+  ],
+  [
+    "Pre-Trained Language-Meaning Models for Multilingual Parsing and Generation",
+    "https://aclanthology.org/2023.findings-acl.345/",
+    "https://aclanthology.org/2023.findings-acl.345.pdf"
+  ],
+  [
+    "Multi-modal Sarcasm Generation: Dataset and Solution",
+    "https://aclanthology.org/2023.findings-acl.346/",
+    "https://aclanthology.org/2023.findings-acl.346.pdf"
+  ],
+  [
+    "Rethinking Semi-supervised Learning with Language Models",
+    "https://aclanthology.org/2023.findings-acl.347/",
+    "https://aclanthology.org/2023.findings-acl.347.pdf"
+  ],
+  [
+    "Retrieval-Based Transformer for Table Augmentation",
+    "https://aclanthology.org/2023.findings-acl.348/",
+    "https://aclanthology.org/2023.findings-acl.348.pdf"
+  ],
+  [
+    "ECG-QALM: Entity-Controlled Synthetic Text Generation using Contextual Q&A for NER",
+    "https://aclanthology.org/2023.findings-acl.349/",
+    "https://aclanthology.org/2023.findings-acl.349.pdf"
+  ],
+  [
+    "Tokenization Impacts Multilingual Language Modeling: Assessing Vocabulary Allocation and Overlap Across Languages",
+    "https://aclanthology.org/2023.findings-acl.350/",
+    "https://aclanthology.org/2023.findings-acl.350.pdf"
+  ],
+  [
+    "The Whole Truth and Nothing But the Truth: Faithful and Controllable Dialogue Response Generation with Dataflow Transduction and Constrained Decoding",
+    "https://aclanthology.org/2023.findings-acl.351/",
+    "https://aclanthology.org/2023.findings-acl.351.pdf"
+  ],
+  [
+    "Know What I don’t Know: Handling Ambiguous and Unknown Questions for Text-to-SQL",
+    "https://aclanthology.org/2023.findings-acl.352/",
+    "https://aclanthology.org/2023.findings-acl.352.pdf"
+  ],
+  [
+    "Rethinking Document-Level Relation Extraction: A Reality Check",
+    "https://aclanthology.org/2023.findings-acl.353/",
+    "https://aclanthology.org/2023.findings-acl.353.pdf"
+  ],
+  [
+    "Optimizing Test-Time Query Representations for Dense Retrieval",
+    "https://aclanthology.org/2023.findings-acl.354/",
+    "https://aclanthology.org/2023.findings-acl.354.pdf"
+  ],
+  [
+    "A Customized Text Sanitization Mechanism with Differential Privacy",
+    "https://aclanthology.org/2023.findings-acl.355/",
+    "https://aclanthology.org/2023.findings-acl.355.pdf"
+  ],
+  [
+    "LABO: Towards Learning Optimal Label Regularization via Bi-level Optimization",
+    "https://aclanthology.org/2023.findings-acl.356/",
+    "https://aclanthology.org/2023.findings-acl.356.pdf"
+  ],
+  [
+    "Frustratingly Easy Label Projection for Cross-lingual Transfer",
+    "https://aclanthology.org/2023.findings-acl.357/",
+    "https://aclanthology.org/2023.findings-acl.357.pdf"
+  ],
+  [
+    "Enhancing Hierarchical Text Classification through Knowledge Graph Integration",
+    "https://aclanthology.org/2023.findings-acl.358/",
+    "https://aclanthology.org/2023.findings-acl.358.pdf"
+  ],
+  [
+    "How Many Answers Should I Give? An Empirical Study of Multi-Answer Reading Comprehension",
+    "https://aclanthology.org/2023.findings-acl.359/",
+    "https://aclanthology.org/2023.findings-acl.359.pdf"
+  ],
+  [
+    "An Exploration of Encoder-Decoder Approaches to Multi-Label Classification for Legal and Biomedical Text",
+    "https://aclanthology.org/2023.findings-acl.360/",
+    "https://aclanthology.org/2023.findings-acl.360.pdf"
+  ],
+  [
+    "Domain Incremental Lifelong Learning in an Open World",
+    "https://aclanthology.org/2023.findings-acl.361/",
+    "https://aclanthology.org/2023.findings-acl.361.pdf"
+  ],
+  [
+    "Improving Knowledge Graph Completion with Generative Hard Negative Mining",
+    "https://aclanthology.org/2023.findings-acl.362/",
+    "https://aclanthology.org/2023.findings-acl.362.pdf"
+  ],
+  [
+    "Visually-Enhanced Phrase Understanding",
+    "https://aclanthology.org/2023.findings-acl.363/",
+    "https://aclanthology.org/2023.findings-acl.363.pdf"
+  ],
+  [
+    "Reasoning in Large Language Models Through Symbolic Math Word Problems",
+    "https://aclanthology.org/2023.findings-acl.364/",
+    "https://aclanthology.org/2023.findings-acl.364.pdf"
+  ],
+  [
+    "It’s not Sexually Suggestive; It’s Educative | Separating Sex Education from Suggestive Content on TikTok videos",
+    "https://aclanthology.org/2023.findings-acl.365/",
+    "https://aclanthology.org/2023.findings-acl.365.pdf"
+  ],
+  [
+    "Dynamic Structured Neural Topic Model with Self-Attention Mechanism",
+    "https://aclanthology.org/2023.findings-acl.366/",
+    "https://aclanthology.org/2023.findings-acl.366.pdf"
+  ],
+  [
+    "Hybrid-Regressive Paradigm for Accurate and Speed-Robust Neural Machine Translation",
+    "https://aclanthology.org/2023.findings-acl.367/",
+    "https://aclanthology.org/2023.findings-acl.367.pdf"
+  ],
+  [
+    "Commonsense Knowledge Transfer for Pre-trained Language Models",
+    "https://aclanthology.org/2023.findings-acl.368/",
+    "https://aclanthology.org/2023.findings-acl.368.pdf"
+  ],
+  [
+    "Shielded Representations: Protecting Sensitive Attributes Through Iterative Gradient-Based Projection",
+    "https://aclanthology.org/2023.findings-acl.369/",
+    "https://aclanthology.org/2023.findings-acl.369.pdf"
+  ],
+  [
+    "Focal Training and Tagger Decouple for Grammatical Error Correction",
+    "https://aclanthology.org/2023.findings-acl.370/",
+    "https://aclanthology.org/2023.findings-acl.370.pdf"
+  ],
+  [
+    "LET: Leveraging Error Type Information for Grammatical Error Correction",
+    "https://aclanthology.org/2023.findings-acl.371/",
+    "https://aclanthology.org/2023.findings-acl.371.pdf"
+  ],
+  [
+    "On the Role of Parallel Data in Cross-lingual Transfer Learning",
+    "https://aclanthology.org/2023.findings-acl.372/",
+    "https://aclanthology.org/2023.findings-acl.372.pdf"
+  ],
+  [
+    "CoMave: Contrastive Pre-training with Multi-scale Masking for Attribute Value Extraction",
+    "https://aclanthology.org/2023.findings-acl.373/",
+    "https://aclanthology.org/2023.findings-acl.373.pdf"
+  ],
+  [
+    "Phrase Retrieval for Open Domain Conversational Question Answering with Conversational Dependency Modeling via Contrastive Learning",
+    "https://aclanthology.org/2023.findings-acl.374/",
+    "https://aclanthology.org/2023.findings-acl.374.pdf"
+  ],
+  [
+    "Unlearning Bias in Language Models by Partitioning Gradients",
+    "https://aclanthology.org/2023.findings-acl.375/",
+    "https://aclanthology.org/2023.findings-acl.375.pdf"
+  ],
+  [
+    "Meta-training with Demonstration Retrieval for Efficient Few-shot Learning",
+    "https://aclanthology.org/2023.findings-acl.376/",
+    "https://aclanthology.org/2023.findings-acl.376.pdf"
+  ],
+  [
+    "VCSUM: A Versatile Chinese Meeting Summarization Dataset",
+    "https://aclanthology.org/2023.findings-acl.377/",
+    "https://aclanthology.org/2023.findings-acl.377.pdf"
+  ],
+  [
+    "LEDA: a Large-Organization Email-Based Decision-Dialogue-Act Analysis Dataset",
+    "https://aclanthology.org/2023.findings-acl.378/",
+    "https://aclanthology.org/2023.findings-acl.378.pdf"
+  ],
+  [
+    "Negation Scope Refinement via Boundary Shift Loss",
+    "https://aclanthology.org/2023.findings-acl.379/",
+    "https://aclanthology.org/2023.findings-acl.379.pdf"
+  ],
+  [
+    "Towards Diverse and Effective Question-Answer Pair Generation from Children Storybooks",
+    "https://aclanthology.org/2023.findings-acl.380/",
+    "https://aclanthology.org/2023.findings-acl.380.pdf"
+  ],
+  [
+    "Pulling Out All The Full Stops: Punctuation Sensitivity in Neural Machine Translation and Evaluation",
+    "https://aclanthology.org/2023.findings-acl.381/",
+    "https://aclanthology.org/2023.findings-acl.381.pdf"
+  ],
+  [
+    "Reimagining Retrieval Augmented Language Models for Answering Queries",
+    "https://aclanthology.org/2023.findings-acl.382/",
+    "https://aclanthology.org/2023.findings-acl.382.pdf"
+  ],
+  [
+    "Numeric Magnitude Comparison Effects in Large Language Models",
+    "https://aclanthology.org/2023.findings-acl.383/",
+    "https://aclanthology.org/2023.findings-acl.383.pdf"
+  ],
+  [
+    "Multi-Relational Probabilistic Event Representation Learning via Projected Gaussian Embedding",
+    "https://aclanthology.org/2023.findings-acl.384/",
+    "https://aclanthology.org/2023.findings-acl.384.pdf"
+  ],
+  [
+    "PragmatiCQA: A Dataset for Pragmatic Question Answering in Conversations",
+    "https://aclanthology.org/2023.findings-acl.385/",
+    "https://aclanthology.org/2023.findings-acl.385.pdf"
+  ],
+  [
+    "Modular and On-demand Bias Mitigation with Attribute-Removal Subnetworks",
+    "https://aclanthology.org/2023.findings-acl.386/",
+    "https://aclanthology.org/2023.findings-acl.386.pdf"
+  ],
+  [
+    "Scientific Fact-Checking: A Survey of Resources and Approaches",
+    "https://aclanthology.org/2023.findings-acl.387/",
+    "https://aclanthology.org/2023.findings-acl.387.pdf"
+  ],
+  [
+    "Uni-Encoder: A Fast and Accurate Response Selection Paradigm for Generation-Based Dialogue Systems",
+    "https://aclanthology.org/2023.findings-acl.388/",
+    "https://aclanthology.org/2023.findings-acl.388.pdf"
+  ],
+  [
+    "DLAMA: A Framework for Curating Culturally Diverse Facts for Probing the Knowledge of Pretrained Language Models",
+    "https://aclanthology.org/2023.findings-acl.389/",
+    "https://aclanthology.org/2023.findings-acl.389.pdf"
+  ],
+  [
+    "Self-adaptive Context and Modal-interaction Modeling For Multimodal Emotion Recognition",
+    "https://aclanthology.org/2023.findings-acl.390/",
+    "https://aclanthology.org/2023.findings-acl.390.pdf"
+  ],
+  [
+    "Structure-Discourse Hierarchical Graph for Conditional Question Answering on Long Documents",
+    "https://aclanthology.org/2023.findings-acl.391/",
+    "https://aclanthology.org/2023.findings-acl.391.pdf"
+  ],
+  [
+    "COBRA Frames: Contextual Reasoning about Effects and Harms of Offensive Statements",
+    "https://aclanthology.org/2023.findings-acl.392/",
+    "https://aclanthology.org/2023.findings-acl.392.pdf"
+  ],
+  [
+    "Distilling Calibrated Knowledge for Stance Detection",
+    "https://aclanthology.org/2023.findings-acl.393/",
+    "https://aclanthology.org/2023.findings-acl.393.pdf"
+  ],
+  [
+    "PTCSpell: Pre-trained Corrector Based on Character Shape and Pinyin for Chinese Spelling Correction",
+    "https://aclanthology.org/2023.findings-acl.394/",
+    "https://aclanthology.org/2023.findings-acl.394.pdf"
+  ],
+  [
+    "Disentangling Text Representation With Counter-Template For Unsupervised Opinion Summarization",
+    "https://aclanthology.org/2023.findings-acl.395/",
+    "https://aclanthology.org/2023.findings-acl.395.pdf"
+  ],
+  [
+    "Evaluation of Question Generation Needs More References",
+    "https://aclanthology.org/2023.findings-acl.396/",
+    "https://aclanthology.org/2023.findings-acl.396.pdf"
+  ],
+  [
+    "XtremeCLIP: Extremely Parameter-efficient Tuning for Low-resource Vision Language Understanding",
+    "https://aclanthology.org/2023.findings-acl.397/",
+    "https://aclanthology.org/2023.findings-acl.397.pdf"
+  ],
+  [
+    "FACTUAL: A Benchmark for Faithful and Consistent Textual Scene Graph Parsing",
+    "https://aclanthology.org/2023.findings-acl.398/",
+    "https://aclanthology.org/2023.findings-acl.398.pdf"
+  ],
+  [
+    "Target-Oriented Relation Alignment for Cross-Lingual Stance Detection",
+    "https://aclanthology.org/2023.findings-acl.399/",
+    "https://aclanthology.org/2023.findings-acl.399.pdf"
+  ],
+  [
+    "NonFactS: NonFactual Summary Generation for Factuality Evaluation in Document Summarization",
+    "https://aclanthology.org/2023.findings-acl.400/",
+    "https://aclanthology.org/2023.findings-acl.400.pdf"
+  ],
+  [
+    "When to Read Documents or QA History: On Unified and Selective Open-domain QA",
+    "https://aclanthology.org/2023.findings-acl.401/",
+    "https://aclanthology.org/2023.findings-acl.401.pdf"
+  ],
+  [
+    "Interpretable Automatic Fine-grained Inconsistency Detection in Text Summarization",
+    "https://aclanthology.org/2023.findings-acl.402/",
+    "https://aclanthology.org/2023.findings-acl.402.pdf"
+  ],
+  [
+    "A Multi-dimensional study on Bias in Vision-Language models",
+    "https://aclanthology.org/2023.findings-acl.403/",
+    "https://aclanthology.org/2023.findings-acl.403.pdf"
+  ],
+  [
+    "Correction of Errors in Preference Ratings from Automated Metrics for Text Generation",
+    "https://aclanthology.org/2023.findings-acl.404/",
+    "https://aclanthology.org/2023.findings-acl.404.pdf"
+  ],
+  [
+    "PEER: Pre-training ELECTRA Extended by Ranking",
+    "https://aclanthology.org/2023.findings-acl.405/",
+    "https://aclanthology.org/2023.findings-acl.405.pdf"
+  ],
+  [
+    "ML-LMCL: Mutual Learning and Large-Margin Contrastive Learning for Improving ASR Robustness in Spoken Language Understanding",
+    "https://aclanthology.org/2023.findings-acl.406/",
+    "https://aclanthology.org/2023.findings-acl.406.pdf"
+  ],
+  [
+    "Guiding Dialogue Agents to Complex Semantic Targets by Dynamically Completing Knowledge Graph",
+    "https://aclanthology.org/2023.findings-acl.407/",
+    "https://aclanthology.org/2023.findings-acl.407.pdf"
+  ],
+  [
+    "Chain of Thought Prompting Elicits Knowledge Augmentation",
+    "https://aclanthology.org/2023.findings-acl.408/",
+    "https://aclanthology.org/2023.findings-acl.408.pdf"
+  ],
+  [
+    "TACR: A Table Alignment-based Cell Selection Method for HybridQA",
+    "https://aclanthology.org/2023.findings-acl.409/",
+    "https://aclanthology.org/2023.findings-acl.409.pdf"
+  ],
+  [
+    "Modeling Cross-Cultural Pragmatic Inference with Codenames Duet",
+    "https://aclanthology.org/2023.findings-acl.410/",
+    "https://aclanthology.org/2023.findings-acl.410.pdf"
+  ],
+  [
+    "Werewolf Among Us: Multimodal Resources for Modeling Persuasion Behaviors in Social Deduction Games",
+    "https://aclanthology.org/2023.findings-acl.411/",
+    "https://aclanthology.org/2023.findings-acl.411.pdf"
+  ],
+  [
+    "Long to reign over us: A Case Study of Machine Translation and a New Monarch",
+    "https://aclanthology.org/2023.findings-acl.412/",
+    "https://aclanthology.org/2023.findings-acl.412.pdf"
+  ],
+  [
+    "A Unified Generative Approach to Product Attribute-Value Identification",
+    "https://aclanthology.org/2023.findings-acl.413/",
+    "https://aclanthology.org/2023.findings-acl.413.pdf"
+  ],
+  [
+    "K-UniMorph: Korean Universal Morphology and its Feature Schema",
+    "https://aclanthology.org/2023.findings-acl.414/",
+    "https://aclanthology.org/2023.findings-acl.414.pdf"
+  ],
+  [
+    "How does the brain process syntactic structure while listening?",
+    "https://aclanthology.org/2023.findings-acl.415/",
+    "https://aclanthology.org/2023.findings-acl.415.pdf"
+  ],
+  [
+    "Towards Imperceptible Document Manipulations against Neural Ranking Models",
+    "https://aclanthology.org/2023.findings-acl.416/",
+    "https://aclanthology.org/2023.findings-acl.416.pdf"
+  ],
+  [
+    "Ask an Expert: Leveraging Language Models to Improve Strategic Reasoning in Goal-Oriented Dialogue Models",
+    "https://aclanthology.org/2023.findings-acl.417/",
+    "https://aclanthology.org/2023.findings-acl.417.pdf"
+  ],
+  [
+    "SciReviewGen: A Large-scale Dataset for Automatic Literature Review Generation",
+    "https://aclanthology.org/2023.findings-acl.418/",
+    "https://aclanthology.org/2023.findings-acl.418.pdf"
+  ],
+  [
+    "Revisiting Sample Size Determination in Natural Language Understanding",
+    "https://aclanthology.org/2023.findings-acl.419/",
+    "https://aclanthology.org/2023.findings-acl.419.pdf"
+  ],
+  [
+    "TransESC: Smoothing Emotional Support Conversation via Turn-Level State Transition",
+    "https://aclanthology.org/2023.findings-acl.420/",
+    "https://aclanthology.org/2023.findings-acl.420.pdf"
+  ],
+  [
+    "Residual Prompt Tuning: improving prompt tuning with residual reparameterization",
+    "https://aclanthology.org/2023.findings-acl.421/",
+    "https://aclanthology.org/2023.findings-acl.421.pdf"
+  ],
+  [
+    "Attend, Select and Eliminate: Accelerating Multi-turn Response Selection with Dual-attention-based Content Elimination",
+    "https://aclanthology.org/2023.findings-acl.422/",
+    "https://aclanthology.org/2023.findings-acl.422.pdf"
+  ],
+  [
+    "Medical Dialogue Generation via Dual Flow Modeling",
+    "https://aclanthology.org/2023.findings-acl.423/",
+    "https://aclanthology.org/2023.findings-acl.423.pdf"
+  ],
+  [
+    "Listen, Decipher and Sign: Toward Unsupervised Speech-to-Sign Language Recognition",
+    "https://aclanthology.org/2023.findings-acl.424/",
+    "https://aclanthology.org/2023.findings-acl.424.pdf"
+  ],
+  [
+    "Distinguishing Address vs. Reference Mentions of Personal Names in Text",
+    "https://aclanthology.org/2023.findings-acl.425/",
+    "https://aclanthology.org/2023.findings-acl.425.pdf"
+  ],
+  [
+    "“Low-Resource” Text Classification: A Parameter-Free Classification Method with Compressors",
+    "https://aclanthology.org/2023.findings-acl.426/",
+    "https://aclanthology.org/2023.findings-acl.426.pdf"
+  ],
+  [
+    "LR-Sum: Summarization for Less-Resourced Languages",
+    "https://aclanthology.org/2023.findings-acl.427/",
+    "https://aclanthology.org/2023.findings-acl.427.pdf"
+  ],
+  [
+    "RQUGE: Reference-Free Metric for Evaluating Question Generation by Answering the Question",
+    "https://aclanthology.org/2023.findings-acl.428/",
+    "https://aclanthology.org/2023.findings-acl.428.pdf"
+  ],
+  [
+    "Unsupervised Semantic Variation Prediction using the Distribution of Sibling Embeddings",
+    "https://aclanthology.org/2023.findings-acl.429/",
+    "https://aclanthology.org/2023.findings-acl.429.pdf"
+  ],
+  [
+    "TranSFormer: Slow-Fast Transformer for Machine Translation",
+    "https://aclanthology.org/2023.findings-acl.430/",
+    "https://aclanthology.org/2023.findings-acl.430.pdf"
+  ],
+  [
+    "Mitigating the Learning Bias towards Repetition by Self-Contrastive Training for Open-Ended Generation",
+    "https://aclanthology.org/2023.findings-acl.431/",
+    "https://aclanthology.org/2023.findings-acl.431.pdf"
+  ],
+  [
+    "Digging out Discrimination Information from Generated Samples for Robust Visual Question Answering",
+    "https://aclanthology.org/2023.findings-acl.432/",
+    "https://aclanthology.org/2023.findings-acl.432.pdf"
+  ],
+  [
+    "Words as Gatekeepers: Measuring Discipline-specific Terms and Meanings in Scholarly Publications",
+    "https://aclanthology.org/2023.findings-acl.433/",
+    "https://aclanthology.org/2023.findings-acl.433.pdf"
+  ],
+  [
+    "Trade-Offs Between Fairness and Privacy in Language Modeling",
+    "https://aclanthology.org/2023.findings-acl.434/",
+    "https://aclanthology.org/2023.findings-acl.434.pdf"
+  ],
+  [
+    "CSS: A Large-scale Cross-schema Chinese Text-to-SQL Medical Dataset",
+    "https://aclanthology.org/2023.findings-acl.435/",
+    "https://aclanthology.org/2023.findings-acl.435.pdf"
+  ],
+  [
+    "Silver Syntax Pre-training for Cross-Domain Relation Extraction",
+    "https://aclanthology.org/2023.findings-acl.436/",
+    "https://aclanthology.org/2023.findings-acl.436.pdf"
+  ],
+  [
+    "FastDiff 2: Revisiting and Incorporating GANs and Diffusion Models in High-Fidelity Speech Synthesis",
+    "https://aclanthology.org/2023.findings-acl.437/",
+    "https://aclanthology.org/2023.findings-acl.437.pdf"
+  ],
+  [
+    "Uncovering Hidden Consequences of Pre-training Objectives in Sequence-to-Sequence Models",
+    "https://aclanthology.org/2023.findings-acl.438/",
+    "https://aclanthology.org/2023.findings-acl.438.pdf"
+  ],
+  [
+    "Exploring Anisotropy and Outliers in Multilingual Language Models for Cross-Lingual Semantic Sentence Similarity",
+    "https://aclanthology.org/2023.findings-acl.439/",
+    "https://aclanthology.org/2023.findings-acl.439.pdf"
+  ],
+  [
+    "Revisiting Sentence Union Generation as a Testbed for Text Consolidation",
+    "https://aclanthology.org/2023.findings-acl.440/",
+    "https://aclanthology.org/2023.findings-acl.440.pdf"
+  ],
+  [
+    "Distilling Reasoning Capabilities into Smaller Language Models",
+    "https://aclanthology.org/2023.findings-acl.441/",
+    "https://aclanthology.org/2023.findings-acl.441.pdf"
+  ],
+  [
+    "AlignSTS: Speech-to-Singing Conversion via Cross-Modal Alignment",
+    "https://aclanthology.org/2023.findings-acl.442/",
+    "https://aclanthology.org/2023.findings-acl.442.pdf"
+  ],
+  [
+    "A New Task and Dataset on Detecting Attacks on Human Rights Defenders",
+    "https://aclanthology.org/2023.findings-acl.443/",
+    "https://aclanthology.org/2023.findings-acl.443.pdf"
+  ],
+  [
+    "Improving Language Model Integration for Neural Machine Translation",
+    "https://aclanthology.org/2023.findings-acl.444/",
+    "https://aclanthology.org/2023.findings-acl.444.pdf"
+  ],
+  [
+    "Type Enhanced BERT for Correcting NER Errors",
+    "https://aclanthology.org/2023.findings-acl.445/",
+    "https://aclanthology.org/2023.findings-acl.445.pdf"
+  ],
+  [
+    "Bridge the Gap Between CV and NLP! A Gradient-based Textual Adversarial Attack Framework",
+    "https://aclanthology.org/2023.findings-acl.446/",
+    "https://aclanthology.org/2023.findings-acl.446.pdf"
+  ],
+  [
+    "DUB: Discrete Unit Back-translation for Speech Translation",
+    "https://aclanthology.org/2023.findings-acl.447/",
+    "https://aclanthology.org/2023.findings-acl.447.pdf"
+  ],
+  [
+    "Knowledge Graph Embeddings using Neural Ito Process: From Multiple Walks to Stochastic Trajectories",
+    "https://aclanthology.org/2023.findings-acl.448/",
+    "https://aclanthology.org/2023.findings-acl.448.pdf"
+  ],
+  [
+    "Leveraging Denoised Abstract Meaning Representation for Grammatical Error Correction",
+    "https://aclanthology.org/2023.findings-acl.449/",
+    "https://aclanthology.org/2023.findings-acl.449.pdf"
+  ],
+  [
+    "Prediction and Calibration: Complex Reasoning over Knowledge Graph with Bi-directional Directed Acyclic Graph Neural Network",
+    "https://aclanthology.org/2023.findings-acl.450/",
+    "https://aclanthology.org/2023.findings-acl.450.pdf"
+  ],
+  [
+    "Prompt-Based Metric Learning for Few-Shot NER",
+    "https://aclanthology.org/2023.findings-acl.451/",
+    "https://aclanthology.org/2023.findings-acl.451.pdf"
+  ],
+  [
+    "OpenPI-C: A Better Benchmark and Stronger Baseline for Open-Vocabulary State Tracking",
+    "https://aclanthology.org/2023.findings-acl.452/",
+    "https://aclanthology.org/2023.findings-acl.452.pdf"
+  ],
+  [
+    "I run as fast as a rabbit, can you? A Multilingual Simile Dialogues Datasets",
+    "https://aclanthology.org/2023.findings-acl.453/",
+    "https://aclanthology.org/2023.findings-acl.453.pdf"
+  ],
+  [
+    "Controllable Conversation Generation with Conversation Structures via Diffusion Models",
+    "https://aclanthology.org/2023.findings-acl.454/",
+    "https://aclanthology.org/2023.findings-acl.454.pdf"
+  ],
+  [
+    "Few-shot Low-resource Knowledge Graph Completion with Reinforced Task Generation",
+    "https://aclanthology.org/2023.findings-acl.455/",
+    "https://aclanthology.org/2023.findings-acl.455.pdf"
+  ],
+  [
+    "Incomplete Utterance Rewriting as Sequential Greedy Tagging",
+    "https://aclanthology.org/2023.findings-acl.456/",
+    "https://aclanthology.org/2023.findings-acl.456.pdf"
+  ],
+  [
+    "Exploiting Commonsense Knowledge about Objects for Visual Activity Recognition",
+    "https://aclanthology.org/2023.findings-acl.457/",
+    "https://aclanthology.org/2023.findings-acl.457.pdf"
+  ],
+  [
+    "Tucker Decomposition with Frequency Attention for Temporal Knowledge Graph Completion",
+    "https://aclanthology.org/2023.findings-acl.458/",
+    "https://aclanthology.org/2023.findings-acl.458.pdf"
+  ],
+  [
+    "Another Dead End for Morphological Tags? Perturbed Inputs and Parsing",
+    "https://aclanthology.org/2023.findings-acl.459/",
+    "https://aclanthology.org/2023.findings-acl.459.pdf"
+  ],
+  [
+    "HeGeL: A Novel Dataset for Geo-Location from Hebrew Text",
+    "https://aclanthology.org/2023.findings-acl.460/",
+    "https://aclanthology.org/2023.findings-acl.460.pdf"
+  ],
+  [
+    "Modeling Adversarial Attack on Pre-trained Language Models as Sequential Decision Making",
+    "https://aclanthology.org/2023.findings-acl.461/",
+    "https://aclanthology.org/2023.findings-acl.461.pdf"
+  ],
+  [
+    "Towards Robust Personalized Dialogue Generation via Order-Insensitive Representation Regularization",
+    "https://aclanthology.org/2023.findings-acl.462/",
+    "https://aclanthology.org/2023.findings-acl.462.pdf"
+  ],
+  [
+    "Cost-effective Distillation of Large Language Models",
+    "https://aclanthology.org/2023.findings-acl.463/",
+    "https://aclanthology.org/2023.findings-acl.463.pdf"
+  ],
+  [
+    "Task-Optimized Adapters for an End-to-End Task-Oriented Dialogue System",
+    "https://aclanthology.org/2023.findings-acl.464/",
+    "https://aclanthology.org/2023.findings-acl.464.pdf"
+  ],
+  [
+    "I Spy a Metaphor: Large Language Models and Diffusion Models Co-Create Visual Metaphors",
+    "https://aclanthology.org/2023.findings-acl.465/",
+    "https://aclanthology.org/2023.findings-acl.465.pdf"
+  ],
+  [
+    "Text Augmentation Using Dataset Reconstruction for Low-Resource Classification",
+    "https://aclanthology.org/2023.findings-acl.466/",
+    "https://aclanthology.org/2023.findings-acl.466.pdf"
+  ],
+  [
+    "LaSQuE: Improved Zero-Shot Classification from Explanations Through Quantifier Modeling and Curriculum Learning",
+    "https://aclanthology.org/2023.findings-acl.467/",
+    "https://aclanthology.org/2023.findings-acl.467.pdf"
+  ],
+  [
+    "Learned Adapters Are Better Than Manually Designed Adapters",
+    "https://aclanthology.org/2023.findings-acl.468/",
+    "https://aclanthology.org/2023.findings-acl.468.pdf"
+  ],
+  [
+    "Automatic Identification of Code-Switching Functions in Speech Transcripts",
+    "https://aclanthology.org/2023.findings-acl.469/",
+    "https://aclanthology.org/2023.findings-acl.469.pdf"
+  ],
+  [
+    "Federated Domain Adaptation for Named Entity Recognition via Distilling with Heterogeneous Tag Sets",
+    "https://aclanthology.org/2023.findings-acl.470/",
+    "https://aclanthology.org/2023.findings-acl.470.pdf"
+  ],
+  [
+    "Interpreting Sentiment Composition with Latent Semantic Tree",
+    "https://aclanthology.org/2023.findings-acl.471/",
+    "https://aclanthology.org/2023.findings-acl.471.pdf"
+  ],
+  [
+    "Beyond Positive Scaling: How Negation Impacts Scaling Trends of Language Models",
+    "https://aclanthology.org/2023.findings-acl.472/",
+    "https://aclanthology.org/2023.findings-acl.472.pdf"
+  ],
+  [
+    "Contrastive Training Improves Zero-Shot Classification of Semi-structured Documents",
+    "https://aclanthology.org/2023.findings-acl.473/",
+    "https://aclanthology.org/2023.findings-acl.473.pdf"
+  ],
+  [
+    "Extracting Shopping Interest-Related Product Types from the Web",
+    "https://aclanthology.org/2023.findings-acl.474/",
+    "https://aclanthology.org/2023.findings-acl.474.pdf"
+  ],
+  [
+    "Multilingual Pre-training with Self-supervision from Global Co-occurrence Information",
+    "https://aclanthology.org/2023.findings-acl.475/",
+    "https://aclanthology.org/2023.findings-acl.475.pdf"
+  ],
+  [
+    "Low-Rank Updates of pre-trained Weights for Multi-Task Learning",
+    "https://aclanthology.org/2023.findings-acl.476/",
+    "https://aclanthology.org/2023.findings-acl.476.pdf"
+  ],
+  [
+    "Sequential Integrated Gradients: a simple but effective method for explaining language models",
+    "https://aclanthology.org/2023.findings-acl.477/",
+    "https://aclanthology.org/2023.findings-acl.477.pdf"
+  ],
+  [
+    "DiffuDetox: A Mixed Diffusion Model for Text Detoxification",
+    "https://aclanthology.org/2023.findings-acl.478/",
+    "https://aclanthology.org/2023.findings-acl.478.pdf"
+  ],
+  [
+    "Separating Context and Pattern: Learning Disentangled Sentence Representations for Low-Resource Extractive Summarization",
+    "https://aclanthology.org/2023.findings-acl.479/",
+    "https://aclanthology.org/2023.findings-acl.479.pdf"
+  ],
+  [
+    "Disentangling Reasoning Capabilities from Language Models with Compositional Reasoning Transformers",
+    "https://aclanthology.org/2023.findings-acl.480/",
+    "https://aclanthology.org/2023.findings-acl.480.pdf"
+  ],
+  [
+    "Towards Argument-Aware Abstractive Summarization of Long Legal Opinions with Summary Reranking",
+    "https://aclanthology.org/2023.findings-acl.481/",
+    "https://aclanthology.org/2023.findings-acl.481.pdf"
+  ],
+  [
+    "Probabilistic Transformer: A Probabilistic Dependency Model for Contextual Word Representation",
+    "https://aclanthology.org/2023.findings-acl.482/",
+    "https://aclanthology.org/2023.findings-acl.482.pdf"
+  ],
+  [
+    "Joint Speech Transcription and Translation: Pseudo-Labeling with Out-of-Distribution Data",
+    "https://aclanthology.org/2023.findings-acl.483/",
+    "https://aclanthology.org/2023.findings-acl.483.pdf"
+  ],
+  [
+    "Word-level Prefix/Suffix Sense Detection: A Case Study on Negation Sense with Few-shot Learning",
+    "https://aclanthology.org/2023.findings-acl.484/",
+    "https://aclanthology.org/2023.findings-acl.484.pdf"
+  ],
+  [
+    "End-to-End Simultaneous Speech Translation with Differentiable Segmentation",
+    "https://aclanthology.org/2023.findings-acl.485/",
+    "https://aclanthology.org/2023.findings-acl.485.pdf"
+  ],
+  [
+    "Joint Generator-Ranker Learning for Natural Language Generation",
+    "https://aclanthology.org/2023.findings-acl.486/",
+    "https://aclanthology.org/2023.findings-acl.486.pdf"
+  ],
+  [
+    "Multilingual Sequence-to-Sequence Models for Hebrew NLP",
+    "https://aclanthology.org/2023.findings-acl.487/",
+    "https://aclanthology.org/2023.findings-acl.487.pdf"
+  ],
+  [
+    "Multilingual Knowledge Graph Completion from Pretrained Language Models with Knowledge Constraints",
+    "https://aclanthology.org/2023.findings-acl.488/",
+    "https://aclanthology.org/2023.findings-acl.488.pdf"
+  ],
+  [
+    "Towards Better Hierarchical Text Classification with Data Generation",
+    "https://aclanthology.org/2023.findings-acl.489/",
+    "https://aclanthology.org/2023.findings-acl.489.pdf"
+  ],
+  [
+    "History repeats: Overcoming catastrophic forgetting for event-centric temporal knowledge graph completion",
+    "https://aclanthology.org/2023.findings-acl.490/",
+    "https://aclanthology.org/2023.findings-acl.490.pdf"
+  ],
+  [
+    "Multi-Agent Language Learning: Symbolic Mapping",
+    "https://aclanthology.org/2023.findings-acl.491/",
+    "https://aclanthology.org/2023.findings-acl.491.pdf"
+  ],
+  [
+    "Scaling Laws for BERT in Low-Resource Settings",
+    "https://aclanthology.org/2023.findings-acl.492/",
+    "https://aclanthology.org/2023.findings-acl.492.pdf"
+  ],
+  [
+    "Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion",
+    "https://aclanthology.org/2023.findings-acl.493/",
+    "https://aclanthology.org/2023.findings-acl.493.pdf"
+  ],
+  [
+    "Is Continuous Prompt a Combination of Discrete Prompts? Towards a Novel View for Interpreting Continuous Prompts",
+    "https://aclanthology.org/2023.findings-acl.494/",
+    "https://aclanthology.org/2023.findings-acl.494.pdf"
+  ],
+  [
+    "Putting Natural in Natural Language Processing",
+    "https://aclanthology.org/2023.findings-acl.495/",
+    "https://aclanthology.org/2023.findings-acl.495.pdf"
+  ],
+  [
+    "Impact of Adversarial Training on Robustness and Generalizability of Language Models",
+    "https://aclanthology.org/2023.findings-acl.496/",
+    "https://aclanthology.org/2023.findings-acl.496.pdf"
+  ],
+  [
+    "Benchmarking Diverse-Modal Entity Linking with Generative Models",
+    "https://aclanthology.org/2023.findings-acl.497/",
+    "https://aclanthology.org/2023.findings-acl.497.pdf"
+  ],
+  [
+    "Improving Empathetic Dialogue Generation by Dynamically Infusing Commonsense Knowledge",
+    "https://aclanthology.org/2023.findings-acl.498/",
+    "https://aclanthology.org/2023.findings-acl.498.pdf"
+  ],
+  [
+    "Additive manifesto decomposition: A policy domain aware method for understanding party positioning",
+    "https://aclanthology.org/2023.findings-acl.499/",
+    "https://aclanthology.org/2023.findings-acl.499.pdf"
+  ],
+  [
+    "Similarizing the Influence of Words with Contrastive Learning to Defend Word-level Adversarial Text Attack",
+    "https://aclanthology.org/2023.findings-acl.500/",
+    "https://aclanthology.org/2023.findings-acl.500.pdf"
+  ],
+  [
+    "Responsibility Perspective Transfer for Italian Femicide News",
+    "https://aclanthology.org/2023.findings-acl.501/",
+    "https://aclanthology.org/2023.findings-acl.501.pdf"
+  ],
+  [
+    "Stereotypes and Smut: The (Mis)representation of Non-cisgender Identities by Text-to-Image Models",
+    "https://aclanthology.org/2023.findings-acl.502/",
+    "https://aclanthology.org/2023.findings-acl.502.pdf"
+  ],
+  [
+    "Fine-grained Artificial Neurons in Audio-transformers for Disentangling Neural Auditory Encoding",
+    "https://aclanthology.org/2023.findings-acl.503/",
+    "https://aclanthology.org/2023.findings-acl.503.pdf"
+  ],
+  [
+    "Deeply Coupled Cross-Modal Prompt Learning",
+    "https://aclanthology.org/2023.findings-acl.504/",
+    "https://aclanthology.org/2023.findings-acl.504.pdf"
+  ],
+  [
+    "Opinion Tree Parsing for Aspect-based Sentiment Analysis",
+    "https://aclanthology.org/2023.findings-acl.505/",
+    "https://aclanthology.org/2023.findings-acl.505.pdf"
+  ],
+  [
+    "CoMix: Guide Transformers to Code-Mix using POS structure and Phonetics",
+    "https://aclanthology.org/2023.findings-acl.506/",
+    "https://aclanthology.org/2023.findings-acl.506.pdf"
+  ],
+  [
+    "Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes",
+    "https://aclanthology.org/2023.findings-acl.507/",
+    "https://aclanthology.org/2023.findings-acl.507.pdf"
+  ],
+  [
+    "Prosody-TTS: Improving Prosody with Masked Autoencoder and Conditional Diffusion Model For Expressive Text-to-Speech",
+    "https://aclanthology.org/2023.findings-acl.508/",
+    "https://aclanthology.org/2023.findings-acl.508.pdf"
+  ],
+  [
+    "Duplex Diffusion Models Improve Speech-to-Speech Translation",
+    "https://aclanthology.org/2023.findings-acl.509/",
+    "https://aclanthology.org/2023.findings-acl.509.pdf"
+  ],
+  [
+    "Global and Local Hierarchy-aware Contrastive Framework for Implicit Discourse Relation Recognition",
+    "https://aclanthology.org/2023.findings-acl.510/",
+    "https://aclanthology.org/2023.findings-acl.510.pdf"
+  ],
+  [
+    "PreQuant: A Task-agnostic Quantization Approach for Pre-trained Language Models",
+    "https://aclanthology.org/2023.findings-acl.511/",
+    "https://aclanthology.org/2023.findings-acl.511.pdf"
+  ],
+  [
+    "Synthetic Pre-Training Tasks for Neural Machine Translation",
+    "https://aclanthology.org/2023.findings-acl.512/",
+    "https://aclanthology.org/2023.findings-acl.512.pdf"
+  ],
+  [
+    "IDOL: Indicator-oriented Logic Pre-training for Logical Reasoning",
+    "https://aclanthology.org/2023.findings-acl.513/",
+    "https://aclanthology.org/2023.findings-acl.513.pdf"
+  ],
+  [
+    "Adversarial Training for Low-Resource Disfluency Correction",
+    "https://aclanthology.org/2023.findings-acl.514/",
+    "https://aclanthology.org/2023.findings-acl.514.pdf"
+  ],
+  [
+    "Computer says “No”: The Case Against Empathetic Conversational AI",
+    "https://aclanthology.org/2023.findings-acl.515/",
+    "https://aclanthology.org/2023.findings-acl.515.pdf"
+  ],
+  [
+    "Stubborn Lexical Bias in Data and Models",
+    "https://aclanthology.org/2023.findings-acl.516/",
+    "https://aclanthology.org/2023.findings-acl.516.pdf"
+  ],
+  [
+    "Distilling Efficient Language-Specific Models for Cross-Lingual Transfer",
+    "https://aclanthology.org/2023.findings-acl.517/",
+    "https://aclanthology.org/2023.findings-acl.517.pdf"
+  ],
+  [
+    "An Extensive Exploration of Back-Translation in 60 Languages",
+    "https://aclanthology.org/2023.findings-acl.518/",
+    "https://aclanthology.org/2023.findings-acl.518.pdf"
+  ],
+  [
+    "AoM: Detecting Aspect-oriented Information for Multimodal Aspect-Based Sentiment Analysis",
+    "https://aclanthology.org/2023.findings-acl.519/",
+    "https://aclanthology.org/2023.findings-acl.519.pdf"
+  ],
+  [
+    "Forecasting Earnings Surprises from Conference Call Transcripts",
+    "https://aclanthology.org/2023.findings-acl.520/",
+    "https://aclanthology.org/2023.findings-acl.520.pdf"
+  ],
+  [
+    "MTCue: Learning Zero-Shot Control of Extra-Textual Attributes by Leveraging Unstructured Context in Neural Machine Translation",
+    "https://aclanthology.org/2023.findings-acl.521/",
+    "https://aclanthology.org/2023.findings-acl.521.pdf"
+  ],
+  [
+    "Evaluation for Change",
+    "https://aclanthology.org/2023.findings-acl.522/",
+    "https://aclanthology.org/2023.findings-acl.522.pdf"
+  ],
+  [
+    "Reconstruction Probing",
+    "https://aclanthology.org/2023.findings-acl.523/",
+    "https://aclanthology.org/2023.findings-acl.523.pdf"
+  ],
+  [
+    "Towards Distribution-shift Robust Text Classification of Emotional Content",
+    "https://aclanthology.org/2023.findings-acl.524/",
+    "https://aclanthology.org/2023.findings-acl.524.pdf"
+  ],
+  [
+    "Multi-lingual and Multi-cultural Figurative Language Understanding",
+    "https://aclanthology.org/2023.findings-acl.525/",
+    "https://aclanthology.org/2023.findings-acl.525.pdf"
+  ],
+  [
+    "Open-WikiTable : Dataset for Open Domain Question Answering with Complex Reasoning over Table",
+    "https://aclanthology.org/2023.findings-acl.526/",
+    "https://aclanthology.org/2023.findings-acl.526.pdf"
+  ],
+  [
+    "What In-Context Learning “Learns” In-Context: Disentangling Task Recognition and Task Learning",
+    "https://aclanthology.org/2023.findings-acl.527/",
+    "https://aclanthology.org/2023.findings-acl.527.pdf"
+  ],
+  [
+    "Cross-Lingual Retrieval Augmented Prompt for Low-Resource Languages",
+    "https://aclanthology.org/2023.findings-acl.528/",
+    "https://aclanthology.org/2023.findings-acl.528.pdf"
+  ],
+  [
+    "Unsupervised Summarization Re-ranking",
+    "https://aclanthology.org/2023.findings-acl.529/",
+    "https://aclanthology.org/2023.findings-acl.529.pdf"
+  ],
+  [
+    "GRACE: Gradient-guided Controllable Retrieval for Augmenting Attribute-based Text Generation",
+    "https://aclanthology.org/2023.findings-acl.530/",
+    "https://aclanthology.org/2023.findings-acl.530.pdf"
+  ],
+  [
+    "So many design choices: Improving and interpreting neural agent communication in signaling games",
+    "https://aclanthology.org/2023.findings-acl.531/",
+    "https://aclanthology.org/2023.findings-acl.531.pdf"
+  ],
+  [
+    "Constructing Word-Context-Coupled Space Aligned with Associative Knowledge Relations for Interpretable Language Modeling",
+    "https://aclanthology.org/2023.findings-acl.532/",
+    "https://aclanthology.org/2023.findings-acl.532.pdf"
+  ],
+  [
+    "Fixed Input Parameterization for Efficient Prompting",
+    "https://aclanthology.org/2023.findings-acl.533/",
+    "https://aclanthology.org/2023.findings-acl.533.pdf"
+  ],
+  [
+    "Data Augmentation for Low-Resource Keyphrase Generation",
+    "https://aclanthology.org/2023.findings-acl.534/",
+    "https://aclanthology.org/2023.findings-acl.534.pdf"
+  ],
+  [
+    "BigVideo: A Large-scale Video Subtitle Translation Dataset for Multimodal Machine Translation",
+    "https://aclanthology.org/2023.findings-acl.535/",
+    "https://aclanthology.org/2023.findings-acl.535.pdf"
+  ],
+  [
+    "Constructing Procedural Graphs with Multiple Dependency Relations: A New Dataset and Baseline",
+    "https://aclanthology.org/2023.findings-acl.536/",
+    "https://aclanthology.org/2023.findings-acl.536.pdf"
+  ],
+  [
+    "Multi-Dimensional Evaluation of Text Summarization with In-Context Learning",
+    "https://aclanthology.org/2023.findings-acl.537/",
+    "https://aclanthology.org/2023.findings-acl.537.pdf"
+  ],
+  [
+    "Learning to Rank Utterances for Query-Focused Meeting Summarization",
+    "https://aclanthology.org/2023.findings-acl.538/",
+    "https://aclanthology.org/2023.findings-acl.538.pdf"
+  ],
+  [
+    "Neural Architecture Search for Parameter-Efficient Fine-tuning of Large Pre-trained Language Models",
+    "https://aclanthology.org/2023.findings-acl.539/",
+    "https://aclanthology.org/2023.findings-acl.539.pdf"
+  ],
+  [
+    "Aligning Offline Metrics and Human Judgments of Value for Code Generation Models",
+    "https://aclanthology.org/2023.findings-acl.540/",
+    "https://aclanthology.org/2023.findings-acl.540.pdf"
+  ],
+  [
+    "Do transformer models do phonology like a linguist?",
+    "https://aclanthology.org/2023.findings-acl.541/",
+    "https://aclanthology.org/2023.findings-acl.541.pdf"
+  ],
+  [
+    "DiMS: Distilling Multiple Steps of Iterative Non-Autoregressive Transformers for Machine Translation",
+    "https://aclanthology.org/2023.findings-acl.542/",
+    "https://aclanthology.org/2023.findings-acl.542.pdf"
+  ],
+  [
+    "Retrieval-augmented Video Encoding for Instructional Captioning",
+    "https://aclanthology.org/2023.findings-acl.543/",
+    "https://aclanthology.org/2023.findings-acl.543.pdf"
+  ],
+  [
+    "Bi-level Finetuning with Task-dependent Similarity Structure for Low-resource Training",
+    "https://aclanthology.org/2023.findings-acl.544/",
+    "https://aclanthology.org/2023.findings-acl.544.pdf"
+  ],
+  [
+    "Kanbun-LM: Reading and Translating Classical Chinese in Japanese Methods by Language Models",
+    "https://aclanthology.org/2023.findings-acl.545/",
+    "https://aclanthology.org/2023.findings-acl.545.pdf"
+  ],
+  [
+    "Adaptive Attention for Sparse-based Long-sequence Transformer",
+    "https://aclanthology.org/2023.findings-acl.546/",
+    "https://aclanthology.org/2023.findings-acl.546.pdf"
+  ],
+  [
+    "Sentiment Analysis using the Relationship between Users and Products",
+    "https://aclanthology.org/2023.findings-acl.547/",
+    "https://aclanthology.org/2023.findings-acl.547.pdf"
+  ],
+  [
+    "Entropy-guided Vocabulary Augmentation of Multilingual Language Models for Low-resource Tasks",
+    "https://aclanthology.org/2023.findings-acl.548/",
+    "https://aclanthology.org/2023.findings-acl.548.pdf"
+  ],
+  [
+    "Class-Adaptive Self-Training for Relation Extraction with Incompletely Annotated Training Data",
+    "https://aclanthology.org/2023.findings-acl.549/",
+    "https://aclanthology.org/2023.findings-acl.549.pdf"
+  ],
+  [
+    "Solving Cosine Similarity Underestimation between High Frequency Words by ℓ2 Norm Discounting",
+    "https://aclanthology.org/2023.findings-acl.550/",
+    "https://aclanthology.org/2023.findings-acl.550.pdf"
+  ],
+  [
+    "Do Large Language Models Know What They Don’t Know?",
+    "https://aclanthology.org/2023.findings-acl.551/",
+    "https://aclanthology.org/2023.findings-acl.551.pdf"
+  ],
+  [
+    "AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities",
+    "https://aclanthology.org/2023.findings-acl.552/",
+    "https://aclanthology.org/2023.findings-acl.552.pdf"
+  ],
+  [
+    "RHGN: Relation-gated Heterogeneous Graph Network for Entity Alignment in Knowledge Graphs",
+    "https://aclanthology.org/2023.findings-acl.553/",
+    "https://aclanthology.org/2023.findings-acl.553.pdf"
+  ],
+  [
+    "Feature Interactions Reveal Linguistic Structure in Language Models",
+    "https://aclanthology.org/2023.findings-acl.554/",
+    "https://aclanthology.org/2023.findings-acl.554.pdf"
+  ],
+  [
+    "Clustering-Aware Negative Sampling for Unsupervised Sentence Representation",
+    "https://aclanthology.org/2023.findings-acl.555/",
+    "https://aclanthology.org/2023.findings-acl.555.pdf"
+  ],
+  [
+    "An Effective Deployment of Contrastive Learning in Multi-label Text Classification",
+    "https://aclanthology.org/2023.findings-acl.556/",
+    "https://aclanthology.org/2023.findings-acl.556.pdf"
+  ],
+  [
+    "Segment-Level and Category-Oriented Network for Knowledge-Based Referring Expression Comprehension",
+    "https://aclanthology.org/2023.findings-acl.557/",
+    "https://aclanthology.org/2023.findings-acl.557.pdf"
+  ],
+  [
+    "MVP: Multi-task Supervised Pre-training for Natural Language Generation",
+    "https://aclanthology.org/2023.findings-acl.558/",
+    "https://aclanthology.org/2023.findings-acl.558.pdf"
+  ],
+  [
+    "From Alignment to Entailment: A Unified Textual Entailment Framework for Entity Alignment",
+    "https://aclanthology.org/2023.findings-acl.559/",
+    "https://aclanthology.org/2023.findings-acl.559.pdf"
+  ],
+  [
+    "It is a Bird Therefore it is a Robin: On BERT’s Internal Consistency Between Hypernym Knowledge and Logical Words",
+    "https://aclanthology.org/2023.findings-acl.560/",
+    "https://aclanthology.org/2023.findings-acl.560.pdf"
+  ],
+  [
+    "Defending against Insertion-based Textual Backdoor Attacks via Attribution",
+    "https://aclanthology.org/2023.findings-acl.561/",
+    "https://aclanthology.org/2023.findings-acl.561.pdf"
+  ],
+  [
+    "ActiveAED: A Human in the Loop Improves Annotation Error Detection",
+    "https://aclanthology.org/2023.findings-acl.562/",
+    "https://aclanthology.org/2023.findings-acl.562.pdf"
+  ],
+  [
+    "Assessing Word Importance Using Models Trained for Semantic Tasks",
+    "https://aclanthology.org/2023.findings-acl.563/",
+    "https://aclanthology.org/2023.findings-acl.563.pdf"
+  ],
+  [
+    "In-context Examples Selection for Machine Translation",
+    "https://aclanthology.org/2023.findings-acl.564/",
+    "https://aclanthology.org/2023.findings-acl.564.pdf"
+  ],
+  [
+    "PropSegmEnt: A Large-Scale Corpus for Proposition-Level Segmentation and Entailment Recognition",
+    "https://aclanthology.org/2023.findings-acl.565/",
+    "https://aclanthology.org/2023.findings-acl.565.pdf"
+  ],
+  [
+    "CIF-PT: Bridging Speech and Text Representations for Spoken Language Understanding via Continuous Integrate-and-Fire Pre-Training",
+    "https://aclanthology.org/2023.findings-acl.566/",
+    "https://aclanthology.org/2023.findings-acl.566.pdf"
+  ],
+  [
+    "Improving Diachronic Word Sense Induction with a Nonparametric Bayesian method",
+    "https://aclanthology.org/2023.findings-acl.567/",
+    "https://aclanthology.org/2023.findings-acl.567.pdf"
+  ],
+  [
+    "What to Fuse and How to Fuse: Exploring Emotion and Personality Fusion Strategies for Explainable Mental Disorder Detection",
+    "https://aclanthology.org/2023.findings-acl.568/",
+    "https://aclanthology.org/2023.findings-acl.568.pdf"
+  ],
+  [
+    "Adaptive Contrastive Knowledge Distillation for BERT Compression",
+    "https://aclanthology.org/2023.findings-acl.569/",
+    "https://aclanthology.org/2023.findings-acl.569.pdf"
+  ],
+  [
+    "Fourier Transformer: Fast Long Range Modeling by Removing Sequence Redundancy with FFT Operator",
+    "https://aclanthology.org/2023.findings-acl.570/",
+    "https://aclanthology.org/2023.findings-acl.570.pdf"
+  ],
+  [
+    "Zero-Shot Classification by Logical Reasoning on Natural Language Explanations",
+    "https://aclanthology.org/2023.findings-acl.571/",
+    "https://aclanthology.org/2023.findings-acl.571.pdf"
+  ],
+  [
+    "Dual-Gated Fusion with Prefix-Tuning for Multi-Modal Relation Extraction",
+    "https://aclanthology.org/2023.findings-acl.572/",
+    "https://aclanthology.org/2023.findings-acl.572.pdf"
+  ],
+  [
+    "Pruning Pre-trained Language Models with Principled Importance and Self-regularization",
+    "https://aclanthology.org/2023.findings-acl.573/",
+    "https://aclanthology.org/2023.findings-acl.573.pdf"
+  ],
+  [
+    "The Magic of IF: Investigating Causal Reasoning Abilities in Large Language Models of Code",
+    "https://aclanthology.org/2023.findings-acl.574/",
+    "https://aclanthology.org/2023.findings-acl.574.pdf"
+  ],
+  [
+    "Learning to Leverage High-Order Medical Knowledge Graph for Joint Entity and Relation Extraction",
+    "https://aclanthology.org/2023.findings-acl.575/",
+    "https://aclanthology.org/2023.findings-acl.575.pdf"
+  ],
+  [
+    "Data-Efficient Finetuning Using Cross-Task Nearest Neighbors",
+    "https://aclanthology.org/2023.findings-acl.576/",
+    "https://aclanthology.org/2023.findings-acl.576.pdf"
+  ],
+  [
+    "CoAug: Combining Augmentation of Labels and Labelling Rules",
+    "https://aclanthology.org/2023.findings-acl.577/",
+    "https://aclanthology.org/2023.findings-acl.577.pdf"
+  ],
+  [
+    "Entity-to-Text based Data Augmentation for various Named Entity Recognition Tasks",
+    "https://aclanthology.org/2023.findings-acl.578/",
+    "https://aclanthology.org/2023.findings-acl.578.pdf"
+  ],
+  [
+    "World Models for Math Story Problems",
+    "https://aclanthology.org/2023.findings-acl.579/",
+    "https://aclanthology.org/2023.findings-acl.579.pdf"
+  ],
+  [
+    "AutoMoE: Heterogeneous Mixture-of-Experts with Adaptive Computation for Efficient Neural Machine Translation",
+    "https://aclanthology.org/2023.findings-acl.580/",
+    "https://aclanthology.org/2023.findings-acl.580.pdf"
+  ],
+  [
+    "Language Agnostic Multilingual Information Retrieval with Contrastive Learning",
+    "https://aclanthology.org/2023.findings-acl.581/",
+    "https://aclanthology.org/2023.findings-acl.581.pdf"
+  ],
+  [
+    "Easy to Decide, Hard to Agree: Reducing Disagreements Between Saliency Methods",
+    "https://aclanthology.org/2023.findings-acl.582/",
+    "https://aclanthology.org/2023.findings-acl.582.pdf"
+  ],
+  [
+    "Enhancing Cross-lingual Transfer via Phonemic Transcription Integration",
+    "https://aclanthology.org/2023.findings-acl.583/",
+    "https://aclanthology.org/2023.findings-acl.583.pdf"
+  ],
+  [
+    "Human-in-the-loop Abstractive Dialogue Summarization",
+    "https://aclanthology.org/2023.findings-acl.584/",
+    "https://aclanthology.org/2023.findings-acl.584.pdf"
+  ],
+  [
+    "A Multi-task Learning Framework for Quality Estimation",
+    "https://aclanthology.org/2023.findings-acl.585/",
+    "https://aclanthology.org/2023.findings-acl.585.pdf"
+  ],
+  [
+    "The Devil is in the Details: On the Pitfalls of Event Extraction Evaluation",
+    "https://aclanthology.org/2023.findings-acl.586/",
+    "https://aclanthology.org/2023.findings-acl.586.pdf"
+  ],
+  [
+    "Yes, this Way! Learning to Ground Referring Expressions into Actions with Intra-episodic Feedback from Supportive Teachers",
+    "https://aclanthology.org/2023.findings-acl.587/",
+    "https://aclanthology.org/2023.findings-acl.587.pdf"
+  ],
+  [
+    "Investigating Transformer-Guided Chaining for Interpretable Natural Logic Reasoning",
+    "https://aclanthology.org/2023.findings-acl.588/",
+    "https://aclanthology.org/2023.findings-acl.588.pdf"
+  ],
+  [
+    "Multilingual Multi-Figurative Language Detection",
+    "https://aclanthology.org/2023.findings-acl.589/",
+    "https://aclanthology.org/2023.findings-acl.589.pdf"
+  ],
+  [
+    "Zero-shot Visual Question Answering with Language Model Feedback",
+    "https://aclanthology.org/2023.findings-acl.590/",
+    "https://aclanthology.org/2023.findings-acl.590.pdf"
+  ],
+  [
+    "Prompted Opinion Summarization with GPT-3.5",
+    "https://aclanthology.org/2023.findings-acl.591/",
+    "https://aclanthology.org/2023.findings-acl.591.pdf"
+  ],
+  [
+    "Sentence Ordering with a Coherence Verifier",
+    "https://aclanthology.org/2023.findings-acl.592/",
+    "https://aclanthology.org/2023.findings-acl.592.pdf"
+  ],
+  [
+    "GUMSum: Multi-Genre Data and Evaluation for English Abstractive Summarization",
+    "https://aclanthology.org/2023.findings-acl.593/",
+    "https://aclanthology.org/2023.findings-acl.593.pdf"
+  ],
+  [
+    "Improving Grammatical Error Correction with Multimodal Feature Integration",
+    "https://aclanthology.org/2023.findings-acl.594/",
+    "https://aclanthology.org/2023.findings-acl.594.pdf"
+  ],
+  [
+    "Teaching the Pre-trained Model to Generate Simple Texts for Text Simplification",
+    "https://aclanthology.org/2023.findings-acl.595/",
+    "https://aclanthology.org/2023.findings-acl.595.pdf"
+  ],
+  [
+    "Acquiring Frame Element Knowledge with Deep Metric Learning for Semantic Frame Induction",
+    "https://aclanthology.org/2023.findings-acl.596/",
+    "https://aclanthology.org/2023.findings-acl.596.pdf"
+  ],
+  [
+    "Leveraging Synthetic Targets for Machine Translation",
+    "https://aclanthology.org/2023.findings-acl.597/",
+    "https://aclanthology.org/2023.findings-acl.597.pdf"
+  ],
+  [
+    "Recipes for Sequential Pre-training of Multilingual Encoder and Seq2Seq Models",
+    "https://aclanthology.org/2023.findings-acl.598/",
+    "https://aclanthology.org/2023.findings-acl.598.pdf"
+  ],
+  [
+    "Constructing Code-mixed Universal Dependency Forest for Unbiased Cross-lingual Relation Extraction",
+    "https://aclanthology.org/2023.findings-acl.599/",
+    "https://aclanthology.org/2023.findings-acl.599.pdf"
+  ],
+  [
+    "Spontaneous gestures encoded by hand positions improve language models: An Information-Theoretic motivated study",
+    "https://aclanthology.org/2023.findings-acl.600/",
+    "https://aclanthology.org/2023.findings-acl.600.pdf"
+  ],
+  [
+    "Progressive Translation: Improving Domain Robustness of Neural Machine Translation with Intermediate Sequences",
+    "https://aclanthology.org/2023.findings-acl.601/",
+    "https://aclanthology.org/2023.findings-acl.601.pdf"
+  ],
+  [
+    "Controlled Text Generation with Hidden Representation Transformations",
+    "https://aclanthology.org/2023.findings-acl.602/",
+    "https://aclanthology.org/2023.findings-acl.602.pdf"
+  ],
+  [
+    "Visual Coherence Loss for Coherent and Visually Grounded Story Generation",
+    "https://aclanthology.org/2023.findings-acl.603/",
+    "https://aclanthology.org/2023.findings-acl.603.pdf"
+  ],
+  [
+    "AnaMeta: A Table Understanding Dataset of Field Metadata Knowledge Shared by Multi-dimensional Data Analysis Tasks",
+    "https://aclanthology.org/2023.findings-acl.604/",
+    "https://aclanthology.org/2023.findings-acl.604.pdf"
+  ],
+  [
+    "Large Language Models Are Partially Primed in Pronoun Interpretation",
+    "https://aclanthology.org/2023.findings-acl.605/",
+    "https://aclanthology.org/2023.findings-acl.605.pdf"
+  ],
+  [
+    "Counterfactuals of Counterfactuals: a back-translation-inspired approach to analyse counterfactual editors",
+    "https://aclanthology.org/2023.findings-acl.606/",
+    "https://aclanthology.org/2023.findings-acl.606.pdf"
+  ],
+  [
+    "A Pilot Study on Dialogue-Level Dependency Parsing for Chinese",
+    "https://aclanthology.org/2023.findings-acl.607/",
+    "https://aclanthology.org/2023.findings-acl.607.pdf"
+  ],
+  [
+    "On the Off-Target Problem of Zero-Shot Multilingual Neural Machine Translation",
+    "https://aclanthology.org/2023.findings-acl.608/",
+    "https://aclanthology.org/2023.findings-acl.608.pdf"
+  ],
+  [
+    "ORCA: A Challenging Benchmark for Arabic Language Understanding",
+    "https://aclanthology.org/2023.findings-acl.609/",
+    "https://aclanthology.org/2023.findings-acl.609.pdf"
+  ],
+  [
+    "Delving into the Openness of CLIP",
+    "https://aclanthology.org/2023.findings-acl.610/",
+    "https://aclanthology.org/2023.findings-acl.610.pdf"
+  ],
+  [
+    "From Adversarial Arms Race to Model-centric Evaluation: Motivating a Unified Automatic Robustness Evaluation Framework",
+    "https://aclanthology.org/2023.findings-acl.611/",
+    "https://aclanthology.org/2023.findings-acl.611.pdf"
+  ],
+  [
+    "An Empirical Study of Sentiment-Enhanced Pre-Training for Aspect-Based Sentiment Analysis",
+    "https://aclanthology.org/2023.findings-acl.612/",
+    "https://aclanthology.org/2023.findings-acl.612.pdf"
+  ],
+  [
+    "NatCS: Eliciting Natural Customer Support Dialogues",
+    "https://aclanthology.org/2023.findings-acl.613/",
+    "https://aclanthology.org/2023.findings-acl.613.pdf"
+  ],
+  [
+    "Are Intermediate Layers and Labels Really Necessary? A General Language Model Distillation Method",
+    "https://aclanthology.org/2023.findings-acl.614/",
+    "https://aclanthology.org/2023.findings-acl.614.pdf"
+  ],
+  [
+    "Diable: Efficient Dialogue State Tracking as Operations on Tables",
+    "https://aclanthology.org/2023.findings-acl.615/",
+    "https://aclanthology.org/2023.findings-acl.615.pdf"
+  ],
+  [
+    "Neural Topic Modeling based on Cycle Adversarial Training and Contrastive Learning",
+    "https://aclanthology.org/2023.findings-acl.616/",
+    "https://aclanthology.org/2023.findings-acl.616.pdf"
+  ],
+  [
+    "Alleviating Exposure Bias via Multi-level Contrastive Learning and Deviation Simulation in Abstractive Summarization",
+    "https://aclanthology.org/2023.findings-acl.617/",
+    "https://aclanthology.org/2023.findings-acl.617.pdf"
+  ],
+  [
+    "Mapping Brains with Language Models: A Survey",
+    "https://aclanthology.org/2023.findings-acl.618/",
+    "https://aclanthology.org/2023.findings-acl.618.pdf"
+  ],
+  [
+    "Parameter-Efficient Finetuning for Robust Continual Multilingual Learning",
+    "https://aclanthology.org/2023.findings-acl.619/",
+    "https://aclanthology.org/2023.findings-acl.619.pdf"
+  ],
+  [
+    "Interpretable Multimodal Misinformation Detection with Logic Reasoning",
+    "https://aclanthology.org/2023.findings-acl.620/",
+    "https://aclanthology.org/2023.findings-acl.620.pdf"
+  ],
+  [
+    "Semantic-conditioned Dual Adaptation for Cross-domain Query-based Visual Segmentation",
+    "https://aclanthology.org/2023.findings-acl.621/",
+    "https://aclanthology.org/2023.findings-acl.621.pdf"
+  ],
+  [
+    "Figurative Language Processing: A Linguistically Informed Feature Analysis of the Behavior of Language Models and Humans",
+    "https://aclanthology.org/2023.findings-acl.622/",
+    "https://aclanthology.org/2023.findings-acl.622.pdf"
+  ],
+  [
+    "Taxonomy of Problems in Lexical Semantics",
+    "https://aclanthology.org/2023.findings-acl.623/",
+    "https://aclanthology.org/2023.findings-acl.623.pdf"
+  ],
+  [
+    "Making Pre-trained Language Models both Task-solvers and Self-calibrators",
+    "https://aclanthology.org/2023.findings-acl.624/",
+    "https://aclanthology.org/2023.findings-acl.624.pdf"
+  ],
+  [
+    "EmbedTextNet: Dimension Reduction with Weighted Reconstruction and Correlation Losses for Efficient Text Embedding",
+    "https://aclanthology.org/2023.findings-acl.625/",
+    "https://aclanthology.org/2023.findings-acl.625.pdf"
+  ],
+  [
+    "Denoising Enhanced Distantly Supervised Ultrafine Entity Typing",
+    "https://aclanthology.org/2023.findings-acl.626/",
+    "https://aclanthology.org/2023.findings-acl.626.pdf"
+  ],
+  [
+    "INTapt: Information-Theoretic Adversarial Prompt Tuning for Enhanced Non-Native Speech Recognition",
+    "https://aclanthology.org/2023.findings-acl.627/",
+    "https://aclanthology.org/2023.findings-acl.627.pdf"
+  ],
+  [
+    "Local Temperature Beam Search: Avoid Neural Text DeGeneration via Enhanced Calibration",
+    "https://aclanthology.org/2023.findings-acl.628/",
+    "https://aclanthology.org/2023.findings-acl.628.pdf"
+  ],
+  [
+    "Explanation Graph Generation via Generative Pre-training over Synthetic Graphs",
+    "https://aclanthology.org/2023.findings-acl.629/",
+    "https://aclanthology.org/2023.findings-acl.629.pdf"
+  ],
+  [
+    "NaSGEC: a Multi-Domain Chinese Grammatical Error Correction Dataset from Native Speaker Texts",
+    "https://aclanthology.org/2023.findings-acl.630/",
+    "https://aclanthology.org/2023.findings-acl.630.pdf"
+  ],
+  [
+    "FORK: A Bite-Sized Test Set for Probing Culinary Cultural Biases in Commonsense Reasoning Models",
+    "https://aclanthology.org/2023.findings-acl.631/",
+    "https://aclanthology.org/2023.findings-acl.631.pdf"
+  ],
+  [
+    "FedPETuning: When Federated Learning Meets the Parameter-Efficient Tuning Methods of Pre-trained Language Models",
+    "https://aclanthology.org/2023.findings-acl.632/",
+    "https://aclanthology.org/2023.findings-acl.632.pdf"
+  ],
+  [
+    "MixPAVE: Mix-Prompt Tuning for Few-shot Product Attribute Value Extraction",
+    "https://aclanthology.org/2023.findings-acl.633/",
+    "https://aclanthology.org/2023.findings-acl.633.pdf"
+  ],
+  [
+    "SlowBERT: Slow-down Attacks on Input-adaptive Multi-exit BERT",
+    "https://aclanthology.org/2023.findings-acl.634/",
+    "https://aclanthology.org/2023.findings-acl.634.pdf"
+  ],
+  [
+    "Compositional Mathematical Encoding for Math Word Problems",
+    "https://aclanthology.org/2023.findings-acl.635/",
+    "https://aclanthology.org/2023.findings-acl.635.pdf"
+  ],
+  [
+    "PREADD: Prefix-Adaptive Decoding for Controlled Text Generation",
+    "https://aclanthology.org/2023.findings-acl.636/",
+    "https://aclanthology.org/2023.findings-acl.636.pdf"
+  ],
+  [
+    "EventOA: An Event Ontology Alignment Benchmark Based on FrameNet and Wikidata",
+    "https://aclanthology.org/2023.findings-acl.637/",
+    "https://aclanthology.org/2023.findings-acl.637.pdf"
+  ],
+  [
+    "Enhancing Continual Relation Extraction via Classifier Decomposition",
+    "https://aclanthology.org/2023.findings-acl.638/",
+    "https://aclanthology.org/2023.findings-acl.638.pdf"
+  ],
+  [
+    "A Comparative Analysis of the Effectiveness of Rare Tokens on Creative Expression using ramBERT",
+    "https://aclanthology.org/2023.findings-acl.639/",
+    "https://aclanthology.org/2023.findings-acl.639.pdf"
+  ],
+  [
+    "MTR: A Dataset Fusing Inductive, Deductive, and Defeasible Reasoning",
+    "https://aclanthology.org/2023.findings-acl.640/",
+    "https://aclanthology.org/2023.findings-acl.640.pdf"
+  ],
+  [
+    "NewsMet : A ‘do it all’ Dataset of Contemporary Metaphors in News Headlines",
+    "https://aclanthology.org/2023.findings-acl.641/",
+    "https://aclanthology.org/2023.findings-acl.641.pdf"
+  ],
+  [
+    "Concept2Box: Joint Geometric Embeddings for Learning Two-View Knowledge Graphs",
+    "https://aclanthology.org/2023.findings-acl.642/",
+    "https://aclanthology.org/2023.findings-acl.642.pdf"
+  ],
+  [
+    "Noise-Robust Training with Dynamic Loss and Contrastive Learning for Distantly-Supervised Named Entity Recognition",
+    "https://aclanthology.org/2023.findings-acl.643/",
+    "https://aclanthology.org/2023.findings-acl.643.pdf"
+  ],
+  [
+    "Take a Break in the Middle: Investigating Subgoals towards Hierarchical Script Generation",
+    "https://aclanthology.org/2023.findings-acl.644/",
+    "https://aclanthology.org/2023.findings-acl.644.pdf"
+  ],
+  [
+    "End-to-End Task-Oriented Dialogue Systems Based on Schema",
+    "https://aclanthology.org/2023.findings-acl.645/",
+    "https://aclanthology.org/2023.findings-acl.645.pdf"
+  ],
+  [
+    "HaVQA: A Dataset for Visual Question Answering and Multimodal Research in Hausa Language",
+    "https://aclanthology.org/2023.findings-acl.646/",
+    "https://aclanthology.org/2023.findings-acl.646.pdf"
+  ],
+  [
+    "Claim-Dissector: An Interpretable Fact-Checking System with Joint Re-ranking and Veracity Prediction",
+    "https://aclanthology.org/2023.findings-acl.647/",
+    "https://aclanthology.org/2023.findings-acl.647.pdf"
+  ],
+  [
+    "StructSP: Efficient Fine-tuning of Task-Oriented Dialog System by Using Structure-aware Boosting and Grammar Constraints",
+    "https://aclanthology.org/2023.findings-acl.648/",
+    "https://aclanthology.org/2023.findings-acl.648.pdf"
+  ],
+  [
+    "GDA: Generative Data Augmentation Techniques for Relation Extraction Tasks",
+    "https://aclanthology.org/2023.findings-acl.649/",
+    "https://aclanthology.org/2023.findings-acl.649.pdf"
+  ],
+  [
+    "WebDP: Understanding Discourse Structures in Semi-Structured Web Documents",
+    "https://aclanthology.org/2023.findings-acl.650/",
+    "https://aclanthology.org/2023.findings-acl.650.pdf"
+  ],
+  [
+    "Tab-CoT: Zero-shot Tabular Chain of Thought",
+    "https://aclanthology.org/2023.findings-acl.651/",
+    "https://aclanthology.org/2023.findings-acl.651.pdf"
+  ],
+  [
+    "KNSE: A Knowledge-aware Natural Language Inference Framework for Dialogue Symptom Status Recognition",
+    "https://aclanthology.org/2023.findings-acl.652/",
+    "https://aclanthology.org/2023.findings-acl.652.pdf"
+  ],
+  [
+    "Augmenting Large Language Model Translators via Translation Memories",
+    "https://aclanthology.org/2023.findings-acl.653/",
+    "https://aclanthology.org/2023.findings-acl.653.pdf"
+  ],
+  [
+    "Character Coreference Resolution in Movie Screenplays",
+    "https://aclanthology.org/2023.findings-acl.654/",
+    "https://aclanthology.org/2023.findings-acl.654.pdf"
+  ],
+  [
+    "Enhancing Event Causality Identification with Event Causal Label and Event Pair Interaction Graph",
+    "https://aclanthology.org/2023.findings-acl.655/",
+    "https://aclanthology.org/2023.findings-acl.655.pdf"
+  ],
+  [
+    "LightFormer: Light-weight Transformer Using SVD-based Weight Transfer and Parameter Sharing",
+    "https://aclanthology.org/2023.findings-acl.656/",
+    "https://aclanthology.org/2023.findings-acl.656.pdf"
+  ],
+  [
+    "Multi-hop Evidence Retrieval for Cross-document Relation Extraction",
+    "https://aclanthology.org/2023.findings-acl.657/",
+    "https://aclanthology.org/2023.findings-acl.657.pdf"
+  ],
+  [
+    "Which Examples Should be Multiply Annotated? Active Learning When Annotators May Disagree",
+    "https://aclanthology.org/2023.findings-acl.658/",
+    "https://aclanthology.org/2023.findings-acl.658.pdf"
+  ],
+  [
+    "PIP: Parse-Instructed Prefix for Syntactically Controlled Paraphrase Generation",
+    "https://aclanthology.org/2023.findings-acl.659/",
+    "https://aclanthology.org/2023.findings-acl.659.pdf"
+  ],
+  [
+    "DePlot: One-shot visual language reasoning by plot-to-table translation",
+    "https://aclanthology.org/2023.findings-acl.660/",
+    "https://aclanthology.org/2023.findings-acl.660.pdf"
+  ],
+  [
+    "Stochastic Bridges as Effective Regularizers for Parameter-Efficient Tuning",
+    "https://aclanthology.org/2023.findings-acl.661/",
+    "https://aclanthology.org/2023.findings-acl.661.pdf"
+  ],
+  [
+    "Learning from a Friend: Improving Event Extraction via Self-Training with Feedback from Abstract Meaning Representation",
+    "https://aclanthology.org/2023.findings-acl.662/",
+    "https://aclanthology.org/2023.findings-acl.662.pdf"
+  ],
+  [
+    "How Well Do Large Language Models Perform on Faux Pas Tests?",
+    "https://aclanthology.org/2023.findings-acl.663/",
+    "https://aclanthology.org/2023.findings-acl.663.pdf"
+  ],
+  [
+    "Modular Transformers: Compressing Transformers into Modularized Layers for Flexible Efficient Inference",
+    "https://aclanthology.org/2023.findings-acl.664/",
+    "https://aclanthology.org/2023.findings-acl.664.pdf"
+  ],
+  [
+    "ISLTranslate: Dataset for Translating Indian Sign Language",
+    "https://aclanthology.org/2023.findings-acl.665/",
+    "https://aclanthology.org/2023.findings-acl.665.pdf"
+  ],
+  [
+    "LMentry: A Language Model Benchmark of Elementary Language Tasks",
+    "https://aclanthology.org/2023.findings-acl.666/",
+    "https://aclanthology.org/2023.findings-acl.666.pdf"
+  ],
+  [
+    "Differentiable Instruction Optimization for Cross-Task Generalization",
+    "https://aclanthology.org/2023.findings-acl.667/",
+    "https://aclanthology.org/2023.findings-acl.667.pdf"
+  ],
+  [
+    "Leveraging Training Data in Few-Shot Prompting for Numerical Reasoning",
+    "https://aclanthology.org/2023.findings-acl.668/",
+    "https://aclanthology.org/2023.findings-acl.668.pdf"
+  ],
+  [
+    "How does the task complexity of masked pretraining objectives affect downstream performance?",
+    "https://aclanthology.org/2023.findings-acl.669/",
+    "https://aclanthology.org/2023.findings-acl.669.pdf"
+  ],
+  [
+    "AUGUST: an Automatic Generation Understudy for Synthesizing Conversational Recommendation Datasets",
+    "https://aclanthology.org/2023.findings-acl.670/",
+    "https://aclanthology.org/2023.findings-acl.670.pdf"
+  ],
+  [
+    "Knowing-how & Knowing-that: A New Task for Machine Comprehension of User Manuals",
+    "https://aclanthology.org/2023.findings-acl.671/",
+    "https://aclanthology.org/2023.findings-acl.671.pdf"
+  ],
+  [
+    "Deep Span Representations for Named Entity Recognition",
+    "https://aclanthology.org/2023.findings-acl.672/",
+    "https://aclanthology.org/2023.findings-acl.672.pdf"
+  ],
+  [
+    "Disambiguated Lexically Constrained Neural Machine Translation",
+    "https://aclanthology.org/2023.findings-acl.673/",
+    "https://aclanthology.org/2023.findings-acl.673.pdf"
+  ],
+  [
+    "Curating Datasets for Better Performance with Example Training Dynamics",
+    "https://aclanthology.org/2023.findings-acl.674/",
+    "https://aclanthology.org/2023.findings-acl.674.pdf"
+  ],
+  [
+    "Multi-armed bandits for resource efficient, online optimization of language model pre-training: the use case of dynamic masking",
+    "https://aclanthology.org/2023.findings-acl.675/",
+    "https://aclanthology.org/2023.findings-acl.675.pdf"
+  ],
+  [
+    "ERNIE-Code: Beyond English-Centric Cross-lingual Pretraining for Programming Languages",
+    "https://aclanthology.org/2023.findings-acl.676/",
+    "https://aclanthology.org/2023.findings-acl.676.pdf"
+  ],
+  [
+    "PromptAttack: Probing Dialogue State Trackers with Adversarial Prompts",
+    "https://aclanthology.org/2023.findings-acl.677/",
+    "https://aclanthology.org/2023.findings-acl.677.pdf"
+  ],
+  [
+    "Understanding Programs by Exploiting (Fuzzing) Test Cases",
+    "https://aclanthology.org/2023.findings-acl.678/",
+    "https://aclanthology.org/2023.findings-acl.678.pdf"
+  ],
+  [
+    "Hybrid Hierarchical Retrieval for Open-Domain Question Answering",
+    "https://aclanthology.org/2023.findings-acl.679/",
+    "https://aclanthology.org/2023.findings-acl.679.pdf"
+  ],
+  [
+    "Coherent or Not? Stressing a Neural Language Model for Discourse Coherence in Multiple Languages",
+    "https://aclanthology.org/2023.findings-acl.680/",
+    "https://aclanthology.org/2023.findings-acl.680.pdf"
+  ],
+  [
+    "Understanding Differential Search Index for Text Retrieval",
+    "https://aclanthology.org/2023.findings-acl.681/",
+    "https://aclanthology.org/2023.findings-acl.681.pdf"
+  ],
+  [
+    "Masked Audio Text Encoders are Effective Multi-Modal Rescorers",
+    "https://aclanthology.org/2023.findings-acl.682/",
+    "https://aclanthology.org/2023.findings-acl.682.pdf"
+  ],
+  [
+    "Replace and Report: NLP Assisted Radiology Report Generation",
+    "https://aclanthology.org/2023.findings-acl.683/",
+    "https://aclanthology.org/2023.findings-acl.683.pdf"
+  ],
+  [
+    "Pre-trained Personalized Review Summarization with Effective Salience Estimation",
+    "https://aclanthology.org/2023.findings-acl.684/",
+    "https://aclanthology.org/2023.findings-acl.684.pdf"
+  ],
+  [
+    "CaPE: Contrastive Parameter Ensembling for Reducing Hallucination in Abstractive Summarization",
+    "https://aclanthology.org/2023.findings-acl.685/",
+    "https://aclanthology.org/2023.findings-acl.685.pdf"
+  ],
+  [
+    "OpineSum: Entailment-based self-training for abstractive opinion summarization",
+    "https://aclanthology.org/2023.findings-acl.686/",
+    "https://aclanthology.org/2023.findings-acl.686.pdf"
+  ],
+  [
+    "A Call for Standardization and Validation of Text Style Transfer Evaluation",
+    "https://aclanthology.org/2023.findings-acl.687/",
+    "https://aclanthology.org/2023.findings-acl.687.pdf"
+  ],
+  [
+    "Bridging the Granularity Gap for Acoustic Modeling",
+    "https://aclanthology.org/2023.findings-acl.688/",
+    "https://aclanthology.org/2023.findings-acl.688.pdf"
+  ],
+  [
+    "MMSD2.0: Towards a Reliable Multi-modal Sarcasm Detection System",
+    "https://aclanthology.org/2023.findings-acl.689/",
+    "https://aclanthology.org/2023.findings-acl.689.pdf"
+  ],
+  [
+    "Learn to Not Link: Exploring NIL Prediction in Entity Linking",
+    "https://aclanthology.org/2023.findings-acl.690/",
+    "https://aclanthology.org/2023.findings-acl.690.pdf"
+  ],
+  [
+    "On Text-based Personality Computing: Challenges and Future Directions",
+    "https://aclanthology.org/2023.findings-acl.691/",
+    "https://aclanthology.org/2023.findings-acl.691.pdf"
+  ],
+  [
+    "Structured Pruning for Efficient Generative Pre-trained Language Models",
+    "https://aclanthology.org/2023.findings-acl.692/",
+    "https://aclanthology.org/2023.findings-acl.692.pdf"
+  ],
+  [
+    "Prompt-Guided Retrieval Augmentation for Non-Knowledge-Intensive Tasks",
+    "https://aclanthology.org/2023.findings-acl.693/",
+    "https://aclanthology.org/2023.findings-acl.693.pdf"
+  ],
+  [
+    "Contextualized Semantic Distance between Highly Overlapped Texts",
+    "https://aclanthology.org/2023.findings-acl.694/",
+    "https://aclanthology.org/2023.findings-acl.694.pdf"
+  ],
+  [
+    "Unsupervised Dense Retrieval with Relevance-Aware Contrastive Pre-Training",
+    "https://aclanthology.org/2023.findings-acl.695/",
+    "https://aclanthology.org/2023.findings-acl.695.pdf"
+  ],
+  [
+    "Verifying Annotation Agreement without Multiple Experts: A Case Study with Gujarati SNACS",
+    "https://aclanthology.org/2023.findings-acl.696/",
+    "https://aclanthology.org/2023.findings-acl.696.pdf"
+  ],
+  [
+    "Reinforced Active Learning for Low-Resource, Domain-Specific, Multi-Label Text Classification",
+    "https://aclanthology.org/2023.findings-acl.697/",
+    "https://aclanthology.org/2023.findings-acl.697.pdf"
+  ],
+  [
+    "Improving Classroom Dialogue Act Recognition from Limited Labeled Data with Self-Supervised Contrastive Learning Classifiers",
+    "https://aclanthology.org/2023.findings-acl.698/",
+    "https://aclanthology.org/2023.findings-acl.698.pdf"
+  ],
+  [
+    "Contrastive Token-Wise Meta-Learning for Unseen Performer Visual Temporal-Aligned Translation",
+    "https://aclanthology.org/2023.findings-acl.699/",
+    "https://aclanthology.org/2023.findings-acl.699.pdf"
+  ],
+  [
+    "Enhancing Cross-lingual Prompting with Dual Prompt Augmentation",
+    "https://aclanthology.org/2023.findings-acl.700/",
+    "https://aclanthology.org/2023.findings-acl.700.pdf"
+  ],
+  [
+    "Foveate, Attribute, and Rationalize: Towards Physically Safe and Trustworthy AI",
+    "https://aclanthology.org/2023.findings-acl.701/",
+    "https://aclanthology.org/2023.findings-acl.701.pdf"
+  ],
+  [
+    "Multijugate Dual Learning for Low-Resource Task-Oriented Dialogue System",
+    "https://aclanthology.org/2023.findings-acl.702/",
+    "https://aclanthology.org/2023.findings-acl.702.pdf"
+  ],
+  [
+    "A Class-Rebalancing Self-Training Framework for Distantly-Supervised Named Entity Recognition",
+    "https://aclanthology.org/2023.findings-acl.703/",
+    "https://aclanthology.org/2023.findings-acl.703.pdf"
+  ],
+  [
+    "MURMUR: Modular Multi-Step Reasoning for Semi-Structured Data-to-Text Generation",
+    "https://aclanthology.org/2023.findings-acl.704/",
+    "https://aclanthology.org/2023.findings-acl.704.pdf"
+  ],
+  [
+    "Learning by Analogy: Diverse Questions Generation in Math Word Problem",
+    "https://aclanthology.org/2023.findings-acl.705/",
+    "https://aclanthology.org/2023.findings-acl.705.pdf"
+  ],
+  [
+    "Revisit Few-shot Intent Classification with PLMs: Direct Fine-tuning vs. Continual Pre-training",
+    "https://aclanthology.org/2023.findings-acl.706/",
+    "https://aclanthology.org/2023.findings-acl.706.pdf"
+  ],
+  [
+    "Improving Contrastive Learning of Sentence Embeddings from AI Feedback",
+    "https://aclanthology.org/2023.findings-acl.707/",
+    "https://aclanthology.org/2023.findings-acl.707.pdf"
+  ],
+  [
+    "Mars: Modeling Context & State Representations with Contrastive Learning for End-to-End Task-Oriented Dialog",
+    "https://aclanthology.org/2023.findings-acl.708/",
+    "https://aclanthology.org/2023.findings-acl.708.pdf"
+  ],
+  [
+    "Text Augmented Open Knowledge Graph Completion via Pre-Trained Language Models",
+    "https://aclanthology.org/2023.findings-acl.709/",
+    "https://aclanthology.org/2023.findings-acl.709.pdf"
+  ],
+  [
+    "Discourse Analysis via Questions and Answers: Parsing Dependency Structures of Questions Under Discussion",
+    "https://aclanthology.org/2023.findings-acl.710/",
+    "https://aclanthology.org/2023.findings-acl.710.pdf"
+  ],
+  [
+    "An Integrated Approach for Political Bias Prediction and Explanation Based on Discursive Structure",
+    "https://aclanthology.org/2023.findings-acl.711/",
+    "https://aclanthology.org/2023.findings-acl.711.pdf"
+  ],
+  [
+    "Smart Word Suggestions for Writing Assistance",
+    "https://aclanthology.org/2023.findings-acl.712/",
+    "https://aclanthology.org/2023.findings-acl.712.pdf"
+  ],
+  [
+    "JECC: Commonsense Reasoning Tasks Derived from Interactive Fictions",
+    "https://aclanthology.org/2023.findings-acl.713/",
+    "https://aclanthology.org/2023.findings-acl.713.pdf"
+  ],
+  [
+    "A Study on Knowledge Distillation from Weak Teacher for Scaling Up Pre-trained Language Models",
+    "https://aclanthology.org/2023.findings-acl.714/",
+    "https://aclanthology.org/2023.findings-acl.714.pdf"
+  ],
+  [
+    "SORTIE: Dependency-Aware Symbolic Reasoning for Logical Data-to-text Generation",
+    "https://aclanthology.org/2023.findings-acl.715/",
+    "https://aclanthology.org/2023.findings-acl.715.pdf"
+  ],
+  [
+    "Boosting Event Extraction with Denoised Structure-to-Text Augmentation",
+    "https://aclanthology.org/2023.findings-acl.716/",
+    "https://aclanthology.org/2023.findings-acl.716.pdf"
+  ],
+  [
+    "Detecting Adversarial Samples through Sharpness of Loss Landscape",
+    "https://aclanthology.org/2023.findings-acl.717/",
+    "https://aclanthology.org/2023.findings-acl.717.pdf"
+  ],
+  [
+    "A Simple, Yet Effective Approach to Finding Biases in Code Generation",
+    "https://aclanthology.org/2023.findings-acl.718/",
+    "https://aclanthology.org/2023.findings-acl.718.pdf"
+  ],
+  [
+    "Membership Inference Attacks against Language Models via Neighbourhood Comparison",
+    "https://aclanthology.org/2023.findings-acl.719/",
+    "https://aclanthology.org/2023.findings-acl.719.pdf"
+  ],
+  [
+    "CFL: Causally Fair Language Models Through Token-level Attribute Controlled Generation",
+    "https://aclanthology.org/2023.findings-acl.720/",
+    "https://aclanthology.org/2023.findings-acl.720.pdf"
+  ],
+  [
+    "Can Diffusion Model Achieve Better Performance in Text Generation ? Bridging the Gap between Training and Inference !",
+    "https://aclanthology.org/2023.findings-acl.721/",
+    "https://aclanthology.org/2023.findings-acl.721.pdf"
+  ],
+  [
+    "Topic-Guided Self-Introduction Generation for Social Media Users",
+    "https://aclanthology.org/2023.findings-acl.722/",
+    "https://aclanthology.org/2023.findings-acl.722.pdf"
+  ],
+  [
+    "Recyclable Tuning for Continual Pre-training",
+    "https://aclanthology.org/2023.findings-acl.723/",
+    "https://aclanthology.org/2023.findings-acl.723.pdf"
+  ],
+  [
+    "BLOCSUM: Block Scope-based Source Code Summarization via Shared Block Representation",
+    "https://aclanthology.org/2023.findings-acl.724/",
+    "https://aclanthology.org/2023.findings-acl.724.pdf"
+  ],
+  [
+    "HyperPELT: Unified Parameter-Efficient Language Model Tuning for Both Language and Vision-and-Language Tasks",
+    "https://aclanthology.org/2023.findings-acl.725/",
+    "https://aclanthology.org/2023.findings-acl.725.pdf"
+  ],
+  [
+    "Enhancing Unsupervised Semantic Parsing with Distributed Contextual Representations",
+    "https://aclanthology.org/2023.findings-acl.726/",
+    "https://aclanthology.org/2023.findings-acl.726.pdf"
+  ],
+  [
+    "Generating Labeled Data for Relation Extraction: A Meta Learning Approach with Joint GPT-2 Training",
+    "https://aclanthology.org/2023.findings-acl.727/",
+    "https://aclanthology.org/2023.findings-acl.727.pdf"
+  ],
+  [
+    "Disfluency Generation for More Robust Dialogue Systems",
+    "https://aclanthology.org/2023.findings-acl.728/",
+    "https://aclanthology.org/2023.findings-acl.728.pdf"
+  ],
+  [
+    "Dipping PLMs Sauce: Bridging Structure and Text for Effective Knowledge Graph Completion via Conditional Soft Prompting",
+    "https://aclanthology.org/2023.findings-acl.729/",
+    "https://aclanthology.org/2023.findings-acl.729.pdf"
+  ],
+  [
+    "Revisiting Pathologies of Neural Models under Input Reduction",
+    "https://aclanthology.org/2023.findings-acl.730/",
+    "https://aclanthology.org/2023.findings-acl.730.pdf"
+  ],
+  [
+    "Lego-MT: Learning Detachable Models for Massively Multilingual Machine Translation",
+    "https://aclanthology.org/2023.findings-acl.731/",
+    "https://aclanthology.org/2023.findings-acl.731.pdf"
+  ],
+  [
+    "FiDO: Fusion-in-Decoder optimized for stronger performance and faster inference",
+    "https://aclanthology.org/2023.findings-acl.732/",
+    "https://aclanthology.org/2023.findings-acl.732.pdf"
+  ],
+  [
+    "Detecting Edit Failures In Large Language Models: An Improved Specificity Benchmark",
+    "https://aclanthology.org/2023.findings-acl.733/",
+    "https://aclanthology.org/2023.findings-acl.733.pdf"
+  ],
+  [
+    "Structure-Aware Language Model Pretraining Improves Dense Retrieval on Structured Data",
+    "https://aclanthology.org/2023.findings-acl.734/",
+    "https://aclanthology.org/2023.findings-acl.734.pdf"
+  ],
+  [
+    "Few-shot Joint Multimodal Aspect-Sentiment Analysis Based on Generative Multimodal Prompt",
+    "https://aclanthology.org/2023.findings-acl.735/",
+    "https://aclanthology.org/2023.findings-acl.735.pdf"
+  ],
+  [
+    "Predicting Human Translation Difficulty Using Automatic Word Alignment",
+    "https://aclanthology.org/2023.findings-acl.736/",
+    "https://aclanthology.org/2023.findings-acl.736.pdf"
+  ],
+  [
+    "Know Where You’re Going: Meta-Learning for Parameter-Efficient Fine-Tuning",
+    "https://aclanthology.org/2023.findings-acl.737/",
+    "https://aclanthology.org/2023.findings-acl.737.pdf"
+  ],
+  [
+    "Moving Beyond Downstream Task Accuracy for Information Retrieval Benchmarking",
+    "https://aclanthology.org/2023.findings-acl.738/",
+    "https://aclanthology.org/2023.findings-acl.738.pdf"
+  ],
+  [
+    "AxomiyaBERTa: A Phonologically-aware Transformer Model for Assamese",
+    "https://aclanthology.org/2023.findings-acl.739/",
+    "https://aclanthology.org/2023.findings-acl.739.pdf"
+  ],
+  [
+    "An Exploratory Study on Model Compression for Text-to-SQL",
+    "https://aclanthology.org/2023.findings-acl.740/",
+    "https://aclanthology.org/2023.findings-acl.740.pdf"
+  ],
+  [
+    "FluentSpeech: Stutter-Oriented Automatic Speech Editing with Context-Aware Diffusion Models",
+    "https://aclanthology.org/2023.findings-acl.741/",
+    "https://aclanthology.org/2023.findings-acl.741.pdf"
+  ],
+  [
+    "HyHTM: Hyperbolic Geometry-based Hierarchical Topic Model",
+    "https://aclanthology.org/2023.findings-acl.742/",
+    "https://aclanthology.org/2023.findings-acl.742.pdf"
+  ],
+  [
+    "KoRC: Knowledge Oriented Reading Comprehension Benchmark for Deep Text Understanding",
+    "https://aclanthology.org/2023.findings-acl.743/",
+    "https://aclanthology.org/2023.findings-acl.743.pdf"
+  ],
+  [
+    "DKAF: KB Arbitration for Learning Task-Oriented Dialog Systems with Dialog-KB Inconsistencies",
+    "https://aclanthology.org/2023.findings-acl.744/",
+    "https://aclanthology.org/2023.findings-acl.744.pdf"
+  ],
+  [
+    "Scale-Invariant Infinite Hierarchical Topic Model",
+    "https://aclanthology.org/2023.findings-acl.745/",
+    "https://aclanthology.org/2023.findings-acl.745.pdf"
+  ],
+  [
+    "RC3: Regularized Contrastive Cross-lingual Cross-modal Pre-training",
+    "https://aclanthology.org/2023.findings-acl.746/",
+    "https://aclanthology.org/2023.findings-acl.746.pdf"
+  ],
+  [
+    "Deep Equilibrium Non-Autoregressive Sequence Learning",
+    "https://aclanthology.org/2023.findings-acl.747/",
+    "https://aclanthology.org/2023.findings-acl.747.pdf"
+  ],
+  [
+    "ReGen: Zero-Shot Text Classification via Training Data Generation with Progressive Dense Retrieval",
+    "https://aclanthology.org/2023.findings-acl.748/",
+    "https://aclanthology.org/2023.findings-acl.748.pdf"
+  ],
+  [
+    "Race, Gender, and Age Biases in Biomedical Masked Language Models",
+    "https://aclanthology.org/2023.findings-acl.749/",
+    "https://aclanthology.org/2023.findings-acl.749.pdf"
+  ],
+  [
+    "Neighboring Words Affect Human Interpretation of Saliency Explanations",
+    "https://aclanthology.org/2023.findings-acl.750/",
+    "https://aclanthology.org/2023.findings-acl.750.pdf"
+  ],
+  [
+    "HELP ME THINK: A Simple Prompting Strategy for Non-experts to Create Customized Content with Models",
+    "https://aclanthology.org/2023.findings-acl.751/",
+    "https://aclanthology.org/2023.findings-acl.751.pdf"
+  ],
+  [
+    "Decker: Double Check with Heterogeneous Knowledge for Commonsense Fact Verification",
+    "https://aclanthology.org/2023.findings-acl.752/",
+    "https://aclanthology.org/2023.findings-acl.752.pdf"
+  ],
+  [
+    "DopplerBAS: Binaural Audio Synthesis Addressing Doppler Effect",
+    "https://aclanthology.org/2023.findings-acl.753/",
+    "https://aclanthology.org/2023.findings-acl.753.pdf"
+  ],
+  [
+    "Easy-to-Hard Learning for Information Extraction",
+    "https://aclanthology.org/2023.findings-acl.754/",
+    "https://aclanthology.org/2023.findings-acl.754.pdf"
+  ],
+  [
+    "SConE: Simplified Cone Embeddings with Symbolic Operators for Complex Logical Queries",
+    "https://aclanthology.org/2023.findings-acl.755/",
+    "https://aclanthology.org/2023.findings-acl.755.pdf"
+  ],
+  [
+    "Two Heads Are Better Than One: Improving Fake News Video Detection by Correlating with Neighbors",
+    "https://aclanthology.org/2023.findings-acl.756/",
+    "https://aclanthology.org/2023.findings-acl.756.pdf"
+  ],
+  [
+    "An Annotated Dataset for Explainable Interpersonal Risk Factors of Mental Disturbance in Social Media Posts",
+    "https://aclanthology.org/2023.findings-acl.757/",
+    "https://aclanthology.org/2023.findings-acl.757.pdf"
+  ],
+  [
+    "Nano: Nested Human-in-the-Loop Reward Learning for Few-shot Language Model Control",
+    "https://aclanthology.org/2023.findings-acl.758/",
+    "https://aclanthology.org/2023.findings-acl.758.pdf"
+  ],
+  [
+    "Connectivity Patterns are Task Embeddings",
+    "https://aclanthology.org/2023.findings-acl.759/",
+    "https://aclanthology.org/2023.findings-acl.759.pdf"
+  ],
+  [
+    "Improving Autoregressive Grammatical Error Correction with Non-autoregressive Models",
+    "https://aclanthology.org/2023.findings-acl.760/",
+    "https://aclanthology.org/2023.findings-acl.760.pdf"
+  ],
+  [
+    "SamToNe: Improving Contrastive Loss for Dual Encoder Retrieval Models with Same Tower Negatives",
+    "https://aclanthology.org/2023.findings-acl.761/",
+    "https://aclanthology.org/2023.findings-acl.761.pdf"
+  ],
+  [
+    "On the Strength of Sequence Labeling and Generative Models for Aspect Sentiment Triplet Extraction",
+    "https://aclanthology.org/2023.findings-acl.762/",
+    "https://aclanthology.org/2023.findings-acl.762.pdf"
+  ],
+  [
+    "Revisiting Non-Autoregressive Translation at Scale",
+    "https://aclanthology.org/2023.findings-acl.763/",
+    "https://aclanthology.org/2023.findings-acl.763.pdf"
+  ],
+  [
+    "Improving Radiology Summarization with Radiograph and Anatomy Prompts",
+    "https://aclanthology.org/2023.findings-acl.764/",
+    "https://aclanthology.org/2023.findings-acl.764.pdf"
+  ],
+  [
+    "Explanation Regeneration via Information Bottleneck",
+    "https://aclanthology.org/2023.findings-acl.765/",
+    "https://aclanthology.org/2023.findings-acl.765.pdf"
+  ],
+  [
+    "Improving Zero-shot Multilingual Neural Machine Translation by Leveraging Cross-lingual Consistency Regularization",
+    "https://aclanthology.org/2023.findings-acl.766/",
+    "https://aclanthology.org/2023.findings-acl.766.pdf"
+  ],
+  [
+    "ReactIE: Enhancing Chemical Reaction Extraction with Weak Supervision",
+    "https://aclanthology.org/2023.findings-acl.767/",
+    "https://aclanthology.org/2023.findings-acl.767.pdf"
+  ],
+  [
+    "Expand, Rerank, and Retrieve: Query Reranking for Open-Domain Question Answering",
+    "https://aclanthology.org/2023.findings-acl.768/",
+    "https://aclanthology.org/2023.findings-acl.768.pdf"
+  ],
+  [
+    "Neural Networks Against (and For) Self-Training: Classification with Small Labeled and Large Unlabeled Sets",
+    "https://aclanthology.org/2023.findings-acl.769/",
+    "https://aclanthology.org/2023.findings-acl.769.pdf"
+  ],
+  [
+    "Inducing Character-level Structure in Subword-based Language Models with Type-level Interchange Intervention Training",
+    "https://aclanthology.org/2023.findings-acl.770/",
+    "https://aclanthology.org/2023.findings-acl.770.pdf"
+  ],
+  [
+    "Efficient Document Embeddings via Self-Contrastive Bregman Divergence Learning",
+    "https://aclanthology.org/2023.findings-acl.771/",
+    "https://aclanthology.org/2023.findings-acl.771.pdf"
+  ],
+  [
+    "QAP: A Quantum-Inspired Adaptive-Priority-Learning Model for Multimodal Emotion Recognition",
+    "https://aclanthology.org/2023.findings-acl.772/",
+    "https://aclanthology.org/2023.findings-acl.772.pdf"
+  ],
+  [
+    "Language acquisition: do children and language models follow similar learning stages?",
+    "https://aclanthology.org/2023.findings-acl.773/",
+    "https://aclanthology.org/2023.findings-acl.773.pdf"
+  ],
+  [
+    "The Role of Output Vocabulary in T2T LMs for SPARQL Semantic Parsing",
+    "https://aclanthology.org/2023.findings-acl.774/",
+    "https://aclanthology.org/2023.findings-acl.774.pdf"
+  ],
+  [
+    "UniCOQE: Unified Comparative Opinion Quintuple Extraction As A Set",
+    "https://aclanthology.org/2023.findings-acl.775/",
+    "https://aclanthology.org/2023.findings-acl.775.pdf"
+  ],
+  [
+    "Response-conditioned Turn-taking Prediction",
+    "https://aclanthology.org/2023.findings-acl.776/",
+    "https://aclanthology.org/2023.findings-acl.776.pdf"
+  ],
+  [
+    "A Unified One-Step Solution for Aspect Sentiment Quad Prediction",
+    "https://aclanthology.org/2023.findings-acl.777/",
+    "https://aclanthology.org/2023.findings-acl.777.pdf"
+  ],
+  [
+    "On Isotropy, Contextualization and Learning Dynamics of Contrastive-based Sentence Representation Learning",
+    "https://aclanthology.org/2023.findings-acl.778/",
+    "https://aclanthology.org/2023.findings-acl.778.pdf"
+  ],
+  [
+    "Few-shot Fine-tuning vs. In-context Learning: A Fair Comparison and Evaluation",
+    "https://aclanthology.org/2023.findings-acl.779/",
+    "https://aclanthology.org/2023.findings-acl.779.pdf"
+  ],
+  [
+    "Common Law Annotations: Investigating the Stability of Dialog System Output Annotations",
+    "https://aclanthology.org/2023.findings-acl.780/",
+    "https://aclanthology.org/2023.findings-acl.780.pdf"
+  ],
+  [
+    "HuaSLIM: Human Attention Motivated Shortcut Learning Identification and Mitigation for Large Language models",
+    "https://aclanthology.org/2023.findings-acl.781/",
+    "https://aclanthology.org/2023.findings-acl.781.pdf"
+  ],
+  [
+    "PMI-Align: Word Alignment With Point-Wise Mutual Information Without Requiring Parallel Training Data",
+    "https://aclanthology.org/2023.findings-acl.782/",
+    "https://aclanthology.org/2023.findings-acl.782.pdf"
+  ],
+  [
+    "Exploring Non-Verbal Predicates in Semantic Role Labeling: Challenges and Opportunities",
+    "https://aclanthology.org/2023.findings-acl.783/",
+    "https://aclanthology.org/2023.findings-acl.783.pdf"
+  ],
+  [
+    "DSPM-NLG: A Dual Supervised Pre-trained Model for Few-shot Natural Language Generation in Task-oriented Dialogue System",
+    "https://aclanthology.org/2023.findings-acl.784/",
+    "https://aclanthology.org/2023.findings-acl.784.pdf"
+  ],
+  [
+    "TEPrompt: Task Enlightenment Prompt Learning for Implicit Discourse Relation Recognition",
+    "https://aclanthology.org/2023.findings-acl.785/",
+    "https://aclanthology.org/2023.findings-acl.785.pdf"
+  ],
+  [
+    "Evaluating Factuality in Cross-lingual Summarization",
+    "https://aclanthology.org/2023.findings-acl.786/",
+    "https://aclanthology.org/2023.findings-acl.786.pdf"
+  ],
+  [
+    "On the Correspondence between Compositionality and Imitation in Emergent Neural Communication",
+    "https://aclanthology.org/2023.findings-acl.787/",
+    "https://aclanthology.org/2023.findings-acl.787.pdf"
+  ],
+  [
+    "The Coreference under Transformation Labeling Dataset: Entity Tracking in Procedural Texts Using Event Models",
+    "https://aclanthology.org/2023.findings-acl.788/",
+    "https://aclanthology.org/2023.findings-acl.788.pdf"
+  ],
+  [
+    "Why Does Zero-Shot Cross-Lingual Generation Fail? An Explanation and a Solution",
+    "https://aclanthology.org/2023.findings-acl.789/",
+    "https://aclanthology.org/2023.findings-acl.789.pdf"
+  ],
+  [
+    "Distractor Generation based on Text2Text Language Models with Pseudo Kullback-Leibler Divergence Regulation",
+    "https://aclanthology.org/2023.findings-acl.790/",
+    "https://aclanthology.org/2023.findings-acl.790.pdf"
+  ],
+  [
+    "Lexical Translation Inconsistency-Aware Document-Level Translation Repair",
+    "https://aclanthology.org/2023.findings-acl.791/",
+    "https://aclanthology.org/2023.findings-acl.791.pdf"
+  ],
+  [
+    "CausalDialogue: Modeling Utterance-level Causality in Conversations",
+    "https://aclanthology.org/2023.findings-acl.792/",
+    "https://aclanthology.org/2023.findings-acl.792.pdf"
+  ],
+  [
+    "Towards Unified Spoken Language Understanding Decoding via Label-aware Compact Linguistics Representations",
+    "https://aclanthology.org/2023.findings-acl.793/",
+    "https://aclanthology.org/2023.findings-acl.793.pdf"
+  ],
+  [
+    "Less Likely Brainstorming: Using Language Models to Generate Alternative Hypotheses",
+    "https://aclanthology.org/2023.findings-acl.794/",
+    "https://aclanthology.org/2023.findings-acl.794.pdf"
+  ],
+  [
+    "Language Modeling with Latent Situations",
+    "https://aclanthology.org/2023.findings-acl.795/",
+    "https://aclanthology.org/2023.findings-acl.795.pdf"
+  ],
+  [
+    "Can Cross-Lingual Transferability of Multilingual Transformers Be Activated Without End-Task Data?",
+    "https://aclanthology.org/2023.findings-acl.796/",
+    "https://aclanthology.org/2023.findings-acl.796.pdf"
+  ],
+  [
+    "Focus-aware Response Generation in Inquiry Conversation",
+    "https://aclanthology.org/2023.findings-acl.797/",
+    "https://aclanthology.org/2023.findings-acl.797.pdf"
+  ],
+  [
+    "A Hierarchical Explanation Generation Method Based on Feature Interaction Detection",
+    "https://aclanthology.org/2023.findings-acl.798/",
+    "https://aclanthology.org/2023.findings-acl.798.pdf"
+  ],
+  [
+    "Jointly Reparametrized Multi-Layer Adaptation for Efficient and Private Tuning",
+    "https://aclanthology.org/2023.findings-acl.799/",
+    "https://aclanthology.org/2023.findings-acl.799.pdf"
+  ],
+  [
+    "A Diffusion Model for Event Skeleton Generation",
+    "https://aclanthology.org/2023.findings-acl.800/",
+    "https://aclanthology.org/2023.findings-acl.800.pdf"
+  ],
+  [
+    "Nonparametric Decoding for Generative Retrieval",
+    "https://aclanthology.org/2023.findings-acl.801/",
+    "https://aclanthology.org/2023.findings-acl.801.pdf"
+  ],
+  [
+    "Aspect-aware Unsupervised Extractive Opinion Summarization",
+    "https://aclanthology.org/2023.findings-acl.802/",
+    "https://aclanthology.org/2023.findings-acl.802.pdf"
+  ],
+  [
+    "GNN-SL: Sequence Labeling Based on Nearest Examples via GNN",
+    "https://aclanthology.org/2023.findings-acl.803/",
+    "https://aclanthology.org/2023.findings-acl.803.pdf"
+  ],
+  [
+    "Serial Contrastive Knowledge Distillation for Continual Few-shot Relation Extraction",
+    "https://aclanthology.org/2023.findings-acl.804/",
+    "https://aclanthology.org/2023.findings-acl.804.pdf"
+  ],
+  [
+    "Revisiting the Architectures like Pointer Networks to Efficiently Improve the Next Word Distribution, Summarization Factuality, and Beyond",
+    "https://aclanthology.org/2023.findings-acl.805/",
+    "https://aclanthology.org/2023.findings-acl.805.pdf"
+  ],
+  [
+    "GLUE-X: Evaluating Natural Language Understanding Models from an Out-of-Distribution Generalization Perspective",
+    "https://aclanthology.org/2023.findings-acl.806/",
+    "https://aclanthology.org/2023.findings-acl.806.pdf"
+  ],
+  [
+    "Investigating the Saliency of Sentiment Expressions in Aspect-Based Sentiment Analysis",
+    "https://aclanthology.org/2023.findings-acl.807/",
+    "https://aclanthology.org/2023.findings-acl.807.pdf"
+  ],
+  [
+    "DMLM: Descriptive Masked Language Modeling",
+    "https://aclanthology.org/2023.findings-acl.808/",
+    "https://aclanthology.org/2023.findings-acl.808.pdf"
+  ],
+  [
+    "Reproducibility in NLP: What Have We Learned from the Checklist?",
+    "https://aclanthology.org/2023.findings-acl.809/",
+    "https://aclanthology.org/2023.findings-acl.809.pdf"
+  ],
+  [
+    "Domain Generalization via Switch Knowledge Distillation for Robust Review Representation",
+    "https://aclanthology.org/2023.findings-acl.810/",
+    "https://aclanthology.org/2023.findings-acl.810.pdf"
+  ],
+  [
+    "On Search Strategies for Document-Level Neural Machine Translation",
+    "https://aclanthology.org/2023.findings-acl.811/",
+    "https://aclanthology.org/2023.findings-acl.811.pdf"
+  ],
+  [
+    "Causal Intervention for Mitigating Name Bias in Machine Reading Comprehension",
+    "https://aclanthology.org/2023.findings-acl.812/",
+    "https://aclanthology.org/2023.findings-acl.812.pdf"
+  ],
+  [
+    "Counterfactual Probing for the Influence of Affect and Specificity on Intergroup Bias",
+    "https://aclanthology.org/2023.findings-acl.813/",
+    "https://aclanthology.org/2023.findings-acl.813.pdf"
+  ],
+  [
+    "SongRewriter: A Chinese Song Rewriting System with Controllable Content and Rhyme Scheme",
+    "https://aclanthology.org/2023.findings-acl.814/",
+    "https://aclanthology.org/2023.findings-acl.814.pdf"
+  ],
+  [
+    "Triplet-Free Knowledge-Guided Response Generation",
+    "https://aclanthology.org/2023.findings-acl.815/",
+    "https://aclanthology.org/2023.findings-acl.815.pdf"
+  ],
+  [
+    "Implicit Memory Transformer for Computationally Efficient Simultaneous Speech Translation",
+    "https://aclanthology.org/2023.findings-acl.816/",
+    "https://aclanthology.org/2023.findings-acl.816.pdf"
+  ],
+  [
+    "Enhancing Document-level Event Argument Extraction with Contextual Clues and Role Relevance",
+    "https://aclanthology.org/2023.findings-acl.817/",
+    "https://aclanthology.org/2023.findings-acl.817.pdf"
+  ],
+  [
+    "Exploring the Impact of Vision Features in News Image Captioning",
+    "https://aclanthology.org/2023.findings-acl.818/",
+    "https://aclanthology.org/2023.findings-acl.818.pdf"
+  ],
+  [
+    "Using Collostructional Analysis to evaluate BERT’s representation of linguistic constructions",
+    "https://aclanthology.org/2023.findings-acl.819/",
+    "https://aclanthology.org/2023.findings-acl.819.pdf"
+  ],
+  [
+    "Selecting Better Samples from Pre-trained LLMs: A Case Study on Question Generation",
+    "https://aclanthology.org/2023.findings-acl.820/",
+    "https://aclanthology.org/2023.findings-acl.820.pdf"
+  ],
+  [
+    "Sentiment Knowledge Enhanced Self-supervised Learning for Multimodal Sentiment Analysis",
+    "https://aclanthology.org/2023.findings-acl.821/",
+    "https://aclanthology.org/2023.findings-acl.821.pdf"
+  ],
+  [
+    "Theory of Mind in Freely-Told Children’s Narratives: A Classification Approach",
+    "https://aclanthology.org/2023.findings-acl.822/",
+    "https://aclanthology.org/2023.findings-acl.822.pdf"
+  ],
+  [
+    "Better Language Models of Code through Self-Improvement",
+    "https://aclanthology.org/2023.findings-acl.823/",
+    "https://aclanthology.org/2023.findings-acl.823.pdf"
+  ],
+  [
+    "Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them",
+    "https://aclanthology.org/2023.findings-acl.824/",
+    "https://aclanthology.org/2023.findings-acl.824.pdf"
+  ],
+  [
+    "Score It All Together: A Multi-Task Learning Study on Automatic Scoring of Argumentative Essays",
+    "https://aclanthology.org/2023.findings-acl.825/",
+    "https://aclanthology.org/2023.findings-acl.825.pdf"
+  ],
+  [
+    "Data Sampling and (In)stability in Machine Translation Evaluation",
+    "https://aclanthology.org/2023.findings-acl.826/",
+    "https://aclanthology.org/2023.findings-acl.826.pdf"
+  ],
+  [
+    "Probing Graph Decomposition for Argument Pair Extraction",
+    "https://aclanthology.org/2023.findings-acl.827/",
+    "https://aclanthology.org/2023.findings-acl.827.pdf"
+  ],
+  [
+    "DiffuSum: Generation Enhanced Extractive Summarization with Diffusion",
+    "https://aclanthology.org/2023.findings-acl.828/",
+    "https://aclanthology.org/2023.findings-acl.828.pdf"
+  ],
+  [
+    "Towards Parameter-Efficient Integration of Pre-Trained Language Models In Temporal Video Grounding",
+    "https://aclanthology.org/2023.findings-acl.829/",
+    "https://aclanthology.org/2023.findings-acl.829.pdf"
+  ],
+  [
+    "A Memory Model for Question Answering from Streaming Data Supported by Rehearsal and Anticipation of Coreference Information",
+    "https://aclanthology.org/2023.findings-acl.830/",
+    "https://aclanthology.org/2023.findings-acl.830.pdf"
+  ],
+  [
+    "Pay Attention to Implicit Attribute Values: A Multi-modal Generative Framework for AVE Task",
+    "https://aclanthology.org/2023.findings-acl.831/",
+    "https://aclanthology.org/2023.findings-acl.831.pdf"
+  ],
+  [
+    "CoRRPUS: Code-based Structured Prompting for Neurosymbolic Story Understanding",
+    "https://aclanthology.org/2023.findings-acl.832/",
+    "https://aclanthology.org/2023.findings-acl.832.pdf"
+  ],
+  [
+    "Fighting Bias With Bias: Promoting Model Robustness by Amplifying Dataset Biases",
+    "https://aclanthology.org/2023.findings-acl.833/",
+    "https://aclanthology.org/2023.findings-acl.833.pdf"
+  ],
+  [
+    "Context-Aware Document Simplification",
+    "https://aclanthology.org/2023.findings-acl.834/",
+    "https://aclanthology.org/2023.findings-acl.834.pdf"
+  ],
+  [
+    "Distinguish Before Answer: Generating Contrastive Explanation as Knowledge for Commonsense Question Answering",
+    "https://aclanthology.org/2023.findings-acl.835/",
+    "https://aclanthology.org/2023.findings-acl.835.pdf"
+  ],
+  [
+    "Abstract then Play: A Skill-centric Reinforcement Learning Framework for Text-based Games",
+    "https://aclanthology.org/2023.findings-acl.836/",
+    "https://aclanthology.org/2023.findings-acl.836.pdf"
+  ],
+  [
+    "SSP: Self-Supervised Post-training for Conversational Search",
+    "https://aclanthology.org/2023.findings-acl.837/",
+    "https://aclanthology.org/2023.findings-acl.837.pdf"
+  ],
+  [
+    "Towards Reference-free Text Simplification Evaluation with a BERT Siamese Network Architecture",
+    "https://aclanthology.org/2023.findings-acl.838/",
+    "https://aclanthology.org/2023.findings-acl.838.pdf"
+  ],
+  [
+    "Causal interventions expose implicit situation models for commonsense language understanding",
+    "https://aclanthology.org/2023.findings-acl.839/",
+    "https://aclanthology.org/2023.findings-acl.839.pdf"
+  ],
+  [
+    "Iterative Nearest Neighbour Machine Translation for Unsupervised Domain Adaptation",
+    "https://aclanthology.org/2023.findings-acl.840/",
+    "https://aclanthology.org/2023.findings-acl.840.pdf"
+  ],
+  [
+    "PruMUX: Augmenting Data Multiplexing with Model Compression",
+    "https://aclanthology.org/2023.findings-acl.841/",
+    "https://aclanthology.org/2023.findings-acl.841.pdf"
+  ],
+  [
+    "With Prejudice to None: A Few-Shot, Multilingual Transfer Learning Approach to Detect Social Bias in Low Resource Languages",
+    "https://aclanthology.org/2023.findings-acl.842/",
+    "https://aclanthology.org/2023.findings-acl.842.pdf"
+  ],
+  [
+    "Don’t Lose Yourself! Empathetic Response Generation via Explicit Self-Other Awareness",
+    "https://aclanthology.org/2023.findings-acl.843/",
+    "https://aclanthology.org/2023.findings-acl.843.pdf"
+  ],
+  [
+    "Are Layout-Infused Language Models Robust to Layout Distribution Shifts? A Case Study with Scientific Documents",
+    "https://aclanthology.org/2023.findings-acl.844/",
+    "https://aclanthology.org/2023.findings-acl.844.pdf"
+  ],
+  [
+    "Enhancing Neural Topic Model with Multi-Level Supervisions from Seed Words",
+    "https://aclanthology.org/2023.findings-acl.845/",
+    "https://aclanthology.org/2023.findings-acl.845.pdf"
+  ],
+  [
+    "Learning from Children: Improving Image-Caption Pretraining via Curriculum",
+    "https://aclanthology.org/2023.findings-acl.846/",
+    "https://aclanthology.org/2023.findings-acl.846.pdf"
+  ],
+  [
+    "Discovering Language Model Behaviors with Model-Written Evaluations",
+    "https://aclanthology.org/2023.findings-acl.847/",
+    "https://aclanthology.org/2023.findings-acl.847.pdf"
+  ],
+  [
+    "Cross-Domain Argument Quality Estimation",
+    "https://aclanthology.org/2023.findings-acl.848/",
+    "https://aclanthology.org/2023.findings-acl.848.pdf"
+  ],
+  [
+    "DiaASQ: A Benchmark of Conversational Aspect-based Sentiment Quadruple Analysis",
+    "https://aclanthology.org/2023.findings-acl.849/",
+    "https://aclanthology.org/2023.findings-acl.849.pdf"
+  ],
+  [
+    "GeoDRL: A Self-Learning Framework for Geometry Problem Solving using Reinforcement Learning in Deductive Reasoning",
+    "https://aclanthology.org/2023.findings-acl.850/",
+    "https://aclanthology.org/2023.findings-acl.850.pdf"
+  ],
+  [
+    "Uncertainty-Aware Unlikelihood Learning Improves Generative Aspect Sentiment Quad Prediction",
+    "https://aclanthology.org/2023.findings-acl.851/",
+    "https://aclanthology.org/2023.findings-acl.851.pdf"
+  ],
+  [
+    "Adversarial Knowledge Stimulated Contrastive Prompting for Few-shot Language Learners",
+    "https://aclanthology.org/2023.findings-acl.852/",
+    "https://aclanthology.org/2023.findings-acl.852.pdf"
+  ],
+  [
+    "Making Pre-trained Language Models Better Learn Few-Shot Spoken Language Understanding in More Practical Scenarios",
+    "https://aclanthology.org/2023.findings-acl.853/",
+    "https://aclanthology.org/2023.findings-acl.853.pdf"
+  ],
+  [
+    "Typology Guided Multilingual Position Representations: Case on Dependency Parsing",
+    "https://aclanthology.org/2023.findings-acl.854/",
+    "https://aclanthology.org/2023.findings-acl.854.pdf"
+  ],
+  [
+    "Learning Event-aware Measures for Event Coreference Resolution",
+    "https://aclanthology.org/2023.findings-acl.855/",
+    "https://aclanthology.org/2023.findings-acl.855.pdf"
+  ],
+  [
+    "Second Language Acquisition of Neural Language Models",
+    "https://aclanthology.org/2023.findings-acl.856/",
+    "https://aclanthology.org/2023.findings-acl.856.pdf"
+  ],
+  [
+    "On the Universal Adversarial Perturbations for Efficient Data-free Adversarial Detection",
+    "https://aclanthology.org/2023.findings-acl.857/",
+    "https://aclanthology.org/2023.findings-acl.857.pdf"
+  ],
+  [
+    "Exploring the Effectiveness of Prompt Engineering for Legal Reasoning Tasks",
+    "https://aclanthology.org/2023.findings-acl.858/",
+    "https://aclanthology.org/2023.findings-acl.858.pdf"
+  ],
+  [
+    "End-to-end Aspect-based Sentiment Analysis with Combinatory Categorial Grammar",
+    "https://aclanthology.org/2023.findings-acl.859/",
+    "https://aclanthology.org/2023.findings-acl.859.pdf"
+  ],
+  [
+    "ConKI: Contrastive Knowledge Injection for Multimodal Sentiment Analysis",
+    "https://aclanthology.org/2023.findings-acl.860/",
+    "https://aclanthology.org/2023.findings-acl.860.pdf"
+  ],
+  [
+    "On Degrees of Freedom in Defining and Testing Natural Language Understanding",
+    "https://aclanthology.org/2023.findings-acl.861/",
+    "https://aclanthology.org/2023.findings-acl.861.pdf"
+  ],
+  [
+    "AttenWalker: Unsupervised Long-Document Question Answering via Attention-based Graph Walking",
+    "https://aclanthology.org/2023.findings-acl.862/",
+    "https://aclanthology.org/2023.findings-acl.862.pdf"
+  ],
+  [
+    "Adaptive Ordered Information Extraction with Deep Reinforcement Learning",
+    "https://aclanthology.org/2023.findings-acl.863/",
+    "https://aclanthology.org/2023.findings-acl.863.pdf"
+  ],
+  [
+    "Wasserstein-Fisher-Rao Embedding: Logical Query Embeddings with Local Comparison and Global Transport",
+    "https://aclanthology.org/2023.findings-acl.864/",
+    "https://aclanthology.org/2023.findings-acl.864.pdf"
+  ],
+  [
+    "RISE: Leveraging Retrieval Techniques for Summarization Evaluation",
+    "https://aclanthology.org/2023.findings-acl.865/",
+    "https://aclanthology.org/2023.findings-acl.865.pdf"
+  ],
+  [
+    "On the Difference of BERT-style and CLIP-style Text Encoders",
+    "https://aclanthology.org/2023.findings-acl.866/",
+    "https://aclanthology.org/2023.findings-acl.866.pdf"
+  ],
+  [
+    "Model Interpretability and Rationale Extraction by Input Mask Optimization",
+    "https://aclanthology.org/2023.findings-acl.867/",
+    "https://aclanthology.org/2023.findings-acl.867.pdf"
+  ],
+  [
+    "NusaCrowd: Open Source Initiative for Indonesian NLP Resources",
+    "https://aclanthology.org/2023.findings-acl.868/",
+    "https://aclanthology.org/2023.findings-acl.868.pdf"
+  ],
+  [
+    "Transcribing Vocal Communications of Domestic Shiba lnu Dogs",
+    "https://aclanthology.org/2023.findings-acl.869/",
+    "https://aclanthology.org/2023.findings-acl.869.pdf"
+  ],
+  [
+    "SkillQG: Learning to Generate Question for Reading Comprehension Assessment",
+    "https://aclanthology.org/2023.findings-acl.870/",
+    "https://aclanthology.org/2023.findings-acl.870.pdf"
+  ],
+  [
+    "Improving Long Dialogue Summarization with Semantic Graph Representation",
+    "https://aclanthology.org/2023.findings-acl.871/",
+    "https://aclanthology.org/2023.findings-acl.871.pdf"
+  ],
+  [
+    "Model Intrinsic Features of Fine-tuning based Text Summarization Models for Factual Consistency",
+    "https://aclanthology.org/2023.findings-acl.872/",
+    "https://aclanthology.org/2023.findings-acl.872.pdf"
+  ],
+  [
+    "EfficientVLM: Fast and Accurate Vision-Language Models via Knowledge Distillation and Modal-adaptive Pruning",
+    "https://aclanthology.org/2023.findings-acl.873/",
+    "https://aclanthology.org/2023.findings-acl.873.pdf"
+  ],
+  [
+    "DP-BART for Privatized Text Rewriting under Local Differential Privacy",
+    "https://aclanthology.org/2023.findings-acl.874/",
+    "https://aclanthology.org/2023.findings-acl.874.pdf"
+  ],
+  [
+    "Robustness of Learning from Task Instructions",
+    "https://aclanthology.org/2023.findings-acl.875/",
+    "https://aclanthology.org/2023.findings-acl.875.pdf"
+  ],
+  [
+    "Masked Latent Semantic Modeling: an Efficient Pre-training Alternative to Masked Language Modeling",
+    "https://aclanthology.org/2023.findings-acl.876/",
+    "https://aclanthology.org/2023.findings-acl.876.pdf"
+  ],
+  [
+    "Detection and Mitigation of the Negative Impact of Dataset Extractivity on Abstractive Summarization",
+    "https://aclanthology.org/2023.findings-acl.877/",
+    "https://aclanthology.org/2023.findings-acl.877.pdf"
+  ],
+  [
+    "Commonsense Knowledge Graph Completion Via Contrastive Pretraining and Node Clustering",
+    "https://aclanthology.org/2023.findings-acl.878/",
+    "https://aclanthology.org/2023.findings-acl.878.pdf"
+  ],
+  [
+    "Incorporating Factuality Inference to Identify Document-level Event Factuality",
+    "https://aclanthology.org/2023.findings-acl.879/",
+    "https://aclanthology.org/2023.findings-acl.879.pdf"
+  ],
+  [
+    "Hybrid and Collaborative Passage Reranking",
+    "https://aclanthology.org/2023.findings-acl.880/",
+    "https://aclanthology.org/2023.findings-acl.880.pdf"
+  ],
+  [
+    "Sentence Embedding Leaks More Information than You Expect: Generative Embedding Inversion Attack to Recover the Whole Sentence",
+    "https://aclanthology.org/2023.findings-acl.881/",
+    "https://aclanthology.org/2023.findings-acl.881.pdf"
+  ],
+  [
+    "Learning Query Adaptive Anchor Representation for Inductive Relation Prediction",
+    "https://aclanthology.org/2023.findings-acl.882/",
+    "https://aclanthology.org/2023.findings-acl.882.pdf"
+  ],
+  [
+    "Context or Knowledge is Not Always Necessary: A Contrastive Learning Framework for Emotion Recognition in Conversations",
+    "https://aclanthology.org/2023.findings-acl.883/",
+    "https://aclanthology.org/2023.findings-acl.883.pdf"
+  ],
+  [
+    "Exploring Speaker-Related Information in Spoken Language Understanding for Better Speaker Diarization",
+    "https://aclanthology.org/2023.findings-acl.884/",
+    "https://aclanthology.org/2023.findings-acl.884.pdf"
+  ],
+  [
+    "Cross-Lingual Knowledge Distillation for Answer Sentence Selection in Low-Resource Languages",
+    "https://aclanthology.org/2023.findings-acl.885/",
+    "https://aclanthology.org/2023.findings-acl.885.pdf"
+  ],
+  [
+    "Run Like a Girl! Sport-Related Gender Bias in Language and Vision",
+    "https://aclanthology.org/2023.findings-acl.886/",
+    "https://aclanthology.org/2023.findings-acl.886.pdf"
+  ],
+  [
+    "People and Places of Historical Europe: Bootstrapping Annotation Pipeline and a New Corpus of Named Entities in Late Medieval Texts",
+    "https://aclanthology.org/2023.findings-acl.887/",
+    "https://aclanthology.org/2023.findings-acl.887.pdf"
+  ],
+  [
+    "Check-COVID: Fact-Checking COVID-19 News Claims with Scientific Evidence",
+    "https://aclanthology.org/2023.findings-acl.888/",
+    "https://aclanthology.org/2023.findings-acl.888.pdf"
+  ],
+  [
+    "Early Exit with Disentangled Representation and Equiangular Tight Frame",
+    "https://aclanthology.org/2023.findings-acl.889/",
+    "https://aclanthology.org/2023.findings-acl.889.pdf"
+  ],
+  [
+    "Tokenization with Factorized Subword Encoding",
+    "https://aclanthology.org/2023.findings-acl.890/",
+    "https://aclanthology.org/2023.findings-acl.890.pdf"
+  ],
+  [
+    "Rarely a problem? Language models exhibit inverse scaling in their predictions following few-type quantifiers",
+    "https://aclanthology.org/2023.findings-acl.891/",
+    "https://aclanthology.org/2023.findings-acl.891.pdf"
+  ],
+  [
+    "“A Little is Enough”: Few-Shot Quality Estimation based Corpus Filtering improves Machine Translation",
+    "https://aclanthology.org/2023.findings-acl.892/",
+    "https://aclanthology.org/2023.findings-acl.892.pdf"
+  ],
+  [
+    "How effective is machine translation on low-resource code-switching? A case study comparing human and automatic metrics",
+    "https://aclanthology.org/2023.findings-acl.893/",
+    "https://aclanthology.org/2023.findings-acl.893.pdf"
+  ],
+  [
+    "Images in Language Space: Exploring the Suitability of Large Language Models for Vision & Language Tasks",
+    "https://aclanthology.org/2023.findings-acl.894/",
+    "https://aclanthology.org/2023.findings-acl.894.pdf"
+  ],
+  [
+    "On the Expressivity Role of LayerNorm in Transformers’ Attention",
+    "https://aclanthology.org/2023.findings-acl.895/",
+    "https://aclanthology.org/2023.findings-acl.895.pdf"
+  ],
+  [
+    "DEnsity: Open-domain Dialogue Evaluation Metric using Density Estimation",
+    "https://aclanthology.org/2023.findings-acl.896/",
+    "https://aclanthology.org/2023.findings-acl.896.pdf"
+  ],
+  [
+    "Fixing MoE Over-Fitting on Low-Resource Languages in Multilingual Machine Translation",
+    "https://aclanthology.org/2023.findings-acl.897/",
+    "https://aclanthology.org/2023.findings-acl.897.pdf"
+  ],
+  [
+    "Intent Discovery with Frame-guided Semantic Regularization and Augmentation",
+    "https://aclanthology.org/2023.findings-acl.898/",
+    "https://aclanthology.org/2023.findings-acl.898.pdf"
+  ],
+  [
+    "An Empirical Comparison of LM-based Question and Answer Generation Methods",
+    "https://aclanthology.org/2023.findings-acl.899/",
+    "https://aclanthology.org/2023.findings-acl.899.pdf"
+  ],
+  [
+    "Contrastive Learning with Generated Representations for Inductive Knowledge Graph Embedding",
+    "https://aclanthology.org/2023.findings-acl.900/",
+    "https://aclanthology.org/2023.findings-acl.900.pdf"
+  ],
+  [
+    "Decouple knowledge from paramters for plug-and-play language modeling",
+    "https://aclanthology.org/2023.findings-acl.901/",
+    "https://aclanthology.org/2023.findings-acl.901.pdf"
+  ]
+]

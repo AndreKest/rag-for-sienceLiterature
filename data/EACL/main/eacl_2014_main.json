@@ -1,0 +1,397 @@
+[
+  [
+    "Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics",
+    "https://aclanthology.org/E14-1000/",
+    "https://aclanthology.org/E14-1000.pdf"
+  ],
+  [
+    "Improving Word Alignment Using Linguistic Code Switching Data",
+    "https://aclanthology.org/E14-1001/",
+    "https://aclanthology.org/E14-1001.pdf"
+  ],
+  [
+    "Undirected Machine Translation with Discriminative Reinforcement Learning",
+    "https://aclanthology.org/E14-1002/",
+    "https://aclanthology.org/E14-1002.pdf"
+  ],
+  [
+    "Minimum Translation Modeling with Recurrent Neural Networks",
+    "https://aclanthology.org/E14-1003/",
+    "https://aclanthology.org/E14-1003.pdf"
+  ],
+  [
+    "Maximizing Component Quality in Bilingual Word-Aligned Segmentations",
+    "https://aclanthology.org/E14-1004/",
+    "https://aclanthology.org/E14-1004.pdf"
+  ],
+  [
+    "A Joint Model for Quotation Attribution and Coreference Resolution",
+    "https://aclanthology.org/E14-1005/",
+    "https://aclanthology.org/E14-1005.pdf"
+  ],
+  [
+    "A Hierarchical Bayesian Model for Unsupervised Induction of Script Knowledge",
+    "https://aclanthology.org/E14-1006/",
+    "https://aclanthology.org/E14-1006.pdf"
+  ],
+  [
+    "Inducing Example-based Semantic Frames from a Massive Amount of Verb Uses",
+    "https://aclanthology.org/E14-1007/",
+    "https://aclanthology.org/E14-1007.pdf"
+  ],
+  [
+    "Automated Verb Sense Labelling Based on Linked Lexical Resources",
+    "https://aclanthology.org/E14-1008/",
+    "https://aclanthology.org/E14-1008.pdf"
+  ],
+  [
+    "Multi-Granular Aspect Aggregation in Aspect-Based Sentiment Analysis",
+    "https://aclanthology.org/E14-1009/",
+    "https://aclanthology.org/E14-1009.pdf"
+  ],
+  [
+    "Simple, Robust and (almost) Unsupervised Generation of Polarity Lexicons for Multiple Languages",
+    "https://aclanthology.org/E14-1010/",
+    "https://aclanthology.org/E14-1010.pdf"
+  ],
+  [
+    "Mapping Dialectal Variation by Querying Social Media",
+    "https://aclanthology.org/E14-1011/",
+    "https://aclanthology.org/E14-1011.pdf"
+  ],
+  [
+    "Modeling the Use of Graffiti Style Features to Signal Social Relations within a Multi-Domain Learning Paradigm",
+    "https://aclanthology.org/E14-1012/",
+    "https://aclanthology.org/E14-1012.pdf"
+  ],
+  [
+    "Modelling the Lexicon in Unsupervised Part of Speech Induction",
+    "https://aclanthology.org/E14-1013/",
+    "https://aclanthology.org/E14-1013.pdf"
+  ],
+  [
+    "Generalizing a Strongly Lexicalized Parser using Unlabeled Data",
+    "https://aclanthology.org/E14-1014/",
+    "https://aclanthology.org/E14-1014.pdf"
+  ],
+  [
+    "Special Techniques for Constituent Parsing of Morphologically Rich Languages",
+    "https://aclanthology.org/E14-1015/",
+    "https://aclanthology.org/E14-1015.pdf"
+  ],
+  [
+    "Leveraging Verb-Argument Structures to Infer Semantic Relations",
+    "https://aclanthology.org/E14-1016/",
+    "https://aclanthology.org/E14-1016.pdf"
+  ],
+  [
+    "Structured and Unstructured Cache Models for SMT Domain Adaptation",
+    "https://aclanthology.org/E14-1017/",
+    "https://aclanthology.org/E14-1017.pdf"
+  ],
+  [
+    "Regularized Structured Perceptron: A Case Study on Chinese Word Segmentation, POS Tagging and Parsing",
+    "https://aclanthology.org/E14-1018/",
+    "https://aclanthology.org/E14-1018.pdf"
+  ],
+  [
+    "About Inferences in a Crowdsourced Lexical-Semantic Network",
+    "https://aclanthology.org/E14-1019/",
+    "https://aclanthology.org/E14-1019.pdf"
+  ],
+  [
+    "Incremental Query Generation",
+    "https://aclanthology.org/E14-1020/",
+    "https://aclanthology.org/E14-1020.pdf"
+  ],
+  [
+    "PARADIGM: Paraphrase Diagnostics through Grammar Matching",
+    "https://aclanthology.org/E14-1021/",
+    "https://aclanthology.org/E14-1021.pdf"
+  ],
+  [
+    "Translation memory retrieval methods",
+    "https://aclanthology.org/E14-1022/",
+    "https://aclanthology.org/E14-1022.pdf"
+  ],
+  [
+    "Frame Semantic Tree Kernels for Social Network Extraction from Text",
+    "https://aclanthology.org/E14-1023/",
+    "https://aclanthology.org/E14-1023.pdf"
+  ],
+  [
+    "Statistical Script Learning with Multi-Argument Events",
+    "https://aclanthology.org/E14-1024/",
+    "https://aclanthology.org/E14-1024.pdf"
+  ],
+  [
+    "Improving Distributional Semantic Vectors through Context Selection and Normalisation",
+    "https://aclanthology.org/E14-1025/",
+    "https://aclanthology.org/E14-1025.pdf"
+  ],
+  [
+    "Source-side Preordering for Translation using Logistic Regression and Depth-first Branch-and-Bound Search",
+    "https://aclanthology.org/E14-1026/",
+    "https://aclanthology.org/E14-1026.pdf"
+  ],
+  [
+    "Incremental Bayesian Learning of Semantic Categories",
+    "https://aclanthology.org/E14-1027/",
+    "https://aclanthology.org/E14-1027.pdf"
+  ],
+  [
+    "Word Ordering with Phrase-Based Grammars",
+    "https://aclanthology.org/E14-1028/",
+    "https://aclanthology.org/E14-1028.pdf"
+  ],
+  [
+    "Iterative Constrained Clustering for Subjectivity Word Sense Disambiguation",
+    "https://aclanthology.org/E14-1029/",
+    "https://aclanthology.org/E14-1029.pdf"
+  ],
+  [
+    "Identifying fake Amazon reviews as learning from crowds",
+    "https://aclanthology.org/E14-1030/",
+    "https://aclanthology.org/E14-1030.pdf"
+  ],
+  [
+    "Assessing the relative reading level of sentence pairs for text simplification",
+    "https://aclanthology.org/E14-1031/",
+    "https://aclanthology.org/E14-1031.pdf"
+  ],
+  [
+    "Subcategorisation Acquisition from Raw Text for a Free Word-Order Language",
+    "https://aclanthology.org/E14-1032/",
+    "https://aclanthology.org/E14-1032.pdf"
+  ],
+  [
+    "Classifying Temporal Relations with Simple Features",
+    "https://aclanthology.org/E14-1033/",
+    "https://aclanthology.org/E14-1033.pdf"
+  ],
+  [
+    "Using idiolects and sociolects to improve word prediction",
+    "https://aclanthology.org/E14-1034/",
+    "https://aclanthology.org/E14-1034.pdf"
+  ],
+  [
+    "Dynamic Topic Adaptation for Phrase-based MT",
+    "https://aclanthology.org/E14-1035/",
+    "https://aclanthology.org/E14-1035.pdf"
+  ],
+  [
+    "Deterministic Parsing using PCFGs",
+    "https://aclanthology.org/E14-1036/",
+    "https://aclanthology.org/E14-1036.pdf"
+  ],
+  [
+    "Empirically-motivated Generalizations of CCG Semantic Parsing Learning Algorithms",
+    "https://aclanthology.org/E14-1037/",
+    "https://aclanthology.org/E14-1037.pdf"
+  ],
+  [
+    "Correcting Grammatical Verb Errors",
+    "https://aclanthology.org/E14-1038/",
+    "https://aclanthology.org/E14-1038.pdf"
+  ],
+  [
+    "Fast Statistical Parsing with Parallel Multiple Context-Free Grammars",
+    "https://aclanthology.org/E14-1039/",
+    "https://aclanthology.org/E14-1039.pdf"
+  ],
+  [
+    "Sentiment Propagation via Implicature Constraints",
+    "https://aclanthology.org/E14-1040/",
+    "https://aclanthology.org/E14-1040.pdf"
+  ],
+  [
+    "Acquisition of Noncontiguous Class Attributes from Web Search Queries",
+    "https://aclanthology.org/E14-1041/",
+    "https://aclanthology.org/E14-1041.pdf"
+  ],
+  [
+    "Learning from Post-Editing: Online Model Adaptation for Statistical Machine Translation",
+    "https://aclanthology.org/E14-1042/",
+    "https://aclanthology.org/E14-1042.pdf"
+  ],
+  [
+    "Predicting and Characterising User Impact on Twitter",
+    "https://aclanthology.org/E14-1043/",
+    "https://aclanthology.org/E14-1043.pdf"
+  ],
+  [
+    "A Knowledge-based Representation for Cross-Language Document Retrieval and Categorization",
+    "https://aclanthology.org/E14-1044/",
+    "https://aclanthology.org/E14-1044.pdf"
+  ],
+  [
+    "Dependency Tree Abstraction for Long-Distance Reordering in Statistical Machine Translation",
+    "https://aclanthology.org/E14-1045/",
+    "https://aclanthology.org/E14-1045.pdf"
+  ],
+  [
+    "Improving the Lexical Function Composition Model with Pathwise Optimized Elastic-Net Regression",
+    "https://aclanthology.org/E14-1046/",
+    "https://aclanthology.org/E14-1046.pdf"
+  ],
+  [
+    "Is Machine Translation Getting Better over Time?",
+    "https://aclanthology.org/E14-1047/",
+    "https://aclanthology.org/E14-1047.pdf"
+  ],
+  [
+    "Learning Dictionaries for Named Entity Recognition using Minimal Supervision",
+    "https://aclanthology.org/E14-1048/",
+    "https://aclanthology.org/E14-1048.pdf"
+  ],
+  [
+    "Improving Vector Space Word Representations Using Multilingual Correlation",
+    "https://aclanthology.org/E14-1049/",
+    "https://aclanthology.org/E14-1049.pdf"
+  ],
+  [
+    "Using Distributional Similarity of Multi-way Translations to Predict Multiword Expression Compositionality",
+    "https://aclanthology.org/E14-1050/",
+    "https://aclanthology.org/E14-1050.pdf"
+  ],
+  [
+    "Word Embeddings through Hellinger PCA",
+    "https://aclanthology.org/E14-1051/",
+    "https://aclanthology.org/E14-1051.pdf"
+  ],
+  [
+    "A Latent Variable Model for Discourse-aware Concept and Entity Disambiguation",
+    "https://aclanthology.org/E14-1052/",
+    "https://aclanthology.org/E14-1052.pdf"
+  ],
+  [
+    "Topical PageRank: A Model of Scientific Expertise for Bibliographic Search",
+    "https://aclanthology.org/E14-1053/",
+    "https://aclanthology.org/E14-1053.pdf"
+  ],
+  [
+    "Distributional Lexical Entailment by Topic Coherence",
+    "https://aclanthology.org/E14-1054/",
+    "https://aclanthology.org/E14-1054.pdf"
+  ],
+  [
+    "Information Structure Prediction for Visual-world Referring Expressions",
+    "https://aclanthology.org/E14-1055/",
+    "https://aclanthology.org/E14-1055.pdf"
+  ],
+  [
+    "Machine Reading Tea Leaves: Automatically Evaluating Topic Coherence and Topic Model Quality",
+    "https://aclanthology.org/E14-1056/",
+    "https://aclanthology.org/E14-1056.pdf"
+  ],
+  [
+    "What Substitutes Tell Us - Analysis of an “All-Words” Lexical Substitution Corpus",
+    "https://aclanthology.org/E14-1057/",
+    "https://aclanthology.org/E14-1057.pdf"
+  ],
+  [
+    "Weighted Krippendorff’s alpha is a more reliable metrics for multi-coders ordinal annotations: experimental studies on emotion, opinion and coreference annotation",
+    "https://aclanthology.org/E14-1058/",
+    "https://aclanthology.org/E14-1058.pdf"
+  ],
+  [
+    "Discriminating Rhetorical Analogies in Social Media",
+    "https://aclanthology.org/E14-1059/",
+    "https://aclanthology.org/E14-1059.pdf"
+  ],
+  [
+    "Semi-supervised learning of morphological paradigms and lexicons",
+    "https://aclanthology.org/E14-1060/",
+    "https://aclanthology.org/E14-1060.pdf"
+  ],
+  [
+    "How to Produce Unseen Teddy Bears: Improved Morphological Processing of Compounds in SMT",
+    "https://aclanthology.org/E14-1061/",
+    "https://aclanthology.org/E14-1061.pdf"
+  ],
+  [
+    "Type-Supervised Domain Adaptation for Joint Segmentation and POS-Tagging",
+    "https://aclanthology.org/E14-1062/",
+    "https://aclanthology.org/E14-1062.pdf"
+  ],
+  [
+    "Applying the semantics of negation to SMT through n-best list re-ranking",
+    "https://aclanthology.org/E14-1063/",
+    "https://aclanthology.org/E14-1063.pdf"
+  ],
+  [
+    "Bilingual Sentiment Consistency for Statistical Machine Translation",
+    "https://aclanthology.org/E14-1064/",
+    "https://aclanthology.org/E14-1064.pdf"
+  ],
+  [
+    "Augmenting Translation Models with Simulated Acoustic Confusions for Improved Spoken Language Translation",
+    "https://aclanthology.org/E14-1065/",
+    "https://aclanthology.org/E14-1065.pdf"
+  ],
+  [
+    "A Generative Model for User Simulation in a Spatial Navigation Domain",
+    "https://aclanthology.org/E14-1066/",
+    "https://aclanthology.org/E14-1066.pdf"
+  ],
+  [
+    "Verbose, Laconic or Just Right: A Simple Computational Model of Content Appropriateness under Length Constraints",
+    "https://aclanthology.org/E14-1067/",
+    "https://aclanthology.org/E14-1067.pdf"
+  ],
+  [
+    "Discovering Implicit Discourse Relations Through Brown Cluster Pair Representation and Coreference Patterns",
+    "https://aclanthology.org/E14-1068/",
+    "https://aclanthology.org/E14-1068.pdf"
+  ],
+  [
+    "“I Object!” Modeling Latent Pragmatic Effects in Courtroom Dialogues",
+    "https://aclanthology.org/E14-1069/",
+    "https://aclanthology.org/E14-1069.pdf"
+  ],
+  [
+    "Encoding Semantic Resources in Syntactic Structures for Passage Reranking",
+    "https://aclanthology.org/E14-1070/",
+    "https://aclanthology.org/E14-1070.pdf"
+  ],
+  [
+    "Automatic Food Categorization from Large Unlabeled Corpora and Its Impact on Relation Extraction",
+    "https://aclanthology.org/E14-1071/",
+    "https://aclanthology.org/E14-1071.pdf"
+  ],
+  [
+    "Redundancy Detection in ESL Writings",
+    "https://aclanthology.org/E14-1072/",
+    "https://aclanthology.org/E14-1072.pdf"
+  ],
+  [
+    "Fast Recursive Multi-class Classification of Pairs of Text Entities for Biomedical Event Extraction",
+    "https://aclanthology.org/E14-1073/",
+    "https://aclanthology.org/E14-1073.pdf"
+  ],
+  [
+    "Cluster-based Prediction of User Ratings for Stylistic Surface Realisation",
+    "https://aclanthology.org/E14-1074/",
+    "https://aclanthology.org/E14-1074.pdf"
+  ],
+  [
+    "Improving the Estimation of Word Importance for News Multi-Document Summarization",
+    "https://aclanthology.org/E14-1075/",
+    "https://aclanthology.org/E14-1075.pdf"
+  ],
+  [
+    "Hybrid text simplification using synchronous dependency grammars with hand-written and automatically harvested rules",
+    "https://aclanthology.org/E14-1076/",
+    "https://aclanthology.org/E14-1076.pdf"
+  ],
+  [
+    "A Summariser based on Human Memory Limitations and Lexical Competition",
+    "https://aclanthology.org/E14-1077/",
+    "https://aclanthology.org/E14-1077.pdf"
+  ],
+  [
+    "Learning part-of-speech taggers with inter-annotator agreement loss",
+    "https://aclanthology.org/E14-1078/",
+    "https://aclanthology.org/E14-1078.pdf"
+  ]
+]

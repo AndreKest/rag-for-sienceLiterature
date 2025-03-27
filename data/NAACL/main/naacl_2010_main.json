@@ -1,0 +1,737 @@
+[
+  [
+    "Human Language Technologies: The 2010 Annual Conference of the North American Chapter of the Association for Computational Linguistics",
+    "https://aclanthology.org/N10-1000/",
+    "https://aclanthology.org/N10-1000.pdf"
+  ],
+  [
+    "Invited Talk: Recognition and Understanding of Meetings",
+    "https://aclanthology.org/N10-1001/",
+    "https://aclanthology.org/N10-1001.pdf"
+  ],
+  [
+    "Chart Mining-based Lexical Acquisition with Precision Grammars",
+    "https://aclanthology.org/N10-1002/",
+    "https://aclanthology.org/N10-1002.pdf"
+  ],
+  [
+    "Products of Random Latent Variable Grammars",
+    "https://aclanthology.org/N10-1003/",
+    "https://aclanthology.org/N10-1003.pdf"
+  ],
+  [
+    "Automatic Domain Adaptation for Parsing",
+    "https://aclanthology.org/N10-1004/",
+    "https://aclanthology.org/N10-1004.pdf"
+  ],
+  [
+    "Appropriately Handled Prosodic Breaks Help PCFG Parsing",
+    "https://aclanthology.org/N10-1005/",
+    "https://aclanthology.org/N10-1005.pdf"
+  ],
+  [
+    "Using Confusion Networks for Speech Summarization",
+    "https://aclanthology.org/N10-1006/",
+    "https://aclanthology.org/N10-1006.pdf"
+  ],
+  [
+    "Qme! : A Speech-based Question-Answering system on Mobile Devices",
+    "https://aclanthology.org/N10-1007/",
+    "https://aclanthology.org/N10-1007.pdf"
+  ],
+  [
+    "Dialogue-Oriented Review Summary Generation for Spoken Dialogue Recommendation Systems",
+    "https://aclanthology.org/N10-1008/",
+    "https://aclanthology.org/N10-1008.pdf"
+  ],
+  [
+    "Minimally-Supervised Extraction of Entities from Text Advertisements",
+    "https://aclanthology.org/N10-1009/",
+    "https://aclanthology.org/N10-1009.pdf"
+  ],
+  [
+    "Taxonomy Learning Using Word Sense Induction",
+    "https://aclanthology.org/N10-1010/",
+    "https://aclanthology.org/N10-1010.pdf"
+  ],
+  [
+    "Visual Information in Semantic Representation",
+    "https://aclanthology.org/N10-1011/",
+    "https://aclanthology.org/N10-1011.pdf"
+  ],
+  [
+    "Automatic Evaluation of Topic Coherence",
+    "https://aclanthology.org/N10-1012/",
+    "https://aclanthology.org/N10-1012.pdf"
+  ],
+  [
+    "Multi-Prototype Vector-Space Models of Word Meaning",
+    "https://aclanthology.org/N10-1013/",
+    "https://aclanthology.org/N10-1013.pdf"
+  ],
+  [
+    "Unsupervised Syntactic Alignment with Inversion Transduction Grammars",
+    "https://aclanthology.org/N10-1014/",
+    "https://aclanthology.org/N10-1014.pdf"
+  ],
+  [
+    "Joint Parsing and Alignment with Weakly Synchronized Grammars",
+    "https://aclanthology.org/N10-1015/",
+    "https://aclanthology.org/N10-1015.pdf"
+  ],
+  [
+    "Learning Translation Boundaries for Phrase-Based Decoding",
+    "https://aclanthology.org/N10-1016/",
+    "https://aclanthology.org/N10-1016.pdf"
+  ],
+  [
+    "Hitting the Right Paraphrases in Good Time",
+    "https://aclanthology.org/N10-1017/",
+    "https://aclanthology.org/N10-1017.pdf"
+  ],
+  [
+    "Training Paradigms for Correcting Errors in Grammar and Usage",
+    "https://aclanthology.org/N10-1018/",
+    "https://aclanthology.org/N10-1018.pdf"
+  ],
+  [
+    "Using Mostly Native Data to Correct Errors in Learners’ Writing",
+    "https://aclanthology.org/N10-1019/",
+    "https://aclanthology.org/N10-1019.pdf"
+  ],
+  [
+    "Unsupervised Modeling of Twitter Conversations",
+    "https://aclanthology.org/N10-1020/",
+    "https://aclanthology.org/N10-1020.pdf"
+  ],
+  [
+    "Streaming First Story Detection with application to Twitter",
+    "https://aclanthology.org/N10-1021/",
+    "https://aclanthology.org/N10-1021.pdf"
+  ],
+  [
+    "Unsupervised Model Adaptation using Information-Theoretic Criterion",
+    "https://aclanthology.org/N10-1022/",
+    "https://aclanthology.org/N10-1022.pdf"
+  ],
+  [
+    "Formatting Time-Aligned ASR Transcripts for Readability",
+    "https://aclanthology.org/N10-1023/",
+    "https://aclanthology.org/N10-1023.pdf"
+  ],
+  [
+    "Cheap, Fast and Good Enough: Automatic Speech Recognition with Non-Expert Transcription",
+    "https://aclanthology.org/N10-1024/",
+    "https://aclanthology.org/N10-1024.pdf"
+  ],
+  [
+    "Contextual Information Improves OOV Detection in Speech",
+    "https://aclanthology.org/N10-1025/",
+    "https://aclanthology.org/N10-1025.pdf"
+  ],
+  [
+    "Improved Extraction Assessment through Better Language Models",
+    "https://aclanthology.org/N10-1026/",
+    "https://aclanthology.org/N10-1026.pdf"
+  ],
+  [
+    "Language Identification: The Long and the Short of the Matter",
+    "https://aclanthology.org/N10-1027/",
+    "https://aclanthology.org/N10-1027.pdf"
+  ],
+  [
+    "Inducing Synchronous Grammars with Slice Sampling",
+    "https://aclanthology.org/N10-1028/",
+    "https://aclanthology.org/N10-1028.pdf"
+  ],
+  [
+    "Task-based Evaluation of Multiword Expressions: a Pilot Study in Statistical Machine Translation",
+    "https://aclanthology.org/N10-1029/",
+    "https://aclanthology.org/N10-1029.pdf"
+  ],
+  [
+    "Improving Semantic Role Labeling with Word Sense",
+    "https://aclanthology.org/N10-1030/",
+    "https://aclanthology.org/N10-1030.pdf"
+  ],
+  [
+    "Extending the METEOR Machine Translation Evaluation Metric to the Phrase Level",
+    "https://aclanthology.org/N10-1031/",
+    "https://aclanthology.org/N10-1031.pdf"
+  ],
+  [
+    "Testing a Grammar Customization System with Sahaptin",
+    "https://aclanthology.org/N10-1032/",
+    "https://aclanthology.org/N10-1032.pdf"
+  ],
+  [
+    "Two monolingual parses are better than one (synchronous parse)",
+    "https://aclanthology.org/N10-1033/",
+    "https://aclanthology.org/N10-1033.pdf"
+  ],
+  [
+    "Fast Query for Large Treebanks",
+    "https://aclanthology.org/N10-1034/",
+    "https://aclanthology.org/N10-1034.pdf"
+  ],
+  [
+    "Efficient Parsing of Well-Nested Linear Context-Free Rewriting Systems",
+    "https://aclanthology.org/N10-1035/",
+    "https://aclanthology.org/N10-1035.pdf"
+  ],
+  [
+    "Utility Evaluation of Cross-document Information Extraction",
+    "https://aclanthology.org/N10-1036/",
+    "https://aclanthology.org/N10-1036.pdf"
+  ],
+  [
+    "Evaluation Metrics for the Lexical Substitution Task",
+    "https://aclanthology.org/N10-1037/",
+    "https://aclanthology.org/N10-1037.pdf"
+  ],
+  [
+    "Movie Reviews and Revenues: An Experiment in Text Regression",
+    "https://aclanthology.org/N10-1038/",
+    "https://aclanthology.org/N10-1038.pdf"
+  ],
+  [
+    "Using Gaussian Mixture Models to Detect Figurative Language in Context",
+    "https://aclanthology.org/N10-1039/",
+    "https://aclanthology.org/N10-1039.pdf"
+  ],
+  [
+    "Improving Phrase-Based Translation with Prototypes of Short Phrases",
+    "https://aclanthology.org/N10-1040/",
+    "https://aclanthology.org/N10-1040.pdf"
+  ],
+  [
+    "Putting the User in the Loop: Interactive Maximal Marginal Relevance for Query-Focused Summarization",
+    "https://aclanthology.org/N10-1041/",
+    "https://aclanthology.org/N10-1041.pdf"
+  ],
+  [
+    "Improving Blog Polarity Classification via Topic Analysis and Adaptive Methods",
+    "https://aclanthology.org/N10-1042/",
+    "https://aclanthology.org/N10-1042.pdf"
+  ],
+  [
+    "Creating Local Coherence: An Empirical Assessment",
+    "https://aclanthology.org/N10-1043/",
+    "https://aclanthology.org/N10-1043.pdf"
+  ],
+  [
+    "Time-Efficient Creation of an Accurate Sentence Fusion Corpus",
+    "https://aclanthology.org/N10-1044/",
+    "https://aclanthology.org/N10-1044.pdf"
+  ],
+  [
+    "Towards Cross-Lingual Textual Entailment",
+    "https://aclanthology.org/N10-1045/",
+    "https://aclanthology.org/N10-1045.pdf"
+  ],
+  [
+    "A Comparative Study of Word Co-occurrence for Term Clustering in Language Model-based Sentence Retrieval",
+    "https://aclanthology.org/N10-1046/",
+    "https://aclanthology.org/N10-1046.pdf"
+  ],
+  [
+    "Information Content Measures of Semantic Similarity Perform Better Without Sense-Tagged Text",
+    "https://aclanthology.org/N10-1047/",
+    "https://aclanthology.org/N10-1047.pdf"
+  ],
+  [
+    "Generating Expository Dialogue from Monologue: Motivation, Corpus and Preliminary Rules",
+    "https://aclanthology.org/N10-1048/",
+    "https://aclanthology.org/N10-1048.pdf"
+  ],
+  [
+    "The Simple Truth about Dependency and Phrase Structure Representations: An Opinion Piece",
+    "https://aclanthology.org/N10-1049/",
+    "https://aclanthology.org/N10-1049.pdf"
+  ],
+  [
+    "Word Alignment with Stochastic Bracketing Linear Inversion Transduction Grammar",
+    "https://aclanthology.org/N10-1050/",
+    "https://aclanthology.org/N10-1050.pdf"
+  ],
+  [
+    "Crowdsourcing the evaluation of a domain-adapted named entity recognition system",
+    "https://aclanthology.org/N10-1051/",
+    "https://aclanthology.org/N10-1051.pdf"
+  ],
+  [
+    "Generalizing Hierarchical Phrase-based Translation using Rules with Adjacent Nonterminals",
+    "https://aclanthology.org/N10-1052/",
+    "https://aclanthology.org/N10-1052.pdf"
+  ],
+  [
+    "The Effect of Ambiguity on the Automated Acquisition of WSD Examples",
+    "https://aclanthology.org/N10-1053/",
+    "https://aclanthology.org/N10-1053.pdf"
+  ],
+  [
+    "Word Sense Subjectivity for Cross-lingual Lexical Substitution",
+    "https://aclanthology.org/N10-1054/",
+    "https://aclanthology.org/N10-1054.pdf"
+  ],
+  [
+    "Query Ambiguity Revisited: Clickthrough Measures for Distinguishing Informational and Ambiguous Queries",
+    "https://aclanthology.org/N10-1055/",
+    "https://aclanthology.org/N10-1055.pdf"
+  ],
+  [
+    "For the sake of simplicity: Unsupervised extraction of lexical simplifications from Wikipedia",
+    "https://aclanthology.org/N10-1056/",
+    "https://aclanthology.org/N10-1056.pdf"
+  ],
+  [
+    "Predicting Human-Targeted Translation Edit Rate via Untrained Human Annotators",
+    "https://aclanthology.org/N10-1057/",
+    "https://aclanthology.org/N10-1057.pdf"
+  ],
+  [
+    "Improving Semantic Role Classification with Selectional Preferences",
+    "https://aclanthology.org/N10-1058/",
+    "https://aclanthology.org/N10-1058.pdf"
+  ],
+  [
+    "Generalizing Syntactic Structures for Product Attribute Candidate Extraction",
+    "https://aclanthology.org/N10-1059/",
+    "https://aclanthology.org/N10-1059.pdf"
+  ],
+  [
+    "“cba to check the spelling”: Investigating Parser Performance on Discussion Forum Posts",
+    "https://aclanthology.org/N10-1060/",
+    "https://aclanthology.org/N10-1060.pdf"
+  ],
+  [
+    "Coreference Resolution in a Modular, Entity-Centered Model",
+    "https://aclanthology.org/N10-1061/",
+    "https://aclanthology.org/N10-1061.pdf"
+  ],
+  [
+    "Stream-based Translation Models for Statistical Machine Translation",
+    "https://aclanthology.org/N10-1062/",
+    "https://aclanthology.org/N10-1062.pdf"
+  ],
+  [
+    "Extracting Parallel Sentences from Comparable Corpora using Document Level Alignment",
+    "https://aclanthology.org/N10-1063/",
+    "https://aclanthology.org/N10-1063.pdf"
+  ],
+  [
+    "Statistical Machine Translation of Texts with Misspelled Words",
+    "https://aclanthology.org/N10-1064/",
+    "https://aclanthology.org/N10-1064.pdf"
+  ],
+  [
+    "Everybody loves a rich cousin: An empirical study of transliteration through bridge languages",
+    "https://aclanthology.org/N10-1065/",
+    "https://aclanthology.org/N10-1065.pdf"
+  ],
+  [
+    "Discriminative Learning over Constrained Latent Representations",
+    "https://aclanthology.org/N10-1066/",
+    "https://aclanthology.org/N10-1066.pdf"
+  ],
+  [
+    "Some Empirical Evidence for Annotation Noise in a Benchmarked Dataset",
+    "https://aclanthology.org/N10-1067/",
+    "https://aclanthology.org/N10-1067.pdf"
+  ],
+  [
+    "Bayesian Inference for Finite-State Transducers",
+    "https://aclanthology.org/N10-1068/",
+    "https://aclanthology.org/N10-1068.pdf"
+  ],
+  [
+    "Distributed Training Strategies for the Structured Perceptron",
+    "https://aclanthology.org/N10-1069/",
+    "https://aclanthology.org/N10-1069.pdf"
+  ],
+  [
+    "Term Weighting Schemes for Latent Dirichlet Allocation",
+    "https://aclanthology.org/N10-1070/",
+    "https://aclanthology.org/N10-1070.pdf"
+  ],
+  [
+    "Learning Dense Models of Query Similarity from User Click Logs",
+    "https://aclanthology.org/N10-1071/",
+    "https://aclanthology.org/N10-1071.pdf"
+  ],
+  [
+    "Learning to Link Entities with Knowledge Base",
+    "https://aclanthology.org/N10-1072/",
+    "https://aclanthology.org/N10-1072.pdf"
+  ],
+  [
+    "Improving the Multilingual User Experience of Wikipedia Using Cross-Language Name Search",
+    "https://aclanthology.org/N10-1073/",
+    "https://aclanthology.org/N10-1073.pdf"
+  ],
+  [
+    "Learning Words and Their Meanings from Unsegmented Child-directed Speech",
+    "https://aclanthology.org/N10-1074/",
+    "https://aclanthology.org/N10-1074.pdf"
+  ],
+  [
+    "Subword Variation in Text Message Classification",
+    "https://aclanthology.org/N10-1075/",
+    "https://aclanthology.org/N10-1075.pdf"
+  ],
+  [
+    "Automatic Diacritization for Low-Resource Languages Using a Hybrid Word and Consonant CMM",
+    "https://aclanthology.org/N10-1076/",
+    "https://aclanthology.org/N10-1076.pdf"
+  ],
+  [
+    "Urdu Word Segmentation",
+    "https://aclanthology.org/N10-1077/",
+    "https://aclanthology.org/N10-1077.pdf"
+  ],
+  [
+    "Enabling Monolingual Translators: Post-Editing vs. Options",
+    "https://aclanthology.org/N10-1078/",
+    "https://aclanthology.org/N10-1078.pdf"
+  ],
+  [
+    "Online Learning for Interactive Statistical Machine Translation",
+    "https://aclanthology.org/N10-1079/",
+    "https://aclanthology.org/N10-1079.pdf"
+  ],
+  [
+    "The Best Lexical Metric for Phrase-Based Statistical MT System Optimization",
+    "https://aclanthology.org/N10-1080/",
+    "https://aclanthology.org/N10-1080.pdf"
+  ],
+  [
+    "Variational Inference for Adaptor Grammars",
+    "https://aclanthology.org/N10-1081/",
+    "https://aclanthology.org/N10-1081.pdf"
+  ],
+  [
+    "Type-Based MCMC",
+    "https://aclanthology.org/N10-1082/",
+    "https://aclanthology.org/N10-1082.pdf"
+  ],
+  [
+    "Painless Unsupervised Learning with Features",
+    "https://aclanthology.org/N10-1083/",
+    "https://aclanthology.org/N10-1083.pdf"
+  ],
+  [
+    "Linguistic Steganography Using Automatically Generated Paraphrases",
+    "https://aclanthology.org/N10-1084/",
+    "https://aclanthology.org/N10-1084.pdf"
+  ],
+  [
+    "Prenominal Modifier Ordering via Multiple Sequence Alignment",
+    "https://aclanthology.org/N10-1085/",
+    "https://aclanthology.org/N10-1085.pdf"
+  ],
+  [
+    "Good Question! Statistical Ranking for Question Generation",
+    "https://aclanthology.org/N10-1086/",
+    "https://aclanthology.org/N10-1086.pdf"
+  ],
+  [
+    "Not All Seeds Are Equal: Measuring the Quality of Text Mining Seeds",
+    "https://aclanthology.org/N10-1087/",
+    "https://aclanthology.org/N10-1087.pdf"
+  ],
+  [
+    "Extracting Glosses to Disambiguate Word Senses",
+    "https://aclanthology.org/N10-1088/",
+    "https://aclanthology.org/N10-1088.pdf"
+  ],
+  [
+    "Can Recognising Multiword Expressions Improve Shallow Parsing?",
+    "https://aclanthology.org/N10-1089/",
+    "https://aclanthology.org/N10-1089.pdf"
+  ],
+  [
+    "A Simple Approach for HPSG Supertagging Using Dependency Information",
+    "https://aclanthology.org/N10-1090/",
+    "https://aclanthology.org/N10-1090.pdf"
+  ],
+  [
+    "Ensemble Models for Dependency Parsing: Cheap and Good?",
+    "https://aclanthology.org/N10-1091/",
+    "https://aclanthology.org/N10-1091.pdf"
+  ],
+  [
+    "Enlarged Search Space for SITG Parsing",
+    "https://aclanthology.org/N10-1092/",
+    "https://aclanthology.org/N10-1092.pdf"
+  ],
+  [
+    "Improving Data Driven Dependency Parsing using Clausal Information",
+    "https://aclanthology.org/N10-1093/",
+    "https://aclanthology.org/N10-1093.pdf"
+  ],
+  [
+    "A Treebank Query System Based on an Extracted Tree Grammar",
+    "https://aclanthology.org/N10-1094/",
+    "https://aclanthology.org/N10-1094.pdf"
+  ],
+  [
+    "Reranking the Berkeley and Brown Parsers",
+    "https://aclanthology.org/N10-1095/",
+    "https://aclanthology.org/N10-1095.pdf"
+  ],
+  [
+    "An Exploration of Off Topic Conversation",
+    "https://aclanthology.org/N10-1096/",
+    "https://aclanthology.org/N10-1096.pdf"
+  ],
+  [
+    "Making Conversational Structure Explicit: Identification of Initiation-response Pairs within Online Discussions",
+    "https://aclanthology.org/N10-1097/",
+    "https://aclanthology.org/N10-1097.pdf"
+  ],
+  [
+    "Engaging learning groups using Social Interaction Strategies",
+    "https://aclanthology.org/N10-1098/",
+    "https://aclanthology.org/N10-1098.pdf"
+  ],
+  [
+    "Using Entity-Based Features to Model Coherence in Student Essays",
+    "https://aclanthology.org/N10-1099/",
+    "https://aclanthology.org/N10-1099.pdf"
+  ],
+  [
+    "Summarizing Microblogs Automatically",
+    "https://aclanthology.org/N10-1100/",
+    "https://aclanthology.org/N10-1100.pdf"
+  ],
+  [
+    "Automatic Generation of Personalized Annotation Tags for Twitter Users",
+    "https://aclanthology.org/N10-1101/",
+    "https://aclanthology.org/N10-1101.pdf"
+  ],
+  [
+    "Language identification of names with SVMs",
+    "https://aclanthology.org/N10-1102/",
+    "https://aclanthology.org/N10-1102.pdf"
+  ],
+  [
+    "Integrating Joint n-gram Features into a Discriminative Training Framework",
+    "https://aclanthology.org/N10-1103/",
+    "https://aclanthology.org/N10-1103.pdf"
+  ],
+  [
+    "A Hybrid Morphologically Decomposed Factored Language Models for Arabic LVCSR",
+    "https://aclanthology.org/N10-1104/",
+    "https://aclanthology.org/N10-1104.pdf"
+  ],
+  [
+    "Is Arabic Part of Speech Tagging Feasible Without Word Segmentation?",
+    "https://aclanthology.org/N10-1105/",
+    "https://aclanthology.org/N10-1105.pdf"
+  ],
+  [
+    "Arabic Mention Detection: Toward Better Unit of Analysis",
+    "https://aclanthology.org/N10-1106/",
+    "https://aclanthology.org/N10-1106.pdf"
+  ],
+  [
+    "An MDL-based approach to extracting subword units for grapheme-to-phoneme conversion",
+    "https://aclanthology.org/N10-1107/",
+    "https://aclanthology.org/N10-1107.pdf"
+  ],
+  [
+    "Extracting Phrase Patterns with Minimum Redundancy for Unsupervised Speaker Role Classification",
+    "https://aclanthology.org/N10-1108/",
+    "https://aclanthology.org/N10-1108.pdf"
+  ],
+  [
+    "Classification of Prosodic Events using Quantized Contour Modeling",
+    "https://aclanthology.org/N10-1109/",
+    "https://aclanthology.org/N10-1109.pdf"
+  ],
+  [
+    "Investigations into the Crandem Approach to Word Recognition",
+    "https://aclanthology.org/N10-1110/",
+    "https://aclanthology.org/N10-1110.pdf"
+  ],
+  [
+    "Constraint-Driven Rank-Based Learning for Information Extraction",
+    "https://aclanthology.org/N10-1111/",
+    "https://aclanthology.org/N10-1111.pdf"
+  ],
+  [
+    "Softmax-Margin CRFs: Training Log-Linear Models with Cost Functions",
+    "https://aclanthology.org/N10-1112/",
+    "https://aclanthology.org/N10-1112.pdf"
+  ],
+  [
+    "Bitext-Based Resolution of German Subject-Object Ambiguities",
+    "https://aclanthology.org/N10-1113/",
+    "https://aclanthology.org/N10-1113.pdf"
+  ],
+  [
+    "Invited Talk: Music, Language, and Computational Modeling: Lessons from the Key-Finding Problem",
+    "https://aclanthology.org/N10-1114/",
+    "https://aclanthology.org/N10-1114.pdf"
+  ],
+  [
+    "An Efficient Algorithm for Easy-First Non-Directional Dependency Parsing",
+    "https://aclanthology.org/N10-1115/",
+    "https://aclanthology.org/N10-1115.pdf"
+  ],
+  [
+    "From Baby Steps to Leapfrog: How “Less is More” in Unsupervised Dependency Parsing",
+    "https://aclanthology.org/N10-1116/",
+    "https://aclanthology.org/N10-1116.pdf"
+  ],
+  [
+    "Relaxed Marginal Inference and its Application to Dependency Parsing",
+    "https://aclanthology.org/N10-1117/",
+    "https://aclanthology.org/N10-1117.pdf"
+  ],
+  [
+    "Optimal Parsing Strategies for Linear Context-Free Rewriting Systems",
+    "https://aclanthology.org/N10-1118/",
+    "https://aclanthology.org/N10-1118.pdf"
+  ],
+  [
+    "The viability of web-derived polarity lexicons",
+    "https://aclanthology.org/N10-1119/",
+    "https://aclanthology.org/N10-1119.pdf"
+  ],
+  [
+    "Dependency Tree-based Sentiment Classification using CRFs with Hidden Variables",
+    "https://aclanthology.org/N10-1120/",
+    "https://aclanthology.org/N10-1120.pdf"
+  ],
+  [
+    "Convolution Kernels for Opinion Holder Extraction",
+    "https://aclanthology.org/N10-1121/",
+    "https://aclanthology.org/N10-1121.pdf"
+  ],
+  [
+    "An Unsupervised Aspect-Sentiment Model for Online Reviews",
+    "https://aclanthology.org/N10-1122/",
+    "https://aclanthology.org/N10-1122.pdf"
+  ],
+  [
+    "Joint Inference for Knowledge Extraction from Biomedical Literature",
+    "https://aclanthology.org/N10-1123/",
+    "https://aclanthology.org/N10-1123.pdf"
+  ],
+  [
+    "Clinical Information Retrieval using Document and PICO Structure",
+    "https://aclanthology.org/N10-1124/",
+    "https://aclanthology.org/N10-1124.pdf"
+  ],
+  [
+    "Topic Models for Image Annotation and Text Illustration",
+    "https://aclanthology.org/N10-1125/",
+    "https://aclanthology.org/N10-1125.pdf"
+  ],
+  [
+    "Learning about Voice Search for Spoken Dialogue Systems",
+    "https://aclanthology.org/N10-1126/",
+    "https://aclanthology.org/N10-1126.pdf"
+  ],
+  [
+    "A Direct Syntax-Driven Reordering Model for Phrase-Based Machine Translation",
+    "https://aclanthology.org/N10-1127/",
+    "https://aclanthology.org/N10-1127.pdf"
+  ],
+  [
+    "Context-free reordering, finite-state translation",
+    "https://aclanthology.org/N10-1128/",
+    "https://aclanthology.org/N10-1128.pdf"
+  ],
+  [
+    "Improved Models of Distortion Cost for Statistical Machine Translation",
+    "https://aclanthology.org/N10-1129/",
+    "https://aclanthology.org/N10-1129.pdf"
+  ],
+  [
+    "Why Synchronous Tree Substitution Grammars?",
+    "https://aclanthology.org/N10-1130/",
+    "https://aclanthology.org/N10-1130.pdf"
+  ],
+  [
+    "An extractive supervised two-stage method for sentence compression",
+    "https://aclanthology.org/N10-1131/",
+    "https://aclanthology.org/N10-1131.pdf"
+  ],
+  [
+    "Interpretation and Transformation for Abstracting Conversations",
+    "https://aclanthology.org/N10-1132/",
+    "https://aclanthology.org/N10-1132.pdf"
+  ],
+  [
+    "Quantifying the Limits and Success of Extractive Summarization Systems Across Domains",
+    "https://aclanthology.org/N10-1133/",
+    "https://aclanthology.org/N10-1133.pdf"
+  ],
+  [
+    "Multi-document Summarization via Budgeted Maximization of Submodular Functions",
+    "https://aclanthology.org/N10-1134/",
+    "https://aclanthology.org/N10-1134.pdf"
+  ],
+  [
+    "Cross-lingual Induction of Selectional Preferences with Bilingual Vector Spaces",
+    "https://aclanthology.org/N10-1135/",
+    "https://aclanthology.org/N10-1135.pdf"
+  ],
+  [
+    "Unsupervised Induction of Semantic Roles",
+    "https://aclanthology.org/N10-1137/",
+    "https://aclanthology.org/N10-1137.pdf"
+  ],
+  [
+    "Probabilistic Frame-Semantic Parsing",
+    "https://aclanthology.org/N10-1138/",
+    "https://aclanthology.org/N10-1138.pdf"
+  ],
+  [
+    "Expected Sequence Similarity Maximization",
+    "https://aclanthology.org/N10-1139/",
+    "https://aclanthology.org/N10-1139.pdf"
+  ],
+  [
+    "Accurate Non-Hierarchical Phrase-Based Translation",
+    "https://aclanthology.org/N10-1140/",
+    "https://aclanthology.org/N10-1140.pdf"
+  ],
+  [
+    "Model Combination for Machine Translation",
+    "https://aclanthology.org/N10-1141/",
+    "https://aclanthology.org/N10-1141.pdf"
+  ],
+  [
+    "Detecting Emails Containing Requests for Action",
+    "https://aclanthology.org/N10-1142/",
+    "https://aclanthology.org/N10-1142.pdf"
+  ],
+  [
+    "Evaluating Hierarchical Discourse Segmentation",
+    "https://aclanthology.org/N10-1143/",
+    "https://aclanthology.org/N10-1143.pdf"
+  ],
+  [
+    "Reformulating Discourse Connectives for Non-Expert Readers",
+    "https://aclanthology.org/N10-1144/",
+    "https://aclanthology.org/N10-1144.pdf"
+  ],
+  [
+    "Tree Edit Models for Recognizing Textual Entailments, Paraphrases, and Answers to Questions",
+    "https://aclanthology.org/N10-1145/",
+    "https://aclanthology.org/N10-1145.pdf"
+  ],
+  [
+    "Syntactic/Semantic Structures for Textual Entailment Recognition",
+    "https://aclanthology.org/N10-1146/",
+    "https://aclanthology.org/N10-1146.pdf"
+  ],
+  [
+    "Automatic Metaphor Interpretation as a Paraphrasing Task",
+    "https://aclanthology.org/N10-1147/",
+    "https://aclanthology.org/N10-1147.pdf"
+  ]
+]
