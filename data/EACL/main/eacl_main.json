@@ -1,0 +1,32 @@
+[
+    {
+        "page_url" : "https://aclanthology.org/events/eacl-2024/",
+        "conf_name" : "./data/EACL/main/eacl_2024_main",
+        "conf_id_list" : ["2024eacl-long", "2024eacl-short"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/eacl-2023/",
+        "conf_name" : "./data/EACL/main/eacl_2023_main",
+        "conf_id_list" : ["2023eacl-main"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/eacl-2021/",
+        "conf_name" : "./data/EACL/main/eacl_2021_main",
+        "conf_id_list" : ["2021eacl-main"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/eacl-2017/",
+        "conf_name" : "./data/EACL/main/eacl_2017_main",
+        "conf_id_list" : ["e17-1", "e17-2"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/eacl-2014/",
+        "conf_name" : "./data/EACL/main/eacl_2014_main",
+        "conf_id_list" : ["e14-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/eacl-2012/",
+        "conf_name" : "./data/EACL/main/eacl_2012_main",
+        "conf_id_list" : ["e12-1"]
+    }
+]

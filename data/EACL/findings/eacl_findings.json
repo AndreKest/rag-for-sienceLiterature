@@ -1,0 +1,12 @@
+[
+    {
+        "page_url" : "https://aclanthology.org/events/eacl-2024/",
+        "conf_name" : "./data/EACL/findings/eacl_2024_main",
+        "conf_id_list" : ["2024findings-eacl"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/eacl-2023/",
+        "conf_name" : "./data/EACL/findings/eacl_2023_main",
+        "conf_id_list" : ["2023findings-eacl"]
+    }
+]
