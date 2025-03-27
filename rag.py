@@ -4,12 +4,12 @@ import pandas as pd
 from langchain_community.document_loaders.dataframe import DataFrameLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain import hub
-from langchain.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings, ChatHuggingFace, HuggingFacePipeline
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain.chains.retrieval import create_retrieval_chain
 from langchain.chains.history_aware_retriever import create_history_aware_retriever
 from langchain.schema import HumanMessage, AIMessage
+from langchain.vectorstores import FAISS
 
 import transformers
 from transformers import AutoTokenizer, AutoModelForCausalLM,  BitsAndBytesConfig, TextStreamer
@@ -20,6 +20,7 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
+
 
 def create_embeddings(embedding_name: str = "BAAI/bge-base-en-v1.5"):
     """
@@ -99,9 +100,60 @@ def load_index(database, embeddings, path):
 
     return retriever
 
-def load_
+def load_prompt():
+    """
+    Load prompt from LangSmith Hub
+
+    Args:
+    -
+
+    Return:
+    rephrase_prompt: Prompt to rephrase the query to align with previous conversation
+    retrieval_qa_chat_prompt: Prompt to insert context from retrieval and answer based on the context and the query
+    """
+    rephrase_prompt = hub.pull("langchain-ai/chat-langchain-rephrase", api_key=os.environ['LANGSMITH_API_KEY'], api_url="https://api.smith.langchain.com/")
+    retrieval_qa_chat_prompt = hub.pull("langchain-ai/retrieval-qa-chat", api_key=os.environ['LANGSMITH_API_KEY'], api_url="https://api.smith.langchain.com/")
+    # print("Rephrase prompt: ", rephrase_prompt)
+    # print("\n")
+    # print("Retrieval QA prompt: ", retrieval_qa_chat_prompt)
+
+    return rephrase_prompt, retrieval_qa_prompt
 
 
+def create_llm(model_name, as_streamer=True):
+    """
+    Load llm from HuggingFace and create ChatModel
+
+    Args:
+    model_name (str): HuggingFace model ID
+    as_streamer (bool): if True, stream text during generation otherwise not
+
+    Return:
+    llm: ChatHuggingFace model
+    """
+    model_name = "meta-llama/Llama-3.1-8B-Instruct"
+    
+    config = BitsAndBytesConfig(
+        load_in_4bit=True, bnb_4bit_use_double_quant=True, bnb_4bit_quant_type="nf4", bnb_4bit_compute_dtype=torch.bfloat16
+    )
+    
+    model = AutoModelForCausalLM.from_pretrained(model_name, quantization_config=config, device_map="auto", token=os.environ['hf_token'])
+    tokenizer = AutoTokenizer.from_pretrained(model_name, token=os.environ['hf_token'])
+    
+    streamer = TextStreamer(tokenizer, skip_prompt=True, skip_special_tokens=True)
+
+    if as_streamer == True:
+        pipe = transformers.pipeline("text-generation", model=model, tokenizer=tokenizer, max_new_tokens=200, streamer=streamer)
+    else:
+        pipe = transformers.pipeline("text-generation", model=model, tokenizer=tokenizer, max_new_tokens=200)
+    
+    llm = HuggingFacePipeline(model_id=model_name, pipeline=pipe)
+    llm = ChatHuggingFace(llm=llm)
+
+
+    return llm
+
+    
 def create_rag(llm, rephrase_prompt, retrieval_qa_prompt, retriever):
     """
     Load RAG prompts from LangSmith Hub and create RAG chain (with history aware retriever)
@@ -123,12 +175,6 @@ def create_rag(llm, rephrase_prompt, retrieval_qa_prompt, retriever):
     retrieval_chain: Created RAG chain from create_retrieval_chain()
     
     """
-    rephrase_prompt = hub.pull("langchain-ai/chat-langchain-rephrase", api_key=os.environ['LANGSMITH_API_KEY'], api_url="https://api.smith.langchain.com/")
-    retrieval_qa_chat_prompt = hub.pull("langchain-ai/retrieval-qa-chat", api_key=os.environ['LANGSMITH_API_KEY'], api_url="https://api.smith.langchain.com/")
-    print("Rephrase prompt: ", rephrase_prompt)
-    print("\n")
-    print("Retrieval QA prompt: ", retrieval_qa_chat_prompt)
-
     # Create Chain
     # Create Document Stuff Chain
     stuff_documents_chain = create_stuff_documents_chain(llm, retrieval_qa_chat_prompt)
