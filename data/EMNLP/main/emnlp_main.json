@@ -73,5 +73,50 @@
         "page_url" : "https://aclanthology.org/events/emnlp-2010/",
         "conf_name" : "./data/EMNLP/emnlp_2010_main",
         "conf_id_list" : ["d10-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-2009/",
+        "conf_name" : "./data/EMNLP/emnlp_2009_main",
+        "conf_id_list" : ["d09-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-2008/",
+        "conf_name" : "./data/EMNLP/emnlp_2008_main",
+        "conf_id_list" : ["d08-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-2007/",
+        "conf_name" : "./data/EMNLP/emnlp_2007_main",
+        "conf_id_list" : ["d07-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-2006/",
+        "conf_name" : "./data/EMNLP/emnlp_2006_main",
+        "conf_id_list" : ["w06-16"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-2005/",
+        "conf_name" : "./data/EMNLP/emnlp_2005_main",
+        "conf_id_list" : ["h05-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-2004/",
+        "conf_name" : "./data/EMNLP/emnlp_2004_main",
+        "conf_id_list" : ["w04-32"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-2003/",
+        "conf_name" : "./data/EMNLP/emnlp_2003_main",
+        "conf_id_list" : ["w03-10"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-2002/",
+        "conf_name" : "./data/EMNLP/emnlp_2002_main",
+        "conf_id_list" : ["w02-10"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-2001/",
+        "conf_name" : "./data/EMNLP/emnlp_2001_main",
+        "conf_id_list" : ["w01-05"]
     }
 ]

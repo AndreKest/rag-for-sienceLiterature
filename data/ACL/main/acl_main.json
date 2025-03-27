@@ -73,5 +73,55 @@
         "page_url" : "https://aclanthology.org/events/acl-2010/",
         "conf_name" : "./data/ACL/main/acl_2010_main",
         "conf_id_list" : ["p10-1", "p10-2"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/acl-2009/",
+        "conf_name" : "./data/ACL/main/acl_2009_main",
+        "conf_id_list" : ["p09-1", "p09-2"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/acl-2008/",
+        "conf_name" : "./data/ACL/main/acl_2008_main",
+        "conf_id_list" : ["p08-1", "p08-2"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/acl-2007/",
+        "conf_name" : "./data/ACL/main/acl_2007_main",
+        "conf_id_list" : ["p07-1", "p07-2"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/acl-2006/",
+        "conf_name" : "./data/ACL/main/acl_2006_main",
+        "conf_id_list" : ["p06-1", "p06-2"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/acl-2005/",
+        "conf_name" : "./data/ACL/main/acl_2005_main",
+        "conf_id_list" : ["p05-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/acl-2004/",
+        "conf_name" : "./data/ACL/main/acl_2004_main",
+        "conf_id_list" : ["p04-1", "p04-3"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/acl-2003/",
+        "conf_name" : "./data/ACL/main/acl_2003_main",
+        "conf_id_list" : ["p03-1", "p03-2"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/acl-2002/",
+        "conf_name" : "./data/ACL/main/acl_2002_main",
+        "conf_id_list" : ["p02-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/acl-2001/",
+        "conf_name" : "./data/ACL/main/acl_2001_main",
+        "conf_id_list" : ["p01-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/acl-2000/",
+        "conf_name" : "./data/ACL/main/acl_2000_main",
+        "conf_id_list" : ["p00-1"]
     }
 ]
