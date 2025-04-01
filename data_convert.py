@@ -59,7 +59,6 @@ pattern = r'[0-9]{4}'
 years = [int(re.search(pattern, f).group()) for f in os.listdir(f'./data/{str_path}') if re.search(pattern, f) is not None and not f.endswith('.json') and not f.endswith('.pkl')]
 # sort list
 years.sort()
-years = years[:20]
 
 print("Available years: ", years)
 print(f"Conference: {conference}")
