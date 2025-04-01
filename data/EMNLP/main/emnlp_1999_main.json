@@ -1,0 +1,182 @@
+[
+  [
+    "1999 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora",
+    "https://aclanthology.org/W99-0600/",
+    "https://aclanthology.org/W99-0600.pdf"
+  ],
+  [
+    "What’s Happened Since the First SIGDAT Meeting?",
+    "https://aclanthology.org/W99-0601/",
+    "https://aclanthology.org/W99-0601.pdf"
+  ],
+  [
+    "Text-Translation Alignment: Three Languages Are Better Than Two",
+    "https://aclanthology.org/W99-0602/",
+    "https://aclanthology.org/W99-0602.pdf"
+  ],
+  [
+    "Mapping Multilingual Hierarchies Using Relaxation Labeling",
+    "https://aclanthology.org/W99-0603/",
+    "https://aclanthology.org/W99-0603.pdf"
+  ],
+  [
+    "Improved Alignment Models for Statistical Machine Translation",
+    "https://aclanthology.org/W99-0604/",
+    "https://aclanthology.org/W99-0604.pdf"
+  ],
+  [
+    "Cross-Language Information Retrieval for Technical Documents",
+    "https://aclanthology.org/W99-0605/",
+    "https://aclanthology.org/W99-0605.pdf"
+  ],
+  [
+    "Boosting Applied to Tagging and PP Attachment",
+    "https://aclanthology.org/W99-0606/",
+    "https://aclanthology.org/W99-0606.pdf"
+  ],
+  [
+    "Applying Extrasentential Context To Maximum Entropy Based Tagging With A Large Semantic And Syntactic Tagset",
+    "https://aclanthology.org/W99-0607/",
+    "https://aclanthology.org/W99-0607.pdf"
+  ],
+  [
+    "Improving POS Tagging Using Machine-Learning Techniques",
+    "https://aclanthology.org/W99-0608/",
+    "https://aclanthology.org/W99-0608.pdf"
+  ],
+  [
+    "Determining the specificity of nouns from text",
+    "https://aclanthology.org/W99-0609/",
+    "https://aclanthology.org/W99-0609.pdf"
+  ],
+  [
+    "Retrieving Collocations From Korean Text",
+    "https://aclanthology.org/W99-0610/",
+    "https://aclanthology.org/W99-0610.pdf"
+  ],
+  [
+    "Noun Phrase Coreference as Clustering",
+    "https://aclanthology.org/W99-0611/",
+    "https://aclanthology.org/W99-0611.pdf"
+  ],
+  [
+    "Language Independent Named Entity Recognition Combining Morphological and Contextual Evidence",
+    "https://aclanthology.org/W99-0612/",
+    "https://aclanthology.org/W99-0612.pdf"
+  ],
+  [
+    "Unsupervised Models for Named Entity Classification",
+    "https://aclanthology.org/W99-0613/",
+    "https://aclanthology.org/W99-0613.pdf"
+  ],
+  [
+    "Hybrid Disambiguation of Prepositional Phrase Attachment and Interpretation",
+    "https://aclanthology.org/W99-0614/",
+    "https://aclanthology.org/W99-0614.pdf"
+  ],
+  [
+    "HMM Specialization with Selective Lexicalization",
+    "https://aclanthology.org/W99-0615/",
+    "https://aclanthology.org/W99-0615.pdf"
+  ],
+  [
+    "Why Doesn’t Natural Language Come Naturally?",
+    "https://aclanthology.org/W99-0616/",
+    "https://aclanthology.org/W99-0616.pdf"
+  ],
+  [
+    "POS Tags and Decision Trees for Language Modeling",
+    "https://aclanthology.org/W99-0617/",
+    "https://aclanthology.org/W99-0617.pdf"
+  ],
+  [
+    "An Information-Theoretic Empirical Analysis of Dependency-Based Feature Types for Word Prediction Models",
+    "https://aclanthology.org/W99-0618/",
+    "https://aclanthology.org/W99-0618.pdf"
+  ],
+  [
+    "Word Informativeness and Automatic Pitch Accent Modeling",
+    "https://aclanthology.org/W99-0619/",
+    "https://aclanthology.org/W99-0619.pdf"
+  ],
+  [
+    "Learning Discourse Relations with Active Data Selection",
+    "https://aclanthology.org/W99-0620/",
+    "https://aclanthology.org/W99-0620.pdf"
+  ],
+  [
+    "A Learning Approach to Shallow Parsing",
+    "https://aclanthology.org/W99-0621/",
+    "https://aclanthology.org/W99-0621.pdf"
+  ],
+  [
+    "Guiding a Well-Founded Parser with Corpus Statistics",
+    "https://aclanthology.org/W99-0622/",
+    "https://aclanthology.org/W99-0622.pdf"
+  ],
+  [
+    "Exploiting Diversity in Natural Language Processing: Combining Parsers",
+    "https://aclanthology.org/W99-0623/",
+    "https://aclanthology.org/W99-0623.pdf"
+  ],
+  [
+    "Lexical ambiguity and Information Retrieval revisited",
+    "https://aclanthology.org/W99-0624/",
+    "https://aclanthology.org/W99-0624.pdf"
+  ],
+  [
+    "Detecting Text Similarity over Short Passages: Exploring Linguistic Feature Combinations via Machine Learning",
+    "https://aclanthology.org/W99-0625/",
+    "https://aclanthology.org/W99-0625.pdf"
+  ],
+  [
+    "Automatic Construction of Weighted String Similarity Measures",
+    "https://aclanthology.org/W99-0626/",
+    "https://aclanthology.org/W99-0626.pdf"
+  ],
+  [
+    "Taking the load off the conference chairs-towards a digital paper-routing assistant",
+    "https://aclanthology.org/W99-0627/",
+    "https://aclanthology.org/W99-0627.pdf"
+  ],
+  [
+    "PP-Attachment: A Committee Machine Approach",
+    "https://aclanthology.org/W99-0628/",
+    "https://aclanthology.org/W99-0628.pdf"
+  ],
+  [
+    "Cascaded Grammatical Relation Assignment",
+    "https://aclanthology.org/W99-0629/",
+    "https://aclanthology.org/W99-0629.pdf"
+  ],
+  [
+    "Automatically Merging Lexicons that have Incompatible Part-of-Speech Categories",
+    "https://aclanthology.org/W99-0630/",
+    "https://aclanthology.org/W99-0630.pdf"
+  ],
+  [
+    "An Iterative Approach to Estimating Frequencies over a Semantic Hierarchy",
+    "https://aclanthology.org/W99-0631/",
+    "https://aclanthology.org/W99-0631.pdf"
+  ],
+  [
+    "Using Subcategorization to Resolve Verb Class Ambiguity",
+    "https://aclanthology.org/W99-0632/",
+    "https://aclanthology.org/W99-0632.pdf"
+  ],
+  [
+    "Improving Brill’s POS Tagger for an Agglutinative Language",
+    "https://aclanthology.org/W99-0633/",
+    "https://aclanthology.org/W99-0633.pdf"
+  ],
+  [
+    "Corpus-Based Learning for Noun Phrase Coreference Resolution",
+    "https://aclanthology.org/W99-0634/",
+    "https://aclanthology.org/W99-0634.pdf"
+  ],
+  [
+    "Corpus-Based Approach for Nominal Compound Analysis for Korean Based on Linguistic and Statistical Information",
+    "https://aclanthology.org/W99-0635/",
+    "https://aclanthology.org/W99-0635.pdf"
+  ]
+]

@@ -1,0 +1,242 @@
+[
+  [
+    "31st Annual Meeting of the Association for Computational Linguistics",
+    "https://aclanthology.org/P93-1000/",
+    "https://aclanthology.org/P93-1000.pdf"
+  ],
+  [
+    "Char_align: A Program for Aligning Parallel Texts at the Character Level",
+    "https://aclanthology.org/P93-1001/",
+    "https://aclanthology.org/P93-1001.pdf"
+  ],
+  [
+    "Aligning Sentences in Bilingual Corpora Using Lexical Information",
+    "https://aclanthology.org/P93-1002/",
+    "https://aclanthology.org/P93-1002.pdf"
+  ],
+  [
+    "An Algorithm for Finding Noun Phrase Correspondences in Bilingual Corpora",
+    "https://aclanthology.org/P93-1003/",
+    "https://aclanthology.org/P93-1003.pdf"
+  ],
+  [
+    "Structural Matching of Parallel Texts",
+    "https://aclanthology.org/P93-1004/",
+    "https://aclanthology.org/P93-1004.pdf"
+  ],
+  [
+    "Towards History-based Grammars: Using Richer Models for Probabilistic Parsing",
+    "https://aclanthology.org/P93-1005/",
+    "https://aclanthology.org/P93-1005.pdf"
+  ],
+  [
+    "Using Bracketed Parses to Evaluate a Grammar Checking Application",
+    "https://aclanthology.org/P93-1006/",
+    "https://aclanthology.org/P93-1006.pdf"
+  ],
+  [
+    "A Speech-First Model for Repair Detection and Correction",
+    "https://aclanthology.org/P93-1007/",
+    "https://aclanthology.org/P93-1007.pdf"
+  ],
+  [
+    "GEMINI: A Natural Language System for Spoken-Language Understanding",
+    "https://aclanthology.org/P93-1008/",
+    "https://aclanthology.org/P93-1008.pdf"
+  ],
+  [
+    "The Effect of Establishing Coherence in Ellipsis and Anaphora Resolution",
+    "https://aclanthology.org/P93-1009/",
+    "https://aclanthology.org/P93-1009.pdf"
+  ],
+  [
+    "Temporal Centering",
+    "https://aclanthology.org/P93-1010/",
+    "https://aclanthology.org/P93-1010.pdf"
+  ],
+  [
+    "Assigning a Semantic Scope to Operators",
+    "https://aclanthology.org/P93-1011/",
+    "https://aclanthology.org/P93-1011.pdf"
+  ],
+  [
+    "Two Kinds of Metonymy",
+    "https://aclanthology.org/P93-1012/",
+    "https://aclanthology.org/P93-1012.pdf"
+  ],
+  [
+    "Planning Multimodal Discourse",
+    "https://aclanthology.org/P93-1013/",
+    "https://aclanthology.org/P93-1013.pdf"
+  ],
+  [
+    "A Unification-Based Parser for Relational Grammar",
+    "https://aclanthology.org/P93-1014/",
+    "https://aclanthology.org/P93-1014.pdf"
+  ],
+  [
+    "Parsing Free Word Order Languages in the Paninian Framework",
+    "https://aclanthology.org/P93-1015/",
+    "https://aclanthology.org/P93-1015.pdf"
+  ],
+  [
+    "Principle-Based Parsing Without Overgeneration",
+    "https://aclanthology.org/P93-1016/",
+    "https://aclanthology.org/P93-1016.pdf"
+  ],
+  [
+    "Lexicalized Context-Fee Grammars",
+    "https://aclanthology.org/P93-1017/",
+    "https://aclanthology.org/P93-1017.pdf"
+  ],
+  [
+    "Parallel Multiple Context-Free Grammars, Finite-State Translation Systems, and Polynomial-Time Recognizable Subclasses of Lexical-Functional Grammars",
+    "https://aclanthology.org/P93-1018/",
+    "https://aclanthology.org/P93-1018.pdf"
+  ],
+  [
+    "Feature-Based Allomorphy",
+    "https://aclanthology.org/P93-1019/",
+    "https://aclanthology.org/P93-1019.pdf"
+  ],
+  [
+    "Intention-Based Segmentation: Human Reliability and Correlation With Linguistic Cues",
+    "https://aclanthology.org/P93-1020/",
+    "https://aclanthology.org/P93-1020.pdf"
+  ],
+  [
+    "A Language-Independent Anaphora Resolution System for Understanding Multilingual Texts",
+    "https://aclanthology.org/P93-1021/",
+    "https://aclanthology.org/P93-1021.pdf"
+  ],
+  [
+    "Contextual Word Similarity and Estimation From Sparse Data",
+    "https://aclanthology.org/P93-1022/",
+    "https://aclanthology.org/P93-1022.pdf"
+  ],
+  [
+    "Towards the Automatic Identification of Adjectival Scales: Clustering Adjectives According to Meaning",
+    "https://aclanthology.org/P93-1023/",
+    "https://aclanthology.org/P93-1023.pdf"
+  ],
+  [
+    "Distributional Clustering of English Words",
+    "https://aclanthology.org/P93-1024/",
+    "https://aclanthology.org/P93-1024.pdf"
+  ],
+  [
+    "Transfers of Meaning",
+    "https://aclanthology.org/P93-1025/",
+    "https://aclanthology.org/P93-1025.pdf"
+  ],
+  [
+    "A Complete and Recursive Feature Theory",
+    "https://aclanthology.org/P93-1026/",
+    "https://aclanthology.org/P93-1026.pdf"
+  ],
+  [
+    "On the Decidability of Functional Uncertainty",
+    "https://aclanthology.org/P93-1027/",
+    "https://aclanthology.org/P93-1027.pdf"
+  ],
+  [
+    "A Logical Semantics for Nonmonotonic Sorts",
+    "https://aclanthology.org/P93-1028/",
+    "https://aclanthology.org/P93-1028.pdf"
+  ],
+  [
+    "F-PATR: Functional Constraints for Unification-Based Grammars",
+    "https://aclanthology.org/P93-1029/",
+    "https://aclanthology.org/P93-1029.pdf"
+  ],
+  [
+    "Quantificational Domains and Recursive Contexts",
+    "https://aclanthology.org/P93-1030/",
+    "https://aclanthology.org/P93-1030.pdf"
+  ],
+  [
+    "Tailoring Lexical Choice to the User’s Vocabulary in Multimedia Explanation Generation",
+    "https://aclanthology.org/P93-1031/",
+    "https://aclanthology.org/P93-1031.pdf"
+  ],
+  [
+    "Automatic Acquisition of a Large Sub Categorization Dictionary From Corpora",
+    "https://aclanthology.org/P93-1032/",
+    "https://aclanthology.org/P93-1032.pdf"
+  ],
+  [
+    "An Empirical Study on Thematic Knowledge Acquisition Based on Syntactic Clues and Heuristics",
+    "https://aclanthology.org/P93-1033/",
+    "https://aclanthology.org/P93-1033.pdf"
+  ],
+  [
+    "Part-of-Speech Induction From Scratch",
+    "https://aclanthology.org/P93-1034/",
+    "https://aclanthology.org/P93-1034.pdf"
+  ],
+  [
+    "Automatic Grammar Induction and Parsing Free Text: A Transformation-Based Approach",
+    "https://aclanthology.org/P93-1035/",
+    "https://aclanthology.org/P93-1035.pdf"
+  ],
+  [
+    "A Competition-Based Explanation of Syntactic Attachment Preferences and Garden Path Phenomena",
+    "https://aclanthology.org/P93-1036/",
+    "https://aclanthology.org/P93-1036.pdf"
+  ],
+  [
+    "A Flexible Approach to Cooperative Response Generation in Information-Seeking Dialogues",
+    "https://aclanthology.org/P93-1037/",
+    "https://aclanthology.org/P93-1037.pdf"
+  ],
+  [
+    "Identifying Relevant Prior Explanations",
+    "https://aclanthology.org/P93-1038/",
+    "https://aclanthology.org/P93-1038.pdf"
+  ],
+  [
+    "Responding to User Queries in a Collaborative Environment",
+    "https://aclanthology.org/P93-1039/",
+    "https://aclanthology.org/P93-1039.pdf"
+  ],
+  [
+    "The Imperfective Paradox and Trajectory-of-Motion Events",
+    "https://aclanthology.org/P93-1040/",
+    "https://aclanthology.org/P93-1040.pdf"
+  ],
+  [
+    "Text Segmentation Based on Similarity Between Words",
+    "https://aclanthology.org/P93-1041/",
+    "https://aclanthology.org/P93-1041.pdf"
+  ],
+  [
+    "How Do We Count? The Problem of Tagging Phrasal Verbs in Parts",
+    "https://aclanthology.org/P93-1042/",
+    "https://aclanthology.org/P93-1042.pdf"
+  ],
+  [
+    "Raisins, Sultanas, and Currants: Lexical Classification and Abstraction Via Context Priming",
+    "https://aclanthology.org/P93-1043/",
+    "https://aclanthology.org/P93-1043.pdf"
+  ],
+  [
+    "Guiding an HPSG Parser using Semantic and Pragmatic Expectations",
+    "https://aclanthology.org/P93-1044/",
+    "https://aclanthology.org/P93-1044.pdf"
+  ],
+  [
+    "The Formal Consequences of Using Variables in CCG Categories",
+    "https://aclanthology.org/P93-1045/",
+    "https://aclanthology.org/P93-1045.pdf"
+  ],
+  [
+    "Integrating Word Boundary Identification With Sentence Understanding",
+    "https://aclanthology.org/P93-1046/",
+    "https://aclanthology.org/P93-1046.pdf"
+  ],
+  [
+    "Extending Kimmo’s Two-Level Model of Morphology",
+    "https://aclanthology.org/P93-1047/",
+    "https://aclanthology.org/P93-1047.pdf"
+  ]
+]

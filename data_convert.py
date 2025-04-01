@@ -6,7 +6,7 @@ import pandas as pd
 
 from langchain_community.document_loaders import PyPDFLoader
 
-conference = 'emnlp'
+conference = 'acl'
 position = 'main'
 
 def extract_header(page):
@@ -59,6 +59,7 @@ pattern = r'[0-9]{4}'
 years = [int(re.search(pattern, f).group()) for f in os.listdir(f'./data/{str_path}') if re.search(pattern, f) is not None and not f.endswith('.json') and not f.endswith('.pkl')]
 # sort list
 years.sort()
+years = years[:20]
 
 print("Available years: ", years)
 print(f"Conference: {conference}")
@@ -71,6 +72,8 @@ for year in years:
 
     lst_data = []
     lst_pdfs = [f for f in os.listdir(f'./data/{str_path}/{conference.lower()}_{year}_{position}') if f.endswith('.pdf')]
+    lst_pdfs = [f for f in lst_pdfs if not f.startswith('1.')]
+    
     for idx, path in enumerate(lst_pdfs):
         print(f"Idx: {idx}\tFile: {path}")
 

@@ -7,10 +7,10 @@ import os
 from tqdm import tqdm
 
 # Read config
-with open('./data/NAACL/main/naacl_main.json', 'r') as f:
+with open('./data/EACL/main/eacl_main.json', 'r') as f:
     configs = json.load(f)
     
-for config in configs[10:]:
+for config in configs:
     page_url = config['page_url']
     conf_name = config['conf_name']
     conf_id_list = config['conf_id_list']

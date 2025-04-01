@@ -1,0 +1,1262 @@
+[
+  [
+    "36th Annual Meeting of the Association for Computational Linguistics and 17th International Conference on Computational Linguistics, Volume 1",
+    "https://aclanthology.org/P98-1000/",
+    "https://aclanthology.org/P98-1000.pdf"
+  ],
+  [
+    "A Quasi-Dependency Model for the Structural Analysis of Chinese BaseNPs",
+    "https://aclanthology.org/P98-1001/",
+    "https://aclanthology.org/P98-1001.pdf"
+  ],
+  [
+    "The Production of Code-Mixed Discourse",
+    "https://aclanthology.org/P98-1002/",
+    "https://aclanthology.org/P98-1002.pdf"
+  ],
+  [
+    "Towards a Single Proposal in Spelling Correction",
+    "https://aclanthology.org/P98-1003/",
+    "https://aclanthology.org/P98-1003.pdf"
+  ],
+  [
+    "A Simple Hybrid Aligner for Generating Lexical Correspondences in Parallel Texts",
+    "https://aclanthology.org/P98-1004/",
+    "https://aclanthology.org/P98-1004.pdf"
+  ],
+  [
+    "Parole et Prduction automatique: le module de reconnaissance RAPHAEL",
+    "https://aclanthology.org/P98-1005/",
+    "https://aclanthology.org/P98-1005.pdf"
+  ],
+  [
+    "Automatic Acquisition of Hierarchical Transduction Models for Machine Translation",
+    "https://aclanthology.org/P98-1006/",
+    "https://aclanthology.org/P98-1006.pdf"
+  ],
+  [
+    "Tense and Connective Constraints on the Expression of Causality",
+    "https://aclanthology.org/P98-1007/",
+    "https://aclanthology.org/P98-1007.pdf"
+  ],
+  [
+    "Time Mapping with Hypergraphs",
+    "https://aclanthology.org/P98-1008/",
+    "https://aclanthology.org/P98-1008.pdf"
+  ],
+  [
+    "Trainable, Scalable Summarization Using Robust NLP and Machine Learning",
+    "https://aclanthology.org/P98-1009/",
+    "https://aclanthology.org/P98-1009.pdf"
+  ],
+  [
+    "A Memory-Based Approach to Learning Shallow Natural Language Patterns",
+    "https://aclanthology.org/P98-1010/",
+    "https://aclanthology.org/P98-1010.pdf"
+  ],
+  [
+    "Evaluating a Focus-Based Approach to Anaphora Resolution",
+    "https://aclanthology.org/P98-1011/",
+    "https://aclanthology.org/P98-1011.pdf"
+  ],
+  [
+    "Entity-Based Cross-Document Coreferencing Using the Vector Space Model",
+    "https://aclanthology.org/P98-1012/",
+    "https://aclanthology.org/P98-1012.pdf"
+  ],
+  [
+    "The Berkeley FrameNet Project",
+    "https://aclanthology.org/P98-1013/",
+    "https://aclanthology.org/P98-1013.pdf"
+  ],
+  [
+    "Processing Unknown Words in HPSG",
+    "https://aclanthology.org/P98-1014/",
+    "https://aclanthology.org/P98-1014.pdf"
+  ],
+  [
+    "Semi-Automatic Recognition of Noun Modifier Relationships",
+    "https://aclanthology.org/P98-1015/",
+    "https://aclanthology.org/P98-1015.pdf"
+  ],
+  [
+    "Redundancy: Helping Semantic Disambiguation",
+    "https://aclanthology.org/P98-1016/",
+    "https://aclanthology.org/P98-1016.pdf"
+  ],
+  [
+    "An Efficient Kernel for Multilingual Generation in Speech-to-Speech Dialogue Translation",
+    "https://aclanthology.org/P98-1017/",
+    "https://aclanthology.org/P98-1017.pdf"
+  ],
+  [
+    "Consonant Spreading in Arabic Stems",
+    "https://aclanthology.org/P98-1018/",
+    "https://aclanthology.org/P98-1018.pdf"
+  ],
+  [
+    "Parsing Ambiguous Structures using Controlled Disjunctions and Unary Quasi-Trees",
+    "https://aclanthology.org/P98-1019/",
+    "https://aclanthology.org/P98-1019.pdf"
+  ],
+  [
+    "Trigger-Pair Predictors in Parsing and Tagging",
+    "https://aclanthology.org/P98-1020/",
+    "https://aclanthology.org/P98-1020.pdf"
+  ],
+  [
+    "Spoken Dialogue Interpretation with the DOP Model",
+    "https://aclanthology.org/P98-1021/",
+    "https://aclanthology.org/P98-1021.pdf"
+  ],
+  [
+    "A Probabilistic Corpus-Driven Model for Lexical-Functional Analysis",
+    "https://aclanthology.org/P98-1022/",
+    "https://aclanthology.org/P98-1022.pdf"
+  ],
+  [
+    "Anchoring Floating Quantifiers in Japanese-to-English Machine Translation",
+    "https://aclanthology.org/P98-1023/",
+    "https://aclanthology.org/P98-1023.pdf"
+  ],
+  [
+    "Managing Information at Linguistic Interfaces",
+    "https://aclanthology.org/P98-1024/",
+    "https://aclanthology.org/P98-1024.pdf"
+  ],
+  [
+    "Deriving the Predicate-Argument Structure for a Free Word Order Language",
+    "https://aclanthology.org/P98-1025/",
+    "https://aclanthology.org/P98-1025.pdf"
+  ],
+  [
+    "Separating Surface Order and Syntactic Relations in a Dependency Grammar",
+    "https://aclanthology.org/P98-1026/",
+    "https://aclanthology.org/P98-1026.pdf"
+  ],
+  [
+    "The Logical Structure of Binding",
+    "https://aclanthology.org/P98-1027/",
+    "https://aclanthology.org/P98-1027.pdf"
+  ],
+  [
+    "Beyond N -Grams: Can Linguistic Sophistication Improve Language Modeling?",
+    "https://aclanthology.org/P98-1028/",
+    "https://aclanthology.org/P98-1028.pdf"
+  ],
+  [
+    "Classifier Combination for Improved Lexical Disambiguation",
+    "https://aclanthology.org/P98-1029/",
+    "https://aclanthology.org/P98-1029.pdf"
+  ],
+  [
+    "Terminology Finite-state Preprocessing for Computational LFG",
+    "https://aclanthology.org/P98-1030/",
+    "https://aclanthology.org/P98-1030.pdf"
+  ],
+  [
+    "Named Entity Scoring for Speech Input",
+    "https://aclanthology.org/P98-1031/",
+    "https://aclanthology.org/P98-1031.pdf"
+  ],
+  [
+    "Automated Scoring Using A Hybrid Feature Identification Technique",
+    "https://aclanthology.org/P98-1032/",
+    "https://aclanthology.org/P98-1032.pdf"
+  ],
+  [
+    "Building Parallel LTAG for French and Italian",
+    "https://aclanthology.org/P98-1033/",
+    "https://aclanthology.org/P98-1033.pdf"
+  ],
+  [
+    "Error-Driven Pruning of Treebank Grammars for Base Noun Phrase Identification",
+    "https://aclanthology.org/P98-1034/",
+    "https://aclanthology.org/P98-1034.pdf"
+  ],
+  [
+    "Exploiting Syntactic Structure for Language Modeling",
+    "https://aclanthology.org/P98-1035/",
+    "https://aclanthology.org/P98-1035.pdf"
+  ],
+  [
+    "Proper Name Translation in Cross-Language Information Retrieval",
+    "https://aclanthology.org/P98-1036/",
+    "https://aclanthology.org/P98-1036.pdf"
+  ],
+  [
+    "A Concept-based Adaptive Approach to Word Sense Disambiguation",
+    "https://aclanthology.org/P98-1037/",
+    "https://aclanthology.org/P98-1037.pdf"
+  ],
+  [
+    "PAT-Trees with the Deletion Function as the Learning Device for Linguistic Patterns",
+    "https://aclanthology.org/P98-1038/",
+    "https://aclanthology.org/P98-1038.pdf"
+  ],
+  [
+    "Hybrid Approaches to Improvement of Translation Quality in Web-based English-Korean Machine Translation",
+    "https://aclanthology.org/P98-1039/",
+    "https://aclanthology.org/P98-1039.pdf"
+  ],
+  [
+    "Dialogue Management in Vector-Based Call Routing",
+    "https://aclanthology.org/P98-1040/",
+    "https://aclanthology.org/P98-1040.pdf"
+  ],
+  [
+    "Machine Translation vs. Dictionary Term Translation - a Comparison for English-Japanese News Article Alignment",
+    "https://aclanthology.org/P98-1041/",
+    "https://aclanthology.org/P98-1041.pdf"
+  ],
+  [
+    "An Experiment in Hybrid Dictionary and Statistical Sentence Alignment",
+    "https://aclanthology.org/P98-1042/",
+    "https://aclanthology.org/P98-1042.pdf"
+  ],
+  [
+    "Alignment of Multiple Languages for Historical Comparison",
+    "https://aclanthology.org/P98-1043/",
+    "https://aclanthology.org/P98-1043.pdf"
+  ],
+  [
+    "Veins Theory: A Model of Global Discourse Cohesion and Coherence",
+    "https://aclanthology.org/P98-1044/",
+    "https://aclanthology.org/P98-1044.pdf"
+  ],
+  [
+    "Automatic Semantic Tagging of Unknown Proper Names",
+    "https://aclanthology.org/P98-1045/",
+    "https://aclanthology.org/P98-1045.pdf"
+  ],
+  [
+    "Investigating Regular Sense Extensions based on Intersective Levin Classes",
+    "https://aclanthology.org/P98-1046/",
+    "https://aclanthology.org/P98-1046.pdf"
+  ],
+  [
+    "Learning a Syntagmatic and Paradigmatic Structure from Language Data with a Bi-Multigram Model",
+    "https://aclanthology.org/P98-1047/",
+    "https://aclanthology.org/P98-1047.pdf"
+  ],
+  [
+    "Experiments with Learning Parsing Heuristics",
+    "https://aclanthology.org/P98-1048/",
+    "https://aclanthology.org/P98-1048.pdf"
+  ],
+  [
+    "Expérimentation en apprentissage d’heuristiques pour l’analyse syntaxique",
+    "https://aclanthology.org/P98-1049/",
+    "https://aclanthology.org/P98-1049.pdf"
+  ],
+  [
+    "Multext-East: Parallel and Comparable Corpora and Lexicons for Six Central and Eastern European Languages",
+    "https://aclanthology.org/P98-1050/",
+    "https://aclanthology.org/P98-1050.pdf"
+  ],
+  [
+    "Error Driven Word Sense Disambiguation",
+    "https://aclanthology.org/P98-1051/",
+    "https://aclanthology.org/P98-1051.pdf"
+  ],
+  [
+    "An Empirical Investigation of Proposals in Collaborative Dialogues",
+    "https://aclanthology.org/P98-1052/",
+    "https://aclanthology.org/P98-1052.pdf"
+  ],
+  [
+    "Accumulation of Lexical Sets: Acquisition of Dictionary Resources and Production of New Lexical Sets",
+    "https://aclanthology.org/P98-1053/",
+    "https://aclanthology.org/P98-1053.pdf"
+  ],
+  [
+    "Accumulation of Lexical Sets: Acquisition of Dictionary Resources and Production of New Lexical Sets",
+    "https://aclanthology.org/P98-1054/",
+    "https://aclanthology.org/P98-1054.pdf"
+  ],
+  [
+    "A Text Input Front-end Processor as an Information Access Platform",
+    "https://aclanthology.org/P98-1055/",
+    "https://aclanthology.org/P98-1055.pdf"
+  ],
+  [
+    "Syntactic and Semantic Transfer with F-Structures",
+    "https://aclanthology.org/P98-1056/",
+    "https://aclanthology.org/P98-1056.pdf"
+  ],
+  [
+    "Group Theory and Linguistic Processing",
+    "https://aclanthology.org/P98-1057/",
+    "https://aclanthology.org/P98-1057.pdf"
+  ],
+  [
+    "Constraints over Lambda-Structures in Semantic Underspecification",
+    "https://aclanthology.org/P98-1058/",
+    "https://aclanthology.org/P98-1058.pdf"
+  ],
+  [
+    "Spelling Correction using Context",
+    "https://aclanthology.org/P98-1059/",
+    "https://aclanthology.org/P98-1059.pdf"
+  ],
+  [
+    "Ambiguity Preserving Machine Translation using Packed Representations",
+    "https://aclanthology.org/P98-1060/",
+    "https://aclanthology.org/P98-1060.pdf"
+  ],
+  [
+    "A Structure-sharing Parser for Lexicalized Grammars",
+    "https://aclanthology.org/P98-1061/",
+    "https://aclanthology.org/P98-1061.pdf"
+  ],
+  [
+    "Combining Stochastic and Rule-Based Methods for Disambiguation in Agglutinative Languages",
+    "https://aclanthology.org/P98-1062/",
+    "https://aclanthology.org/P98-1062.pdf"
+  ],
+  [
+    "Combining Stochastic and Rule-Based Methods for Disambiguation in Agglutinative Languages",
+    "https://aclanthology.org/P98-1063/",
+    "https://aclanthology.org/P98-1063.pdf"
+  ],
+  [
+    "Anaphor Resolution In Unrestricted Texts With Partial Parsing",
+    "https://aclanthology.org/P98-1064/",
+    "https://aclanthology.org/P98-1064.pdf"
+  ],
+  [
+    "Thematic Segmentation of Texts: Two Methods for Two Kind of Texts",
+    "https://aclanthology.org/P98-1065/",
+    "https://aclanthology.org/P98-1065.pdf"
+  ],
+  [
+    "A Layered Approach to NLP-Based Information Retrieval",
+    "https://aclanthology.org/P98-1066/",
+    "https://aclanthology.org/P98-1066.pdf"
+  ],
+  [
+    "Toward General-Purpose Learning for Information Extraction",
+    "https://aclanthology.org/P98-1067/",
+    "https://aclanthology.org/P98-1067.pdf"
+  ],
+  [
+    "Japanese Morphological Analyzer using Word Co-occurrence - JTAG",
+    "https://aclanthology.org/P98-1068/",
+    "https://aclanthology.org/P98-1068.pdf"
+  ],
+  [
+    "An IR Approach for Translating New Words from Nonparallel, Comparable Texts",
+    "https://aclanthology.org/P98-1069/",
+    "https://aclanthology.org/P98-1069.pdf"
+  ],
+  [
+    "Splitting Long or Ill-formed Input for Robust Spoken-language Translation",
+    "https://aclanthology.org/P98-1070/",
+    "https://aclanthology.org/P98-1070.pdf"
+  ],
+  [
+    "Automatic Extraction of Subcorpora based on Subcategorization Frames from a Part-ofSpeech Tagged Corpus",
+    "https://aclanthology.org/P98-1071/",
+    "https://aclanthology.org/P98-1071.pdf"
+  ],
+  [
+    "Semantic-Head Based Resolution of Scopal Ambiguities",
+    "https://aclanthology.org/P98-1072/",
+    "https://aclanthology.org/P98-1072.pdf"
+  ],
+  [
+    "Vers l’utilisation des méthodes formelles pour le développement de linguiciels",
+    "https://aclanthology.org/P98-1073/",
+    "https://aclanthology.org/P98-1073.pdf"
+  ],
+  [
+    "Flow Network Models for Word Alignment and Terminology Extraction from Bilingual Corpora",
+    "https://aclanthology.org/P98-1074/",
+    "https://aclanthology.org/P98-1074.pdf"
+  ],
+  [
+    "Growing Semantic Grammars",
+    "https://aclanthology.org/P98-1075/",
+    "https://aclanthology.org/P98-1075.pdf"
+  ],
+  [
+    "One Tokenization per Source",
+    "https://aclanthology.org/P98-1076/",
+    "https://aclanthology.org/P98-1076.pdf"
+  ],
+  [
+    "Efficient Linear Logic Meaning Assembly",
+    "https://aclanthology.org/P98-1077/",
+    "https://aclanthology.org/P98-1077.pdf"
+  ],
+  [
+    "Separable Verbs in a Reusable Morphological Dictionary for German",
+    "https://aclanthology.org/P98-1078/",
+    "https://aclanthology.org/P98-1078.pdf"
+  ],
+  [
+    "A Text Understander that Learns",
+    "https://aclanthology.org/P98-1079/",
+    "https://aclanthology.org/P98-1079.pdf"
+  ],
+  [
+    "Tagging Inflective Languages: Prediction of Morphological Categories for a Rich Structured Tagset",
+    "https://aclanthology.org/P98-1080/",
+    "https://aclanthology.org/P98-1080.pdf"
+  ],
+  [
+    "Improving Data Driven Wordclass Tagging by System Combination",
+    "https://aclanthology.org/P98-1081/",
+    "https://aclanthology.org/P98-1081.pdf"
+  ],
+  [
+    "A Step towards the Detection of Semantic Variants of Terms in Technical Documents",
+    "https://aclanthology.org/P98-1082/",
+    "https://aclanthology.org/P98-1082.pdf"
+  ],
+  [
+    "Using Decision Trees to Construct a Practical Parser",
+    "https://aclanthology.org/P98-1083/",
+    "https://aclanthology.org/P98-1083.pdf"
+  ],
+  [
+    "Integrating Text Plans for Conciseness and Coherence",
+    "https://aclanthology.org/P98-1084/",
+    "https://aclanthology.org/P98-1084.pdf"
+  ],
+  [
+    "Definiteness Predictions for Japanese Noun Phrases",
+    "https://aclanthology.org/P98-1085/",
+    "https://aclanthology.org/P98-1085.pdf"
+  ],
+  [
+    "Eliminative Parsing with Graded Constraints",
+    "https://aclanthology.org/P98-1086/",
+    "https://aclanthology.org/P98-1086.pdf"
+  ],
+  [
+    "A Connectionist Architecture for Learning to Parse",
+    "https://aclanthology.org/P98-1087/",
+    "https://aclanthology.org/P98-1087.pdf"
+  ],
+  [
+    "Memoisation for Glue Language Deduction and Categorial Parsing",
+    "https://aclanthology.org/P98-1088/",
+    "https://aclanthology.org/P98-1088.pdf"
+  ],
+  [
+    "Parsing Parallel Grammatical Representations",
+    "https://aclanthology.org/P98-1089/",
+    "https://aclanthology.org/P98-1089.pdf"
+  ],
+  [
+    "Long Distance Pronominalisation and Global Focus",
+    "https://aclanthology.org/P98-1090/",
+    "https://aclanthology.org/P98-1090.pdf"
+  ],
+  [
+    "An Empirical Evaluation of Probabilistic Lexicalized Tree Insertion Grammars",
+    "https://aclanthology.org/P98-1091/",
+    "https://aclanthology.org/P98-1091.pdf"
+  ],
+  [
+    "Terminological Variation, a Means of Identifying Research Topics from Texts",
+    "https://aclanthology.org/P98-1092/",
+    "https://aclanthology.org/P98-1092.pdf"
+  ],
+  [
+    "Information Classification and Navigation based on 5W1H of the Target Information",
+    "https://aclanthology.org/P98-1093/",
+    "https://aclanthology.org/P98-1093.pdf"
+  ],
+  [
+    "A Concurrent Approach to the Automatic Extraction of Subsegmental Primes and Phonological Constituents from Speech",
+    "https://aclanthology.org/P98-1094/",
+    "https://aclanthology.org/P98-1094.pdf"
+  ],
+  [
+    "Exploring the Characteristics of Multi-party Dialogues",
+    "https://aclanthology.org/P98-1095/",
+    "https://aclanthology.org/P98-1095.pdf"
+  ],
+  [
+    "Robust Interaction through Partial Interpretation and Dialogue Management",
+    "https://aclanthology.org/P98-1096/",
+    "https://aclanthology.org/P98-1096.pdf"
+  ],
+  [
+    "Improving Automatic Indexing through Concept Combination and Term Enrichment",
+    "https://aclanthology.org/P98-1097/",
+    "https://aclanthology.org/P98-1097.pdf"
+  ],
+  [
+    "Combining a Chinese Thesaurus with a Chinese Dictionary",
+    "https://aclanthology.org/P98-1098/",
+    "https://aclanthology.org/P98-1098.pdf"
+  ],
+  [
+    "Combining Multiple, Large-Scale Resources in a Reusable Lexicon for Natural Language Generation",
+    "https://aclanthology.org/P98-1099/",
+    "https://aclanthology.org/P98-1099.pdf"
+  ],
+  [
+    "Text Segmentation Using Reiteration and Collocation",
+    "https://aclanthology.org/P98-1100/",
+    "https://aclanthology.org/P98-1100.pdf"
+  ],
+  [
+    "Finite-state Approximation of Constraint-based Grammars using Left-corner Grammar Transforms",
+    "https://aclanthology.org/P98-1101/",
+    "https://aclanthology.org/P98-1101.pdf"
+  ],
+  [
+    "Unification-based Multimodal Parsing",
+    "https://aclanthology.org/P98-1102/",
+    "https://aclanthology.org/P98-1102.pdf"
+  ],
+  [
+    "Context Management with Topics for Spoken Dialogue Systems",
+    "https://aclanthology.org/P98-1103/",
+    "https://aclanthology.org/P98-1103.pdf"
+  ],
+  [
+    "A Statistical Analysis of Morphemes in Japanese Terminology",
+    "https://aclanthology.org/P98-1104/",
+    "https://aclanthology.org/P98-1104.pdf"
+  ],
+  [
+    "A Statistical Analysis of Morphemes in Japanese Terminology",
+    "https://aclanthology.org/P98-1105/",
+    "https://aclanthology.org/P98-1105.pdf"
+  ],
+  [
+    "Pseudo-Projectivity, A Polynomially Parsable Non-Projective Dependency Grammar",
+    "https://aclanthology.org/P98-1106/",
+    "https://aclanthology.org/P98-1106.pdf"
+  ],
+  [
+    "A Method for Correcting Errors in Speech Recognition using the Statistical Features of Character Co-occurrence",
+    "https://aclanthology.org/P98-1107/",
+    "https://aclanthology.org/P98-1107.pdf"
+  ],
+  [
+    "Use of Mutual Information Based Character Clusters in Dictionary-less Morphological Analysis of Japanese",
+    "https://aclanthology.org/P98-1108/",
+    "https://aclanthology.org/P98-1108.pdf"
+  ],
+  [
+    "Know When to Hold 'Em: Shuffling Deterministically in a Parser for Nonconcatenative Grammars",
+    "https://aclanthology.org/P98-1109/",
+    "https://aclanthology.org/P98-1109.pdf"
+  ],
+  [
+    "Term-list Translation using Mono-lingual Word Co-occurrence Vectors",
+    "https://aclanthology.org/P98-1110/",
+    "https://aclanthology.org/P98-1110.pdf"
+  ],
+  [
+    "Unlimited Vocabulary Grapheme to Phoneme Conversion for Korean TTS",
+    "https://aclanthology.org/P98-1111/",
+    "https://aclanthology.org/P98-1111.pdf"
+  ],
+  [
+    "Role of Verbs in Document Analysis",
+    "https://aclanthology.org/P98-1112/",
+    "https://aclanthology.org/P98-1112.pdf"
+  ],
+  [
+    "A Flexible Example-Based Parser Based on the SSTC",
+    "https://aclanthology.org/P98-1113/",
+    "https://aclanthology.org/P98-1113.pdf"
+  ],
+  [
+    "Large Scale Collocation Data and Their Application to Japanese Word Processor Technology",
+    "https://aclanthology.org/P98-1114/",
+    "https://aclanthology.org/P98-1114.pdf"
+  ],
+  [
+    "Compacting the Penn Treebank Grammar",
+    "https://aclanthology.org/P98-1115/",
+    "https://aclanthology.org/P98-1115.pdf"
+  ],
+  [
+    "Generation that Exploits Corpus-Based Statistical Knowledge",
+    "https://aclanthology.org/P98-1116/",
+    "https://aclanthology.org/P98-1116.pdf"
+  ],
+  [
+    "Methods and Practical Issues in Evaluating Alignment Techniques",
+    "https://aclanthology.org/P98-1117/",
+    "https://aclanthology.org/P98-1117.pdf"
+  ],
+  [
+    "A Framework for Customizable Generation of Hypertext Presentations",
+    "https://aclanthology.org/P98-1118/",
+    "https://aclanthology.org/P98-1118.pdf"
+  ],
+  [
+    "Automatic Acquisition of Language Model based on Head-Dependent Relation between Words",
+    "https://aclanthology.org/P98-1119/",
+    "https://aclanthology.org/P98-1119.pdf"
+  ],
+  [
+    "Solving analogies on words: an algorithm",
+    "https://aclanthology.org/P98-1120/",
+    "https://aclanthology.org/P98-1120.pdf"
+  ],
+  [
+    "Un algorithme pour la résolution des analogies entre mots / Algorytm do rozstrzygania analogii pomiędzy słowami / Ein Algorithmus zur Lösung von Wort-Analogien / 単語の類推関係解決手法",
+    "https://aclanthology.org/P98-1121/",
+    "https://aclanthology.org/P98-1121.pdf"
+  ],
+  [
+    "Characterizing and Recognizing Spoken Corrections in Human-Computer Dialogue",
+    "https://aclanthology.org/P98-1122/",
+    "https://aclanthology.org/P98-1122.pdf"
+  ],
+  [
+    "36th Annual Meeting of the Association for Computational Linguistics and 17th International Conference on Computational Linguistics, Volume 2",
+    "https://aclanthology.org/P98-2000/",
+    "https://aclanthology.org/P98-2000.pdf"
+  ],
+  [
+    "A Freely Available Morphological Analyzer, Disambiguator and Context Sensitive Lemmatizer for German",
+    "https://aclanthology.org/P98-2123/",
+    "https://aclanthology.org/P98-2123.pdf"
+  ],
+  [
+    "Word Clustering and Disambiguation Based on Co-occurrence Data",
+    "https://aclanthology.org/P98-2124/",
+    "https://aclanthology.org/P98-2124.pdf"
+  ],
+  [
+    "Identifying Syntactic Role of Antecedent in Korean Relative Clause using Corpus and Thesaurus Informationes",
+    "https://aclanthology.org/P98-2125/",
+    "https://aclanthology.org/P98-2125.pdf"
+  ],
+  [
+    "A Test Environment for Natural Language Understanding Systems",
+    "https://aclanthology.org/P98-2126/",
+    "https://aclanthology.org/P98-2126.pdf"
+  ],
+  [
+    "Automatic Retrieval and Clustering of Similar Words",
+    "https://aclanthology.org/P98-2127/",
+    "https://aclanthology.org/P98-2127.pdf"
+  ],
+  [
+    "Learning Constraint Grammar-style Disambiguation Rules using Inductive Logic Programming",
+    "https://aclanthology.org/P98-2128/",
+    "https://aclanthology.org/P98-2128.pdf"
+  ],
+  [
+    "Evaluating Response Strategies in a Web-Based Spoken Dialogue Agent",
+    "https://aclanthology.org/P98-2129/",
+    "https://aclanthology.org/P98-2129.pdf"
+  ],
+  [
+    "Formal Aspects and Parsing Issues of Dependency Theory",
+    "https://aclanthology.org/P98-2130/",
+    "https://aclanthology.org/P98-2130.pdf"
+  ],
+  [
+    "A Multi-Neuro Tagger Using Variable Lengths of Contexts",
+    "https://aclanthology.org/P98-2131/",
+    "https://aclanthology.org/P98-2131.pdf"
+  ],
+  [
+    "LiLFeS - Towards a Practical HPSG Parser",
+    "https://aclanthology.org/P98-2132/",
+    "https://aclanthology.org/P98-2132.pdf"
+  ],
+  [
+    "Bitext Correspondences through Rich Mark-up",
+    "https://aclanthology.org/P98-2134/",
+    "https://aclanthology.org/P98-2134.pdf"
+  ],
+  [
+    "Discourse Cues for Broadcast News Segmentation",
+    "https://aclanthology.org/P98-2135/",
+    "https://aclanthology.org/P98-2135.pdf"
+  ],
+  [
+    "Confirmation in Multimodal Systems",
+    "https://aclanthology.org/P98-2136/",
+    "https://aclanthology.org/P98-2136.pdf"
+  ],
+  [
+    "Babel: A Testbed for Research in Origins of Language",
+    "https://aclanthology.org/P98-2137/",
+    "https://aclanthology.org/P98-2137.pdf"
+  ],
+  [
+    "Combining Trigram and Winnow in Thai OCR Error Correction",
+    "https://aclanthology.org/P98-2138/",
+    "https://aclanthology.org/P98-2138.pdf"
+  ],
+  [
+    "Deriving Transfer Rules from Dominance-Preserving Alignments",
+    "https://aclanthology.org/P98-2139/",
+    "https://aclanthology.org/P98-2139.pdf"
+  ],
+  [
+    "Feature Lattices for Maximum Entropy Modelling",
+    "https://aclanthology.org/P98-2140/",
+    "https://aclanthology.org/P98-2140.pdf"
+  ],
+  [
+    "Simultaneous Interpretation Utilizing Example-based Incremental Transfer",
+    "https://aclanthology.org/P98-2141/",
+    "https://aclanthology.org/P98-2141.pdf"
+  ],
+  [
+    "Integrated Control of Chart Items for Error Repair",
+    "https://aclanthology.org/P98-2142/",
+    "https://aclanthology.org/P98-2142.pdf"
+  ],
+  [
+    "Robust Pronoun Resolution with Limited Knowledge",
+    "https://aclanthology.org/P98-2143/",
+    "https://aclanthology.org/P98-2143.pdf"
+  ],
+  [
+    "HPSG-Style Underspecified Japanese Grammar with Wide Coverage",
+    "https://aclanthology.org/P98-2144/",
+    "https://aclanthology.org/P98-2144.pdf"
+  ],
+  [
+    "Text Segmentation with Multiple Surface Linguistic Cues",
+    "https://aclanthology.org/P98-2145/",
+    "https://aclanthology.org/P98-2145.pdf"
+  ],
+  [
+    "Using Language Resources in an Intelligent Tutoring System for French",
+    "https://aclanthology.org/P98-2146/",
+    "https://aclanthology.org/P98-2146.pdf"
+  ],
+  [
+    "Dynamic Compilation of Weighted Context-Free Grammars",
+    "https://aclanthology.org/P98-2147/",
+    "https://aclanthology.org/P98-2147.pdf"
+  ],
+  [
+    "A Stochastic Language Model using Dependency and its Improvement by Word Clustering",
+    "https://aclanthology.org/P98-2148/",
+    "https://aclanthology.org/P98-2148.pdf"
+  ],
+  [
+    "Dealing with Distinguishing Descriptions in a Guided Composition System",
+    "https://aclanthology.org/P98-2149/",
+    "https://aclanthology.org/P98-2149.pdf"
+  ],
+  [
+    "An Estimate of Referent of Noun Phrases in Japanese Sentences",
+    "https://aclanthology.org/P98-2150/",
+    "https://aclanthology.org/P98-2150.pdf"
+  ],
+  [
+    "Automatic Text Summarization Based on the Global Document Annotation",
+    "https://aclanthology.org/P98-2151/",
+    "https://aclanthology.org/P98-2151.pdf"
+  ],
+  [
+    "Japanese OCR Error Correction using Character Shape Similarity and Statistical Language Model",
+    "https://aclanthology.org/P98-2152/",
+    "https://aclanthology.org/P98-2152.pdf"
+  ],
+  [
+    "Hypertext Authoring for Linking Relevant Segments of Related Instruction Manuals",
+    "https://aclanthology.org/P98-2153/",
+    "https://aclanthology.org/P98-2153.pdf"
+  ],
+  [
+    "Translating a Unification Grammar with Disjunctions into Logical Constraints",
+    "https://aclanthology.org/P98-2154/",
+    "https://aclanthology.org/P98-2154.pdf"
+  ],
+  [
+    "Constituent-based Accent Prediction",
+    "https://aclanthology.org/P98-2155/",
+    "https://aclanthology.org/P98-2155.pdf"
+  ],
+  [
+    "An Alternative LR Algorithm for TAGs",
+    "https://aclanthology.org/P98-2156/",
+    "https://aclanthology.org/P98-2156.pdf"
+  ],
+  [
+    "Prefix Probabilities from Stochastic Free Adjoining Grammars",
+    "https://aclanthology.org/P98-2157/",
+    "https://aclanthology.org/P98-2157.pdf"
+  ],
+  [
+    "A DP based Search Algorithm for Statistical Machine Translation",
+    "https://aclanthology.org/P98-2158/",
+    "https://aclanthology.org/P98-2158.pdf"
+  ],
+  [
+    "An Efficient Parallel Substrate for Typed Feature Structures on Shared Memory Parallel Machines",
+    "https://aclanthology.org/P98-2159/",
+    "https://aclanthology.org/P98-2159.pdf"
+  ],
+  [
+    "Universal Grammar and Lexis for Quick Ramp-Up of MT Systems",
+    "https://aclanthology.org/P98-2160/",
+    "https://aclanthology.org/P98-2160.pdf"
+  ],
+  [
+    "Integration of Large-Scale Linguistic Resources in a Natural Language Understanding System",
+    "https://aclanthology.org/P98-2161/",
+    "https://aclanthology.org/P98-2161.pdf"
+  ],
+  [
+    "Improving Statistical Natural Language Translation with Categories and Rules",
+    "https://aclanthology.org/P98-2162/",
+    "https://aclanthology.org/P98-2162.pdf"
+  ],
+  [
+    "Recognition of the Coherence Relation between Te-linked Clauses",
+    "https://aclanthology.org/P98-2163/",
+    "https://aclanthology.org/P98-2163.pdf"
+  ],
+  [
+    "On the Evaluation and Comparison of Taggers: the Effect of Noise in Testing Corpora",
+    "https://aclanthology.org/P98-2164/",
+    "https://aclanthology.org/P98-2164.pdf"
+  ],
+  [
+    "Learning Intonation Rules for Concept to Speech Generation",
+    "https://aclanthology.org/P98-2165/",
+    "https://aclanthology.org/P98-2165.pdf"
+  ],
+  [
+    "Possessive Pronominal Anaphor Resolution in Portuguese Written Texts",
+    "https://aclanthology.org/P98-2166/",
+    "https://aclanthology.org/P98-2166.pdf"
+  ],
+  [
+    "Machine Aided Error-Correction Environment for Korean Morphological Analysis and Partof-Speech Tagging",
+    "https://aclanthology.org/P98-2167/",
+    "https://aclanthology.org/P98-2167.pdf"
+  ],
+  [
+    "A Computational Model of Social Perlocutions",
+    "https://aclanthology.org/P98-2168/",
+    "https://aclanthology.org/P98-2168.pdf"
+  ],
+  [
+    "Parametric Types for Typed Attribute-Value Logic",
+    "https://aclanthology.org/P98-2169/",
+    "https://aclanthology.org/P98-2169.pdf"
+  ],
+  [
+    "A Procedure for Multi-Class Discrimination and some Linguistic Applications",
+    "https://aclanthology.org/P98-2170/",
+    "https://aclanthology.org/P98-2170.pdf"
+  ],
+  [
+    "From Information Structure to Intonation: A Phonological Interface for Concept-to-Speech",
+    "https://aclanthology.org/P98-2171/",
+    "https://aclanthology.org/P98-2171.pdf"
+  ],
+  [
+    "Reference Resolution beyond Coreference: a Conceptual Frame and its Application",
+    "https://aclanthology.org/P98-2172/",
+    "https://aclanthology.org/P98-2172.pdf"
+  ],
+  [
+    "Multilingual Authoring using Feedback Texts",
+    "https://aclanthology.org/P98-2173/",
+    "https://aclanthology.org/P98-2173.pdf"
+  ],
+  [
+    "Practical Glossing by Prioritised Tiling",
+    "https://aclanthology.org/P98-2174/",
+    "https://aclanthology.org/P98-2174.pdf"
+  ],
+  [
+    "An Intelligent Multi-Dictionary Environment",
+    "https://aclanthology.org/P98-2175/",
+    "https://aclanthology.org/P98-2175.pdf"
+  ],
+  [
+    "Learning Correlations between Linguistic Indicators and Semantic Constraints: Reuse of Context-Dependent Descriptions of Entities",
+    "https://aclanthology.org/P98-2176/",
+    "https://aclanthology.org/P98-2176.pdf"
+  ],
+  [
+    "Statistical Models for Unsupervised Prepositional Phrase Attachment",
+    "https://aclanthology.org/P98-2177/",
+    "https://aclanthology.org/P98-2177.pdf"
+  ],
+  [
+    "JaBot: A Multilingual Java-Based Intelligent Agent for Web Sites",
+    "https://aclanthology.org/P98-2178/",
+    "https://aclanthology.org/P98-2178.pdf"
+  ],
+  [
+    "Generating the Structure of Argument",
+    "https://aclanthology.org/P98-2179/",
+    "https://aclanthology.org/P98-2179.pdf"
+  ],
+  [
+    "MindNet: Acquiring and Structuring Semantic Information from Text",
+    "https://aclanthology.org/P98-2180/",
+    "https://aclanthology.org/P98-2180.pdf"
+  ],
+  [
+    "Building Accurate Semantic Taxonomies from Monolingual MRDs",
+    "https://aclanthology.org/P98-2181/",
+    "https://aclanthology.org/P98-2181.pdf"
+  ],
+  [
+    "Noun-Phrase Co-occurrence Statistics for Semi-Automatic Semantic Lexicon Construction",
+    "https://aclanthology.org/P98-2182/",
+    "https://aclanthology.org/P98-2182.pdf"
+  ],
+  [
+    "A Descriptive Characterization of Tree-Adjoining Languages",
+    "https://aclanthology.org/P98-2183/",
+    "https://aclanthology.org/P98-2183.pdf"
+  ],
+  [
+    "How Verb Subcategorization Frequencies are Affected by Corpus Choice",
+    "https://aclanthology.org/P98-2184/",
+    "https://aclanthology.org/P98-2184.pdf"
+  ],
+  [
+    "An Interactive Domain Independent Approach to Robust Dialogue Interpretation",
+    "https://aclanthology.org/P98-2185/",
+    "https://aclanthology.org/P98-2185.pdf"
+  ],
+  [
+    "Part of Speech Tagging Using a Network of Linear Separators",
+    "https://aclanthology.org/P98-2186/",
+    "https://aclanthology.org/P98-2186.pdf"
+  ],
+  [
+    "A Generative Lexicon Perspective for Adjectival Modification",
+    "https://aclanthology.org/P98-2187/",
+    "https://aclanthology.org/P98-2187.pdf"
+  ],
+  [
+    "Dialogue Act Tagging with Transformation-Based Learning",
+    "https://aclanthology.org/P98-2188/",
+    "https://aclanthology.org/P98-2188.pdf"
+  ],
+  [
+    "Ranking Text Units According to Textual Saliency, Connectivity and Topic Aptness",
+    "https://aclanthology.org/P98-2189/",
+    "https://aclanthology.org/P98-2189.pdf"
+  ],
+  [
+    "Conditions on Consistency of Probabilistic Tree Adjoining Grammars",
+    "https://aclanthology.org/P98-2190/",
+    "https://aclanthology.org/P98-2190.pdf"
+  ],
+  [
+    "Maximum Entropy Model Learning of the Translation Rules",
+    "https://aclanthology.org/P98-2191/",
+    "https://aclanthology.org/P98-2191.pdf"
+  ],
+  [
+    "Restrictions on Tree Adjoining Languages",
+    "https://aclanthology.org/P98-2192/",
+    "https://aclanthology.org/P98-2192.pdf"
+  ],
+  [
+    "Learning Tense Translation from Bilingual Corpora",
+    "https://aclanthology.org/P98-2193/",
+    "https://aclanthology.org/P98-2193.pdf"
+  ],
+  [
+    "An Underspecified Segmented Discourse Representation Theory (USDRT)",
+    "https://aclanthology.org/P98-2194/",
+    "https://aclanthology.org/P98-2194.pdf"
+  ],
+  [
+    "Natural Language Access to Software Applications",
+    "https://aclanthology.org/P98-2195/",
+    "https://aclanthology.org/P98-2195.pdf"
+  ],
+  [
+    "Recognizing Syntactic Errors in the Writing of Second Language Learners",
+    "https://aclanthology.org/P98-2196/",
+    "https://aclanthology.org/P98-2196.pdf"
+  ],
+  [
+    "Transforming Lattices into Non-deterministic Automata with Optional Null Arcs",
+    "https://aclanthology.org/P98-2197/",
+    "https://aclanthology.org/P98-2197.pdf"
+  ],
+  [
+    "Locating Noun Phrases with Finite State Transducers",
+    "https://aclanthology.org/P98-2198/",
+    "https://aclanthology.org/P98-2198.pdf"
+  ],
+  [
+    "Segregatory Coordination and Ellipsis in Text Generation",
+    "https://aclanthology.org/P98-2199/",
+    "https://aclanthology.org/P98-2199.pdf"
+  ],
+  [
+    "Similarity Metrics for Aligning Children’s Articulation Data",
+    "https://aclanthology.org/P98-2200/",
+    "https://aclanthology.org/P98-2200.pdf"
+  ],
+  [
+    "A Connectionist Approach to Prepositional Phrase Attachment for Real World Texts",
+    "https://aclanthology.org/P98-2201/",
+    "https://aclanthology.org/P98-2201.pdf"
+  ],
+  [
+    "DiMLex: A Lexicon of Discourse Markers for Text Generation and Understanding",
+    "https://aclanthology.org/P98-2202/",
+    "https://aclanthology.org/P98-2202.pdf"
+  ],
+  [
+    "Spontaneous Lexicon Change",
+    "https://aclanthology.org/P98-2203/",
+    "https://aclanthology.org/P98-2203.pdf"
+  ],
+  [
+    "Never Look Back: An Alternative to Centering",
+    "https://aclanthology.org/P98-2204/",
+    "https://aclanthology.org/P98-2204.pdf"
+  ],
+  [
+    "Summarization-based Query Expansion in Information Retrieval",
+    "https://aclanthology.org/P98-2205/",
+    "https://aclanthology.org/P98-2205.pdf"
+  ],
+  [
+    "Chinese Word Segmentation without Using Lexicon and Hand-crafted Training Data",
+    "https://aclanthology.org/P98-2206/",
+    "https://aclanthology.org/P98-2206.pdf"
+  ],
+  [
+    "Keyword Extraction using Term-Domain Interdependence for Dictation of Radio News",
+    "https://aclanthology.org/P98-2207/",
+    "https://aclanthology.org/P98-2207.pdf"
+  ],
+  [
+    "Tagging English by Path Voting Constraints",
+    "https://aclanthology.org/P98-2208/",
+    "https://aclanthology.org/P98-2208.pdf"
+  ],
+  [
+    "Reactive Content Selection in the Generation of Real-time Soccer Commentary",
+    "https://aclanthology.org/P98-2209/",
+    "https://aclanthology.org/P98-2209.pdf"
+  ],
+  [
+    "Idiomatic Object Usage and Support Verbs",
+    "https://aclanthology.org/P98-2210/",
+    "https://aclanthology.org/P98-2210.pdf"
+  ],
+  [
+    "Coherence in Spoken Discourse",
+    "https://aclanthology.org/P98-2211/",
+    "https://aclanthology.org/P98-2211.pdf"
+  ],
+  [
+    "Automatically Creating Bilingual Lexicons for Machine Translation from Bilingual Text",
+    "https://aclanthology.org/P98-2212/",
+    "https://aclanthology.org/P98-2212.pdf"
+  ],
+  [
+    "A Method for Relating Multiple Newspaper Articles by Using Graphs, and Its Application to Webcasting",
+    "https://aclanthology.org/P98-2213/",
+    "https://aclanthology.org/P98-2213.pdf"
+  ],
+  [
+    "General-to-Specific Model Selection for Subcategorization Preference",
+    "https://aclanthology.org/P98-2214/",
+    "https://aclanthology.org/P98-2214.pdf"
+  ],
+  [
+    "Multilingual Computational Semantic Lexicons in Action: The WYSINNWYG Approach to NLP",
+    "https://aclanthology.org/P98-2215/",
+    "https://aclanthology.org/P98-2215.pdf"
+  ],
+  [
+    "The Computational Lexical Semantics of Syntagmatic Expressions",
+    "https://aclanthology.org/P98-2216/",
+    "https://aclanthology.org/P98-2216.pdf"
+  ],
+  [
+    "A tabular interpretation of a class of 2-Stack Automata",
+    "https://aclanthology.org/P98-2217/",
+    "https://aclanthology.org/P98-2217.pdf"
+  ],
+  [
+    "Project for production of closed-caption TV programs for the hearing impaired",
+    "https://aclanthology.org/P98-2218/",
+    "https://aclanthology.org/P98-2218.pdf"
+  ],
+  [
+    "Learning Optimal Dialogue Strategies: A Case Study of a Spoken Dialogue Agent for Email",
+    "https://aclanthology.org/P98-2219/",
+    "https://aclanthology.org/P98-2219.pdf"
+  ],
+  [
+    "Automatic English-Chinese name transliteration for development of multilingual resources",
+    "https://aclanthology.org/P98-2220/",
+    "https://aclanthology.org/P98-2220.pdf"
+  ],
+  [
+    "Modeling with Structures in Statistical Machine translation",
+    "https://aclanthology.org/P98-2221/",
+    "https://aclanthology.org/P98-2221.pdf"
+  ],
+  [
+    "Using Leading Text for News Summaries: Evaluation Results and Implications for Commercial Summarization Applications",
+    "https://aclanthology.org/P98-2222/",
+    "https://aclanthology.org/P98-2222.pdf"
+  ],
+  [
+    "A Pattern-based Machine Translation System Extended by Example-based Processing",
+    "https://aclanthology.org/P98-2223/",
+    "https://aclanthology.org/P98-2223.pdf"
+  ],
+  [
+    "Diagram Understanding Using Integration of Layout Information and Textual Information",
+    "https://aclanthology.org/P98-2224/",
+    "https://aclanthology.org/P98-2224.pdf"
+  ],
+  [
+    "Aligning Articles in TV Newscasts and Newspapers",
+    "https://aclanthology.org/P98-2225/",
+    "https://aclanthology.org/P98-2225.pdf"
+  ],
+  [
+    "Translating Idioms",
+    "https://aclanthology.org/P98-2226/",
+    "https://aclanthology.org/P98-2226.pdf"
+  ],
+  [
+    "Head-Driven Generation with HPSG",
+    "https://aclanthology.org/P98-2227/",
+    "https://aclanthology.org/P98-2227.pdf"
+  ],
+  [
+    "Word Sense Disambiguation using Optimised Combinations of Knowledge Sources",
+    "https://aclanthology.org/P98-2228/",
+    "https://aclanthology.org/P98-2228.pdf"
+  ],
+  [
+    "A Model for Robust Processing of Spontaneous Speech by Integrating Viable Fragments",
+    "https://aclanthology.org/P98-2229/",
+    "https://aclanthology.org/P98-2229.pdf"
+  ],
+  [
+    "Machine Translation with a Stochastic Grammatical Channel",
+    "https://aclanthology.org/P98-2230/",
+    "https://aclanthology.org/P98-2230.pdf"
+  ],
+  [
+    "Structural Disambiguation Based on Reliable Estimation of Strength of Association",
+    "https://aclanthology.org/P98-2231/",
+    "https://aclanthology.org/P98-2231.pdf"
+  ],
+  [
+    "Combination of an Automatic and an Interactive Disambiguation Method",
+    "https://aclanthology.org/P98-2232/",
+    "https://aclanthology.org/P98-2232.pdf"
+  ],
+  [
+    "Feasibility Study for Ellipsis Resolution in Dialogues by Machine-Learning Technique",
+    "https://aclanthology.org/P98-2233/",
+    "https://aclanthology.org/P98-2233.pdf"
+  ],
+  [
+    "Some Properties of Preposition and Subordinate Conjunction Attachments",
+    "https://aclanthology.org/P98-2234/",
+    "https://aclanthology.org/P98-2234.pdf"
+  ],
+  [
+    "Evaluation of Importance of Sentences based on Connectivity to Title",
+    "https://aclanthology.org/P98-2235/",
+    "https://aclanthology.org/P98-2235.pdf"
+  ],
+  [
+    "Automatic Construction of Frame Representations for Spontaneous Speech in Unrestricted Domains",
+    "https://aclanthology.org/P98-2236/",
+    "https://aclanthology.org/P98-2236.pdf"
+  ],
+  [
+    "Using Chunk Based Partial Parsing of Spontaneous Speech in Unrestricted Domains for Reducing Word Error Rate in Speech Recognition",
+    "https://aclanthology.org/P98-2237/",
+    "https://aclanthology.org/P98-2237.pdf"
+  ],
+  [
+    "Dialect MT: A Case Study between Cantonese and Mandarin",
+    "https://aclanthology.org/P98-2238/",
+    "https://aclanthology.org/P98-2238.pdf"
+  ],
+  [
+    "Word Association and MI-Trigger-based Language Modeling",
+    "https://aclanthology.org/P98-2239/",
+    "https://aclanthology.org/P98-2239.pdf"
+  ],
+  [
+    "Discovering Phonotactic Finite-State Automata by Genetic Search",
+    "https://aclanthology.org/P98-2240/",
+    "https://aclanthology.org/P98-2240.pdf"
+  ],
+  [
+    "A Preliminary Model of Centering in Dialog",
+    "https://aclanthology.org/P98-2241/",
+    "https://aclanthology.org/P98-2241.pdf"
+  ],
+  [
+    "Embedding New Information into Referring Expressions",
+    "https://aclanthology.org/P98-2242/",
+    "https://aclanthology.org/P98-2242.pdf"
+  ],
+  [
+    "How to Thematically Segment Texts by using Lexical Cohesion?",
+    "https://aclanthology.org/P98-2243/",
+    "https://aclanthology.org/P98-2243.pdf"
+  ],
+  [
+    "Optimal Multi-Paragraph Text Segmentation by Dynamic Programming",
+    "https://aclanthology.org/P98-2244/",
+    "https://aclanthology.org/P98-2244.pdf"
+  ],
+  [
+    "Bridging the Gap between Dictionary and Thesaurus",
+    "https://aclanthology.org/P98-2245/",
+    "https://aclanthology.org/P98-2245.pdf"
+  ],
+  [
+    "Neural Network Recognition of Spelling Errors",
+    "https://aclanthology.org/P98-2246/",
+    "https://aclanthology.org/P98-2246.pdf"
+  ],
+  [
+    "Detecting Verbal Participation in Diathesis Alternations",
+    "https://aclanthology.org/P98-2247/",
+    "https://aclanthology.org/P98-2247.pdf"
+  ],
+  [
+    "Target Word Selection as Proximity in Semantic Space",
+    "https://aclanthology.org/P98-2248/",
+    "https://aclanthology.org/P98-2248.pdf"
+  ],
+  [
+    "A Cognitive Model of Coherence-Driven Story Comprehension",
+    "https://aclanthology.org/P98-2249/",
+    "https://aclanthology.org/P98-2249.pdf"
+  ],
+  [
+    "Tree based Analysis of Simple Recurrent Network Learning",
+    "https://aclanthology.org/P98-2250/",
+    "https://aclanthology.org/P98-2250.pdf"
+  ],
+  [
+    "Predicting Part-of Speech Information about Unknown Words using Statistical Methods",
+    "https://aclanthology.org/P98-2251/",
+    "https://aclanthology.org/P98-2251.pdf"
+  ]
+]

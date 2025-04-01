@@ -1,0 +1,357 @@
+[
+  [
+    "Sixth Conference of the European Chapter of the Association for Computational Linguistics",
+    "https://aclanthology.org/E93-1000/",
+    "https://aclanthology.org/E93-1000.pdf"
+  ],
+  [
+    "Contributed Papers",
+    "https://aclanthology.org/E93-1001/",
+    "https://aclanthology.org/E93-1001.pdf"
+  ],
+  [
+    "The Incremental Generation of Passive Sentences",
+    "https://aclanthology.org/E93-1002/",
+    "https://aclanthology.org/E93-1002.pdf"
+  ],
+  [
+    "Experiments in Reusability of Grammatical Resources",
+    "https://aclanthology.org/E93-1003/",
+    "https://aclanthology.org/E93-1003.pdf"
+  ],
+  [
+    "Talking About Trees",
+    "https://aclanthology.org/E93-1004/",
+    "https://aclanthology.org/E93-1004.pdf"
+  ],
+  [
+    "Decidability and Undecidability in stand-alone Feature Logics",
+    "https://aclanthology.org/E93-1005/",
+    "https://aclanthology.org/E93-1005.pdf"
+  ],
+  [
+    "Using an Annotated Corpus as a Stochastic Grammar",
+    "https://aclanthology.org/E93-1006/",
+    "https://aclanthology.org/E93-1006.pdf"
+  ],
+  [
+    "Data-Oriented Methods for Grapheme-to-Phoneme Conversion",
+    "https://aclanthology.org/E93-1007/",
+    "https://aclanthology.org/E93-1007.pdf"
+  ],
+  [
+    "Disjunctions and Inheritance in the Context Feature Structure System",
+    "https://aclanthology.org/E93-1008/",
+    "https://aclanthology.org/E93-1008.pdf"
+  ],
+  [
+    "A Strategy for Dynamic Interpretation: a Fragment and an Implementation",
+    "https://aclanthology.org/E93-1009/",
+    "https://aclanthology.org/E93-1009.pdf"
+  ],
+  [
+    "Head-driven Parsing for Lexicalist Grammars: Experimental Results",
+    "https://aclanthology.org/E93-1010/",
+    "https://aclanthology.org/E93-1010.pdf"
+  ],
+  [
+    "An Endogeneous Corpus-Based Method for Structural Noun Phrase Disambiguation",
+    "https://aclanthology.org/E93-1011/",
+    "https://aclanthology.org/E93-1011.pdf"
+  ],
+  [
+    "Morphonology in the Lexicon",
+    "https://aclanthology.org/E93-1012/",
+    "https://aclanthology.org/E93-1012.pdf"
+  ],
+  [
+    "LFG Semantics via Constraints",
+    "https://aclanthology.org/E93-1013/",
+    "https://aclanthology.org/E93-1013.pdf"
+  ],
+  [
+    "On the notion of uniqueness",
+    "https://aclanthology.org/E93-1014/",
+    "https://aclanthology.org/E93-1014.pdf"
+  ],
+  [
+    "Automating the Acquisition of Bilingual Terminology",
+    "https://aclanthology.org/E93-1015/",
+    "https://aclanthology.org/E93-1015.pdf"
+  ],
+  [
+    "Parsing with polymorphism",
+    "https://aclanthology.org/E93-1016/",
+    "https://aclanthology.org/E93-1016.pdf"
+  ],
+  [
+    "The donkey strikes back: Extending the dynamic interpretation “constructively”",
+    "https://aclanthology.org/E93-1017/",
+    "https://aclanthology.org/E93-1017.pdf"
+  ],
+  [
+    "A unification-based approach to multiple VP Ellipsis resolution",
+    "https://aclanthology.org/E93-1018/",
+    "https://aclanthology.org/E93-1018.pdf"
+  ],
+  [
+    "Rule-based Acquisition and Maintenance of Lexical and Semantic Knowledge",
+    "https://aclanthology.org/E93-1019/",
+    "https://aclanthology.org/E93-1019.pdf"
+  ],
+  [
+    "A Computational Treatment of Sentence-Final ‘then’",
+    "https://aclanthology.org/E93-1020/",
+    "https://aclanthology.org/E93-1020.pdf"
+  ],
+  [
+    "Towards a proper treatment of coercion phenomena",
+    "https://aclanthology.org/E93-1021/",
+    "https://aclanthology.org/E93-1021.pdf"
+  ],
+  [
+    "Identifying Topic and Focus by an Automatic Procedure",
+    "https://aclanthology.org/E93-1022/",
+    "https://aclanthology.org/E93-1022.pdf"
+  ],
+  [
+    "A Probabilistic Context-free Grammar for Disambiguation in Morphological Parsing",
+    "https://aclanthology.org/E93-1023/",
+    "https://aclanthology.org/E93-1023.pdf"
+  ],
+  [
+    "Restriction and Correspondence-based Translation",
+    "https://aclanthology.org/E93-1024/",
+    "https://aclanthology.org/E93-1024.pdf"
+  ],
+  [
+    "A Discourse Copying Algorithm for Ellipsis and Anaphora Resolution",
+    "https://aclanthology.org/E93-1025/",
+    "https://aclanthology.org/E93-1025.pdf"
+  ],
+  [
+    "Inheriting Verb Alternations",
+    "https://aclanthology.org/E93-1026/",
+    "https://aclanthology.org/E93-1026.pdf"
+  ],
+  [
+    "Linguistic Knowledge Acquisition from Parsing Failures",
+    "https://aclanthology.org/E93-1027/",
+    "https://aclanthology.org/E93-1027.pdf"
+  ],
+  [
+    "Similarity between Words Computed by Spreading Activation on an English Dictionary",
+    "https://aclanthology.org/E93-1028/",
+    "https://aclanthology.org/E93-1028.pdf"
+  ],
+  [
+    "Mathematical Aspects of Command Relations",
+    "https://aclanthology.org/E93-1029/",
+    "https://aclanthology.org/E93-1029.pdf"
+  ],
+  [
+    "A Semantics and Pragmatics for the Pluperfect",
+    "https://aclanthology.org/E93-1030/",
+    "https://aclanthology.org/E93-1030.pdf"
+  ],
+  [
+    "Temporal Connectives in a Discourse Context",
+    "https://aclanthology.org/E93-1031/",
+    "https://aclanthology.org/E93-1031.pdf"
+  ],
+  [
+    "Towards efficient parsing with proof-nets",
+    "https://aclanthology.org/E93-1032/",
+    "https://aclanthology.org/E93-1032.pdf"
+  ],
+  [
+    "Abductive Explanation of Dialogue Misunderstandings",
+    "https://aclanthology.org/E93-1033/",
+    "https://aclanthology.org/E93-1033.pdf"
+  ],
+  [
+    "Tuples, Discontinuity, and Gapping in Categorial Grammar",
+    "https://aclanthology.org/E93-1034/",
+    "https://aclanthology.org/E93-1034.pdf"
+  ],
+  [
+    "On Abstract Finite-State Morphology",
+    "https://aclanthology.org/E93-1035/",
+    "https://aclanthology.org/E93-1035.pdf"
+  ],
+  [
+    "Generalized Left-Corner Parsing",
+    "https://aclanthology.org/E93-1036/",
+    "https://aclanthology.org/E93-1036.pdf"
+  ],
+  [
+    "Resolving Zero Anaphora in Japanese",
+    "https://aclanthology.org/E93-1037/",
+    "https://aclanthology.org/E93-1037.pdf"
+  ],
+  [
+    "Formal Properties of Metrical Structure",
+    "https://aclanthology.org/E93-1038/",
+    "https://aclanthology.org/E93-1038.pdf"
+  ],
+  [
+    "Generating Contextually Appropriate Intonation",
+    "https://aclanthology.org/E93-1039/",
+    "https://aclanthology.org/E93-1039.pdf"
+  ],
+  [
+    "Parsing the Wall Street Journal with the Inside-Outside Algorithm",
+    "https://aclanthology.org/E93-1040/",
+    "https://aclanthology.org/E93-1040.pdf"
+  ],
+  [
+    "A Tradeoff between Compositionality and Complexity in the Semantics of Dimensional Adjectives",
+    "https://aclanthology.org/E93-1041/",
+    "https://aclanthology.org/E93-1041.pdf"
+  ],
+  [
+    "New Frontiers Beyond Context-Freeness: Di-Grammars and Di-Automata.",
+    "https://aclanthology.org/E93-1042/",
+    "https://aclanthology.org/E93-1042.pdf"
+  ],
+  [
+    "Coping With Derivation in a Morphological Component",
+    "https://aclanthology.org/E93-1043/",
+    "https://aclanthology.org/E93-1043.pdf"
+  ],
+  [
+    "Categorial grammar, modalities and algebraic semantics",
+    "https://aclanthology.org/E93-1044/",
+    "https://aclanthology.org/E93-1044.pdf"
+  ],
+  [
+    "The Use of Shared Forests in Tree Adjoining Grammar Parsing",
+    "https://aclanthology.org/E93-1045/",
+    "https://aclanthology.org/E93-1045.pdf"
+  ],
+  [
+    "Ambiguity resolution in a reductionistic parser",
+    "https://aclanthology.org/E93-1046/",
+    "https://aclanthology.org/E93-1046.pdf"
+  ],
+  [
+    "Type-Driven Semantic Interpretation of f-Structures",
+    "https://aclanthology.org/E93-1047/",
+    "https://aclanthology.org/E93-1047.pdf"
+  ],
+  [
+    "Delimitedness and Trajectory-of-Motion Events",
+    "https://aclanthology.org/E93-1048/",
+    "https://aclanthology.org/E93-1048.pdf"
+  ],
+  [
+    "Student Session",
+    "https://aclanthology.org/E93-1049/",
+    "https://aclanthology.org/E93-1049.pdf"
+  ],
+  [
+    "VP Ellipsis in a DRT-implementation",
+    "https://aclanthology.org/E93-1050/",
+    "https://aclanthology.org/E93-1050.pdf"
+  ],
+  [
+    "Lexical Disambiguation Using Constraint Handling In Prolog (CHIP)",
+    "https://aclanthology.org/E93-1051/",
+    "https://aclanthology.org/E93-1051.pdf"
+  ],
+  [
+    "Object clitics and clitic climbing in Italian HPSG grammar",
+    "https://aclanthology.org/E93-1052/",
+    "https://aclanthology.org/E93-1052.pdf"
+  ],
+  [
+    "Localising Barriers Theory",
+    "https://aclanthology.org/E93-1053/",
+    "https://aclanthology.org/E93-1053.pdf"
+  ],
+  [
+    "Text Alignment in a Tool for Translating Revised Documents",
+    "https://aclanthology.org/E93-1054/",
+    "https://aclanthology.org/E93-1054.pdf"
+  ],
+  [
+    "Lexical Choice Criteria in Language Generation",
+    "https://aclanthology.org/E93-1055/",
+    "https://aclanthology.org/E93-1055.pdf"
+  ],
+  [
+    "Poster Session",
+    "https://aclanthology.org/E93-1056/",
+    "https://aclanthology.org/E93-1056.pdf"
+  ],
+  [
+    "A Morphological Analysis Based Method for Spelling Correction",
+    "https://aclanthology.org/E93-1057/",
+    "https://aclanthology.org/E93-1057.pdf"
+  ],
+  [
+    "Undestanding Stories in Different Languages with GETA-RUN",
+    "https://aclanthology.org/E93-1058/",
+    "https://aclanthology.org/E93-1058.pdf"
+  ],
+  [
+    "Enhancing a large scale dictionary with a two-level system",
+    "https://aclanthology.org/E93-1059/",
+    "https://aclanthology.org/E93-1059.pdf"
+  ],
+  [
+    "Long Sentence Analysis by Domain-Specific Pattern Grammar",
+    "https://aclanthology.org/E93-1060/",
+    "https://aclanthology.org/E93-1060.pdf"
+  ],
+  [
+    "Knowledge acquisition for a constrained speech system using WoZ",
+    "https://aclanthology.org/E93-1061/",
+    "https://aclanthology.org/E93-1061.pdf"
+  ],
+  [
+    "The PANGLOSS MARK I MAT system",
+    "https://aclanthology.org/E93-1062/",
+    "https://aclanthology.org/E93-1062.pdf"
+  ],
+  [
+    "A Constraint-based Representation Scheme of Collocational Structures",
+    "https://aclanthology.org/E93-1063/",
+    "https://aclanthology.org/E93-1063.pdf"
+  ],
+  [
+    "The Linguistic Annotation System of the Stockholm - Umeå Corpus Project",
+    "https://aclanthology.org/E93-1064/",
+    "https://aclanthology.org/E93-1064.pdf"
+  ],
+  [
+    "INSYST: An Automatic Inserter System for Hierarchical Lexica",
+    "https://aclanthology.org/E93-1065/",
+    "https://aclanthology.org/E93-1065.pdf"
+  ],
+  [
+    "Two-level Description of Turkish Morphology",
+    "https://aclanthology.org/E93-1066/",
+    "https://aclanthology.org/E93-1066.pdf"
+  ],
+  [
+    "Helyette: Inflectional Thesaurus for Agglutinative Languages",
+    "https://aclanthology.org/E93-1067/",
+    "https://aclanthology.org/E93-1067.pdf"
+  ],
+  [
+    "Natural Language Front-Ends to Databases: Design and the Customisation Bottleneck",
+    "https://aclanthology.org/E93-1068/",
+    "https://aclanthology.org/E93-1068.pdf"
+  ],
+  [
+    "Ambiguity resolution in a reductionistic parser",
+    "https://aclanthology.org/E93-1069/",
+    "https://aclanthology.org/E93-1069.pdf"
+  ],
+  [
+    "ITS-2 : an interactive personal translation system",
+    "https://aclanthology.org/E93-1070/",
+    "https://aclanthology.org/E93-1070.pdf"
+  ]
+]

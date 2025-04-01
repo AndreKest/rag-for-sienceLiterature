@@ -1,0 +1,267 @@
+[
+  [
+    "Ninth Conference of the European Chapter of the Association for Computational Linguistics",
+    "https://aclanthology.org/E99-1000/",
+    "https://aclanthology.org/E99-1000.pdf"
+  ],
+  [
+    "Named Entity Recognition without Gazetteers",
+    "https://aclanthology.org/E99-1001/",
+    "https://aclanthology.org/E99-1001.pdf"
+  ],
+  [
+    "Generating referring expressions with a unification grammar",
+    "https://aclanthology.org/E99-1002/",
+    "https://aclanthology.org/E99-1002.pdf"
+  ],
+  [
+    "Term Extraction + Term Clustering: An Integrated Platform for Computer-Aided Terminology",
+    "https://aclanthology.org/E99-1003/",
+    "https://aclanthology.org/E99-1003.pdf"
+  ],
+  [
+    "An Object-Oriented Approach to the Design of Dialogue Management Functionality",
+    "https://aclanthology.org/E99-1004/",
+    "https://aclanthology.org/E99-1004.pdf"
+  ],
+  [
+    "Determinants of Adjective-Noun Plausibility",
+    "https://aclanthology.org/E99-1005/",
+    "https://aclanthology.org/E99-1005.pdf"
+  ],
+  [
+    "Resolving Discourse Deictic Anaphora in Dialogues",
+    "https://aclanthology.org/E99-1006/",
+    "https://aclanthology.org/E99-1006.pdf"
+  ],
+  [
+    "Automatic Verb Classification Using Distributions of Grammatical Features",
+    "https://aclanthology.org/E99-1007/",
+    "https://aclanthology.org/E99-1007.pdf"
+  ],
+  [
+    "Chinese Numbers, MIX, Scrambling, and Range Concatenation Grammars",
+    "https://aclanthology.org/E99-1008/",
+    "https://aclanthology.org/E99-1008.pdf"
+  ],
+  [
+    "Geometry of Lexico-Syntactic Interaction",
+    "https://aclanthology.org/E99-1009/",
+    "https://aclanthology.org/E99-1009.pdf"
+  ],
+  [
+    "An Efficient Method for Determining Bilingual Word Classes",
+    "https://aclanthology.org/E99-1010/",
+    "https://aclanthology.org/E99-1010.pdf"
+  ],
+  [
+    "The TIPSTER SUMMAC Text Summarization Evaluation",
+    "https://aclanthology.org/E99-1011/",
+    "https://aclanthology.org/E99-1011.pdf"
+  ],
+  [
+    "Ambiguous propositions typed",
+    "https://aclanthology.org/E99-1012/",
+    "https://aclanthology.org/E99-1012.pdf"
+  ],
+  [
+    "Complementing WordNet with Roget’s and Corpus-based Thesauri for Information Retrieval",
+    "https://aclanthology.org/E99-1013/",
+    "https://aclanthology.org/E99-1013.pdf"
+  ],
+  [
+    "Full Text Parsing using Cascades of Rules: an Information Extraction Perspective",
+    "https://aclanthology.org/E99-1014/",
+    "https://aclanthology.org/E99-1014.pdf"
+  ],
+  [
+    "An annotation scheme for discourse-level argumentation in research articles",
+    "https://aclanthology.org/E99-1015/",
+    "https://aclanthology.org/E99-1015.pdf"
+  ],
+  [
+    "Cascaded Markov Models",
+    "https://aclanthology.org/E99-1016/",
+    "https://aclanthology.org/E99-1016.pdf"
+  ],
+  [
+    "Transducers from Rewrite Rules with Backreferences",
+    "https://aclanthology.org/E99-1017/",
+    "https://aclanthology.org/E99-1017.pdf"
+  ],
+  [
+    "POS Disambiguation and Unknown Word Guessing with Decision Trees",
+    "https://aclanthology.org/E99-1018/",
+    "https://aclanthology.org/E99-1018.pdf"
+  ],
+  [
+    "Exploring the Use of Linguistic Features in Domain and Genre Classification",
+    "https://aclanthology.org/E99-1019/",
+    "https://aclanthology.org/E99-1019.pdf"
+  ],
+  [
+    "Tabular Algorithms for TAG Parsing",
+    "https://aclanthology.org/E99-1020/",
+    "https://aclanthology.org/E99-1020.pdf"
+  ],
+  [
+    "Automatic Authorship Attribution",
+    "https://aclanthology.org/E99-1021/",
+    "https://aclanthology.org/E99-1021.pdf"
+  ],
+  [
+    "Selective Magic HPSG Parsing",
+    "https://aclanthology.org/E99-1022/",
+    "https://aclanthology.org/E99-1022.pdf"
+  ],
+  [
+    "Representing Text Chunks",
+    "https://aclanthology.org/E99-1023/",
+    "https://aclanthology.org/E99-1023.pdf"
+  ],
+  [
+    "Detection of Japanese Homophone Errors by a Decision List Including a Written Word as a Default Evidence",
+    "https://aclanthology.org/E99-1024/",
+    "https://aclanthology.org/E99-1024.pdf"
+  ],
+  [
+    "New Models for Improving Supertag Disambiguation",
+    "https://aclanthology.org/E99-1025/",
+    "https://aclanthology.org/E99-1025.pdf"
+  ],
+  [
+    "Japanese Dependency Structure Analysis Based on Maximum Entropy Models",
+    "https://aclanthology.org/E99-1026/",
+    "https://aclanthology.org/E99-1026.pdf"
+  ],
+  [
+    "An experiment on the upper bound of interjudge agreement: the case of tagging",
+    "https://aclanthology.org/E99-1027/",
+    "https://aclanthology.org/E99-1027.pdf"
+  ],
+  [
+    "Word Sense Disambiguation in Untagged Text based on Term Weight Learning",
+    "https://aclanthology.org/E99-1028/",
+    "https://aclanthology.org/E99-1028.pdf"
+  ],
+  [
+    "Parsing with an Extended Domain of Locality",
+    "https://aclanthology.org/E99-1029/",
+    "https://aclanthology.org/E99-1029.pdf"
+  ],
+  [
+    "The Development of Lexical Resources for Information Extraction from Text Combining WordNet and Dewey Decimal Classification",
+    "https://aclanthology.org/E99-1030/",
+    "https://aclanthology.org/E99-1030.pdf"
+  ],
+  [
+    "A Flexible Architecture for Reference Resolution",
+    "https://aclanthology.org/E99-1031/",
+    "https://aclanthology.org/E99-1031.pdf"
+  ],
+  [
+    "Result Stages and the Lexicon: The Proper Treatment of Event Structure",
+    "https://aclanthology.org/E99-1032/",
+    "https://aclanthology.org/E99-1032.pdf"
+  ],
+  [
+    "Investigating NLG Architectures: taking style into consideration",
+    "https://aclanthology.org/E99-1033/",
+    "https://aclanthology.org/E99-1033.pdf"
+  ],
+  [
+    "Finding content-bearing terms using term similarities",
+    "https://aclanthology.org/E99-1034/",
+    "https://aclanthology.org/E99-1034.pdf"
+  ],
+  [
+    "A Cascaded Finite-State Parser for Syntactic Analysis of Swedish",
+    "https://aclanthology.org/E99-1035/",
+    "https://aclanthology.org/E99-1035.pdf"
+  ],
+  [
+    "Repair Strategies for Lexicalized Tree Grammars",
+    "https://aclanthology.org/E99-1036/",
+    "https://aclanthology.org/E99-1036.pdf"
+  ],
+  [
+    "Dialogue Processing in a CALL-System",
+    "https://aclanthology.org/E99-1037/",
+    "https://aclanthology.org/E99-1037.pdf"
+  ],
+  [
+    "Focusing on focus: a formalization",
+    "https://aclanthology.org/E99-1038/",
+    "https://aclanthology.org/E99-1038.pdf"
+  ],
+  [
+    "Representing a System of Lexical Types Using Default Unification",
+    "https://aclanthology.org/E99-1039/",
+    "https://aclanthology.org/E99-1039.pdf"
+  ],
+  [
+    "Designing spelling correctors for inflected languages using lexical transducers",
+    "https://aclanthology.org/E99-1040/",
+    "https://aclanthology.org/E99-1040.pdf"
+  ],
+  [
+    "The Treegram Index—An Efficient Technique for Retrieval in Linguistic Treebanks",
+    "https://aclanthology.org/E99-1041/",
+    "https://aclanthology.org/E99-1041.pdf"
+  ],
+  [
+    "Simplifying Text for Language-Impaired Readers",
+    "https://aclanthology.org/E99-1042/",
+    "https://aclanthology.org/E99-1042.pdf"
+  ],
+  [
+    "The GENIA project: corpus-based knowledge acquisition and information extraction from genome research papers",
+    "https://aclanthology.org/E99-1043/",
+    "https://aclanthology.org/E99-1043.pdf"
+  ],
+  [
+    "A Note on Categorial Grammar, Disharmony and Permutation",
+    "https://aclanthology.org/E99-1044/",
+    "https://aclanthology.org/E99-1044.pdf"
+  ],
+  [
+    "Encoding a Parallel Corpus for Automatic Terminology Extraction",
+    "https://aclanthology.org/E99-1045/",
+    "https://aclanthology.org/E99-1045.pdf"
+  ],
+  [
+    "95% Replicability for Manual Word Sense Tagging",
+    "https://aclanthology.org/E99-1046/",
+    "https://aclanthology.org/E99-1046.pdf"
+  ],
+  [
+    "u-TBL Lite: A Small, Extendible Transformation-Based Learner",
+    "https://aclanthology.org/E99-1047/",
+    "https://aclanthology.org/E99-1047.pdf"
+  ],
+  [
+    "Comparison and Classification of Dialects",
+    "https://aclanthology.org/E99-1048/",
+    "https://aclanthology.org/E99-1048.pdf"
+  ],
+  [
+    "Pointing to Events",
+    "https://aclanthology.org/E99-1049/",
+    "https://aclanthology.org/E99-1049.pdf"
+  ],
+  [
+    "A Corpus-Based Approach to Deriving Lexical Mappings",
+    "https://aclanthology.org/E99-1050/",
+    "https://aclanthology.org/E99-1050.pdf"
+  ],
+  [
+    "Robust and Flexible Mixed-Initiative Dialogue for Telephone Services",
+    "https://aclanthology.org/E99-1051/",
+    "https://aclanthology.org/E99-1051.pdf"
+  ],
+  [
+    "Determination of Syntactic Functions in Estonian Constraint Grammar",
+    "https://aclanthology.org/E99-1052/",
+    "https://aclanthology.org/E99-1052.pdf"
+  ]
+]
