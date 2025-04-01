@@ -52,7 +52,7 @@
     {
         "page_url" : "https://aclanthology.org/events/eacl-1997/",
         "conf_name" : "./data/EACL/main/eacl_1997_main",
-        "conf_id_list" : ["e97-1"]
+        "conf_id_list" : ["p97-1"]
     },
     {
         "page_url" : "https://aclanthology.org/events/eacl-1995/",
