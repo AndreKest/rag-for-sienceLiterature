@@ -118,5 +118,30 @@
         "page_url" : "https://aclanthology.org/events/emnlp-2001/",
         "conf_name" : "./data/EMNLP/emnlp_2001_main",
         "conf_id_list" : ["w01-05"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-2000/",
+        "conf_name" : "./data/EMNLP/emnlp_2000_main",
+        "conf_id_list" : ["w00-13"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-1999/",
+        "conf_name" : "./data/EMNLP/emnlp_1999_main",
+        "conf_id_list" : ["w99-06"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-1998/",
+        "conf_name" : "./data/EMNLP/emnlp_1998_main",
+        "conf_id_list" : ["w98-15"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-1997/",
+        "conf_name" : "./data/EMNLP/emnlp_1997_main",
+        "conf_id_list" : ["w97-03"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/emnlp-1996/",
+        "conf_name" : "./data/EMNLP/emnlp_1996_main",
+        "conf_id_list" : ["w96-02"]
     }
 ]
