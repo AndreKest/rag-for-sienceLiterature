@@ -123,5 +123,10 @@
         "page_url" : "https://aclanthology.org/events/acl-2000/",
         "conf_name" : "./data/ACL/main/acl_2000_main",
         "conf_id_list" : ["p00-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/acl-1999/",
+        "conf_name" : "./data/ACL/main/acl_1999_main",
+        "conf_id_list" : ["p99-1"]
     }
 ]
