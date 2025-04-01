@@ -1,0 +1,422 @@
+[
+  [
+    "Proceedings of the 37th Annual Meeting of the Association for Computational Linguistics",
+    "https://aclanthology.org/P99-1000/",
+    "https://aclanthology.org/P99-1000.pdf"
+  ],
+  [
+    "Untangling Text Data Mining",
+    "https://aclanthology.org/P99-1001/",
+    "https://aclanthology.org/P99-1001.pdf"
+  ],
+  [
+    "Automatic Speech Recognition and Its Application to Information Extraction",
+    "https://aclanthology.org/P99-1002/",
+    "https://aclanthology.org/P99-1002.pdf"
+  ],
+  [
+    "The Lexical Component of Natural Language Processing",
+    "https://aclanthology.org/P99-1003/",
+    "https://aclanthology.org/P99-1003.pdf"
+  ],
+  [
+    "Measures of Distributional Similarity",
+    "https://aclanthology.org/P99-1004/",
+    "https://aclanthology.org/P99-1004.pdf"
+  ],
+  [
+    "Distributional Similarity Models: Clustering vs. Nearest Neighbors",
+    "https://aclanthology.org/P99-1005/",
+    "https://aclanthology.org/P99-1005.pdf"
+  ],
+  [
+    "Discourse Relations: A Structural and Presuppositional Account Using Lexicalised TAG",
+    "https://aclanthology.org/P99-1006/",
+    "https://aclanthology.org/P99-1006.pdf"
+  ],
+  [
+    "Unifying Parallels",
+    "https://aclanthology.org/P99-1007/",
+    "https://aclanthology.org/P99-1007.pdf"
+  ],
+  [
+    "Finding Parts in Very Large Corpora",
+    "https://aclanthology.org/P99-1008/",
+    "https://aclanthology.org/P99-1008.pdf"
+  ],
+  [
+    "Man vs. Machine: A Case Study in Base Noun Phrase Learning",
+    "https://aclanthology.org/P99-1009/",
+    "https://aclanthology.org/P99-1009.pdf"
+  ],
+  [
+    "Supervised Grammar Induction using Training Data with Limited Constituent Information",
+    "https://aclanthology.org/P99-1010/",
+    "https://aclanthology.org/P99-1010.pdf"
+  ],
+  [
+    "A Meta-Level Grammar: Redefining Synchronous TAG for Translation and Paraphrase",
+    "https://aclanthology.org/P99-1011/",
+    "https://aclanthology.org/P99-1011.pdf"
+  ],
+  [
+    "Preserving Semantic Dependencies in Synchronous Tree Adjoining Grammar",
+    "https://aclanthology.org/P99-1012/",
+    "https://aclanthology.org/P99-1012.pdf"
+  ],
+  [
+    "Compositional Semantics for Linguistic Formalisms",
+    "https://aclanthology.org/P99-1013/",
+    "https://aclanthology.org/P99-1013.pdf"
+  ],
+  [
+    "Inducing a Semantically Annotated Lexicon via EM-Based Clustering",
+    "https://aclanthology.org/P99-1014/",
+    "https://aclanthology.org/P99-1014.pdf"
+  ],
+  [
+    "Corpus-Based Linguistic Indicators for Aspectual Classification",
+    "https://aclanthology.org/P99-1015/",
+    "https://aclanthology.org/P99-1015.pdf"
+  ],
+  [
+    "Automatic construction of a hypernym-labeled noun hierarchy from text",
+    "https://aclanthology.org/P99-1016/",
+    "https://aclanthology.org/P99-1016.pdf"
+  ],
+  [
+    "Using aggregation for selecting content when generating referring expressions",
+    "https://aclanthology.org/P99-1017/",
+    "https://aclanthology.org/P99-1017.pdf"
+  ],
+  [
+    "Ordering Among Premodifiers",
+    "https://aclanthology.org/P99-1018/",
+    "https://aclanthology.org/P99-1018.pdf"
+  ],
+  [
+    "Bilingual Hebrew-English Generation of Possessives and Partitives: Raising the Input Abstraction Level",
+    "https://aclanthology.org/P99-1019/",
+    "https://aclanthology.org/P99-1019.pdf"
+  ],
+  [
+    "A Method for Word Sense Disambiguation of Unrestricted Text",
+    "https://aclanthology.org/P99-1020/",
+    "https://aclanthology.org/P99-1020.pdf"
+  ],
+  [
+    "A Knowledge-free Method for Capitalized Word Disambiguation",
+    "https://aclanthology.org/P99-1021/",
+    "https://aclanthology.org/P99-1021.pdf"
+  ],
+  [
+    "Dynamic Nonlocal Language Modeling via Hierarchical Topic-Based Adaptation",
+    "https://aclanthology.org/P99-1022/",
+    "https://aclanthology.org/P99-1022.pdf"
+  ],
+  [
+    "A Second-Order Hidden Markov Model for Part-of-Speech Tagging",
+    "https://aclanthology.org/P99-1023/",
+    "https://aclanthology.org/P99-1023.pdf"
+  ],
+  [
+    "The CommandTalk Spoken Dialogue System",
+    "https://aclanthology.org/P99-1024/",
+    "https://aclanthology.org/P99-1024.pdf"
+  ],
+  [
+    "Construct Algebra: Analytical Dialog Management",
+    "https://aclanthology.org/P99-1025/",
+    "https://aclanthology.org/P99-1025.pdf"
+  ],
+  [
+    "Understanding Unsegmented User Utterances in Real-Time Spoken Dialogue Systems",
+    "https://aclanthology.org/P99-1026/",
+    "https://aclanthology.org/P99-1026.pdf"
+  ],
+  [
+    "Should we Translate the Documents or the Queries in Cross-language Information Retrieval?",
+    "https://aclanthology.org/P99-1027/",
+    "https://aclanthology.org/P99-1027.pdf"
+  ],
+  [
+    "Resolving Translation Ambiguity and Target Polysemy in Cross-Language Information Retrieval",
+    "https://aclanthology.org/P99-1028/",
+    "https://aclanthology.org/P99-1028.pdf"
+  ],
+  [
+    "Using Mutual Information to Resolve Query Translation Ambiguities and Query Term Weighting",
+    "https://aclanthology.org/P99-1029/",
+    "https://aclanthology.org/P99-1029.pdf"
+  ],
+  [
+    "Analysis System of Speech Acts and Discourse Structures Using Maximum Entropy Model",
+    "https://aclanthology.org/P99-1030/",
+    "https://aclanthology.org/P99-1030.pdf"
+  ],
+  [
+    "Measuring Conformity to Discourse Routines in Decision-Making Interactions",
+    "https://aclanthology.org/P99-1031/",
+    "https://aclanthology.org/P99-1031.pdf"
+  ],
+  [
+    "Development and Use of a Gold-Standard Data Set for Subjectivity Classifications",
+    "https://aclanthology.org/P99-1032/",
+    "https://aclanthology.org/P99-1032.pdf"
+  ],
+  [
+    "Dependency Parsing with an Extended Finite State Approach",
+    "https://aclanthology.org/P99-1033/",
+    "https://aclanthology.org/P99-1033.pdf"
+  ],
+  [
+    "A Unification-based Approach to Morpho-syntactic Parsing of Agglutinative and Other (Highly) Inflectional Languages",
+    "https://aclanthology.org/P99-1034/",
+    "https://aclanthology.org/P99-1034.pdf"
+  ],
+  [
+    "Inside-Outside Estimation of a Lexicalized PCFG for German",
+    "https://aclanthology.org/P99-1035/",
+    "https://aclanthology.org/P99-1035.pdf"
+  ],
+  [
+    "A Part of Speech Estimation Method for Japanese Unknown Words using a Statistical Model of Morphology and Context",
+    "https://aclanthology.org/P99-1036/",
+    "https://aclanthology.org/P99-1036.pdf"
+  ],
+  [
+    "Memory-Based Morphological Analysis",
+    "https://aclanthology.org/P99-1037/",
+    "https://aclanthology.org/P99-1037.pdf"
+  ],
+  [
+    "Two Accounts of Scope Availability and Semantic Underspecification",
+    "https://aclanthology.org/P99-1038/",
+    "https://aclanthology.org/P99-1038.pdf"
+  ],
+  [
+    "Alternating Quantifier Scope in CCG",
+    "https://aclanthology.org/P99-1039/",
+    "https://aclanthology.org/P99-1039.pdf"
+  ],
+  [
+    "Automatic Detection of Poor Speech Recognition at the Dialogue Level",
+    "https://aclanthology.org/P99-1040/",
+    "https://aclanthology.org/P99-1040.pdf"
+  ],
+  [
+    "Automatic Identification of Non-compositional Phrases",
+    "https://aclanthology.org/P99-1041/",
+    "https://aclanthology.org/P99-1041.pdf"
+  ],
+  [
+    "Deep Read: A Reading Comprehension System",
+    "https://aclanthology.org/P99-1042/",
+    "https://aclanthology.org/P99-1042.pdf"
+  ],
+  [
+    "Mixed Language Query Disambiguation",
+    "https://aclanthology.org/P99-1043/",
+    "https://aclanthology.org/P99-1043.pdf"
+  ],
+  [
+    "Syntagmatic and Paradigmatic Representations of Term Variation",
+    "https://aclanthology.org/P99-1044/",
+    "https://aclanthology.org/P99-1044.pdf"
+  ],
+  [
+    "Less is more: Eliminating index terms from subordinate clauses",
+    "https://aclanthology.org/P99-1045/",
+    "https://aclanthology.org/P99-1045.pdf"
+  ],
+  [
+    "Statistical Models for Topic Segmentation",
+    "https://aclanthology.org/P99-1046/",
+    "https://aclanthology.org/P99-1046.pdf"
+  ],
+  [
+    "A Decision-Based Approach to Rhetorical Parsing",
+    "https://aclanthology.org/P99-1047/",
+    "https://aclanthology.org/P99-1047.pdf"
+  ],
+  [
+    "Corpus-Based Identification of Non-Anaphoric Noun Phrases",
+    "https://aclanthology.org/P99-1048/",
+    "https://aclanthology.org/P99-1048.pdf"
+  ],
+  [
+    "An Efficient Statistical Speech Act Type Tagging System for Speech Translation Systems",
+    "https://aclanthology.org/P99-1049/",
+    "https://aclanthology.org/P99-1049.pdf"
+  ],
+  [
+    "Projecting Corpus-Based Semantic Links on a Thesaurus",
+    "https://aclanthology.org/P99-1050/",
+    "https://aclanthology.org/P99-1050.pdf"
+  ],
+  [
+    "Acquiring Lexical Generalizations from Corpora: A Case Study for Diathesis Alternations",
+    "https://aclanthology.org/P99-1051/",
+    "https://aclanthology.org/P99-1051.pdf"
+  ],
+  [
+    "Charting the Depths of Robust Speech Parsing",
+    "https://aclanthology.org/P99-1052/",
+    "https://aclanthology.org/P99-1052.pdf"
+  ],
+  [
+    "A Syntactic Framework for Speech Repairs and Other Disruptions",
+    "https://aclanthology.org/P99-1053/",
+    "https://aclanthology.org/P99-1053.pdf"
+  ],
+  [
+    "Efficient probabilistic top-down and left-corner parsing",
+    "https://aclanthology.org/P99-1054/",
+    "https://aclanthology.org/P99-1054.pdf"
+  ],
+  [
+    "A Selectionist Theory of Language Acquisition",
+    "https://aclanthology.org/P99-1055/",
+    "https://aclanthology.org/P99-1055.pdf"
+  ],
+  [
+    "The grapho-phonological system of written French: Statistical analysis and empirical validation",
+    "https://aclanthology.org/P99-1056/",
+    "https://aclanthology.org/P99-1056.pdf"
+  ],
+  [
+    "Learning to Recognize Tables in Free Text",
+    "https://aclanthology.org/P99-1057/",
+    "https://aclanthology.org/P99-1057.pdf"
+  ],
+  [
+    "A semantically-derived subset of English for hardware verification",
+    "https://aclanthology.org/P99-1058/",
+    "https://aclanthology.org/P99-1058.pdf"
+  ],
+  [
+    "Efficient Parsing for Bilexical Context-Free Grammars and Head Automaton Grammars",
+    "https://aclanthology.org/P99-1059/",
+    "https://aclanthology.org/P99-1059.pdf"
+  ],
+  [
+    "An Earley-style Predictive Chart Parsing Method for Lambek Grammars",
+    "https://aclanthology.org/P99-1060/",
+    "https://aclanthology.org/P99-1060.pdf"
+  ],
+  [
+    "A Bag of Useful Techniques for Efficient and Robust Parsing",
+    "https://aclanthology.org/P99-1061/",
+    "https://aclanthology.org/P99-1061.pdf"
+  ],
+  [
+    "Semantic Analysis of Japanese Noun Phrases - A New Approach to Dictionary-Based Understanding",
+    "https://aclanthology.org/P99-1062/",
+    "https://aclanthology.org/P99-1062.pdf"
+  ],
+  [
+    "Lexical Semantics to Disambiguate Polysemous Phenomena of Japanese Adnominal Constituents",
+    "https://aclanthology.org/P99-1063/",
+    "https://aclanthology.org/P99-1063.pdf"
+  ],
+  [
+    "Computational Lexical Semantics, Incrementality, and the So-called Punctuality of Events",
+    "https://aclanthology.org/P99-1064/",
+    "https://aclanthology.org/P99-1064.pdf"
+  ],
+  [
+    "A Statistical Parser for Czech",
+    "https://aclanthology.org/P99-1065/",
+    "https://aclanthology.org/P99-1065.pdf"
+  ],
+  [
+    "Automatic Compensation for Parser Figure-of-Merit Flaws",
+    "https://aclanthology.org/P99-1066/",
+    "https://aclanthology.org/P99-1066.pdf"
+  ],
+  [
+    "Automatic Identification of Word Translations from Unrelated English and German Corpora",
+    "https://aclanthology.org/P99-1067/",
+    "https://aclanthology.org/P99-1067.pdf"
+  ],
+  [
+    "Mining the Web for Bilingual Text",
+    "https://aclanthology.org/P99-1068/",
+    "https://aclanthology.org/P99-1068.pdf"
+  ],
+  [
+    "Estimators for Stochastic “Unification-Based” Grammars",
+    "https://aclanthology.org/P99-1069/",
+    "https://aclanthology.org/P99-1069.pdf"
+  ],
+  [
+    "Relating Probabilistic Grammars and Automata",
+    "https://aclanthology.org/P99-1070/",
+    "https://aclanthology.org/P99-1070.pdf"
+  ],
+  [
+    "Information Fusion in the Context of Multi-Document Summarization",
+    "https://aclanthology.org/P99-1071/",
+    "https://aclanthology.org/P99-1071.pdf"
+  ],
+  [
+    "Improving Summaries by Revising Them",
+    "https://aclanthology.org/P99-1072/",
+    "https://aclanthology.org/P99-1072.pdf"
+  ],
+  [
+    "Designing a Task-Based Evaluation Methodology for a Spoken Machine Translation System",
+    "https://aclanthology.org/P99-1073/",
+    "https://aclanthology.org/P99-1073.pdf"
+  ],
+  [
+    "Robust, Finite-State Parsing for Spoken Language Understanding",
+    "https://aclanthology.org/P99-1074/",
+    "https://aclanthology.org/P99-1074.pdf"
+  ],
+  [
+    "Packing of Feature Structures for Efficient Unification of Disjunctive Feature Structures",
+    "https://aclanthology.org/P99-1075/",
+    "https://aclanthology.org/P99-1075.pdf"
+  ],
+  [
+    "Parsing preferences with Lexicalized Trey Adjoining Grammars exploiting the derivation tree",
+    "https://aclanthology.org/P99-1076/",
+    "https://aclanthology.org/P99-1076.pdf"
+  ],
+  [
+    "Cohesion and Collocation: Using Context Vectors in Text Segmentation",
+    "https://aclanthology.org/P99-1077/",
+    "https://aclanthology.org/P99-1077.pdf"
+  ],
+  [
+    "Using Linguistic Knowledge in Automatic Abstracting",
+    "https://aclanthology.org/P99-1078/",
+    "https://aclanthology.org/P99-1078.pdf"
+  ],
+  [
+    "Analysis of Syntax-Based Pronoun Resolution Methods",
+    "https://aclanthology.org/P99-1079/",
+    "https://aclanthology.org/P99-1079.pdf"
+  ],
+  [
+    "A Pylonic Decision-Tree Language Model- with Optimal Question Selection",
+    "https://aclanthology.org/P99-1080/",
+    "https://aclanthology.org/P99-1080.pdf"
+  ],
+  [
+    "An Unsupervised Model for Statistically Determining Coordinate Phrase Attachment",
+    "https://aclanthology.org/P99-1081/",
+    "https://aclanthology.org/P99-1081.pdf"
+  ],
+  [
+    "A flexible distributed architecture for NLP system development and use",
+    "https://aclanthology.org/P99-1082/",
+    "https://aclanthology.org/P99-1082.pdf"
+  ],
+  [
+    "Modeling Filled Pauses in Medical Dictations",
+    "https://aclanthology.org/P99-1083/",
+    "https://aclanthology.org/P99-1083.pdf"
+  ]
+]

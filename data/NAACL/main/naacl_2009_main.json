@@ -1,0 +1,742 @@
+[
+  [
+    "Proceedings of Human Language Technologies: The 2009 Annual Conference of the North American Chapter of the Association for Computational Linguistics",
+    "https://aclanthology.org/N09-1000/",
+    "https://aclanthology.org/N09-1000.pdf"
+  ],
+  [
+    "Subjectivity Recognition on Word Senses via Semi-supervised Mincuts",
+    "https://aclanthology.org/N09-1001/",
+    "https://aclanthology.org/N09-1001.pdf"
+  ],
+  [
+    "Integrating Knowledge for Subjectivity Sense Labeling",
+    "https://aclanthology.org/N09-1002/",
+    "https://aclanthology.org/N09-1002.pdf"
+  ],
+  [
+    "A Study on Similarity and Relatedness Using Distributional and WordNet-based Approaches",
+    "https://aclanthology.org/N09-1003/",
+    "https://aclanthology.org/N09-1003.pdf"
+  ],
+  [
+    "A Fully Unsupervised Word Sense Disambiguation Method Using Dependency Knowledge",
+    "https://aclanthology.org/N09-1004/",
+    "https://aclanthology.org/N09-1004.pdf"
+  ],
+  [
+    "Learning Phoneme Mappings for Transliteration without Parallel Data",
+    "https://aclanthology.org/N09-1005/",
+    "https://aclanthology.org/N09-1005.pdf"
+  ],
+  [
+    "A Corpus-Based Approach for the Prediction of Language Impairment in Monolingual English and Spanish-English Bilingual Children",
+    "https://aclanthology.org/N09-1006/",
+    "https://aclanthology.org/N09-1006.pdf"
+  ],
+  [
+    "A Discriminative Latent Variable Chinese Segmenter with Hybrid Word/Character Information",
+    "https://aclanthology.org/N09-1007/",
+    "https://aclanthology.org/N09-1007.pdf"
+  ],
+  [
+    "Improved Reconstruction of Protolanguage Word Forms",
+    "https://aclanthology.org/N09-1008/",
+    "https://aclanthology.org/N09-1008.pdf"
+  ],
+  [
+    "Shared Logistic Normal Distributions for Soft Parameter Tying in Unsupervised Grammar Induction",
+    "https://aclanthology.org/N09-1009/",
+    "https://aclanthology.org/N09-1009.pdf"
+  ],
+  [
+    "Adding More Languages Improves Unsupervised Multilingual Part-of-Speech Tagging: a Bayesian Non-Parametric Approach",
+    "https://aclanthology.org/N09-1010/",
+    "https://aclanthology.org/N09-1010.pdf"
+  ],
+  [
+    "Efficiently Parsable Extensions to Tree-Local Multicomponent TAG",
+    "https://aclanthology.org/N09-1011/",
+    "https://aclanthology.org/N09-1011.pdf"
+  ],
+  [
+    "Improving Unsupervised Dependency Parsing with Richer Contexts and Smoothing",
+    "https://aclanthology.org/N09-1012/",
+    "https://aclanthology.org/N09-1012.pdf"
+  ],
+  [
+    "Context-Dependent Alignment Models for Statistical Machine Translation",
+    "https://aclanthology.org/N09-1013/",
+    "https://aclanthology.org/N09-1013.pdf"
+  ],
+  [
+    "Graph-based Learning for Statistical Machine Translation",
+    "https://aclanthology.org/N09-1014/",
+    "https://aclanthology.org/N09-1014.pdf"
+  ],
+  [
+    "Intersecting Multilingual Data for Faster and Better Statistical Translations",
+    "https://aclanthology.org/N09-1015/",
+    "https://aclanthology.org/N09-1015.pdf"
+  ],
+  [
+    "Without a ’doubt’? Unsupervised Discovery of Downward-Entailing Operators",
+    "https://aclanthology.org/N09-1016/",
+    "https://aclanthology.org/N09-1016.pdf"
+  ],
+  [
+    "The Role of Implicit Argumentation in Nominal SRL",
+    "https://aclanthology.org/N09-1017/",
+    "https://aclanthology.org/N09-1017.pdf"
+  ],
+  [
+    "Jointly Identifying Predicates, Arguments and Senses using Markov Logic",
+    "https://aclanthology.org/N09-1018/",
+    "https://aclanthology.org/N09-1018.pdf"
+  ],
+  [
+    "Structured Generative Models for Unsupervised Named-Entity Clustering",
+    "https://aclanthology.org/N09-1019/",
+    "https://aclanthology.org/N09-1019.pdf"
+  ],
+  [
+    "Hierarchical Dirichlet Trees for Information Retrieval",
+    "https://aclanthology.org/N09-1020/",
+    "https://aclanthology.org/N09-1020.pdf"
+  ],
+  [
+    "Phrase-Based Query Degradation Modeling for Vocabulary-Independent Ranked Utterance Retrieval",
+    "https://aclanthology.org/N09-1021/",
+    "https://aclanthology.org/N09-1021.pdf"
+  ],
+  [
+    "Japanese Query Alteration Based on Lexical Semantic Similarity",
+    "https://aclanthology.org/N09-1022/",
+    "https://aclanthology.org/N09-1022.pdf"
+  ],
+  [
+    "Context-based Message Expansion for Disentanglement of Interleaved Text Conversations",
+    "https://aclanthology.org/N09-1023/",
+    "https://aclanthology.org/N09-1023.pdf"
+  ],
+  [
+    "Unsupervised Morphological Segmentation with Log-Linear Models",
+    "https://aclanthology.org/N09-1024/",
+    "https://aclanthology.org/N09-1024.pdf"
+  ],
+  [
+    "11,001 New Features for Statistical Machine Translation",
+    "https://aclanthology.org/N09-1025/",
+    "https://aclanthology.org/N09-1025.pdf"
+  ],
+  [
+    "Efficient Parsing for Transducer Grammars",
+    "https://aclanthology.org/N09-1026/",
+    "https://aclanthology.org/N09-1026.pdf"
+  ],
+  [
+    "Preference Grammars: Softening Syntactic Constraints to Improve Statistical Machine Translation",
+    "https://aclanthology.org/N09-1027/",
+    "https://aclanthology.org/N09-1027.pdf"
+  ],
+  [
+    "Using a Dependency Parser to Improve SMT for Subject-Object-Verb Languages",
+    "https://aclanthology.org/N09-1028/",
+    "https://aclanthology.org/N09-1028.pdf"
+  ],
+  [
+    "Learning Bilingual Linguistic Reordering Model for Statistical Machine Translation",
+    "https://aclanthology.org/N09-1029/",
+    "https://aclanthology.org/N09-1029.pdf"
+  ],
+  [
+    "May All Your Wishes Come True: A Study of Wishes and How to Recognize Them",
+    "https://aclanthology.org/N09-1030/",
+    "https://aclanthology.org/N09-1030.pdf"
+  ],
+  [
+    "Predicting Risk from Financial Reports with Regression",
+    "https://aclanthology.org/N09-1031/",
+    "https://aclanthology.org/N09-1031.pdf"
+  ],
+  [
+    "Domain Adaptation with Latent Semantic Association for Named Entity Recognition",
+    "https://aclanthology.org/N09-1032/",
+    "https://aclanthology.org/N09-1032.pdf"
+  ],
+  [
+    "Semi-Automatic Entity Set Refinement",
+    "https://aclanthology.org/N09-1033/",
+    "https://aclanthology.org/N09-1033.pdf"
+  ],
+  [
+    "Unsupervised Constraint Driven Learning For Transliteration Discovery",
+    "https://aclanthology.org/N09-1034/",
+    "https://aclanthology.org/N09-1034.pdf"
+  ],
+  [
+    "On the Syllabification of Phonemes",
+    "https://aclanthology.org/N09-1035/",
+    "https://aclanthology.org/N09-1035.pdf"
+  ],
+  [
+    "Improving nonparameteric Bayesian inference: experiments on unsupervised word segmentation with adaptor grammars",
+    "https://aclanthology.org/N09-1036/",
+    "https://aclanthology.org/N09-1036.pdf"
+  ],
+  [
+    "Joint Parsing and Named Entity Recognition",
+    "https://aclanthology.org/N09-1037/",
+    "https://aclanthology.org/N09-1037.pdf"
+  ],
+  [
+    "Minimal-length linearizations for mildly context-sensitive dependency trees",
+    "https://aclanthology.org/N09-1038/",
+    "https://aclanthology.org/N09-1038.pdf"
+  ],
+  [
+    "Positive Results for Parsing with a Bounded Stack using a Model-Based Right-Corner Transform",
+    "https://aclanthology.org/N09-1039/",
+    "https://aclanthology.org/N09-1039.pdf"
+  ],
+  [
+    "Hierarchical Text Segmentation from Multi-Scale Lexical Cohesion",
+    "https://aclanthology.org/N09-1040/",
+    "https://aclanthology.org/N09-1040.pdf"
+  ],
+  [
+    "Exploring Content Models for Multi-Document Summarization",
+    "https://aclanthology.org/N09-1041/",
+    "https://aclanthology.org/N09-1041.pdf"
+  ],
+  [
+    "Global Models of Document Structure using Latent Permutations",
+    "https://aclanthology.org/N09-1042/",
+    "https://aclanthology.org/N09-1042.pdf"
+  ],
+  [
+    "Assessing and Improving the Performance of Speech Recognition for Incremental Systems",
+    "https://aclanthology.org/N09-1043/",
+    "https://aclanthology.org/N09-1043.pdf"
+  ],
+  [
+    "Geo-Centric Language Models for Local Business Voice Search",
+    "https://aclanthology.org/N09-1044/",
+    "https://aclanthology.org/N09-1044.pdf"
+  ],
+  [
+    "Improving the Arabic Pronunciation Dictionary for Phone and Word Recognition with Linguistically-Based Pronunciation Rules",
+    "https://aclanthology.org/N09-1045/",
+    "https://aclanthology.org/N09-1045.pdf"
+  ],
+  [
+    "Using a maximum entropy model to build segmentation lattices for MT",
+    "https://aclanthology.org/N09-1046/",
+    "https://aclanthology.org/N09-1046.pdf"
+  ],
+  [
+    "Active Learning for Statistical Phrase-based Machine Translation",
+    "https://aclanthology.org/N09-1047/",
+    "https://aclanthology.org/N09-1047.pdf"
+  ],
+  [
+    "Semi-Supervised Lexicon Mining from Parenthetical Expressions in Monolingual Web Pages",
+    "https://aclanthology.org/N09-1048/",
+    "https://aclanthology.org/N09-1048.pdf"
+  ],
+  [
+    "Hierarchical Phrase-Based Translation with Weighted Finite State Transducers",
+    "https://aclanthology.org/N09-1049/",
+    "https://aclanthology.org/N09-1049.pdf"
+  ],
+  [
+    "Improved pronunciation features for construct-driven assessment of non-native spontaneous speech",
+    "https://aclanthology.org/N09-1050/",
+    "https://aclanthology.org/N09-1050.pdf"
+  ],
+  [
+    "Performance Prediction for Exponential Language Models",
+    "https://aclanthology.org/N09-1051/",
+    "https://aclanthology.org/N09-1051.pdf"
+  ],
+  [
+    "Tied-Mixture Language Modeling in Continuous Space",
+    "https://aclanthology.org/N09-1052/",
+    "https://aclanthology.org/N09-1052.pdf"
+  ],
+  [
+    "Shrinking Exponential Language Models",
+    "https://aclanthology.org/N09-1053/",
+    "https://aclanthology.org/N09-1053.pdf"
+  ],
+  [
+    "Predicting Response to Political Blog Posts with Topic Models",
+    "https://aclanthology.org/N09-1054/",
+    "https://aclanthology.org/N09-1054.pdf"
+  ],
+  [
+    "An Iterative Reinforcement Approach for Fine-Grained Opinion Mining",
+    "https://aclanthology.org/N09-1055/",
+    "https://aclanthology.org/N09-1055.pdf"
+  ],
+  [
+    "For a few dollars less: Identifying review pages sans human labels",
+    "https://aclanthology.org/N09-1056/",
+    "https://aclanthology.org/N09-1056.pdf"
+  ],
+  [
+    "More than Words: Syntactic Packaging and Implicit Sentiment",
+    "https://aclanthology.org/N09-1057/",
+    "https://aclanthology.org/N09-1057.pdf"
+  ],
+  [
+    "Streaming for large scale NLP: Language Modeling",
+    "https://aclanthology.org/N09-1058/",
+    "https://aclanthology.org/N09-1058.pdf"
+  ],
+  [
+    "The Effect of Corpus Size on Case Frame Acquisition for Discourse Analysis",
+    "https://aclanthology.org/N09-1059/",
+    "https://aclanthology.org/N09-1059.pdf"
+  ],
+  [
+    "Semantic-based Estimation of Term Informativeness",
+    "https://aclanthology.org/N09-1060/",
+    "https://aclanthology.org/N09-1060.pdf"
+  ],
+  [
+    "Optimal Reduction of Rule Length in Linear Context-Free Rewriting Systems",
+    "https://aclanthology.org/N09-1061/",
+    "https://aclanthology.org/N09-1061.pdf"
+  ],
+  [
+    "Inducing Compact but Accurate Tree-Substitution Grammars",
+    "https://aclanthology.org/N09-1062/",
+    "https://aclanthology.org/N09-1062.pdf"
+  ],
+  [
+    "Hierarchical Search for Parsing",
+    "https://aclanthology.org/N09-1063/",
+    "https://aclanthology.org/N09-1063.pdf"
+  ],
+  [
+    "An effective Discourse Parser that uses Rich Linguistic Information",
+    "https://aclanthology.org/N09-1064/",
+    "https://aclanthology.org/N09-1064.pdf"
+  ],
+  [
+    "Graph-Cut-Based Anaphoricity Determination for Coreference Resolution",
+    "https://aclanthology.org/N09-1065/",
+    "https://aclanthology.org/N09-1065.pdf"
+  ],
+  [
+    "Using Citations to Generate surveys of Scientific Paradigms",
+    "https://aclanthology.org/N09-1066/",
+    "https://aclanthology.org/N09-1066.pdf"
+  ],
+  [
+    "Non-Parametric Bayesian Areal Linguistics",
+    "https://aclanthology.org/N09-1067/",
+    "https://aclanthology.org/N09-1067.pdf"
+  ],
+  [
+    "Hierarchical Bayesian Domain Adaptation",
+    "https://aclanthology.org/N09-1068/",
+    "https://aclanthology.org/N09-1068.pdf"
+  ],
+  [
+    "Online EM for Unsupervised Models",
+    "https://aclanthology.org/N09-1069/",
+    "https://aclanthology.org/N09-1069.pdf"
+  ],
+  [
+    "Unsupervised Approaches for Automatic Keyword Extraction Using Meeting Transcripts",
+    "https://aclanthology.org/N09-1070/",
+    "https://aclanthology.org/N09-1070.pdf"
+  ],
+  [
+    "A Finite-State Turn-Taking Model for Spoken Dialog Systems",
+    "https://aclanthology.org/N09-1071/",
+    "https://aclanthology.org/N09-1071.pdf"
+  ],
+  [
+    "Extracting Social Meaning: Identifying Interactional Style in Spoken Conversation",
+    "https://aclanthology.org/N09-1072/",
+    "https://aclanthology.org/N09-1072.pdf"
+  ],
+  [
+    "Linear Complexity Context-Free Parsing Pipelines via Chart Constraints",
+    "https://aclanthology.org/N09-1073/",
+    "https://aclanthology.org/N09-1073.pdf"
+  ],
+  [
+    "Improved Syntactic Models for Parsing Speech with Repairs",
+    "https://aclanthology.org/N09-1074/",
+    "https://aclanthology.org/N09-1074.pdf"
+  ],
+  [
+    "A model of local coherence effects in human sentence processing as consequences of updates from bottom-up prior to posterior beliefs",
+    "https://aclanthology.org/N09-1075/",
+    "https://aclanthology.org/N09-1075.pdf"
+  ],
+  [
+    "Proceedings of Human Language Technologies: The 2009 Annual Conference of the North American Chapter of the Association for Computational Linguistics, Companion Volume: Short Papers",
+    "https://aclanthology.org/N09-2000/",
+    "https://aclanthology.org/N09-2000.pdf"
+  ],
+  [
+    "Cohesive Constraints in A Beam Search Phrase-based Decoder",
+    "https://aclanthology.org/N09-2001/",
+    "https://aclanthology.org/N09-2001.pdf"
+  ],
+  [
+    "Revisiting Optimal Decoding for Machine Translation IBM Model 4",
+    "https://aclanthology.org/N09-2002/",
+    "https://aclanthology.org/N09-2002.pdf"
+  ],
+  [
+    "Efficient Extraction of Oracle-best Translations from Hypergraphs",
+    "https://aclanthology.org/N09-2003/",
+    "https://aclanthology.org/N09-2003.pdf"
+  ],
+  [
+    "Semantic Roles for SMT: A Hybrid Two-Pass Model",
+    "https://aclanthology.org/N09-2004/",
+    "https://aclanthology.org/N09-2004.pdf"
+  ],
+  [
+    "Comparison of Extended Lexicon Models in Search and Rescoring for SMT",
+    "https://aclanthology.org/N09-2005/",
+    "https://aclanthology.org/N09-2005.pdf"
+  ],
+  [
+    "A Simplex Armijo Downhill Algorithm for Optimizing Statistical Machine Translation Decoding Parameters",
+    "https://aclanthology.org/N09-2006/",
+    "https://aclanthology.org/N09-2006.pdf"
+  ],
+  [
+    "Translation Corpus Source and Size in Bilingual Retrieval",
+    "https://aclanthology.org/N09-2007/",
+    "https://aclanthology.org/N09-2007.pdf"
+  ],
+  [
+    "Large-scale Computation of Distributional Similarities for Queries",
+    "https://aclanthology.org/N09-2008/",
+    "https://aclanthology.org/N09-2008.pdf"
+  ],
+  [
+    "Text Categorization from Category Name via Lexical Reference",
+    "https://aclanthology.org/N09-2009/",
+    "https://aclanthology.org/N09-2009.pdf"
+  ],
+  [
+    "Identifying Types of Claims in Online Customer Reviews",
+    "https://aclanthology.org/N09-2010/",
+    "https://aclanthology.org/N09-2010.pdf"
+  ],
+  [
+    "Towards Automatic Image Region Annotation - Image Region Textual Coreference Resolution",
+    "https://aclanthology.org/N09-2011/",
+    "https://aclanthology.org/N09-2011.pdf"
+  ],
+  [
+    "TESLA: A Tool for Annotating Geospatial Language Corpora",
+    "https://aclanthology.org/N09-2012/",
+    "https://aclanthology.org/N09-2012.pdf"
+  ],
+  [
+    "Modeling Dialogue Structure with Adjacency Pair Analysis and Hidden Markov Models",
+    "https://aclanthology.org/N09-2013/",
+    "https://aclanthology.org/N09-2013.pdf"
+  ],
+  [
+    "Towards Natural Language Understanding of Partial Speech Recognition Results in Dialogue Systems",
+    "https://aclanthology.org/N09-2014/",
+    "https://aclanthology.org/N09-2014.pdf"
+  ],
+  [
+    "Spherical Discriminant Analysis in Semi-supervised Speaker Clustering",
+    "https://aclanthology.org/N09-2015/",
+    "https://aclanthology.org/N09-2015.pdf"
+  ],
+  [
+    "Learning Bayesian Networks for Semantic Frame Composition in a Spoken Dialog System",
+    "https://aclanthology.org/N09-2016/",
+    "https://aclanthology.org/N09-2016.pdf"
+  ],
+  [
+    "Evaluation of a System for Noun Concepts Acquisition from Utterances about Images (SINCA) Using Daily Conversation Data",
+    "https://aclanthology.org/N09-2017/",
+    "https://aclanthology.org/N09-2017.pdf"
+  ],
+  [
+    "Web and Corpus Methods for Malay Count Classifier Prediction",
+    "https://aclanthology.org/N09-2018/",
+    "https://aclanthology.org/N09-2018.pdf"
+  ],
+  [
+    "Minimum Bayes Risk Combination of Translation Hypotheses from Alternative Morphological Decompositions",
+    "https://aclanthology.org/N09-2019/",
+    "https://aclanthology.org/N09-2019.pdf"
+  ],
+  [
+    "Generating Synthetic Children’s Acoustic Models from Adult Models",
+    "https://aclanthology.org/N09-2020/",
+    "https://aclanthology.org/N09-2020.pdf"
+  ],
+  [
+    "Detecting Pitch Accents at the Word, Syllable and Vowel Level",
+    "https://aclanthology.org/N09-2021/",
+    "https://aclanthology.org/N09-2021.pdf"
+  ],
+  [
+    "Shallow Semantic Parsing for Spoken Language Understanding",
+    "https://aclanthology.org/N09-2022/",
+    "https://aclanthology.org/N09-2022.pdf"
+  ],
+  [
+    "Automatic Agenda Graph Construction from Human-Human Dialogs using Clustering Method",
+    "https://aclanthology.org/N09-2023/",
+    "https://aclanthology.org/N09-2023.pdf"
+  ],
+  [
+    "A Simple Sentence-Level Extraction Algorithm for Comparable Data",
+    "https://aclanthology.org/N09-2024/",
+    "https://aclanthology.org/N09-2024.pdf"
+  ],
+  [
+    "Learning Combination Features with L1 Regularization",
+    "https://aclanthology.org/N09-2025/",
+    "https://aclanthology.org/N09-2025.pdf"
+  ],
+  [
+    "Multi-scale Personalization for Voice Search Applications",
+    "https://aclanthology.org/N09-2026/",
+    "https://aclanthology.org/N09-2026.pdf"
+  ],
+  [
+    "The Importance of Sub-Utterance Prosody in Predicting Level of Certainty",
+    "https://aclanthology.org/N09-2027/",
+    "https://aclanthology.org/N09-2027.pdf"
+  ],
+  [
+    "Using Integer Linear Programming for Detecting Speech Disfluencies",
+    "https://aclanthology.org/N09-2028/",
+    "https://aclanthology.org/N09-2028.pdf"
+  ],
+  [
+    "Contrastive Summarization: An Experiment with Consumer Reviews",
+    "https://aclanthology.org/N09-2029/",
+    "https://aclanthology.org/N09-2029.pdf"
+  ],
+  [
+    "Topic Identification Using Wikipedia Graph Centrality",
+    "https://aclanthology.org/N09-2030/",
+    "https://aclanthology.org/N09-2030.pdf"
+  ],
+  [
+    "Extracting Bilingual Dictionary from Comparable Corpora with Dependency Heterogeneity",
+    "https://aclanthology.org/N09-2031/",
+    "https://aclanthology.org/N09-2031.pdf"
+  ],
+  [
+    "Domain Adaptation with Artificial Data for Semantic Parsing of Speech",
+    "https://aclanthology.org/N09-2032/",
+    "https://aclanthology.org/N09-2032.pdf"
+  ],
+  [
+    "Extending Pronunciation Lexicons via Non-phonemic Respellings",
+    "https://aclanthology.org/N09-2033/",
+    "https://aclanthology.org/N09-2033.pdf"
+  ],
+  [
+    "A Speech Understanding Framework that Uses Multiple Language Models and Multiple Understanding Models",
+    "https://aclanthology.org/N09-2034/",
+    "https://aclanthology.org/N09-2034.pdf"
+  ],
+  [
+    "Taking into Account the Differences between Actively and Passively Acquired Data: The Case of Active Learning with Support Vector Machines for Imbalanced Datasets",
+    "https://aclanthology.org/N09-2035/",
+    "https://aclanthology.org/N09-2035.pdf"
+  ],
+  [
+    "Faster MT Decoding Through Pervasive Laziness",
+    "https://aclanthology.org/N09-2036/",
+    "https://aclanthology.org/N09-2036.pdf"
+  ],
+  [
+    "Evaluating the Syntactic Transformations in Gold Standard Corpora for Statistical Sentence Compression",
+    "https://aclanthology.org/N09-2037/",
+    "https://aclanthology.org/N09-2037.pdf"
+  ],
+  [
+    "Incremental Adaptation of Speech-to-Speech Translation",
+    "https://aclanthology.org/N09-2038/",
+    "https://aclanthology.org/N09-2038.pdf"
+  ],
+  [
+    "Name Perplexity",
+    "https://aclanthology.org/N09-2039/",
+    "https://aclanthology.org/N09-2039.pdf"
+  ],
+  [
+    "Answer Credibility: A Language Modeling Approach to Answer Validation",
+    "https://aclanthology.org/N09-2040/",
+    "https://aclanthology.org/N09-2040.pdf"
+  ],
+  [
+    "Exploiting Named Entity Classes in CCG Surface Realization",
+    "https://aclanthology.org/N09-2041/",
+    "https://aclanthology.org/N09-2041.pdf"
+  ],
+  [
+    "Search Engine Adaptation by Feedback Control Adjustment for Time-sensitive Query",
+    "https://aclanthology.org/N09-2042/",
+    "https://aclanthology.org/N09-2042.pdf"
+  ],
+  [
+    "A Local Tree Alignment-based Soft Pattern Matching Approach for Information Extraction",
+    "https://aclanthology.org/N09-2043/",
+    "https://aclanthology.org/N09-2043.pdf"
+  ],
+  [
+    "Classifying Factored Genres with Part-of-Speech Histograms",
+    "https://aclanthology.org/N09-2044/",
+    "https://aclanthology.org/N09-2044.pdf"
+  ],
+  [
+    "Towards Effective Sentence Simplification for Automatic Processing of Biomedical Text",
+    "https://aclanthology.org/N09-2045/",
+    "https://aclanthology.org/N09-2045.pdf"
+  ],
+  [
+    "Improving SCL Model for Sentiment-Transfer Learning",
+    "https://aclanthology.org/N09-2046/",
+    "https://aclanthology.org/N09-2046.pdf"
+  ],
+  [
+    "MICA: A Probabilistic Dependency Parser Based on Tree Insertion Grammars (Application Note)",
+    "https://aclanthology.org/N09-2047/",
+    "https://aclanthology.org/N09-2047.pdf"
+  ],
+  [
+    "Lexical and Syntactic Adaptation and Their Impact in Deployed Spoken Dialog Systems",
+    "https://aclanthology.org/N09-2048/",
+    "https://aclanthology.org/N09-2048.pdf"
+  ],
+  [
+    "Analysing Recognition Errors in Unlimited-Vocabulary Speech Recognition",
+    "https://aclanthology.org/N09-2049/",
+    "https://aclanthology.org/N09-2049.pdf"
+  ],
+  [
+    "The independence of dimensions in multidimensional dialogue act annotation",
+    "https://aclanthology.org/N09-2050/",
+    "https://aclanthology.org/N09-2050.pdf"
+  ],
+  [
+    "Improving Coreference Resolution by Using Conversational Metadata",
+    "https://aclanthology.org/N09-2051/",
+    "https://aclanthology.org/N09-2051.pdf"
+  ],
+  [
+    "Using N-gram based Features for Machine Translation System Combination",
+    "https://aclanthology.org/N09-2052/",
+    "https://aclanthology.org/N09-2052.pdf"
+  ],
+  [
+    "Language Specific Issue and Feature Exploration in Chinese Event Extraction",
+    "https://aclanthology.org/N09-2053/",
+    "https://aclanthology.org/N09-2053.pdf"
+  ],
+  [
+    "Improving A Simple Bigram HMM Part-of-Speech Tagger by Latent Annotation and Self-Training",
+    "https://aclanthology.org/N09-2054/",
+    "https://aclanthology.org/N09-2054.pdf"
+  ],
+  [
+    "Statistical Post-Editing of a Rule-Based Machine Translation System",
+    "https://aclanthology.org/N09-2055/",
+    "https://aclanthology.org/N09-2055.pdf"
+  ],
+  [
+    "On the Importance of Pivot Language Selection for Statistical Machine Translation",
+    "https://aclanthology.org/N09-2056/",
+    "https://aclanthology.org/N09-2056.pdf"
+  ],
+  [
+    "Tree Linearization in English: Improving Language Model Based Approaches",
+    "https://aclanthology.org/N09-2057/",
+    "https://aclanthology.org/N09-2057.pdf"
+  ],
+  [
+    "Determining the position of adverbial phrases in English",
+    "https://aclanthology.org/N09-2058/",
+    "https://aclanthology.org/N09-2058.pdf"
+  ],
+  [
+    "Estimating and Exploiting the Entropy of Sense Distributions",
+    "https://aclanthology.org/N09-2059/",
+    "https://aclanthology.org/N09-2059.pdf"
+  ],
+  [
+    "Semantic Classification with WordNet Kernels",
+    "https://aclanthology.org/N09-2060/",
+    "https://aclanthology.org/N09-2060.pdf"
+  ],
+  [
+    "Sentence Boundary Detection and the Problem with the U.S.",
+    "https://aclanthology.org/N09-2061/",
+    "https://aclanthology.org/N09-2061.pdf"
+  ],
+  [
+    "Quadratic Features and Deep Architectures for Chunking",
+    "https://aclanthology.org/N09-2062/",
+    "https://aclanthology.org/N09-2062.pdf"
+  ],
+  [
+    "Active Zipfian Sampling for Statistical Parser Training",
+    "https://aclanthology.org/N09-2063/",
+    "https://aclanthology.org/N09-2063.pdf"
+  ],
+  [
+    "Combining Constituent Parsers",
+    "https://aclanthology.org/N09-2064/",
+    "https://aclanthology.org/N09-2064.pdf"
+  ],
+  [
+    "Recognising the Predicate-argument Structure of Tagalog",
+    "https://aclanthology.org/N09-2065/",
+    "https://aclanthology.org/N09-2065.pdf"
+  ],
+  [
+    "Reverse Revision and Linear Tree Combination for Dependency Parsing",
+    "https://aclanthology.org/N09-2066/",
+    "https://aclanthology.org/N09-2066.pdf"
+  ],
+  [
+    "Anchored Speech Recognition for Question Answering",
+    "https://aclanthology.org/N09-2067/",
+    "https://aclanthology.org/N09-2067.pdf"
+  ],
+  [
+    "Score Distribution Based Term Specific Thresholding for Spoken Term Detection",
+    "https://aclanthology.org/N09-2068/",
+    "https://aclanthology.org/N09-2068.pdf"
+  ],
+  [
+    "Automatic Chinese Abbreviation Generation Using Conditional Random Field",
+    "https://aclanthology.org/N09-2069/",
+    "https://aclanthology.org/N09-2069.pdf"
+  ],
+  [
+    "Fast decoding for open vocabulary spoken term detection",
+    "https://aclanthology.org/N09-2070/",
+    "https://aclanthology.org/N09-2070.pdf"
+  ],
+  [
+    "Tightly coupling Speech Recognition and Search",
+    "https://aclanthology.org/N09-2071/",
+    "https://aclanthology.org/N09-2071.pdf"
+  ]
+]

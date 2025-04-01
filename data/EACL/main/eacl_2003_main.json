@@ -1,0 +1,447 @@
+[
+  [
+    "10th Conference of the European Chapter of the Association for Computational Linguistics",
+    "https://aclanthology.org/E03-1000/",
+    "/E03-1000.bib"
+  ],
+  [
+    "Multilingual Access to Large Spoken Archives (Invited talk)",
+    "https://aclanthology.org/E03-1001/",
+    "https://aclanthology.org/E03-1001.pdf"
+  ],
+  [
+    "Neural Network Probability Estimation for Broad Coverage Parsing",
+    "https://aclanthology.org/E03-1002/",
+    "https://aclanthology.org/E03-1002.pdf"
+  ],
+  [
+    "Toward Evaluation of Writing Style: Overly Repetitious Word Use",
+    "https://aclanthology.org/E03-1003/",
+    "https://aclanthology.org/E03-1003.pdf"
+  ],
+  [
+    "Czech-English Dependency Tree-based Machine Translation",
+    "https://aclanthology.org/E03-1004/",
+    "https://aclanthology.org/E03-1004.pdf"
+  ],
+  [
+    "An efficient implementation of a new DOP model",
+    "https://aclanthology.org/E03-1005/",
+    "https://aclanthology.org/E03-1005.pdf"
+  ],
+  [
+    "French Amalgam: a quick adaptation of a sentence realization system to French",
+    "https://aclanthology.org/E03-1006/",
+    "https://aclanthology.org/E03-1006.pdf"
+  ],
+  [
+    "Using POS Information for SMT into Morphologically Rich Languages",
+    "https://aclanthology.org/E03-1007/",
+    "https://aclanthology.org/E03-1007.pdf"
+  ],
+  [
+    "Bootstrapping statistical parsers from small datasets",
+    "https://aclanthology.org/E03-1008/",
+    "https://aclanthology.org/E03-1008.pdf"
+  ],
+  [
+    "Combining Distributional and Morphological Information for Part of Speech Induction",
+    "https://aclanthology.org/E03-1009/",
+    "https://aclanthology.org/E03-1009.pdf"
+  ],
+  [
+    "Applications of Automatic Evaluation Methods to Measuring a Capability of Speech Translation System",
+    "https://aclanthology.org/E03-1010/",
+    "https://aclanthology.org/E03-1010.pdf"
+  ],
+  [
+    "Mining Web Sites Using Unsupervised Adaptive Information Extraction",
+    "https://aclanthology.org/E03-1011/",
+    "https://aclanthology.org/E03-1011.pdf"
+  ],
+  [
+    "Annotated Hungarian National Corpus",
+    "https://aclanthology.org/E03-1012/",
+    "https://aclanthology.org/E03-1012.pdf"
+  ],
+  [
+    "Effect of utilizing terminology on extraction of protein-protein interaction information from biomedical literature",
+    "https://aclanthology.org/E03-1013/",
+    "https://aclanthology.org/E03-1013.pdf"
+  ],
+  [
+    "Arabic Syntactic Trees: from Constituency to Dependency",
+    "https://aclanthology.org/E03-1014/",
+    "https://aclanthology.org/E03-1014.pdf"
+  ],
+  [
+    "The Multilingual Named Entity Recognition Framework",
+    "https://aclanthology.org/E03-1015/",
+    "https://aclanthology.org/E03-1015.pdf"
+  ],
+  [
+    "The Corpora Management System Based on Java and Oracle Technologies",
+    "https://aclanthology.org/E03-1016/",
+    "https://aclanthology.org/E03-1016.pdf"
+  ],
+  [
+    "A Best-First Search Algorithm for Generating Referring Expressions",
+    "https://aclanthology.org/E03-1017/",
+    "https://aclanthology.org/E03-1017.pdf"
+  ],
+  [
+    "Beyond Lexical Units: Enriching WordNets with Phrasets",
+    "https://aclanthology.org/E03-1018/",
+    "https://aclanthology.org/E03-1018.pdf"
+  ],
+  [
+    "A Flexible Pragmatics-Driven Language Generator for Animated Agents",
+    "https://aclanthology.org/E03-1019/",
+    "https://aclanthology.org/E03-1019.pdf"
+  ],
+  [
+    "Discovering Corpus-Specific Word Senses",
+    "https://aclanthology.org/E03-1020/",
+    "https://aclanthology.org/E03-1020.pdf"
+  ],
+  [
+    "Summarizing Neonatal Time Series Data",
+    "https://aclanthology.org/E03-1021/",
+    "https://aclanthology.org/E03-1021.pdf"
+  ],
+  [
+    "Creating a multilingual collocations dictionary from large text corpora",
+    "https://aclanthology.org/E03-1022/",
+    "https://aclanthology.org/E03-1022.pdf"
+  ],
+  [
+    "Effect of Cross-Language IR in Bilingual Lexicon Acquisition from Comparable Corpora",
+    "https://aclanthology.org/E03-1023/",
+    "https://aclanthology.org/E03-1023.pdf"
+  ],
+  [
+    "Underspecification formalisms: Hole semantics as dominance constraints",
+    "https://aclanthology.org/E03-1024/",
+    "https://aclanthology.org/E03-1024.pdf"
+  ],
+  [
+    "Using Grammatical Relations to Compare Parsers",
+    "https://aclanthology.org/E03-1025/",
+    "https://aclanthology.org/E03-1025.pdf"
+  ],
+  [
+    "Combining Clues for Word Alignment",
+    "https://aclanthology.org/E03-1026/",
+    "https://aclanthology.org/E03-1026.pdf"
+  ],
+  [
+    "Well-Nested Parallelism Constraints for Ellipsis Resolution",
+    "https://aclanthology.org/E03-1027/",
+    "https://aclanthology.org/E03-1027.pdf"
+  ],
+  [
+    "AVM Description Compilation using Types as Modes",
+    "https://aclanthology.org/E03-1028/",
+    "https://aclanthology.org/E03-1028.pdf"
+  ],
+  [
+    "Automatic Construction of Machine Translation Knowledge Using Translation Literalness",
+    "https://aclanthology.org/E03-1029/",
+    "https://aclanthology.org/E03-1029.pdf"
+  ],
+  [
+    "Semantic construction in F-TAG",
+    "https://aclanthology.org/E03-1030/",
+    "https://aclanthology.org/E03-1030.pdf"
+  ],
+  [
+    "Describing Syntax with Star-Free Regular Expressions",
+    "https://aclanthology.org/E03-1031/",
+    "https://aclanthology.org/E03-1031.pdf"
+  ],
+  [
+    "Efficient Search for Interactive Statistical Machine Translation",
+    "https://aclanthology.org/E03-1032/",
+    "https://aclanthology.org/E03-1032.pdf"
+  ],
+  [
+    "Rigid grammars in the Associative-Commutative Lambek Calculus are not learnable",
+    "https://aclanthology.org/E03-1033/",
+    "https://aclanthology.org/E03-1033.pdf"
+  ],
+  [
+    "Evaluating and Combining Approaches to Selectional Preference Acquisition",
+    "https://aclanthology.org/E03-1034/",
+    "https://aclanthology.org/E03-1034.pdf"
+  ],
+  [
+    "Learning Translations of Named-Entity Phrases from Parallel Corpora",
+    "https://aclanthology.org/E03-1035/",
+    "https://aclanthology.org/E03-1035.pdf"
+  ],
+  [
+    "Multi-Modal Combinatory Categorial Grammar",
+    "https://aclanthology.org/E03-1036/",
+    "https://aclanthology.org/E03-1036.pdf"
+  ],
+  [
+    "Experiments on the Choice of Features for Learning Verb Classes",
+    "https://aclanthology.org/E03-1037/",
+    "https://aclanthology.org/E03-1037.pdf"
+  ],
+  [
+    "Named Entity Recognition For Catalan Using Only Spanish Resources and Unlabelled Data",
+    "https://aclanthology.org/E03-1038/",
+    "https://aclanthology.org/E03-1038.pdf"
+  ],
+  [
+    "Topological Parsing",
+    "https://aclanthology.org/E03-1039/",
+    "https://aclanthology.org/E03-1039.pdf"
+  ],
+  [
+    "A General Feature Space for Automatic Verb Classification",
+    "https://aclanthology.org/E03-1040/",
+    "https://aclanthology.org/E03-1040.pdf"
+  ],
+  [
+    "Lexicon Acquisition with a large-coverage unification-based grammar",
+    "https://aclanthology.org/E03-1041/",
+    "https://aclanthology.org/E03-1041.pdf"
+  ],
+  [
+    "Meaningful Conversation with a Mobile Robot",
+    "https://aclanthology.org/E03-1042/",
+    "https://aclanthology.org/E03-1042.pdf"
+  ],
+  [
+    "Contents and evaluation of the first Slovenian-German online dictionary",
+    "https://aclanthology.org/E03-1043/",
+    "https://aclanthology.org/E03-1043.pdf"
+  ],
+  [
+    "The key role of semantics in the development of large-scale grammars of natural language",
+    "https://aclanthology.org/E03-1044/",
+    "https://aclanthology.org/E03-1044.pdf"
+  ],
+  [
+    "Rule-based lexical modelling of foreign-accented pronunciation variants",
+    "https://aclanthology.org/E03-1045/",
+    "https://aclanthology.org/E03-1045.pdf"
+  ],
+  [
+    "Oxford Dictionary of English - current developments",
+    "https://aclanthology.org/E03-1046/",
+    "https://aclanthology.org/E03-1046.pdf"
+  ],
+  [
+    "Lexicalized Grammar Acquisition",
+    "https://aclanthology.org/E03-1047/",
+    "https://aclanthology.org/E03-1047.pdf"
+  ],
+  [
+    "A corpus-centered approach to spoken language translation",
+    "https://aclanthology.org/E03-1048/",
+    "https://aclanthology.org/E03-1048.pdf"
+  ],
+  [
+    "A machine learning approach to the identification of WH gaps",
+    "https://aclanthology.org/E03-1049/",
+    "https://aclanthology.org/E03-1049.pdf"
+  ],
+  [
+    "Using Noisy Biligual Data for Statistical Machine Translation",
+    "https://aclanthology.org/E03-1050/",
+    "https://aclanthology.org/E03-1050.pdf"
+  ],
+  [
+    "Learning PP attachment for filtering prosodic phrasing",
+    "https://aclanthology.org/E03-1051/",
+    "https://aclanthology.org/E03-1051.pdf"
+  ],
+  [
+    "Constraint Based Integration of Deep and Shallow Parsing Techniques",
+    "https://aclanthology.org/E03-1052/",
+    "https://aclanthology.org/E03-1052.pdf"
+  ],
+  [
+    "Language Independent Authorship Attribution with Character Level N-Grams",
+    "https://aclanthology.org/E03-1053/",
+    "https://aclanthology.org/E03-1053.pdf"
+  ],
+  [
+    "Information Structure in Topological Dependency Grammar",
+    "https://aclanthology.org/E03-1054/",
+    "https://aclanthology.org/E03-1054.pdf"
+  ],
+  [
+    "Comparison of Alignment Templates and Maximum Entropy Models for NLP",
+    "https://aclanthology.org/E03-1055/",
+    "https://aclanthology.org/E03-1055.pdf"
+  ],
+  [
+    "Classifying the Hungarian Web",
+    "https://aclanthology.org/E03-1056/",
+    "https://aclanthology.org/E03-1056.pdf"
+  ],
+  [
+    "Producing Contextually Appropriate Intonation is an Information-State Based Dialogue System",
+    "https://aclanthology.org/E03-1057/",
+    "https://aclanthology.org/E03-1057.pdf"
+  ],
+  [
+    "Linear Text Segmentation using a Dynamic Programming Algorithm",
+    "https://aclanthology.org/E03-1058/",
+    "https://aclanthology.org/E03-1058.pdf"
+  ],
+  [
+    "A Comparison of Event Models for Naive Bayes Anti-Spam E-Mail Filtering",
+    "https://aclanthology.org/E03-1059/",
+    "https://aclanthology.org/E03-1059.pdf"
+  ],
+  [
+    "WEBCOOP: A Cooperative Question Answering System on the Web",
+    "https://aclanthology.org/E03-1060/",
+    "https://aclanthology.org/E03-1060.pdf"
+  ],
+  [
+    "Automatic Acquisition of Script Knowledge from a Text Collection",
+    "https://aclanthology.org/E03-1061/",
+    "https://aclanthology.org/E03-1061.pdf"
+  ],
+  [
+    "A Flexible Pragmatics-Driven Language Generator for Animated Agents",
+    "https://aclanthology.org/E03-1062/",
+    "https://aclanthology.org/E03-1062.pdf"
+  ],
+  [
+    "The Corpora Management System Based on Java and Oracle Technologies",
+    "https://aclanthology.org/E03-1063/",
+    "https://aclanthology.org/E03-1063.pdf"
+  ],
+  [
+    "How to build a QA system in your back-garden: application for Romanian",
+    "https://aclanthology.org/E03-1064/",
+    "https://aclanthology.org/E03-1064.pdf"
+  ],
+  [
+    "NLP for Indexing and Retrieval of Captioned Photographs",
+    "https://aclanthology.org/E03-1065/",
+    "https://aclanthology.org/E03-1065.pdf"
+  ],
+  [
+    "CAST: A computer-aided summarisation tool",
+    "https://aclanthology.org/E03-1066/",
+    "https://aclanthology.org/E03-1066.pdf"
+  ],
+  [
+    "Domain-transcending mappings in a system for metaphorical reasoning",
+    "https://aclanthology.org/E03-1067/",
+    "https://aclanthology.org/E03-1067.pdf"
+  ],
+  [
+    "Detecting Errors in Part-of-Speech Annotation",
+    "https://aclanthology.org/E03-1068/",
+    "https://aclanthology.org/E03-1068.pdf"
+  ],
+  [
+    "A model of back-channel acknowledgements in spoken dialogue",
+    "https://aclanthology.org/E03-1069/",
+    "https://aclanthology.org/E03-1069.pdf"
+  ],
+  [
+    "QUALIFIER: Question Answering by Lexical Fabric and External Resources",
+    "https://aclanthology.org/E03-1070/",
+    "https://aclanthology.org/E03-1070.pdf"
+  ],
+  [
+    "Investigating GIS and Smoothing for Maximum Entropy Taggers",
+    "https://aclanthology.org/E03-1071/",
+    "https://aclanthology.org/E03-1071.pdf"
+  ],
+  [
+    "The Role of Initiative in Tutorial Dialogue",
+    "https://aclanthology.org/E03-1072/",
+    "https://aclanthology.org/E03-1072.pdf"
+  ],
+  [
+    "Detecting Novel Compounds: The Role of Distributional Evidence",
+    "https://aclanthology.org/E03-1073/",
+    "https://aclanthology.org/E03-1073.pdf"
+  ],
+  [
+    "Finite Structure Query: A Tool for Querying Syntactically Annotated Corpora",
+    "https://aclanthology.org/E03-1074/",
+    "https://aclanthology.org/E03-1074.pdf"
+  ],
+  [
+    "Targeted Help for Spoken Dialogue Systems",
+    "https://aclanthology.org/E03-1075/",
+    "https://aclanthology.org/E03-1075.pdf"
+  ],
+  [
+    "Empirical Methods for Compound Splitting",
+    "https://aclanthology.org/E03-1076/",
+    "https://aclanthology.org/E03-1076.pdf"
+  ],
+  [
+    "An Integrated Term-Based Corpus Query System",
+    "https://aclanthology.org/E03-1077/",
+    "https://aclanthology.org/E03-1077.pdf"
+  ],
+  [
+    "Transparent combination of rule-based and data-driven approaches in speech understanding",
+    "https://aclanthology.org/E03-1078/",
+    "https://aclanthology.org/E03-1078.pdf"
+  ],
+  [
+    "Generalised PP-attachment Disambiguation Using Corpus-based Linguistic Diagnostics",
+    "https://aclanthology.org/E03-1079/",
+    "https://aclanthology.org/E03-1079.pdf"
+  ],
+  [
+    "Experiments on Candidate Data for Collocation Extraction",
+    "https://aclanthology.org/E03-1080/",
+    "https://aclanthology.org/E03-1080.pdf"
+  ],
+  [
+    "Categorial Fluidity in Chinese and its Implications for Part-of-speech Tagging",
+    "https://aclanthology.org/E03-1081/",
+    "https://aclanthology.org/E03-1081.pdf"
+  ],
+  [
+    "The Multilingual Named Entity Recognition Framework",
+    "https://aclanthology.org/E03-1082/",
+    "https://aclanthology.org/E03-1082.pdf"
+  ],
+  [
+    "Creating a multilingual collocations dictionary from large text corpora",
+    "https://aclanthology.org/E03-1083/",
+    "https://aclanthology.org/E03-1083.pdf"
+  ],
+  [
+    "Word classification based on combined measures of distributional and semantic similarity",
+    "https://aclanthology.org/E03-1084/",
+    "https://aclanthology.org/E03-1084.pdf"
+  ],
+  [
+    "PEAS, the first instantiation of a comparative framework for evaluating parsers of French",
+    "https://aclanthology.org/E03-1085/",
+    "https://aclanthology.org/E03-1085.pdf"
+  ],
+  [
+    "Interactive Word Alignment for Language Engineering",
+    "https://aclanthology.org/E03-1086/",
+    "https://aclanthology.org/E03-1086.pdf"
+  ],
+  [
+    "A Cascaded Finite-State Parser for German",
+    "https://aclanthology.org/E03-1087/",
+    "https://aclanthology.org/E03-1087.pdf"
+  ],
+  [
+    "Linguistic Variation and Computation (Invited talk)",
+    "https://aclanthology.org/E03-1088/",
+    "https://aclanthology.org/E03-1088.pdf"
+  ]
+]

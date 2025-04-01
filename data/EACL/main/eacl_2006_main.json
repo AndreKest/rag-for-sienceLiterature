@@ -1,0 +1,267 @@
+[
+  [
+    "11th Conference of the European Chapter of the Association for Computational Linguistics",
+    "https://aclanthology.org/E06-1000/",
+    "https://aclanthology.org/E06-1000.pdf"
+  ],
+  [
+    "Inheritance and the CCG Lexicon",
+    "https://aclanthology.org/E06-1001/",
+    "https://aclanthology.org/E06-1001.pdf"
+  ],
+  [
+    "Using Encyclopedic Knowledge for Named entity Disambiguation",
+    "https://aclanthology.org/E06-1002/",
+    "https://aclanthology.org/E06-1002.pdf"
+  ],
+  [
+    "Weakly Supervised Approaches for Ontology Population",
+    "https://aclanthology.org/E06-1003/",
+    "https://aclanthology.org/E06-1003.pdf"
+  ],
+  [
+    "Computational Complexity of Statistical Machine Translation",
+    "https://aclanthology.org/E06-1004/",
+    "https://aclanthology.org/E06-1004.pdf"
+  ],
+  [
+    "Computing Consensus Translation for Multiple Machine Translation Systems Using Enhanced Hypothesis Alignment",
+    "https://aclanthology.org/E06-1005/",
+    "https://aclanthology.org/E06-1005.pdf"
+  ],
+  [
+    "Phrase-Based Backoff Models for Machine Translation of Highly Inflected Languages",
+    "https://aclanthology.org/E06-1006/",
+    "https://aclanthology.org/E06-1006.pdf"
+  ],
+  [
+    "Automatic Detection of Nonreferential It in Spoken Multi-Party Dialog",
+    "https://aclanthology.org/E06-1007/",
+    "https://aclanthology.org/E06-1007.pdf"
+  ],
+  [
+    "Generating Statistical Language Models from Interpretation Grammars in Dialogue Systems",
+    "https://aclanthology.org/E06-1008/",
+    "https://aclanthology.org/E06-1008.pdf"
+  ],
+  [
+    "Information Presentation in Spoken Dialogue Systems",
+    "https://aclanthology.org/E06-1009/",
+    "https://aclanthology.org/E06-1009.pdf"
+  ],
+  [
+    "Constraints on Non-Projective Dependency Parsing",
+    "https://aclanthology.org/E06-1010/",
+    "https://aclanthology.org/E06-1010.pdf"
+  ],
+  [
+    "Online Learning of Approximate Dependency Parsing Algorithms",
+    "https://aclanthology.org/E06-1011/",
+    "https://aclanthology.org/E06-1011.pdf"
+  ],
+  [
+    "Statistical Dependency Parsing for Turkish",
+    "https://aclanthology.org/E06-1012/",
+    "https://aclanthology.org/E06-1012.pdf"
+  ],
+  [
+    "Generalized Hebbian Algorithm for Incremental Singular Value Decomposition in Natural Language Processing",
+    "https://aclanthology.org/E06-1013/",
+    "https://aclanthology.org/E06-1013.pdf"
+  ],
+  [
+    "Improving Probabilistic Latent Semantic Analysis with Principal Component Analysis",
+    "https://aclanthology.org/E06-1014/",
+    "https://aclanthology.org/E06-1014.pdf"
+  ],
+  [
+    "Making Tree Kernels Practical for Natural Language Learning",
+    "https://aclanthology.org/E06-1015/",
+    "https://aclanthology.org/E06-1015.pdf"
+  ],
+  [
+    "Determining Word Sense Dominance Using a Thesaurus",
+    "https://aclanthology.org/E06-1016/",
+    "https://aclanthology.org/E06-1016.pdf"
+  ],
+  [
+    "Experiments on the Validation of Sense Annotations Assisted by Lexical Chains",
+    "https://aclanthology.org/E06-1017/",
+    "https://aclanthology.org/E06-1017.pdf"
+  ],
+  [
+    "Word Sense Induction: Triplet-Based Clustering and Automatic Evaluation",
+    "https://aclanthology.org/E06-1018/",
+    "https://aclanthology.org/E06-1018.pdf"
+  ],
+  [
+    "A Comparison of Syntactically Motivated Word Alignment Spaces",
+    "https://aclanthology.org/E06-1019/",
+    "https://aclanthology.org/E06-1019.pdf"
+  ],
+  [
+    "Improved Lexical Alignment by Combining Multiple Reified Alignments",
+    "https://aclanthology.org/E06-1020/",
+    "https://aclanthology.org/E06-1020.pdf"
+  ],
+  [
+    "Towards Robust Context-Sensitive Sentence Alignment for Monolingual Corpora",
+    "https://aclanthology.org/E06-1021/",
+    "https://aclanthology.org/E06-1021.pdf"
+  ],
+  [
+    "Addressee Identification in Face-to-Face Meetings",
+    "https://aclanthology.org/E06-1022/",
+    "https://aclanthology.org/E06-1022.pdf"
+  ],
+  [
+    "Identifying Repair Targets in Action Control Dialogue",
+    "https://aclanthology.org/E06-1023/",
+    "https://aclanthology.org/E06-1023.pdf"
+  ],
+  [
+    "Keeping the Initiative: An Empirically-Motivated Approach to Predicting User-Initiated Dialogue Contribution in HCI",
+    "https://aclanthology.org/E06-1024/",
+    "https://aclanthology.org/E06-1024.pdf"
+  ],
+  [
+    "Determining Term Subjectivity and Term Orientation for Opinion Mining",
+    "https://aclanthology.org/E06-1025/",
+    "https://aclanthology.org/E06-1025.pdf"
+  ],
+  [
+    "Latent Variable Models for Semantic Orientations of Phrases",
+    "https://aclanthology.org/E06-1026/",
+    "https://aclanthology.org/E06-1026.pdf"
+  ],
+  [
+    "Mining WordNet for a Fuzzy Sentiment: Sentiment Tag Extraction from WordNet Glosses",
+    "https://aclanthology.org/E06-1027/",
+    "https://aclanthology.org/E06-1027.pdf"
+  ],
+  [
+    "A Figure of Merit for the Evaluation of Web-Corpus Randomness",
+    "https://aclanthology.org/E06-1028/",
+    "https://aclanthology.org/E06-1028.pdf"
+  ],
+  [
+    "Compiling French-Japanese Terminologies from the Web",
+    "https://aclanthology.org/E06-1029/",
+    "https://aclanthology.org/E06-1029.pdf"
+  ],
+  [
+    "Web Text Corpus for Natural Language Processing",
+    "https://aclanthology.org/E06-1030/",
+    "https://aclanthology.org/E06-1030.pdf"
+  ],
+  [
+    "CDER: Efficient MT Evaluation Using Block Movements",
+    "https://aclanthology.org/E06-1031/",
+    "https://aclanthology.org/E06-1031.pdf"
+  ],
+  [
+    "Re-evaluating the Role of Bleu in Machine Translation Research",
+    "https://aclanthology.org/E06-1032/",
+    "https://aclanthology.org/E06-1032.pdf"
+  ],
+  [
+    "Adaptive Transformation-Based Learning for Improving Dictionary Tagging",
+    "https://aclanthology.org/E06-1033/",
+    "https://aclanthology.org/E06-1033.pdf"
+  ],
+  [
+    "From Detecting Errors to Automatically Correcting Them",
+    "https://aclanthology.org/E06-1034/",
+    "https://aclanthology.org/E06-1034.pdf"
+  ],
+  [
+    "Automatic Segmentation of Multiparty Dialogue",
+    "https://aclanthology.org/E06-1035/",
+    "https://aclanthology.org/E06-1035.pdf"
+  ],
+  [
+    "Recognizing Textual Parallelisms with Edit Distance and Similarity Degree",
+    "https://aclanthology.org/E06-1036/",
+    "https://aclanthology.org/E06-1036.pdf"
+  ],
+  [
+    "Using Reinforcement Learning to Build a Better Model of Dialogue State",
+    "https://aclanthology.org/E06-1037/",
+    "https://aclanthology.org/E06-1037.pdf"
+  ],
+  [
+    "Discriminative Sentence Compression with Soft Syntactic Evidence",
+    "https://aclanthology.org/E06-1038/",
+    "https://aclanthology.org/E06-1038.pdf"
+  ],
+  [
+    "Multi-Document Summarization of Evaluative Text",
+    "https://aclanthology.org/E06-1039/",
+    "https://aclanthology.org/E06-1039.pdf"
+  ],
+  [
+    "Comparing Automatic and Human Evaluation of NLG Systems",
+    "https://aclanthology.org/E06-1040/",
+    "https://aclanthology.org/E06-1040.pdf"
+  ],
+  [
+    "Structuring Knowledge for Reference Generation: A Clustering Algorithm",
+    "https://aclanthology.org/E06-1041/",
+    "https://aclanthology.org/E06-1041.pdf"
+  ],
+  [
+    "A Clustering Approach for Nearly Unsupervised Recognition of Nonliteral Language",
+    "https://aclanthology.org/E06-1042/",
+    "https://aclanthology.org/E06-1042.pdf"
+  ],
+  [
+    "Automatically Constructing a Lexicon of Verb Phrase Idiomatic Combinations",
+    "https://aclanthology.org/E06-1043/",
+    "https://aclanthology.org/E06-1043.pdf"
+  ],
+  [
+    "Modelling Semantic Role Pausibility in Human Sentence Processing",
+    "https://aclanthology.org/E06-1044/",
+    "https://aclanthology.org/E06-1044.pdf"
+  ],
+  [
+    "Data-Driven Generation of Emphatic Facial Displays",
+    "https://aclanthology.org/E06-1045/",
+    "https://aclanthology.org/E06-1045.pdf"
+  ],
+  [
+    "Edit Machines for Robust Multimodal Language Processing",
+    "https://aclanthology.org/E06-1046/",
+    "https://aclanthology.org/E06-1046.pdf"
+  ],
+  [
+    "Parsing Arabic Dialects",
+    "https://aclanthology.org/E06-1047/",
+    "https://aclanthology.org/E06-1047.pdf"
+  ],
+  [
+    "Unifying Synchronous Tree Adjoining Grammars and Tree Transducers via Bimorphisms",
+    "https://aclanthology.org/E06-1048/",
+    "https://aclanthology.org/E06-1048.pdf"
+  ],
+  [
+    "A Machine Learning Approach to Extract Temporal Information from Texts in Swedish and Generate Animated 3D Scenes",
+    "https://aclanthology.org/E06-1049/",
+    "https://aclanthology.org/E06-1049.pdf"
+  ],
+  [
+    "A Probabilistic Answer Type Model",
+    "https://aclanthology.org/E06-1050/",
+    "https://aclanthology.org/E06-1050.pdf"
+  ],
+  [
+    "Exploiting Shallow Linguistic Information for Relation Extraction from Biomedical Literature",
+    "https://aclanthology.org/E06-1051/",
+    "https://aclanthology.org/E06-1051.pdf"
+  ],
+  [
+    "Investigating a Generic Paraphrase-Based Approach for Relation Extraction",
+    "https://aclanthology.org/E06-1052/",
+    "https://aclanthology.org/E06-1052.pdf"
+  ]
+]
