@@ -43,5 +43,50 @@
         "page_url" : "https://aclanthology.org/events/eacl-2003/",
         "conf_name" : "./data/EACL/main/eacl_2003_main",
         "conf_id_list" : ["e03-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/eacl-1999/",
+        "conf_name" : "./data/EACL/main/eacl_1999_main",
+        "conf_id_list" : ["e99-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/eacl-1997/",
+        "conf_name" : "./data/EACL/main/eacl_1997_main",
+        "conf_id_list" : ["e97-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/eacl-1995/",
+        "conf_name" : "./data/EACL/main/eacl_1995_main",
+        "conf_id_list" : ["e95-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/eacl-1993/",
+        "conf_name" : "./data/EACL/main/eacl_1993_main",
+        "conf_id_list" : ["e93-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/eacl-1991/",
+        "conf_name" : "./data/EACL/main/eacl_1991_main",
+        "conf_id_list" : ["e91-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/eacl-1989/",
+        "conf_name" : "./data/EACL/main/eacl_1989_main",
+        "conf_id_list" : ["e89-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/eacl-1987/",
+        "conf_name" : "./data/EACL/main/eacl_1987_main",
+        "conf_id_list" : ["e87-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/eacl-1985/",
+        "conf_name" : "./data/EACL/main/eacl_1985_main",
+        "conf_id_list" : ["e85-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/eacl-1983/",
+        "conf_name" : "./data/EACL/main/eacl_1983_main",
+        "conf_id_list" : ["e83-1"]
     }
 ]
