@@ -1,0 +1,292 @@
+[
+  [
+    "Proceedings of the 2004 Conference on Empirical Methods in Natural Language Processing",
+    "https://aclanthology.org/W04-3200/",
+    "https://aclanthology.org/W04-3200.pdf"
+  ],
+  [
+    "Max-Margin Parsing",
+    "https://aclanthology.org/W04-3201/",
+    "https://aclanthology.org/W04-3201.pdf"
+  ],
+  [
+    "Active Learning and the Total Cost of Annotation",
+    "https://aclanthology.org/W04-3202/",
+    "https://aclanthology.org/W04-3202.pdf"
+  ],
+  [
+    "Induction of Greedy Controllers for Deterministic Treebank Parsers",
+    "https://aclanthology.org/W04-3203/",
+    "https://aclanthology.org/W04-3203.pdf"
+  ],
+  [
+    "Unsupervised WSD based on Automatically Retrieved Examples: The Importance of Bias",
+    "https://aclanthology.org/W04-3204/",
+    "https://aclanthology.org/W04-3204.pdf"
+  ],
+  [
+    "VerbOcean: Mining the Web for Fine-Grained Semantic Verb Relations",
+    "https://aclanthology.org/W04-3205/",
+    "https://aclanthology.org/W04-3205.pdf"
+  ],
+  [
+    "Scaling Web-based Acquisition of Entailment Relations",
+    "https://aclanthology.org/W04-3206/",
+    "https://aclanthology.org/W04-3206.pdf"
+  ],
+  [
+    "Bilingual Parsing with Factored Estimation: Using English to Parse Korean",
+    "https://aclanthology.org/W04-3207/",
+    "https://aclanthology.org/W04-3207.pdf"
+  ],
+  [
+    "Mining Very-Non-Parallel Corpora: Parallel Sentence and Lexicon Extraction via Bootstrapping and E",
+    "https://aclanthology.org/W04-3208/",
+    "https://aclanthology.org/W04-3208.pdf"
+  ],
+  [
+    "Comparing and Combining Generative and Posterior Probability Models: Some Advances in Sentence Boundary Detection in Speech",
+    "https://aclanthology.org/W04-3209/",
+    "https://aclanthology.org/W04-3209.pdf"
+  ],
+  [
+    "Automatic Paragraph Identification: A Study across Languages and Domains",
+    "https://aclanthology.org/W04-3210/",
+    "https://aclanthology.org/W04-3210.pdf"
+  ],
+  [
+    "Mixing Weak Learners in Semantic Parsin",
+    "https://aclanthology.org/W04-3211/",
+    "https://aclanthology.org/W04-3211.pdf"
+  ],
+  [
+    "Calibrating Features for Semantic Role Labeling",
+    "https://aclanthology.org/W04-3212/",
+    "https://aclanthology.org/W04-3212.pdf"
+  ],
+  [
+    "Unsupervised Semantic Role Labellin",
+    "https://aclanthology.org/W04-3213/",
+    "https://aclanthology.org/W04-3213.pdf"
+  ],
+  [
+    "The Influence of Argument Structure on Semantic Role Assignment",
+    "https://aclanthology.org/W04-3214/",
+    "https://aclanthology.org/W04-3214.pdf"
+  ],
+  [
+    "Object-Extraction and Question-Parsing using CCG",
+    "https://aclanthology.org/W04-3215/",
+    "https://aclanthology.org/W04-3215.pdf"
+  ],
+  [
+    "A Phrase-Based HMM Approach to Document/Abstract Alignment",
+    "https://aclanthology.org/W04-3216/",
+    "https://aclanthology.org/W04-3216.pdf"
+  ],
+  [
+    "Automatic Analysis of Plot for Story Rewriting",
+    "https://aclanthology.org/W04-3217/",
+    "https://aclanthology.org/W04-3217.pdf"
+  ],
+  [
+    "Mining Spoken Dialogue Corpora for System Evaluation and Modelin",
+    "https://aclanthology.org/W04-3218/",
+    "https://aclanthology.org/W04-3218.pdf"
+  ],
+  [
+    "Monolingual Machine Translation for Paraphrase Generation",
+    "https://aclanthology.org/W04-3219/",
+    "https://aclanthology.org/W04-3219.pdf"
+  ],
+  [
+    "Verb Sense and Subcategorization: Using Joint Inference to Improve Performance on Complementary Task",
+    "https://aclanthology.org/W04-3220/",
+    "https://aclanthology.org/W04-3220.pdf"
+  ],
+  [
+    "Attribute-Based and Value-Based Clustering: An Evaluation",
+    "https://aclanthology.org/W04-3221/",
+    "https://aclanthology.org/W04-3221.pdf"
+  ],
+  [
+    "The Leaf Path Projection View of Parse Trees: Exploring String Kernels for HPSG Parse Selection",
+    "https://aclanthology.org/W04-3222/",
+    "https://aclanthology.org/W04-3222.pdf"
+  ],
+  [
+    "Incremental Feature Selection and l1 Regularization for Relaxed Maximum-Entropy Modeling",
+    "https://aclanthology.org/W04-3223/",
+    "https://aclanthology.org/W04-3223.pdf"
+  ],
+  [
+    "A Distributional Analysis of a Lexicalized Statistical Parsing Model",
+    "https://aclanthology.org/W04-3224/",
+    "https://aclanthology.org/W04-3224.pdf"
+  ],
+  [
+    "Adaptive Language and Translation Models for Interactive Machine Translation",
+    "https://aclanthology.org/W04-3225/",
+    "https://aclanthology.org/W04-3225.pdf"
+  ],
+  [
+    "Improving Word Alignment Models using Structured Monolingual Corpora",
+    "https://aclanthology.org/W04-3226/",
+    "https://aclanthology.org/W04-3226.pdf"
+  ],
+  [
+    "Phrase Pair Rescoring with Term Weighting for Statistical Machine Translation",
+    "https://aclanthology.org/W04-3227/",
+    "https://aclanthology.org/W04-3227.pdf"
+  ],
+  [
+    "Dependencies vs. Constituents for Tree-Based Alignment",
+    "https://aclanthology.org/W04-3228/",
+    "https://aclanthology.org/W04-3228.pdf"
+  ],
+  [
+    "A Resource-light Approach to Russian Morphology: Tagging Russian using Czech resources",
+    "https://aclanthology.org/W04-3229/",
+    "https://aclanthology.org/W04-3229.pdf"
+  ],
+  [
+    "Applying Conditional Random Fields to Japanese Morphological Analysis",
+    "https://aclanthology.org/W04-3230/",
+    "https://aclanthology.org/W04-3230.pdf"
+  ],
+  [
+    "A Hybrid Model for Morpho-Syntactic Annotation of German with a Large Tagset",
+    "https://aclanthology.org/W04-3231/",
+    "https://aclanthology.org/W04-3231.pdf"
+  ],
+  [
+    "Identifying Broken Plurals in Unvowelised Arabic Tex",
+    "https://aclanthology.org/W04-3232/",
+    "https://aclanthology.org/W04-3232.pdf"
+  ],
+  [
+    "NP Bracketing by Maximum Entropy Tagging and SVM Reranking",
+    "https://aclanthology.org/W04-3233/",
+    "https://aclanthology.org/W04-3233.pdf"
+  ],
+  [
+    "Trained Named Entity Recognition using Distributional Clusters",
+    "https://aclanthology.org/W04-3234/",
+    "https://aclanthology.org/W04-3234.pdf"
+  ],
+  [
+    "Error Measures and Bayes Decision Rules Revisited with Applications to POS Tagging",
+    "https://aclanthology.org/W04-3235/",
+    "https://aclanthology.org/W04-3235.pdf"
+  ],
+  [
+    "Chinese Part-of-Speech Tagging: One-at-a-Time or All-at-Once? Word-Based or Character-Based?",
+    "https://aclanthology.org/W04-3236/",
+    "https://aclanthology.org/W04-3236.pdf"
+  ],
+  [
+    "Adaptation of Maximum Entropy Capitalizer: Little Data Can Help a Lo",
+    "https://aclanthology.org/W04-3237/",
+    "https://aclanthology.org/W04-3237.pdf"
+  ],
+  [
+    "Spelling Correction as an Iterative Process that Exploits the Collective Knowledge of Web Users",
+    "https://aclanthology.org/W04-3238/",
+    "https://aclanthology.org/W04-3238.pdf"
+  ],
+  [
+    "A Boosting Algorithm for Classification of Semi-Structured Text",
+    "https://aclanthology.org/W04-3239/",
+    "https://aclanthology.org/W04-3239.pdf"
+  ],
+  [
+    "Learning to Classify Email into “Speech Acts”",
+    "https://aclanthology.org/W04-3240/",
+    "https://aclanthology.org/W04-3240.pdf"
+  ],
+  [
+    "The Entropy Rate Principle as a Predictor of Processing Effort: An Evaluation against Eye-tracking Data",
+    "https://aclanthology.org/W04-3241/",
+    "https://aclanthology.org/W04-3241.pdf"
+  ],
+  [
+    "Random Forests in Language Modelin",
+    "https://aclanthology.org/W04-3242/",
+    "https://aclanthology.org/W04-3242.pdf"
+  ],
+  [
+    "On Log-Likelihood-Ratios and the Significance of Rare Events",
+    "https://aclanthology.org/W04-3243/",
+    "https://aclanthology.org/W04-3243.pdf"
+  ],
+  [
+    "Learning Nonstructural Distance Metric by Minimum Cluster Distortion",
+    "https://aclanthology.org/W04-3244/",
+    "https://aclanthology.org/W04-3244.pdf"
+  ],
+  [
+    "From Machine Translation to Computer Assisted Translation using Finite-State Models",
+    "https://aclanthology.org/W04-3245/",
+    "https://aclanthology.org/W04-3245.pdf"
+  ],
+  [
+    "Learning Hebrew Roots: Machine Learning with Linguistic Constraints",
+    "https://aclanthology.org/W04-3246/",
+    "https://aclanthology.org/W04-3246.pdf"
+  ],
+  [
+    "LexPageRank: Prestige in Multi-Document Text Summarization",
+    "https://aclanthology.org/W04-3247/",
+    "https://aclanthology.org/W04-3247.pdf"
+  ],
+  [
+    "A New Approach for English-Chinese Named Entity Alignment",
+    "https://aclanthology.org/W04-3248/",
+    "https://aclanthology.org/W04-3248.pdf"
+  ],
+  [
+    "Unsupervised Domain Relevance Estimation for Word Sense Disambiguation",
+    "https://aclanthology.org/W04-3249/",
+    "https://aclanthology.org/W04-3249.pdf"
+  ],
+  [
+    "Statistical Significance Tests for Machine Translation Evaluation",
+    "https://aclanthology.org/W04-3250/",
+    "https://aclanthology.org/W04-3250.pdf"
+  ],
+  [
+    "Instance-Based Question Answering: A Data-Driven Approach",
+    "https://aclanthology.org/W04-3251/",
+    "https://aclanthology.org/W04-3251.pdf"
+  ],
+  [
+    "TextRank: Bringing Order into Text",
+    "https://aclanthology.org/W04-3252/",
+    "https://aclanthology.org/W04-3252.pdf"
+  ],
+  [
+    "Sentiment Analysis using Support Vector Machines with Diverse Information Sources",
+    "https://aclanthology.org/W04-3253/",
+    "https://aclanthology.org/W04-3253.pdf"
+  ],
+  [
+    "Evaluating Information Content by Factoid Analysis: Human annotation and stability",
+    "https://aclanthology.org/W04-3254/",
+    "https://aclanthology.org/W04-3254.pdf"
+  ],
+  [
+    "Efficient Decoding for Statistical Machine Translation with a Fully Expanded WFST Model",
+    "https://aclanthology.org/W04-3255/",
+    "https://aclanthology.org/W04-3255.pdf"
+  ],
+  [
+    "Multi-Document Biography Summarization",
+    "https://aclanthology.org/W04-3256/",
+    "https://aclanthology.org/W04-3256.pdf"
+  ],
+  [
+    "Author Index",
+    "https://aclanthology.org/W04-3257/",
+    "https://aclanthology.org/W04-3257.pdf"
+  ]
+]

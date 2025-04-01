@@ -1,0 +1,112 @@
+[
+  [
+    "Proceedings of the 2001 Conference on Empirical Methods in Natural Language Processing",
+    "https://aclanthology.org/W01-0500/",
+    "/W01-0500.bib"
+  ],
+  [
+    "Limitations of Co-Training for Natural Language Learning from Large Datasets",
+    "https://aclanthology.org/W01-0501/",
+    "https://aclanthology.org/W01-0501.pdf"
+  ],
+  [
+    "A Sequential Model for Multi-Class Classification",
+    "https://aclanthology.org/W01-0502/",
+    "https://aclanthology.org/W01-0502.pdf"
+  ],
+  [
+    "Learning Within-Sentence Semantic Coherence",
+    "https://aclanthology.org/W01-0503/",
+    "https://aclanthology.org/W01-0503.pdf"
+  ],
+  [
+    "Knowledge Sources for Word-Level Translation Models",
+    "https://aclanthology.org/W01-0504/",
+    "https://aclanthology.org/W01-0504.pdf"
+  ],
+  [
+    "Improving Lexical Mapping Model of English-Korean Bitext Using Structural Features",
+    "https://aclanthology.org/W01-0505/",
+    "https://aclanthology.org/W01-0505.pdf"
+  ],
+  [
+    "Stacking Classifiers for Anti-Spam Filtering of E-Mail",
+    "https://aclanthology.org/W01-0506/",
+    "https://aclanthology.org/W01-0506.pdf"
+  ],
+  [
+    "Feature Space Restructuring for SVMs with Application to Text Categorization",
+    "https://aclanthology.org/W01-0507/",
+    "https://aclanthology.org/W01-0507.pdf"
+  ],
+  [
+    "Using Bins to Empirically Estimate Term Weights for Text Categorization",
+    "https://aclanthology.org/W01-0508/",
+    "https://aclanthology.org/W01-0508.pdf"
+  ],
+  [
+    "Question Answering Using a Large Text Database: A Machine Learning Approach",
+    "https://aclanthology.org/W01-0509/",
+    "https://aclanthology.org/W01-0509.pdf"
+  ],
+  [
+    "Information Extraction Using the Structured Language Model",
+    "https://aclanthology.org/W01-0510/",
+    "https://aclanthology.org/W01-0510.pdf"
+  ],
+  [
+    "Classifying the Semantic Relations in Noun Compounds via a Domain-Specific Lexical Hierarchy",
+    "https://aclanthology.org/W01-0511/",
+    "https://aclanthology.org/W01-0511.pdf"
+  ],
+  [
+    "The Unknown Word Problem: a Morphological Analysis of Japanese Using Maximum Entropy Aided by a Dictionary",
+    "https://aclanthology.org/W01-0512/",
+    "https://aclanthology.org/W01-0512.pdf"
+  ],
+  [
+    "Is Knowledge-Free Induction of Multiword Unit Dictionary Headwords a Solved Problem?",
+    "https://aclanthology.org/W01-0513/",
+    "https://aclanthology.org/W01-0513.pdf"
+  ],
+  [
+    "Latent Semantic Analysis for Text Segmentation",
+    "https://aclanthology.org/W01-0514/",
+    "https://aclanthology.org/W01-0514.pdf"
+  ],
+  [
+    "Detecting Short Passages of Similar Text in Large Document Collections",
+    "https://aclanthology.org/W01-0515/",
+    "https://aclanthology.org/W01-0515.pdf"
+  ],
+  [
+    "Hybrid Text Mining for Finding Abbreviations and their Definitions",
+    "https://aclanthology.org/W01-0516/",
+    "https://aclanthology.org/W01-0516.pdf"
+  ],
+  [
+    "Automatic Corpus-based Tone Prediction using K-ToBI Representation",
+    "https://aclanthology.org/W01-0517/",
+    "https://aclanthology.org/W01-0517.pdf"
+  ],
+  [
+    "Probabilistic Context-Free Grammars for Syllabification and Grapheme-to-Phoneme Conversion",
+    "https://aclanthology.org/W01-0518/",
+    "https://aclanthology.org/W01-0518.pdf"
+  ],
+  [
+    "Comparing Data-Driven Learning Algorithms for PoS Tagging of Swedish",
+    "https://aclanthology.org/W01-0519/",
+    "https://aclanthology.org/W01-0519.pdf"
+  ],
+  [
+    "Impact of Quality and Quantity of Corpora on Stochastic Generation",
+    "https://aclanthology.org/W01-0520/",
+    "https://aclanthology.org/W01-0520.pdf"
+  ],
+  [
+    "Corpus Variation and Parser Performance",
+    "https://aclanthology.org/W01-0521/",
+    "https://aclanthology.org/W01-0521.pdf"
+  ]
+]

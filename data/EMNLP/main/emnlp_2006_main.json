@@ -1,0 +1,372 @@
+[
+  [
+    "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+    "https://aclanthology.org/W06-1600/",
+    "https://aclanthology.org/W06-1600.pdf"
+  ],
+  [
+    "Unsupervised Discovery of a Statistical Verb Lexicon",
+    "https://aclanthology.org/W06-1601/",
+    "https://aclanthology.org/W06-1601.pdf"
+  ],
+  [
+    "An Empirical Approach to the Interpretation of Superlatives",
+    "https://aclanthology.org/W06-1602/",
+    "https://aclanthology.org/W06-1602.pdf"
+  ],
+  [
+    "Paraphrase Recognition via Dissimilarity Significance Classification",
+    "https://aclanthology.org/W06-1603/",
+    "https://aclanthology.org/W06-1603.pdf"
+  ],
+  [
+    "Detecting Parser Errors Using Web-based Semantic Filters",
+    "https://aclanthology.org/W06-1604/",
+    "https://aclanthology.org/W06-1604.pdf"
+  ],
+  [
+    "Distributional measures of concept-distance: A task-oriented evaluation",
+    "https://aclanthology.org/W06-1605/",
+    "https://aclanthology.org/W06-1605.pdf"
+  ],
+  [
+    "SPMT: Statistical Machine Translation with Syntactified Target Language Phrases",
+    "https://aclanthology.org/W06-1606/",
+    "https://aclanthology.org/W06-1606.pdf"
+  ],
+  [
+    "Phrasetable Smoothing for Statistical Machine Translation",
+    "https://aclanthology.org/W06-1607/",
+    "https://aclanthology.org/W06-1607.pdf"
+  ],
+  [
+    "The impact of parse quality on syntactically-informed statistical machine translation",
+    "https://aclanthology.org/W06-1608/",
+    "https://aclanthology.org/W06-1608.pdf"
+  ],
+  [
+    "Statistical Machine Reordering",
+    "https://aclanthology.org/W06-1609/",
+    "https://aclanthology.org/W06-1609.pdf"
+  ],
+  [
+    "Re-evaluating Machine Translation Results with Paraphrase Support",
+    "https://aclanthology.org/W06-1610/",
+    "https://aclanthology.org/W06-1610.pdf"
+  ],
+  [
+    "Exploiting Discourse Structure for Spoken Dialogue Performance Analysis",
+    "https://aclanthology.org/W06-1611/",
+    "https://aclanthology.org/W06-1611.pdf"
+  ],
+  [
+    "Learning Information Status of Discourse Entities",
+    "https://aclanthology.org/W06-1612/",
+    "https://aclanthology.org/W06-1612.pdf"
+  ],
+  [
+    "Automatic classification of citation function",
+    "https://aclanthology.org/W06-1613/",
+    "https://aclanthology.org/W06-1613.pdf"
+  ],
+  [
+    "Is it Really that Difficult to Parse German?",
+    "https://aclanthology.org/W06-1614/",
+    "https://aclanthology.org/W06-1614.pdf"
+  ],
+  [
+    "Domain Adaptation with Structural Correspondence Learning",
+    "https://aclanthology.org/W06-1615/",
+    "https://aclanthology.org/W06-1615.pdf"
+  ],
+  [
+    "Incremental Integer Linear Programming for Non-projective Dependency Parsing",
+    "https://aclanthology.org/W06-1616/",
+    "https://aclanthology.org/W06-1616.pdf"
+  ],
+  [
+    "Semantic Role Labeling of NomBank: A Maximum Entropy Approach",
+    "https://aclanthology.org/W06-1617/",
+    "https://aclanthology.org/W06-1617.pdf"
+  ],
+  [
+    "Identification of Event Mentions and their Semantic Class",
+    "https://aclanthology.org/W06-1618/",
+    "https://aclanthology.org/W06-1618.pdf"
+  ],
+  [
+    "Extremely Lexicalized Models for Accurate and Fast HPSG Parsing",
+    "https://aclanthology.org/W06-1619/",
+    "https://aclanthology.org/W06-1619.pdf"
+  ],
+  [
+    "Multilingual Deep Lexical Acquisition for HPSGs via Supertagging",
+    "https://aclanthology.org/W06-1620/",
+    "https://aclanthology.org/W06-1620.pdf"
+  ],
+  [
+    "Lexical Reference: a Semantic Matching Subtask",
+    "https://aclanthology.org/W06-1621/",
+    "https://aclanthology.org/W06-1621.pdf"
+  ],
+  [
+    "Semantic Role Labeling via Instance-Based Learning",
+    "https://aclanthology.org/W06-1622/",
+    "https://aclanthology.org/W06-1622.pdf"
+  ],
+  [
+    "Inducing Temporal Graphs",
+    "https://aclanthology.org/W06-1623/",
+    "https://aclanthology.org/W06-1623.pdf"
+  ],
+  [
+    "A Weakly Supervised Learning Approach for Spoken Language Understanding",
+    "https://aclanthology.org/W06-1624/",
+    "https://aclanthology.org/W06-1624.pdf"
+  ],
+  [
+    "Humor: Prosody Analysis and Automatic Recognition for F*R*I*E*N*D*S*",
+    "https://aclanthology.org/W06-1625/",
+    "https://aclanthology.org/W06-1625.pdf"
+  ],
+  [
+    "Distributed Language Modeling for N-best List Re-ranking",
+    "https://aclanthology.org/W06-1626/",
+    "https://aclanthology.org/W06-1626.pdf"
+  ],
+  [
+    "Efficient Search for Inversion Transduction Grammar",
+    "https://aclanthology.org/W06-1627/",
+    "https://aclanthology.org/W06-1627.pdf"
+  ],
+  [
+    "A Discriminative Model for Tree-to-Tree Translation",
+    "https://aclanthology.org/W06-1628/",
+    "https://aclanthology.org/W06-1628.pdf"
+  ],
+  [
+    "Modeling Impression in Probabilistic Transliteration into Chinese",
+    "https://aclanthology.org/W06-1629/",
+    "https://aclanthology.org/W06-1629.pdf"
+  ],
+  [
+    "Unsupervised Named Entity Transliteration Using Temporal and Phonetic Correlation",
+    "https://aclanthology.org/W06-1630/",
+    "https://aclanthology.org/W06-1630.pdf"
+  ],
+  [
+    "Capturing Out-of-Vocabulary Words in Arabic Text",
+    "https://aclanthology.org/W06-1631/",
+    "https://aclanthology.org/W06-1631.pdf"
+  ],
+  [
+    "Using linguistically motivated features for paragraph boundary identification",
+    "https://aclanthology.org/W06-1632/",
+    "https://aclanthology.org/W06-1632.pdf"
+  ],
+  [
+    "BESTCUT: A Graph Algorithm for Coreference Resolution",
+    "https://aclanthology.org/W06-1633/",
+    "https://aclanthology.org/W06-1633.pdf"
+  ],
+  [
+    "Automatic Construction of Predicate-argument Structure Patterns for Biomedical Information Extraction",
+    "https://aclanthology.org/W06-1634/",
+    "https://aclanthology.org/W06-1634.pdf"
+  ],
+  [
+    "Protein folding and chart parsing",
+    "https://aclanthology.org/W06-1635/",
+    "https://aclanthology.org/W06-1635.pdf"
+  ],
+  [
+    "Learning Phrasal Categories",
+    "https://aclanthology.org/W06-1636/",
+    "https://aclanthology.org/W06-1636.pdf"
+  ],
+  [
+    "Priming Effects in Combinatory Categorial Grammar",
+    "https://aclanthology.org/W06-1637/",
+    "https://aclanthology.org/W06-1637.pdf"
+  ],
+  [
+    "Better Informed Training of Latent Syntactic Features",
+    "https://aclanthology.org/W06-1638/",
+    "https://aclanthology.org/W06-1638.pdf"
+  ],
+  [
+    "Get out the vote: Determining support or opposition from Congressional floor-debate transcripts",
+    "https://aclanthology.org/W06-1639/",
+    "https://aclanthology.org/W06-1639.pdf"
+  ],
+  [
+    "Partially Supervised Coreference Resolution for Opinion Summarization through Structured Rule Learning",
+    "https://aclanthology.org/W06-1640/",
+    "https://aclanthology.org/W06-1640.pdf"
+  ],
+  [
+    "Sentiment Retrieval using Generative Models",
+    "https://aclanthology.org/W06-1641/",
+    "https://aclanthology.org/W06-1641.pdf"
+  ],
+  [
+    "Fully Automatic Lexicon Expansion for Domain-oriented Sentiment Analysis",
+    "https://aclanthology.org/W06-1642/",
+    "https://aclanthology.org/W06-1642.pdf"
+  ],
+  [
+    "A Skip-Chain Conditional Random Field for Ranking Meeting Utterances by Importance",
+    "https://aclanthology.org/W06-1643/",
+    "https://aclanthology.org/W06-1643.pdf"
+  ],
+  [
+    "Style & Topic Language Model Adaptation Using HMM-LDA",
+    "https://aclanthology.org/W06-1644/",
+    "https://aclanthology.org/W06-1644.pdf"
+  ],
+  [
+    "Text data acquisition for domain-specific language models",
+    "https://aclanthology.org/W06-1645/",
+    "https://aclanthology.org/W06-1645.pdf"
+  ],
+  [
+    "Corrective Models for Speech Recognition of Inflected Languages",
+    "https://aclanthology.org/W06-1646/",
+    "https://aclanthology.org/W06-1646.pdf"
+  ],
+  [
+    "Lexicon Acquisition for Dialectal Arabic Using Transductive Learning",
+    "https://aclanthology.org/W06-1647/",
+    "https://aclanthology.org/W06-1647.pdf"
+  ],
+  [
+    "Arabic OCR Error Correction Using Character Segment Correction, Language Modeling, and Shallow Morphology",
+    "https://aclanthology.org/W06-1648/",
+    "https://aclanthology.org/W06-1648.pdf"
+  ],
+  [
+    "Partially Supervised Sense Disambiguation by Learning Sense Number from Tagged and Untagged Corpora",
+    "https://aclanthology.org/W06-1649/",
+    "https://aclanthology.org/W06-1649.pdf"
+  ],
+  [
+    "Automatically Assessing Review Helpfulness",
+    "https://aclanthology.org/W06-1650/",
+    "https://aclanthology.org/W06-1650.pdf"
+  ],
+  [
+    "Joint Extraction of Entities and Relations for Opinion Recognition",
+    "https://aclanthology.org/W06-1651/",
+    "https://aclanthology.org/W06-1651.pdf"
+  ],
+  [
+    "Feature Subsumption for Opinion Analysis",
+    "https://aclanthology.org/W06-1652/",
+    "https://aclanthology.org/W06-1652.pdf"
+  ],
+  [
+    "Relevance Feedback Models for Recommendation",
+    "https://aclanthology.org/W06-1653/",
+    "https://aclanthology.org/W06-1653.pdf"
+  ],
+  [
+    "Random Indexing using Statistical Weight Functions",
+    "https://aclanthology.org/W06-1654/",
+    "https://aclanthology.org/W06-1654.pdf"
+  ],
+  [
+    "A Hybrid Markov/Semi-Markov Conditional Random Field for Sequence Segmentation",
+    "https://aclanthology.org/W06-1655/",
+    "https://aclanthology.org/W06-1655.pdf"
+  ],
+  [
+    "Boosting Unsupervised Relation Extraction by Using NER",
+    "https://aclanthology.org/W06-1656/",
+    "https://aclanthology.org/W06-1656.pdf"
+  ],
+  [
+    "Short Text Authorship Attribution via Sequence Kernels, Markov Chains and Author Unmasking: An Investigation",
+    "https://aclanthology.org/W06-1657/",
+    "https://aclanthology.org/W06-1657.pdf"
+  ],
+  [
+    "Entity Annotation based on Inverse Index Operations",
+    "https://aclanthology.org/W06-1658/",
+    "https://aclanthology.org/W06-1658.pdf"
+  ],
+  [
+    "Unsupervised Information Extraction Approach Using Graph Mutual Reinforcement",
+    "https://aclanthology.org/W06-1659/",
+    "https://aclanthology.org/W06-1659.pdf"
+  ],
+  [
+    "Empirical Study on the Performance Stability of Named Entity Recognition Model across Domains",
+    "https://aclanthology.org/W06-1660/",
+    "https://aclanthology.org/W06-1660.pdf"
+  ],
+  [
+    "Statistical Ranking in Tactical Generation",
+    "https://aclanthology.org/W06-1661/",
+    "https://aclanthology.org/W06-1661.pdf"
+  ],
+  [
+    "Sentence ordering with manifold-based classification in multi-document summarization",
+    "https://aclanthology.org/W06-1662/",
+    "https://aclanthology.org/W06-1662.pdf"
+  ],
+  [
+    "Quality Assessment of Large Scale Knowledge Resources",
+    "https://aclanthology.org/W06-1663/",
+    "https://aclanthology.org/W06-1663.pdf"
+  ],
+  [
+    "Graph-based Word Clustering using a Web Search Engine",
+    "https://aclanthology.org/W06-1664/",
+    "https://aclanthology.org/W06-1664.pdf"
+  ],
+  [
+    "Context-Dependent Term Relations for Information Retrieval",
+    "https://aclanthology.org/W06-1665/",
+    "https://aclanthology.org/W06-1665.pdf"
+  ],
+  [
+    "Loss Minimization in Parse Reranking",
+    "https://aclanthology.org/W06-1666/",
+    "https://aclanthology.org/W06-1666.pdf"
+  ],
+  [
+    "Unsupervised Relation Disambiguation with Order Identification Capabilities",
+    "https://aclanthology.org/W06-1667/",
+    "https://aclanthology.org/W06-1667.pdf"
+  ],
+  [
+    "Competitive generative models with structure learning for NLP classification tasks",
+    "https://aclanthology.org/W06-1668/",
+    "https://aclanthology.org/W06-1668.pdf"
+  ],
+  [
+    "Two graph-based algorithms for state-of-the-art WSD",
+    "https://aclanthology.org/W06-1669/",
+    "https://aclanthology.org/W06-1669.pdf"
+  ],
+  [
+    "Broad-Coverage Sense Disambiguation and Information Extraction with a Supersense Sequence Tagger",
+    "https://aclanthology.org/W06-1670/",
+    "https://aclanthology.org/W06-1670.pdf"
+  ],
+  [
+    "Learning Field Compatibilities to Extract Database Records from Unstructured Text",
+    "https://aclanthology.org/W06-1671/",
+    "https://aclanthology.org/W06-1671.pdf"
+  ],
+  [
+    "Discriminative Methods for Transliteration",
+    "https://aclanthology.org/W06-1672/",
+    "https://aclanthology.org/W06-1672.pdf"
+  ],
+  [
+    "Solving the Problem of Cascading Errors: Approximate Bayesian Inference for Linguistic Annotation Pipelines",
+    "https://aclanthology.org/W06-1673/",
+    "https://aclanthology.org/W06-1673.pdf"
+  ]
+]

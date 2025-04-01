@@ -1,0 +1,332 @@
+[
+  [
+    "Proceedings of the 40th Annual Meeting of the Association for Computational Linguistics",
+    "https://aclanthology.org/P02-1000/",
+    "https://aclanthology.org/P02-1000.pdf"
+  ],
+  [
+    "Parameter Estimation for Probabilistic Finite-State Transducers",
+    "https://aclanthology.org/P02-1001/",
+    "https://aclanthology.org/P02-1001.pdf"
+  ],
+  [
+    "Sequential Conditional Generalized Iterative Scaling",
+    "https://aclanthology.org/P02-1002/",
+    "https://aclanthology.org/P02-1002.pdf"
+  ],
+  [
+    "Generation as Dependency Parsing",
+    "https://aclanthology.org/P02-1003/",
+    "https://aclanthology.org/P02-1003.pdf"
+  ],
+  [
+    "Machine-learned contexts for linguistic operations in German sentence realization",
+    "https://aclanthology.org/P02-1004/",
+    "https://aclanthology.org/P02-1004.pdf"
+  ],
+  [
+    "Performance Issues and Error Analysis in an Open-Domain Question Answering System",
+    "https://aclanthology.org/P02-1005/",
+    "https://aclanthology.org/P02-1005.pdf"
+  ],
+  [
+    "Learning surface text patterns for a Question Answering System",
+    "https://aclanthology.org/P02-1006/",
+    "https://aclanthology.org/P02-1006.pdf"
+  ],
+  [
+    "OT Syntax – Decidability of Generation-based Optimization",
+    "https://aclanthology.org/P02-1007/",
+    "https://aclanthology.org/P02-1007.pdf"
+  ],
+  [
+    "Phonological Comprehension and the Compilation of Optimality Theory",
+    "https://aclanthology.org/P02-1008/",
+    "https://aclanthology.org/P02-1008.pdf"
+  ],
+  [
+    "Generalized Encoding of Description Spaces and its Application to Typed Feature Structures",
+    "https://aclanthology.org/P02-1009/",
+    "https://aclanthology.org/P02-1009.pdf"
+  ],
+  [
+    "Ellipsis Resolution with Underspecified Scope",
+    "https://aclanthology.org/P02-1010/",
+    "https://aclanthology.org/P02-1010.pdf"
+  ],
+  [
+    "Resolving Pronominal Reference to Abstract Entities",
+    "https://aclanthology.org/P02-1011/",
+    "https://aclanthology.org/P02-1011.pdf"
+  ],
+  [
+    "Pronominalization in Generated Discourse and Dialogue",
+    "https://aclanthology.org/P02-1012/",
+    "https://aclanthology.org/P02-1012.pdf"
+  ],
+  [
+    "Generating Minimal Definite Descriptions",
+    "https://aclanthology.org/P02-1013/",
+    "https://aclanthology.org/P02-1013.pdf"
+  ],
+  [
+    "Improving Machine Learning Approaches to Coreference Resolution",
+    "https://aclanthology.org/P02-1014/",
+    "https://aclanthology.org/P02-1014.pdf"
+  ],
+  [
+    "Parsing non-recursive CFGs",
+    "https://aclanthology.org/P02-1015/",
+    "https://aclanthology.org/P02-1015.pdf"
+  ],
+  [
+    "Active Learning for Statistical Natural Language Parsing",
+    "https://aclanthology.org/P02-1016/",
+    "https://aclanthology.org/P02-1016.pdf"
+  ],
+  [
+    "A Generative Constituent-Context Model for Improved Grammar Induction",
+    "https://aclanthology.org/P02-1017/",
+    "https://aclanthology.org/P02-1017.pdf"
+  ],
+  [
+    "A Simple Pattern-matching Algorithm for Recovering Empty Nodes and their Antecedents",
+    "https://aclanthology.org/P02-1018/",
+    "https://aclanthology.org/P02-1018.pdf"
+  ],
+  [
+    "Pronunciation Modeling for Improved Spelling Correction",
+    "https://aclanthology.org/P02-1019/",
+    "https://aclanthology.org/P02-1019.pdf"
+  ],
+  [
+    "Measuring Text Reuse",
+    "https://aclanthology.org/P02-1020/",
+    "https://aclanthology.org/P02-1020.pdf"
+  ],
+  [
+    "Semi-Supervised Maximum Entropy Based Approach to Acronym and Abbreviation Normalization in Medical Texts",
+    "https://aclanthology.org/P02-1021/",
+    "https://aclanthology.org/P02-1021.pdf"
+  ],
+  [
+    "GATE: an Architecture for Development of Robust HLT applications",
+    "https://aclanthology.org/P02-1022/",
+    "https://aclanthology.org/P02-1022.pdf"
+  ],
+  [
+    "Improving Language Model Size Reduction using Better Pruning Criteria",
+    "https://aclanthology.org/P02-1023/",
+    "https://aclanthology.org/P02-1023.pdf"
+  ],
+  [
+    "Exploring Asymmetric Clustering for Statistical Language Modeling",
+    "https://aclanthology.org/P02-1024/",
+    "https://aclanthology.org/P02-1024.pdf"
+  ],
+  [
+    "A Study on Richer Syntactic Dependencies for Structured Language Modeling",
+    "https://aclanthology.org/P02-1025/",
+    "https://aclanthology.org/P02-1025.pdf"
+  ],
+  [
+    "Entropy Rate Constancy in Text",
+    "https://aclanthology.org/P02-1026/",
+    "https://aclanthology.org/P02-1026.pdf"
+  ],
+  [
+    "A Multilingual Paradigm for Automatic Verb Classification",
+    "https://aclanthology.org/P02-1027/",
+    "https://aclanthology.org/P02-1027.pdf"
+  ],
+  [
+    "Verb Paraphrase based on Case Frame Alignment",
+    "https://aclanthology.org/P02-1028/",
+    "https://aclanthology.org/P02-1028.pdf"
+  ],
+  [
+    "Inducing German Semantic Verb Classes from Purely Syntactic Subcategorisation Information",
+    "https://aclanthology.org/P02-1029/",
+    "https://aclanthology.org/P02-1029.pdf"
+  ],
+  [
+    "Scaling Context Space",
+    "https://aclanthology.org/P02-1030/",
+    "https://aclanthology.org/P02-1030.pdf"
+  ],
+  [
+    "The Necessity of Parsing for Predicate Argument Recognition",
+    "https://aclanthology.org/P02-1031/",
+    "https://aclanthology.org/P02-1031.pdf"
+  ],
+  [
+    "The Descent of Hierarchy, and Selection in Relational Semantics",
+    "https://aclanthology.org/P02-1032/",
+    "https://aclanthology.org/P02-1032.pdf"
+  ],
+  [
+    "An Unsupervised Method for Word Sense Tagging using Parallel Corpora",
+    "https://aclanthology.org/P02-1033/",
+    "https://aclanthology.org/P02-1033.pdf"
+  ],
+  [
+    "New Ranking Algorithms for Parsing and Tagging: Kernels over Discrete Structures, and the Voted Perceptron",
+    "https://aclanthology.org/P02-1034/",
+    "https://aclanthology.org/P02-1034.pdf"
+  ],
+  [
+    "Parsing the Wall Street Journal using a Lexical-Functional Grammar and Discriminative Estimation Techniques",
+    "https://aclanthology.org/P02-1035/",
+    "https://aclanthology.org/P02-1035.pdf"
+  ],
+  [
+    "Dynamic programming for parsing and estimation of stochastic unification-based grammars",
+    "https://aclanthology.org/P02-1036/",
+    "https://aclanthology.org/P02-1036.pdf"
+  ],
+  [
+    "Markov Parsing: Lattice Rescoring with a Statistical Parser",
+    "https://aclanthology.org/P02-1037/",
+    "https://aclanthology.org/P02-1037.pdf"
+  ],
+  [
+    "Discriminative Training and Maximum Entropy Models for Statistical Machine Translation",
+    "https://aclanthology.org/P02-1038/",
+    "https://aclanthology.org/P02-1038.pdf"
+  ],
+  [
+    "A Decoder for Syntax-based Statistical MT",
+    "https://aclanthology.org/P02-1039/",
+    "https://aclanthology.org/P02-1039.pdf"
+  ],
+  [
+    "Bleu: a Method for Automatic Evaluation of Machine Translation",
+    "https://aclanthology.org/P02-1040/",
+    "https://aclanthology.org/P02-1040.pdf"
+  ],
+  [
+    "Coupling CCG and Hybrid Logic Dependency Semantics",
+    "https://aclanthology.org/P02-1041/",
+    "https://aclanthology.org/P02-1041.pdf"
+  ],
+  [
+    "Building Deep Dependency Structures using a Wide-Coverage CCG Parser",
+    "https://aclanthology.org/P02-1042/",
+    "https://aclanthology.org/P02-1042.pdf"
+  ],
+  [
+    "Generative Models for Statistical Parsing with Combinatory Categorial Grammar",
+    "https://aclanthology.org/P02-1043/",
+    "https://aclanthology.org/P02-1043.pdf"
+  ],
+  [
+    "Word Translation Disambiguation Using Bilingual Bootstrapping",
+    "https://aclanthology.org/P02-1044/",
+    "https://aclanthology.org/P02-1044.pdf"
+  ],
+  [
+    "Applying Co-Training to Reference Resolution",
+    "https://aclanthology.org/P02-1045/",
+    "https://aclanthology.org/P02-1045.pdf"
+  ],
+  [
+    "Bootstrapping",
+    "https://aclanthology.org/P02-1046/",
+    "https://aclanthology.org/P02-1046.pdf"
+  ],
+  [
+    "An Unsupervised Approach to Recognizing Discourse Relations",
+    "https://aclanthology.org/P02-1047/",
+    "https://aclanthology.org/P02-1047.pdf"
+  ],
+  [
+    "MATCH: An Architecture for Multimodal Dialogue Systems",
+    "https://aclanthology.org/P02-1048/",
+    "https://aclanthology.org/P02-1048.pdf"
+  ],
+  [
+    "What’s the Trouble: Automatically Identifying Problematic Dialogues in DARPA Communicator Dialogue Systems",
+    "https://aclanthology.org/P02-1049/",
+    "https://aclanthology.org/P02-1049.pdf"
+  ],
+  [
+    "Evaluating Translational Correspondence using Annotation Projection",
+    "https://aclanthology.org/P02-1050/",
+    "https://aclanthology.org/P02-1050.pdf"
+  ],
+  [
+    "Translating Named Entities Using Monolingual and Bilingual Resources",
+    "https://aclanthology.org/P02-1051/",
+    "https://aclanthology.org/P02-1051.pdf"
+  ],
+  [
+    "Using Similarity Scoring to Improve the Bilingual Dictionary for Sub-sentential Alignment",
+    "https://aclanthology.org/P02-1052/",
+    "https://aclanthology.org/P02-1052.pdf"
+  ],
+  [
+    "Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews",
+    "https://aclanthology.org/P02-1053/",
+    "https://aclanthology.org/P02-1053.pdf"
+  ],
+  [
+    "Is It the Right Answer? Exploiting Web Redundancy for Answer Validation",
+    "https://aclanthology.org/P02-1054/",
+    "https://aclanthology.org/P02-1054.pdf"
+  ],
+  [
+    "Shallow Parsing on the Basis of Words Only: A Case Study",
+    "https://aclanthology.org/P02-1055/",
+    "https://aclanthology.org/P02-1055.pdf"
+  ],
+  [
+    "An Integrated Archictecture for Shallow and Deep Processing",
+    "https://aclanthology.org/P02-1056/",
+    "https://aclanthology.org/P02-1056.pdf"
+  ],
+  [
+    "A Noisy-Channel Model for Document Compression",
+    "https://aclanthology.org/P02-1057/",
+    "https://aclanthology.org/P02-1057.pdf"
+  ],
+  [
+    "From Single to Multi-document Summarization",
+    "https://aclanthology.org/P02-1058/",
+    "https://aclanthology.org/P02-1058.pdf"
+  ],
+  [
+    "Supervised Ranking in Open-Domain Text Summarization",
+    "https://aclanthology.org/P02-1059/",
+    "https://aclanthology.org/P02-1059.pdf"
+  ],
+  [
+    "Named Entity Recognition using an HMM-based Chunk Tagger",
+    "https://aclanthology.org/P02-1060/",
+    "https://aclanthology.org/P02-1060.pdf"
+  ],
+  [
+    "Teaching a Weaker Classifier: Named Entity Recognition on Upper Case Text",
+    "https://aclanthology.org/P02-1061/",
+    "https://aclanthology.org/P02-1061.pdf"
+  ],
+  [
+    "Ranking Algorithms for Named Entity Extraction: Boosting and the VotedPerceptron",
+    "https://aclanthology.org/P02-1062/",
+    "https://aclanthology.org/P02-1062.pdf"
+  ],
+  [
+    "Revision Learning and its Application to Part-of-Speech Tagging",
+    "https://aclanthology.org/P02-1063/",
+    "https://aclanthology.org/P02-1063.pdf"
+  ],
+  [
+    "An Empirical Study of Active Learning with Support Vector Machines forJapanese Word Segmentation",
+    "https://aclanthology.org/P02-1064/",
+    "https://aclanthology.org/P02-1064.pdf"
+  ],
+  [
+    "Memory-Based Learning of Morphology with Stochastic Transducers",
+    "https://aclanthology.org/P02-1065/",
+    "https://aclanthology.org/P02-1065.pdf"
+  ]
+]

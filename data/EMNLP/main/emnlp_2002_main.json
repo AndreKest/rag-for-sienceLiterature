@@ -1,0 +1,212 @@
+[
+  [
+    "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+    "https://aclanthology.org/W02-1000/",
+    "https://aclanthology.org/W02-1000.pdf"
+  ],
+  [
+    "Discriminative Training Methods for Hidden Markov Models: Theory and Experiments with Perceptron Algorithms",
+    "https://aclanthology.org/W02-1001/",
+    "https://aclanthology.org/W02-1001.pdf"
+  ],
+  [
+    "Conditional Structure versus Conditional Estimation in NLP Models",
+    "https://aclanthology.org/W02-1002/",
+    "https://aclanthology.org/W02-1002.pdf"
+  ],
+  [
+    "An Incremental Decision List Learner",
+    "https://aclanthology.org/W02-1003/",
+    "https://aclanthology.org/W02-1003.pdf"
+  ],
+  [
+    "Modeling Consensus: Classifier Combination for Word Sense Disambiguation",
+    "https://aclanthology.org/W02-1004/",
+    "https://aclanthology.org/W02-1004.pdf"
+  ],
+  [
+    "Augmented Mixture Models for Lexical Disambiguation",
+    "https://aclanthology.org/W02-1005/",
+    "https://aclanthology.org/W02-1005.pdf"
+  ],
+  [
+    "An Empirical Evaluation of Knowledge Sources and Learning Algorithms for Word Sense Disambiguation",
+    "https://aclanthology.org/W02-1006/",
+    "https://aclanthology.org/W02-1006.pdf"
+  ],
+  [
+    "Parsing and Disfluency Placement",
+    "https://aclanthology.org/W02-1007/",
+    "https://aclanthology.org/W02-1007.pdf"
+  ],
+  [
+    "Combining Sample Selection and Error-Driven Pruning for Machine Learning of Coreference Rules",
+    "https://aclanthology.org/W02-1008/",
+    "https://aclanthology.org/W02-1008.pdf"
+  ],
+  [
+    "Transformational Priors Over Grammars",
+    "https://aclanthology.org/W02-1009/",
+    "https://aclanthology.org/W02-1009.pdf"
+  ],
+  [
+    "Kernel Methods for Relation Extraction",
+    "https://aclanthology.org/W02-1010/",
+    "https://aclanthology.org/W02-1010.pdf"
+  ],
+  [
+    "Thumbs up? Sentiment Classification using Machine Learning Techniques",
+    "https://aclanthology.org/W02-1011/",
+    "https://aclanthology.org/W02-1011.pdf"
+  ],
+  [
+    "Extensions to HMM-based Statistical Word Alignment Models",
+    "https://aclanthology.org/W02-1012/",
+    "https://aclanthology.org/W02-1012.pdf"
+  ],
+  [
+    "From Words to Corpora: Recognizing Translation",
+    "https://aclanthology.org/W02-1013/",
+    "https://aclanthology.org/W02-1013.pdf"
+  ],
+  [
+    "Fast LR parsing Using Rich (Tree Adjoining) Grammars",
+    "https://aclanthology.org/W02-1014/",
+    "https://aclanthology.org/W02-1014.pdf"
+  ],
+  [
+    "Handling Noisy Training and Testing Data",
+    "https://aclanthology.org/W02-1015/",
+    "https://aclanthology.org/W02-1015.pdf"
+  ],
+  [
+    "Spectral Clustering for German Verbs",
+    "https://aclanthology.org/W02-1016/",
+    "https://aclanthology.org/W02-1016.pdf"
+  ],
+  [
+    "Exploiting Strong Syntactic Heuristics and Co-Training to Learn Semantic Lexicons",
+    "https://aclanthology.org/W02-1017/",
+    "https://aclanthology.org/W02-1017.pdf"
+  ],
+  [
+    "A Phrase-Based,Joint Probability Model for Statistical Machine Translation",
+    "https://aclanthology.org/W02-1018/",
+    "https://aclanthology.org/W02-1018.pdf"
+  ],
+  [
+    "Minimum Bayes-Risk Word Alignments of Bilingual Texts",
+    "https://aclanthology.org/W02-1019/",
+    "https://aclanthology.org/W02-1019.pdf"
+  ],
+  [
+    "User-Friendly Text Prediction For Translators",
+    "https://aclanthology.org/W02-1020/",
+    "https://aclanthology.org/W02-1020.pdf"
+  ],
+  [
+    "Generation of Word Graphs in Statistical Machine Translation",
+    "https://aclanthology.org/W02-1021/",
+    "https://aclanthology.org/W02-1021.pdf"
+  ],
+  [
+    "Bootstrapping Lexical Choice via Multiple-Sequence Alignment",
+    "https://aclanthology.org/W02-1022/",
+    "https://aclanthology.org/W02-1022.pdf"
+  ],
+  [
+    "NLP Found Helpful (at least for one Text Categorization Task)",
+    "https://aclanthology.org/W02-1023/",
+    "https://aclanthology.org/W02-1023.pdf"
+  ],
+  [
+    "A Hybrid Approach to Natural Language Web Search",
+    "https://aclanthology.org/W02-1024/",
+    "https://aclanthology.org/W02-1024.pdf"
+  ],
+  [
+    "A Method for Open-Vocabulary Speech-Driven Text Retrieval",
+    "https://aclanthology.org/W02-1025/",
+    "https://aclanthology.org/W02-1025.pdf"
+  ],
+  [
+    "Manipulating Large Corpora for Text Classification",
+    "https://aclanthology.org/W02-1026/",
+    "https://aclanthology.org/W02-1026.pdf"
+  ],
+  [
+    "Metonymy Resolution as a Classification Task",
+    "https://aclanthology.org/W02-1027/",
+    "https://aclanthology.org/W02-1027.pdf"
+  ],
+  [
+    "A Bootstrapping Method for Learning Semantic Lexicons using Extraction Pattern Contexts",
+    "https://aclanthology.org/W02-1028/",
+    "https://aclanthology.org/W02-1028.pdf"
+  ],
+  [
+    "Ensemble Methods for Automatic Thesaurus Extraction",
+    "https://aclanthology.org/W02-1029/",
+    "https://aclanthology.org/W02-1029.pdf"
+  ],
+  [
+    "Using the Web to Overcome Data Sparseness",
+    "https://aclanthology.org/W02-1030/",
+    "https://aclanthology.org/W02-1030.pdf"
+  ],
+  [
+    "The SuperARV Language Model: Investigating the Effectiveness of Tightly Integrating Multiple Knowledge Sources",
+    "https://aclanthology.org/W02-1031/",
+    "https://aclanthology.org/W02-1031.pdf"
+  ],
+  [
+    "Exploiting Headword Dependency and Predictive Clustering for Language Modeling",
+    "https://aclanthology.org/W02-1032/",
+    "https://aclanthology.org/W02-1032.pdf"
+  ],
+  [
+    "An Analysis of the AskMSR Question-Answering System",
+    "https://aclanthology.org/W02-1033/",
+    "https://aclanthology.org/W02-1033.pdf"
+  ],
+  [
+    "A Machine-Learning Approach to Introspection in a Question Answering System",
+    "https://aclanthology.org/W02-1034/",
+    "https://aclanthology.org/W02-1034.pdf"
+  ],
+  [
+    "Extracting Clauses for Spoken Language Understanding in Conversational Systems",
+    "https://aclanthology.org/W02-1035/",
+    "https://aclanthology.org/W02-1035.pdf"
+  ],
+  [
+    "Combining Outputs of Multiple Japanese Named Entity Chunkers by Stacking",
+    "https://aclanthology.org/W02-1036/",
+    "https://aclanthology.org/W02-1036.pdf"
+  ],
+  [
+    "Processing Comparable Corpora With Bilingual Suffix Trees",
+    "https://aclanthology.org/W02-1037/",
+    "https://aclanthology.org/W02-1037.pdf"
+  ],
+  [
+    "Bootstrapping Named Entity Recognition for Italian Broadcast News",
+    "https://aclanthology.org/W02-1038/",
+    "https://aclanthology.org/W02-1038.pdf"
+  ],
+  [
+    "Phrasal Cohesion and Statistical Machine Translation",
+    "https://aclanthology.org/W02-1039/",
+    "https://aclanthology.org/W02-1039.pdf"
+  ],
+  [
+    "The Influence of Minimum Edit Distance on Reference Resolution",
+    "https://aclanthology.org/W02-1040/",
+    "https://aclanthology.org/W02-1040.pdf"
+  ],
+  [
+    "Information Extraction from Voicemail Transcripts",
+    "https://aclanthology.org/W02-1041/",
+    "https://aclanthology.org/W02-1041.pdf"
+  ]
+]

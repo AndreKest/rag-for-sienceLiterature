@@ -1,0 +1,402 @@
+[
+  [
+    "Proceedings of the 38th Annual Meeting of the Association for Computational Linguistics",
+    "https://aclanthology.org/P00-1000/",
+    "/P00-1000.bib"
+  ],
+  [
+    "Invited Talk: Processes that Shape Conversation and their Implications for Computational Linguistics",
+    "https://aclanthology.org/P00-1001/",
+    "https://aclanthology.org/P00-1001.pdf"
+  ],
+  [
+    "Invited Talk: Generic NLP Technologies: Language, Knowledge and Information Extraction",
+    "https://aclanthology.org/P00-1002/",
+    "https://aclanthology.org/P00-1002.pdf"
+  ],
+  [
+    "Invited Talk: Spoken Language Technology: Where Do We Go From Here?",
+    "https://aclanthology.org/P00-1003/",
+    "https://aclanthology.org/P00-1003.pdf"
+  ],
+  [
+    "Translation with Cascaded Finite State Transducers",
+    "https://aclanthology.org/P00-1004/",
+    "https://aclanthology.org/P00-1004.pdf"
+  ],
+  [
+    "Phrase-Pattern-based Korean to English Machine Translation using Two Level Translation Pattern Selection",
+    "https://aclanthology.org/P00-1005/",
+    "https://aclanthology.org/P00-1005.pdf"
+  ],
+  [
+    "A Maximum Entropy/Minimum Divergence Translation Model",
+    "https://aclanthology.org/P00-1006/",
+    "https://aclanthology.org/P00-1006.pdf"
+  ],
+  [
+    "Incorporating Compositional Evidence in Memory-Based Partial Parsing",
+    "https://aclanthology.org/P00-1007/",
+    "https://aclanthology.org/P00-1007.pdf"
+  ],
+  [
+    "Tree-gram Parsing: Lexical Dependencies and Structural Relations",
+    "https://aclanthology.org/P00-1008/",
+    "https://aclanthology.org/P00-1008.pdf"
+  ],
+  [
+    "An Improved Parser for Data-Oriented Lexical-Functional Analysis",
+    "https://aclanthology.org/P00-1009/",
+    "https://aclanthology.org/P00-1009.pdf"
+  ],
+  [
+    "Robust Temporal Processing of News",
+    "https://aclanthology.org/P00-1010/",
+    "https://aclanthology.org/P00-1010.pdf"
+  ],
+  [
+    "Tagging Unknown Proper Names Using Decision Trees",
+    "https://aclanthology.org/P00-1011/",
+    "https://aclanthology.org/P00-1011.pdf"
+  ],
+  [
+    "The Order of Prenominal Adjectives in Natural Language Generation",
+    "https://aclanthology.org/P00-1012/",
+    "https://aclanthology.org/P00-1012.pdf"
+  ],
+  [
+    "Spoken Dialogue Management Using Probabilistic Reasoning",
+    "https://aclanthology.org/P00-1013/",
+    "https://aclanthology.org/P00-1013.pdf"
+  ],
+  [
+    "An Unsupervised Approach to Prepositional Phrase Attachment using Contextually Similar Words",
+    "https://aclanthology.org/P00-1014/",
+    "https://aclanthology.org/P00-1014.pdf"
+  ],
+  [
+    "A Unified Statistical Model for the Identification of English BaseNP",
+    "https://aclanthology.org/P00-1015/",
+    "https://aclanthology.org/P00-1015.pdf"
+  ],
+  [
+    "Rule Writing or Annotation: Cost-efficient Resource Usage for Base Noun Phrase Chunking",
+    "https://aclanthology.org/P00-1016/",
+    "https://aclanthology.org/P00-1016.pdf"
+  ],
+  [
+    "Using Existing Systems to Supplement Small Amounts of Annotated Grammatical Relations Training Data",
+    "https://aclanthology.org/P00-1017/",
+    "https://aclanthology.org/P00-1017.pdf"
+  ],
+  [
+    "Distributing Representation for Robust Interpretation of Dialogue Utterances",
+    "https://aclanthology.org/P00-1018/",
+    "https://aclanthology.org/P00-1018.pdf"
+  ],
+  [
+    "Can Nominal Expressions Achieve Multiple Goals?: An Empirical Study",
+    "https://aclanthology.org/P00-1019/",
+    "https://aclanthology.org/P00-1019.pdf"
+  ],
+  [
+    "An Empirical Study of the Influence of Argument Conciseness on Argument Effectiveness",
+    "https://aclanthology.org/P00-1020/",
+    "https://aclanthology.org/P00-1020.pdf"
+  ],
+  [
+    "Multi-Agent Explanation Strategies in Real-Time Domains",
+    "https://aclanthology.org/P00-1021/",
+    "https://aclanthology.org/P00-1021.pdf"
+  ],
+  [
+    "A Computational Approach to Zero-pronouns in Spanish",
+    "https://aclanthology.org/P00-1022/",
+    "https://aclanthology.org/P00-1022.pdf"
+  ],
+  [
+    "Coreference for NLP Applications",
+    "https://aclanthology.org/P00-1023/",
+    "https://aclanthology.org/P00-1023.pdf"
+  ],
+  [
+    "Learning Attribute Selections for Non-Pronominal Expressions",
+    "https://aclanthology.org/P00-1024/",
+    "https://aclanthology.org/P00-1024.pdf"
+  ],
+  [
+    "Finite-State Non-Concatenative Morphotactics",
+    "https://aclanthology.org/P00-1025/",
+    "https://aclanthology.org/P00-1025.pdf"
+  ],
+  [
+    "A Morphologically Sensitive Clustering Algorithm for Identifying Arabic Roots",
+    "https://aclanthology.org/P00-1026/",
+    "https://aclanthology.org/P00-1026.pdf"
+  ],
+  [
+    "Minimally Supervised Morphological Analysis by Multimodal Alignment",
+    "https://aclanthology.org/P00-1027/",
+    "https://aclanthology.org/P00-1027.pdf"
+  ],
+  [
+    "A Constraint-based Approach to English Prosodic Constituents",
+    "https://aclanthology.org/P00-1028/",
+    "https://aclanthology.org/P00-1028.pdf"
+  ],
+  [
+    "Inducing Probabilistic Syllable Classes Using Multivariate Clustering",
+    "https://aclanthology.org/P00-1029/",
+    "https://aclanthology.org/P00-1029.pdf"
+  ],
+  [
+    "Modeling Local Context for Pitch Accent Prediction",
+    "https://aclanthology.org/P00-1030/",
+    "https://aclanthology.org/P00-1030.pdf"
+  ],
+  [
+    "A New Statistical Approach To Chinese Pinyin Input",
+    "https://aclanthology.org/P00-1031/",
+    "https://aclanthology.org/P00-1031.pdf"
+  ],
+  [
+    "Automatic Detecting/Correcting Errors in Chinese Text by an Approximate Word-Matching Algorithm",
+    "https://aclanthology.org/P00-1032/",
+    "https://aclanthology.org/P00-1032.pdf"
+  ],
+  [
+    "Dependency-based Syntactic Analysis of Chinese and Annotation of Parsed Corpus",
+    "https://aclanthology.org/P00-1033/",
+    "https://aclanthology.org/P00-1033.pdf"
+  ],
+  [
+    "Part-of-Speech Tagging Based on Hidden Markov Model Assuming Joint Independence",
+    "https://aclanthology.org/P00-1034/",
+    "https://aclanthology.org/P00-1034.pdf"
+  ],
+  [
+    "Language Independent, Minimally Supervised Induction of Lexical Probabilities",
+    "https://aclanthology.org/P00-1035/",
+    "https://aclanthology.org/P00-1035.pdf"
+  ],
+  [
+    "Independence and Commitment: Assumptions for Rapid Training and Execution of Rule-based POS Taggers",
+    "https://aclanthology.org/P00-1036/",
+    "https://aclanthology.org/P00-1036.pdf"
+  ],
+  [
+    "An Improved Error Model for Noisy Channel Spelling Correction",
+    "https://aclanthology.org/P00-1037/",
+    "https://aclanthology.org/P00-1037.pdf"
+  ],
+  [
+    "Query-Relevant Summarization using FAQs",
+    "https://aclanthology.org/P00-1038/",
+    "https://aclanthology.org/P00-1038.pdf"
+  ],
+  [
+    "An Algorithm for One-page Summarization of a Long Text Based on Thematic Hierarchy Detection",
+    "https://aclanthology.org/P00-1039/",
+    "https://aclanthology.org/P00-1039.pdf"
+  ],
+  [
+    "Summarizing Multilingual Spoken Negotiation Dialogues",
+    "https://aclanthology.org/P00-1040/",
+    "https://aclanthology.org/P00-1040.pdf"
+  ],
+  [
+    "Headline Generation Based on Statistical Translation",
+    "https://aclanthology.org/P00-1041/",
+    "https://aclanthology.org/P00-1041.pdf"
+  ],
+  [
+    "Named Entity Extraction Based on A Maximum Entropy Model and Transformation Rules",
+    "https://aclanthology.org/P00-1042/",
+    "https://aclanthology.org/P00-1042.pdf"
+  ],
+  [
+    "Extracting Causal Knowledge from a Medical Database Using Graphical Patterns",
+    "https://aclanthology.org/P00-1043/",
+    "https://aclanthology.org/P00-1043.pdf"
+  ],
+  [
+    "Difficulty Indices for the Named Entity Task in Japanese",
+    "https://aclanthology.org/P00-1044/",
+    "https://aclanthology.org/P00-1044.pdf"
+  ],
+  [
+    "Memory-Efficient and Thread-Safe Quasi-Destructive Graph Unification",
+    "https://aclanthology.org/P00-1045/",
+    "https://aclanthology.org/P00-1045.pdf"
+  ],
+  [
+    "Processing Optimality-theoretic Syntax by Interleaved Chart Parsing and Generation",
+    "https://aclanthology.org/P00-1046/",
+    "https://aclanthology.org/P00-1046.pdf"
+  ],
+  [
+    "A Polynomial-Time Fragment of Dominance Constraints",
+    "https://aclanthology.org/P00-1047/",
+    "https://aclanthology.org/P00-1047.pdf"
+  ],
+  [
+    "Hidden Markov Model-Based Korean Part-of-Speech Tagging Considering High Agglutinativity, Word-Spacing, and Lexical Correlativity",
+    "https://aclanthology.org/P00-1048/",
+    "https://aclanthology.org/P00-1048.pdf"
+  ],
+  [
+    "Synchronous Morphological Analysis of Grapheme and Phoneme for Japanese OCR",
+    "https://aclanthology.org/P00-1049/",
+    "https://aclanthology.org/P00-1049.pdf"
+  ],
+  [
+    "Chinese-Korean Word Alignment Based on Linguistic Comparison",
+    "https://aclanthology.org/P00-1050/",
+    "https://aclanthology.org/P00-1050.pdf"
+  ],
+  [
+    "Specifying the Parameters of Centering Theory: a Corpus-Based Evaluation using Text from Application-Oriented Domains",
+    "https://aclanthology.org/P00-1051/",
+    "https://aclanthology.org/P00-1051.pdf"
+  ],
+  [
+    "The Role of Centering Theory’s Rough-Shift in the Teaching and Evaluation of Writing Skills",
+    "https://aclanthology.org/P00-1052/",
+    "https://aclanthology.org/P00-1052.pdf"
+  ],
+  [
+    "A Hierarchical Account of Referential Accessibility",
+    "https://aclanthology.org/P00-1053/",
+    "https://aclanthology.org/P00-1053.pdf"
+  ],
+  [
+    "Lexical Transfer Using a Vector-Space Model",
+    "https://aclanthology.org/P00-1054/",
+    "https://aclanthology.org/P00-1054.pdf"
+  ],
+  [
+    "Using Confidence Bands for Parallel Texts Alignment",
+    "https://aclanthology.org/P00-1055/",
+    "https://aclanthology.org/P00-1055.pdf"
+  ],
+  [
+    "Improved Statistical Alignment Models",
+    "https://aclanthology.org/P00-1056/",
+    "https://aclanthology.org/P00-1056.pdf"
+  ],
+  [
+    "Multi-Component TAG and Notions of Formal Power",
+    "https://aclanthology.org/P00-1057/",
+    "https://aclanthology.org/P00-1057.pdf"
+  ],
+  [
+    "Statistical Parsing with an Automatically-Extracted Tree Adjoining Grammar",
+    "https://aclanthology.org/P00-1058/",
+    "https://aclanthology.org/P00-1058.pdf"
+  ],
+  [
+    "Corpus-Based Lexical Choice in Natural Language Generation",
+    "https://aclanthology.org/P00-1059/",
+    "https://aclanthology.org/P00-1059.pdf"
+  ],
+  [
+    "An Information-Theory-Based Feature Type Analysis for the Modeling of Statistical Parsing",
+    "https://aclanthology.org/P00-1060/",
+    "https://aclanthology.org/P00-1060.pdf"
+  ],
+  [
+    "Lexicalized Stochastic Modeling of Constraint-Based Grammars using Log-Linear Measures and EM Training",
+    "https://aclanthology.org/P00-1061/",
+    "https://aclanthology.org/P00-1061.pdf"
+  ],
+  [
+    "Utilizing the World Wide Web as an Encyclopedia: Extracting Term Descriptions from Semi-Structured Texts",
+    "https://aclanthology.org/P00-1062/",
+    "https://aclanthology.org/P00-1062.pdf"
+  ],
+  [
+    "Term Recognition Using Technical Dictionary Hierarchy",
+    "https://aclanthology.org/P00-1063/",
+    "https://aclanthology.org/P00-1063.pdf"
+  ],
+  [
+    "Mapping WordNets Using Structural Information",
+    "https://aclanthology.org/P00-1064/",
+    "https://aclanthology.org/P00-1064.pdf"
+  ],
+  [
+    "Automatic Labeling of Semantic Roles",
+    "https://aclanthology.org/P00-1065/",
+    "https://aclanthology.org/P00-1065.pdf"
+  ],
+  [
+    "Feature Logic for Dotted Types: A Formalism for Complex Word Meanings",
+    "https://aclanthology.org/P00-1066/",
+    "https://aclanthology.org/P00-1066.pdf"
+  ],
+  [
+    "PENS: A Machine-aided English Writing System for Chinese Users",
+    "https://aclanthology.org/P00-1067/",
+    "https://aclanthology.org/P00-1067.pdf"
+  ],
+  [
+    "Diagnostic Processing of Japanese for Computer-Assisted Second Language Learning",
+    "https://aclanthology.org/P00-1068/",
+    "https://aclanthology.org/P00-1068.pdf"
+  ],
+  [
+    "Word Sense Disambiguation by Learning from Unlabeled Data",
+    "https://aclanthology.org/P00-1069/",
+    "https://aclanthology.org/P00-1069.pdf"
+  ],
+  [
+    "Importance of Pronominal Anaphora Resolution in Question Answering Systems",
+    "https://aclanthology.org/P00-1070/",
+    "https://aclanthology.org/P00-1070.pdf"
+  ],
+  [
+    "The Structure and Performance of an Open-Domain Question Answering System",
+    "https://aclanthology.org/P00-1071/",
+    "https://aclanthology.org/P00-1071.pdf"
+  ],
+  [
+    "Dimension-Reduced Estimation of Word Co-occurrence Probability",
+    "https://aclanthology.org/P00-1072/",
+    "https://aclanthology.org/P00-1072.pdf"
+  ],
+  [
+    "Distribution-Based Pruning of Backoff Language Models",
+    "https://aclanthology.org/P00-1073/",
+    "https://aclanthology.org/P00-1073.pdf"
+  ],
+  [
+    "Panel: Computational Linguistics Research on Philippine Languages",
+    "https://aclanthology.org/P00-1074/",
+    "https://aclanthology.org/P00-1074.pdf"
+  ],
+  [
+    "Panel: Development of Computational Linguistics Research: A Challenge for Indonesia",
+    "https://aclanthology.org/P00-1075/",
+    "https://aclanthology.org/P00-1075.pdf"
+  ],
+  [
+    "Panel: Good Spelling of Vietnamese Texts, One Aspect of Computational Linguistics in Vietnam",
+    "https://aclanthology.org/P00-1076/",
+    "https://aclanthology.org/P00-1076.pdf"
+  ],
+  [
+    "Panel: Computational Linguistics in India: An Overview",
+    "https://aclanthology.org/P00-1077/",
+    "https://aclanthology.org/P00-1077.pdf"
+  ],
+  [
+    "Panel: The State of the Art in Thai Language Processing",
+    "https://aclanthology.org/P00-1078/",
+    "https://aclanthology.org/P00-1078.pdf"
+  ],
+  [
+    "Panel: Computational Linguistics in Malaysia",
+    "https://aclanthology.org/P00-1079/",
+    "https://aclanthology.org/P00-1079.pdf"
+  ]
+]

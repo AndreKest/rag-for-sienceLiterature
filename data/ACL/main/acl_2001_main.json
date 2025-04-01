@@ -1,0 +1,357 @@
+[
+  [
+    "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+    "https://aclanthology.org/P01-1000/",
+    "/P01-1000.bib"
+  ],
+  [
+    "Invited Talk: Interpreting the Human Genome Sequence, Using Stochastic Grammars",
+    "https://aclanthology.org/P01-1001/",
+    "https://aclanthology.org/P01-1001.pdf"
+  ],
+  [
+    "Invited Talk: Processing Broadcast Audio for Information Access",
+    "https://aclanthology.org/P01-1002/",
+    "https://aclanthology.org/P01-1002.pdf"
+  ],
+  [
+    "Improvement of a Whole Sentence Maximum Entropy Language Model Using Grammatical Features",
+    "https://aclanthology.org/P01-1003/",
+    "https://aclanthology.org/P01-1003.pdf"
+  ],
+  [
+    "Low-cost, High-performance Translation Retrieval: Dumber is Better",
+    "https://aclanthology.org/P01-1004/",
+    "https://aclanthology.org/P01-1004.pdf"
+  ],
+  [
+    "Scaling to Very Very Large Corpora for Natural Language Disambiguation",
+    "https://aclanthology.org/P01-1005/",
+    "https://aclanthology.org/P01-1005.pdf"
+  ],
+  [
+    "Evaluation Tool for Rule-based Anaphora Resolution Methods",
+    "https://aclanthology.org/P01-1006/",
+    "https://aclanthology.org/P01-1006.pdf"
+  ],
+  [
+    "Guided Parsing of Range Concatenation Languages",
+    "https://aclanthology.org/P01-1007/",
+    "https://aclanthology.org/P01-1007.pdf"
+  ],
+  [
+    "Extracting Paraphrases from a Parallel Corpus",
+    "https://aclanthology.org/P01-1008/",
+    "https://aclanthology.org/P01-1008.pdf"
+  ],
+  [
+    "Alternative Phrases and Natural Language Information Retrieval",
+    "https://aclanthology.org/P01-1009/",
+    "https://aclanthology.org/P01-1009.pdf"
+  ],
+  [
+    "What is the Minimal Set of Fragments that Achieves Maximal Parse Accuracy?",
+    "https://aclanthology.org/P01-1010/",
+    "https://aclanthology.org/P01-1010.pdf"
+  ],
+  [
+    "Underspecified Beta Reduction",
+    "https://aclanthology.org/P01-1011/",
+    "https://aclanthology.org/P01-1011.pdf"
+  ],
+  [
+    "Detecting Problematic Turns in Human-Machine Interactions: Rule-induction Versus Memory-based Learning Approaches",
+    "https://aclanthology.org/P01-1012/",
+    "https://aclanthology.org/P01-1012.pdf"
+  ],
+  [
+    "Chinese Text Segmentation With MBDP-1: Making the Most of Training Corpora",
+    "https://aclanthology.org/P01-1013/",
+    "https://aclanthology.org/P01-1013.pdf"
+  ],
+  [
+    "Towards Automatic Classification of Discourse Elements in Essays",
+    "https://aclanthology.org/P01-1014/",
+    "https://aclanthology.org/P01-1014.pdf"
+  ],
+  [
+    "From RAGS to RICHES: Exploiting the Potential of a Flexible Generation Architecture",
+    "https://aclanthology.org/P01-1015/",
+    "https://aclanthology.org/P01-1015.pdf"
+  ],
+  [
+    "Non-Verbal Cues for Discourse Structure",
+    "https://aclanthology.org/P01-1016/",
+    "https://aclanthology.org/P01-1016.pdf"
+  ],
+  [
+    "Immediate-Head Parsing for Language Models",
+    "https://aclanthology.org/P01-1017/",
+    "https://aclanthology.org/P01-1017.pdf"
+  ],
+  [
+    "Constraints on Strong Generative Power",
+    "https://aclanthology.org/P01-1018/",
+    "https://aclanthology.org/P01-1018.pdf"
+  ],
+  [
+    "An Algebra for Semantic Construction in Constraint-based Grammars",
+    "https://aclanthology.org/P01-1019/",
+    "https://aclanthology.org/P01-1019.pdf"
+  ],
+  [
+    "A Machine Learning Approach to the Automatic Evaluation of Machine Translation",
+    "https://aclanthology.org/P01-1020/",
+    "https://aclanthology.org/P01-1020.pdf"
+  ],
+  [
+    "Grammars for Local and Long Dependencies",
+    "https://aclanthology.org/P01-1021/",
+    "https://aclanthology.org/P01-1021.pdf"
+  ],
+  [
+    "Practical Issues in Compiling Typed Unification Grammars for Speech Recognition",
+    "https://aclanthology.org/P01-1022/",
+    "https://aclanthology.org/P01-1022.pdf"
+  ],
+  [
+    "Empirically Estimating Order Constraints for Content Planning in Generation",
+    "https://aclanthology.org/P01-1023/",
+    "https://aclanthology.org/P01-1023.pdf"
+  ],
+  [
+    "Topological Dependency Trees: A Constraint-Based Account of Linear Precedence",
+    "https://aclanthology.org/P01-1024/",
+    "https://aclanthology.org/P01-1024.pdf"
+  ],
+  [
+    "Methods for the Qualitative Evaluation of Lexical Association Measures",
+    "https://aclanthology.org/P01-1025/",
+    "https://aclanthology.org/P01-1025.pdf"
+  ],
+  [
+    "Organizing Encyclopedic Knowledge based on the Web and its Application to Question Answering",
+    "https://aclanthology.org/P01-1026/",
+    "https://aclanthology.org/P01-1026.pdf"
+  ],
+  [
+    "Refined Lexicon Models for Statistical Machine Translation using a Maximum Entropy Approach",
+    "https://aclanthology.org/P01-1027/",
+    "https://aclanthology.org/P01-1027.pdf"
+  ],
+  [
+    "Generating with a Grammar Based on Tree Descriptions: a Constraint-Based Approach",
+    "https://aclanthology.org/P01-1028/",
+    "https://aclanthology.org/P01-1028.pdf"
+  ],
+  [
+    "Word Order in German: A Formal Dependency Grammar Using a Topological Hierarchy",
+    "https://aclanthology.org/P01-1029/",
+    "https://aclanthology.org/P01-1029.pdf"
+  ],
+  [
+    "Fast Decoding and Optimal Decoding for Machine Translation",
+    "https://aclanthology.org/P01-1030/",
+    "https://aclanthology.org/P01-1030.pdf"
+  ],
+  [
+    "Resolving Ellipsis in Clarification",
+    "https://aclanthology.org/P01-1031/",
+    "https://aclanthology.org/P01-1031.pdf"
+  ],
+  [
+    "Mapping Lexical Entries in a Verbs Database to WordNet Senses",
+    "https://aclanthology.org/P01-1032/",
+    "https://aclanthology.org/P01-1032.pdf"
+  ],
+  [
+    "Towards Abstract Categorial Grammars",
+    "https://aclanthology.org/P01-1033/",
+    "https://aclanthology.org/P01-1033.pdf"
+  ],
+  [
+    "XML-Based Data Preparation for Robust Deep Parsing",
+    "https://aclanthology.org/P01-1034/",
+    "https://aclanthology.org/P01-1034.pdf"
+  ],
+  [
+    "Serial Combination of Rules and Statistics: A Case Study in Czech Tagging",
+    "https://aclanthology.org/P01-1035/",
+    "https://aclanthology.org/P01-1035.pdf"
+  ],
+  [
+    "Topic-focus and Salience",
+    "https://aclanthology.org/P01-1036/",
+    "https://aclanthology.org/P01-1036.pdf"
+  ],
+  [
+    "The Role of Lexico-Semantic Feedback in Open-Domain Textual Question-Answering",
+    "https://aclanthology.org/P01-1037/",
+    "https://aclanthology.org/P01-1037.pdf"
+  ],
+  [
+    "Generation of VP Ellipsis: A Corpus-Based Approach",
+    "https://aclanthology.org/P01-1038/",
+    "https://aclanthology.org/P01-1038.pdf"
+  ],
+  [
+    "Information Extraction from Voicemail",
+    "https://aclanthology.org/P01-1039/",
+    "https://aclanthology.org/P01-1039.pdf"
+  ],
+  [
+    "A Common Framework for Syntactic Annotation",
+    "https://aclanthology.org/P01-1040/",
+    "https://aclanthology.org/P01-1040.pdf"
+  ],
+  [
+    "Japanese Named Entity Recognition based on a Simple Rule Generator and Decision Tree Learning",
+    "https://aclanthology.org/P01-1041/",
+    "https://aclanthology.org/P01-1041.pdf"
+  ],
+  [
+    "Joint and Conditional Estimation of Tagging and Parsing Models",
+    "https://aclanthology.org/P01-1042/",
+    "https://aclanthology.org/P01-1042.pdf"
+  ],
+  [
+    "A Language Independent Shallow-Parser Compiler",
+    "https://aclanthology.org/P01-1043/",
+    "https://aclanthology.org/P01-1043.pdf"
+  ],
+  [
+    "Parsing with Treebank Grammars: Empirical Bounds, Theoretical Models, and the Structure of the Penn Treebank",
+    "https://aclanthology.org/P01-1044/",
+    "https://aclanthology.org/P01-1044.pdf"
+  ],
+  [
+    "From Chunks to Function-Argument Structure: A Similarity-Based Approach",
+    "https://aclanthology.org/P01-1045/",
+    "https://aclanthology.org/P01-1045.pdf"
+  ],
+  [
+    "Evaluating Smoothing Algorithms against Plausibility Judgements",
+    "https://aclanthology.org/P01-1046/",
+    "https://aclanthology.org/P01-1046.pdf"
+  ],
+  [
+    "Extending Lambek Grammars: a Logical Account of Minimalist Grammars",
+    "https://aclanthology.org/P01-1047/",
+    "https://aclanthology.org/P01-1047.pdf"
+  ],
+  [
+    "Predicting User Reactions to System Error",
+    "https://aclanthology.org/P01-1048/",
+    "https://aclanthology.org/P01-1048.pdf"
+  ],
+  [
+    "Building Semantic Perceptron Net for Topic Spotting",
+    "https://aclanthology.org/P01-1049/",
+    "https://aclanthology.org/P01-1049.pdf"
+  ],
+  [
+    "Towards a Unified Approach to Memory- and Statistical-Based Machine Translation",
+    "https://aclanthology.org/P01-1050/",
+    "https://aclanthology.org/P01-1050.pdf"
+  ],
+  [
+    "Error Profiling: Toward a Model of English Acquisition for Deaf Learners",
+    "https://aclanthology.org/P01-1051/",
+    "https://aclanthology.org/P01-1051.pdf"
+  ],
+  [
+    "Logic Form Transformation of WordNet and its Applicability to Question Answering",
+    "https://aclanthology.org/P01-1052/",
+    "https://aclanthology.org/P01-1052.pdf"
+  ],
+  [
+    "Automatic Detection of Syllable Boundaries Combining the Advantages of Treebank and Bracketed Corpora Training",
+    "https://aclanthology.org/P01-1053/",
+    "https://aclanthology.org/P01-1053.pdf"
+  ],
+  [
+    "Tractability and Structural Closures in Attribute Logic Type Signatures",
+    "https://aclanthology.org/P01-1054/",
+    "https://aclanthology.org/P01-1054.pdf"
+  ],
+  [
+    "Using Machine Learning to Maintain Rule-based Named-Entity Recognition and Classification Systems",
+    "https://aclanthology.org/P01-1055/",
+    "https://aclanthology.org/P01-1055.pdf"
+  ],
+  [
+    "Evaluating a Trainable Sentence Planner for a Spoken Dialogue System",
+    "https://aclanthology.org/P01-1056/",
+    "https://aclanthology.org/P01-1056.pdf"
+  ],
+  [
+    "Using a Randomised Controlled Clinical Trial to Evaluate an NLG System",
+    "https://aclanthology.org/P01-1057/",
+    "https://aclanthology.org/P01-1057.pdf"
+  ],
+  [
+    "Evaluating CETEMPúblico, a Free Resource for Portuguese",
+    "https://aclanthology.org/P01-1058/",
+    "https://aclanthology.org/P01-1058.pdf"
+  ],
+  [
+    "Producing Biographical Summaries: Combining Linguistic Knowledge with Corpus Statistics",
+    "https://aclanthology.org/P01-1059/",
+    "https://aclanthology.org/P01-1059.pdf"
+  ],
+  [
+    "Parse Forest Computation of Expected Governors",
+    "https://aclanthology.org/P01-1060/",
+    "https://aclanthology.org/P01-1060.pdf"
+  ],
+  [
+    "Computational Properties of Environment-based Disambiguation",
+    "https://aclanthology.org/P01-1061/",
+    "https://aclanthology.org/P01-1061.pdf"
+  ],
+  [
+    "Incremental Construction of Compact Acyclic NFAs",
+    "https://aclanthology.org/P01-1062/",
+    "https://aclanthology.org/P01-1062.pdf"
+  ],
+  [
+    "A Bayesian Model For Morpheme and Paradigm Identification",
+    "https://aclanthology.org/P01-1063/",
+    "https://aclanthology.org/P01-1063.pdf"
+  ],
+  [
+    "A Statistical Model for Domain-Independent Text Segmentation",
+    "https://aclanthology.org/P01-1064/",
+    "https://aclanthology.org/P01-1064.pdf"
+  ],
+  [
+    "A Generic Approach to Parallel Chart Parsing with an Application to LinGO",
+    "https://aclanthology.org/P01-1065/",
+    "https://aclanthology.org/P01-1065.pdf"
+  ],
+  [
+    "Quantitative and Qualitative Evaluation of Darpa Communicator Spoken Dialogue Systems",
+    "https://aclanthology.org/P01-1066/",
+    "https://aclanthology.org/P01-1066.pdf"
+  ],
+  [
+    "A Syntax-based Statistical Translation Model",
+    "https://aclanthology.org/P01-1067/",
+    "https://aclanthology.org/P01-1067.pdf"
+  ],
+  [
+    "Multi-Class Composite N-gram Language Model for Spoken Language Processing Using Multiple Word Clusters",
+    "https://aclanthology.org/P01-1068/",
+    "https://aclanthology.org/P01-1068.pdf"
+  ],
+  [
+    "Text Chunking using Regularized Winnow",
+    "https://aclanthology.org/P01-1069/",
+    "https://aclanthology.org/P01-1069.pdf"
+  ],
+  [
+    "Using Machine Learning Techniques to Interpret WH-questions",
+    "https://aclanthology.org/P01-1070/",
+    "https://aclanthology.org/P01-1070.pdf"
+  ]
+]
