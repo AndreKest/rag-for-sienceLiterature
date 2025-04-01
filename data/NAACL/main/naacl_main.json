@@ -48,5 +48,40 @@
         "page_url" : "https://aclanthology.org/events/naacl-2010/",
         "conf_name" : "./data/NAACL/main/naacl_2010_main",
         "conf_id_list" : ["n10-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/naacl-2009/",
+        "conf_name" : "./data/NAACL/main/naacl_2009_main",
+        "conf_id_list" : ["n09-1", "n09-2"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/naacl-2007/",
+        "conf_name" : "./data/NAACL/main/naacl_2007_main",
+        "conf_id_list" : ["n07-1", "n07-2"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/naacl-2006/",
+        "conf_name" : "./data/NAACL/main/naacl_2006_main",
+        "conf_id_list" : ["n06-1", "n06-2"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/naacl-2004/",
+        "conf_name" : "./data/NAACL/main/naacl_2004_main",
+        "conf_id_list" : ["n04-1", "n04-4"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/naacl-2003/",
+        "conf_name" : "./data/NAACL/main/naacl_2003_main",
+        "conf_id_list" : ["n03-1", "n03-2"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/naacl-2001/",
+        "conf_name" : "./data/NAACL/main/naacl_2001_main",
+        "conf_id_list" : ["n01-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/naacl-2000/",
+        "conf_name" : "./data/NAACL/main/naacl_2000_main",
+        "conf_id_list" : ["a00-1", "a00-2"]
     }
 ]

@@ -28,5 +28,20 @@
         "page_url" : "https://aclanthology.org/events/eacl-2012/",
         "conf_name" : "./data/EACL/main/eacl_2012_main",
         "conf_id_list" : ["e12-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/eacl-2009/",
+        "conf_name" : "./data/EACL/main/eacl_2009_main",
+        "conf_id_list" : ["e09-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/eacl-2006/",
+        "conf_name" : "./data/EACL/main/eacl_2006_main",
+        "conf_id_list" : ["e06-1"]
+    },
+    {
+        "page_url" : "https://aclanthology.org/events/eacl-2003/",
+        "conf_name" : "./data/EACL/main/eacl_2003_main",
+        "conf_id_list" : ["e03-1"]
     }
 ]
